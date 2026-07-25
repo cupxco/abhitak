@@ -2,6 +2,24 @@
     "hi": {
         "general": [
             {
+                "title": "डूब रहे गांव, बह रहे घर: असम और गुजरात में बाढ़ से हाहाकार, जिंदगी बचाने उतरी सेना",
+                "desc": "असम और गुजरात में बाढ़ से हाहाकार मचा हुआ है। असम में लगातार बारिश के कारण कई नदियों का जलस्तर बढ़ता जा रहा है। इस आपदा में अब तक 47 लोगों की मौत हो चुकी है और 40 लोग लापता बताए जा रहे हैं।",
+                "image": "https://www.jagranimages.com/images/2026/07/25/article/image/jagran-897-1784926810141_m.webp",
+                "url": "https://www.jagran.com/news/national-due-to-continuous-rainfall-amidst-the-assam-floods-the-water-levels-of-several-rivers-are-rising-40318192.html",
+                "source": "Jagran",
+                "date": "2026-07-24T21:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "झंडू कुमार ने कॉमनवेल्थ गेम्स में भारत को दिलाया पहला मेडल, जीता ब्रॉन्ज",
+                "desc": "बिहार के झंडू कुमार ने पुरुषों की हैवीवेट पैरा पावरलिफ्टिंग में ब्रॉन्ज मेडल जीतकर कॉमनवेल्थ गेम्स 2026 में भारत का पहला मेडल हासिल किया.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a63d3c25ec35-commonwealth-games-2026-jhandu-kumar-240604792-16x9.jpg",
+                "url": "https://www.aajtak.in/sports/news/story/commonwealth-games-2026-jhandu-kumar-bronze-india-para-powerlifting-ntc-amkr-dskc-2608600-2026-07-25",
+                "source": "AajTak",
+                "date": "2026-07-24T20:57:31Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "दिल्ली में आज 18 मेट्रो स्टेशन बंद, DMRC ने दी जानकारी, राजीव चौक पर इंटरचेंज की सुविधा",
                 "desc": "दिल्ली मेट्रो रेल कॉरपोरेशन (DMRC) ने जानकारी दी है कि शनिवार को 18 मेट्रो स्टेशन बंद रहेंगे. ये स्टेशन सुबह 7:30 बजे से अगले आदेश तक बंद रहेंगे. इससे पहले शुक्रवार को भी DMRC ने कई मेट्रो स्टेशनों के बंद रहने की जानकारी दी थी.",
                 "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a63c72f8ec4d-20260725-241225898-16x9.jpg",
@@ -521,24 +539,6 @@
                 "url": "https://navbharattimes.indiatimes.com/india/india-invites-bangladesh-pm-tarique-rahman-to-brics-summit-former-pm-sheikh-hasina/articleshow/132597454.cms",
                 "source": "Navbharat Times",
                 "date": "2026-07-24T06:05:13Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "वैभव सूर्यवंशी ने अपने खास सेलिब्रेशन स्टाइल के पीछे का खोला राज, कहा - मैं किसी भी चीज को हल्के में नहीं ले रहा",
-                "desc": "वैभव सूर्यवंशी ने जिम्बाब्वे के खिलाफ पहले टी20 मैच में अपने बल्ले का कमाल दिखाते हुए धुआंधार अंदाज में 50 रनों की पारी खेलने के बाद खास स्टाइल में उसे सेलिब्रेट किया था, जिसके पीछे के कारण का खुलासा अब उन्होंने कर दिया है।",
-                "image": "https://resize.indiatv.in/resize/newbucket/1200_-/2026/07/vaibhav-sooryavanshi-41-1784871206.jpg",
-                "url": "https://www.indiatv.in/sports/cricket/vaibhav-sooryavanshi-reveals-the-secret-behind-his-special-celebration-says-i-am-not-taking-anything-lightly-2026-07-24-1233118",
-                "source": "India TV Hindi",
-                "date": "2026-07-24T05:59:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "NEET UG पेपर लीक पर सुप्रीम कोर्ट सख्त, कहा- 'हमें गलतियों का सिलसिला खत्म करना होगा'",
-                "desc": "NEET पेपर लीक से जुड़ी याचिकाओं पर आज सुप्रीम कोर्ट में सुनवाई हुई है। इन याचिकाओं में नेशनल टेस्टिंग एजेंसी पर सवाल उठाए गए हैं। सुनवाई के दौरान सुप्रीम कोर्ट ने कहा कि हमें गलतियों का सिलसिला खत्म करना होगा।",
-                "image": "https://resize.indiatv.in/resize/newbucket/1200_-/2026/07/supreme-court-neet-paper-leak-1784872024.jpg",
-                "url": "https://www.indiatv.in/india/national/neet-paper-leak-hearing-in-supreme-court-on-petitions-demanding-replace-nta-establish-new-and-more-secure-system-2026-07-24-1233117",
-                "source": "India TV Hindi",
-                "date": "2026-07-24T05:55:03Z",
                 "priority": "STANDARD"
             }
         ],
@@ -1628,6 +1628,15 @@
         ],
         "sports": [
             {
+                "title": "झंडू कुमार ने कॉमनवेल्थ गेम्स में भारत को दिलाया पहला मेडल, जीता ब्रॉन्ज",
+                "desc": "बिहार के झंडू कुमार ने पुरुषों की हैवीवेट पैरा पावरलिफ्टिंग में ब्रॉन्ज मेडल जीतकर कॉमनवेल्थ गेम्स 2026 में भारत का पहला मेडल हासिल किया.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a63d3c25ec35-commonwealth-games-2026-jhandu-kumar-240604792-16x9.jpg",
+                "url": "https://www.aajtak.in/sports/news/story/commonwealth-games-2026-jhandu-kumar-bronze-india-para-powerlifting-ntc-amkr-dskc-2608600-2026-07-25",
+                "source": "AajTak",
+                "date": "2026-07-24T20:57:31Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "भारतीय टीम ने हाई-वोल्टेज मुकाबले में पाकिस्तान को 7-3 से चटाई धूल, लगातार छठा मुकाबला जीता",
                 "desc": "FIH यूथ हॉकी5s एशियन चैंपियनशिप 2026 में भारतीय पुरुष टीम ने पहले ओमान को 10-1 से हराकर टूर्नामेंट में लगातार पांचवीं जीत दर्ज की। इसके बाद चिर प्रतिद्वंद्वी पाकिस्तान को भी 7-3 से मात देकर अपना अजेय अभियान बरकरार रखा।",
                 "image": "https://resize.indiatv.in/resize/newbucket/1200_-/2026/07/ind-vs-pak-2-1784916806.jpg",
@@ -2157,20 +2166,101 @@
                 "source": "Jagran",
                 "date": "2026-07-23T16:01:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "IND vs ZIM: वैभव सूर्यवंशी ने बनाया वर्ल्ड रिकॉर्ड, जो कोई नहीं कर सका किया वो करिश्मा, सचिन को पछाड़ा",
-                "desc": "हरारे के मैदान पर वैभव सूर्यवंशी का बल्ला एक बार फिर हल्ला बोला है. इससे पहले वैभव ने इसी साल अंडर 19 वर्ल्ड कप के सेमीफाइनल में अफगानिस्तान के खिलाफ 68 रन और फाइनल में इंग्लैंड के खिलाफ 80 गेंदों में 175 रनों की यादगार पारी खेली थी. अब उन्होंने अपनी पारी से सचिन तेंदुलकर का रिकॉर्ड तोड़ दिया है.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a6233fb4848f-vaibhav-sooryavanshi-233205836-16x9.png",
-                "url": "https://www.aajtak.in/sports/cricket/story/ind-vs-zim-vaibhav-sooryavanshi-becomes-youngest-batter-to-score-fifty-in-international-cricket-aksp-dskc-2607934-2026-07-23",
-                "source": "Aaj Tak News",
-                "date": "2026-07-23T15:38:36Z",
-                "priority": "STANDARD"
             }
         ]
     },
     "en": {
         "general": [
+            {
+                "title": "Trump administration concedes that it canceled research grants in blue states",
+                "desc": "The Trump administration admitted that it terminated nearly 300 federal research grants “solely because” the projects were connected to states that voted against Trump in 2024",
+                "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-07/260724-dept-of-energy-washington-ww-1305-2ac1d2.jpg",
+                "url": "https://www.nbcnews.com/politics/trump-administration/trump-administration-concedes-canceled-research-grants-blue-states-rcna589129",
+                "source": "NBC News",
+                "date": "2026-07-24T22:12:40Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Attorney says officer who shot Corey Ruiz should be charged",
+                "desc": "An attorney for the family of a man who was shot and killed by Madison police says Corey Ruiz’s death was unjustified, and the officer should be criminally charged.",
+                "image": "https://dims.apnews.com/dims4/default/9f6ba48/2147483647/strip/true/crop/4032x2687+0+169/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc6%2Faa%2F5c770c9942ce845a46e7d4c6d509%2Ff22c4794497741708d023152f9f4e538",
+                "url": "https://apnews.com/article/corey-ruiz-death-madison-wisconsin-police-7ea2c187227243cb1c7988514d1091ac",
+                "source": "AP News",
+                "date": "2026-07-24T22:08:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump says Saudi Arabia must join Abraham Accords for nuclear deal",
+                "desc": "Donald Trump says Saudi Arabia must join the Abraham Accords before moving forward with a civilian nuclear energy deal, adding there will be no enrichment.",
+                "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/trump-nuclear-announcement-oval-office.jpg",
+                "url": "https://www.foxnews.com/politics/trump-says-saudi-nuclear-agreement-wont-move-forward-without-abraham-accords-they-have-to-be-member",
+                "source": "Fox News",
+                "date": "2026-07-24T22:00:58Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Wisconsin officials open investigation into police killing of Corey Ruiz",
+                "desc": "Corey Ruiz, 38, was shot and killed on Wednesday in an altercation with four officers. Police say he resisted arrest and pulled a knife during the incident.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/5456/live/25d5de20-8781-11f1-b8ee-9b3c26ad07bb.jpg",
+                "url": "https://www.bbc.com/news/articles/c78ge6z459xo",
+                "source": "BBC",
+                "date": "2026-07-24T22:00:09Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Bridge Opening Leaves US Out",
+                "desc": "Canada opened its newest link to the US on Friday—with the Americans pointedly absent. The Gordie Howe International Bridge connecting Windsor, Ontario, and Detroit, Michigan,...",
+                "image": "https://cdn.newser.com/image/1700928-12-20260724172617.jpeg",
+                "url": "https://www.newser.com/story/393479/bridge-opening-leaves-us-out.html",
+                "source": "Newser",
+                "date": "2026-07-24T22:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "For Democrats in 2028, South Carolina is up first, again : NPR",
+                "desc": "Democrats chose South Carolina for the first 2028 presidential primary, then Nevada, prioritizing Black and Latino voters. New Hampshire, New Mexico, Michigan and Virginia also hold early contests.",
+                "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5497x3092+0+286/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F93%2Fb9%2F8af418494424b91196d56c6d6c9c%2Fgettyimages-2277748747.jpg",
+                "url": "https://www.npr.org/2026/07/24/nx-s1-5906834/dnc-primary-election-calendar-south-carolina-2028",
+                "source": "NPR",
+                "date": "2026-07-24T21:50:41Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump sued over new tariffs, experts say courts may scrap them",
+                "desc": "President Donald Trump has renewed a flurry of tariffs, including slapping 25% duties on Brazilian imports and vowing 50% tariffs on goods from Canada.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108313768-1780058637543-gettyimages-2278708578-_m0a7716_vrislerd.jpeg?v=1784922629&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/07/24/trump-tariffs-lawsuit-301-ieepa.html",
+                "source": "CNBC",
+                "date": "2026-07-24T21:46:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Paramount Agrees to Delay Warner Bros. Merger for Months",
+                "desc": "The company agreed to a proposed freeze until June 2027, unless a judge issues a ruling before then on a lawsuit blocking the deal.",
+                "image": "https://static01.nyt.com/images/2026/07/24/multimedia/00biz-paramount-fgpq/00biz-paramount-fgpq-facebookJumbo.jpg",
+                "url": "https://www.nytimes.com/2026/07/24/business/media/paramount-warner-bros-merger-delayed.html",
+                "source": "The New York Times",
+                "date": "2026-07-24T21:42:57Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump Meets With Top Advisers as He Weighs a Major Escalation in Iran",
+                "desc": "President Trump has insisted the U.S.-Israeli war in Iran would be a relatively short “excursion,” although it has lasted nearly five months, with no end in sight.",
+                "image": "https://static01.nyt.com/images/2026/07/24/multimedia/24dc-trump-iran-hjmc/24dc-trump-iran-hjmc-facebookJumbo.jpg",
+                "url": "https://www.nytimes.com/2026/07/24/us/politics/trump-escalation-iran.html",
+                "source": "The New York Times",
+                "date": "2026-07-24T21:41:12Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Is Sean ‘Diddy’ Combs in Solitary Confinement?",
+                "desc": "The disgraced music mogul reportedly got into a prison fight with an inmate who insulted him, according to TMZ.",
+                "image": "https://pyxis.nymag.com/v1/imgs/255/93d/b829347cfb0e1b510162004eb875bc48f9-diddy_solitary.1x.rsocial.w1200.jpg",
+                "url": "https://www.thecut.com/article/sean-diddy-combs-solitary-confinement-prison-fight.html",
+                "source": "The Cut",
+                "date": "2026-07-24T21:38:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Paramount Skydance agrees to halt Warner Bros. merger until next June",
                 "desc": "Paramount Skydance has agreed to freeze its merger with rival Hollywood studio Warner Bros.",
@@ -2620,99 +2710,18 @@
                 "source": "The Jerusalem Post",
                 "date": "2026-07-24T09:47:03Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Arch Manning, Texas seek CFP glory before Lane Kiffin prophecy is true",
-                "desc": "Anyone still got their hackles up about Arch Manning’s eyeglasses? Nope. As Lane Kiffin steals attention, this could be good for Texas.",
-                "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/24/USAT/91032093007-usatsi-29438268.jpg?crop=3948,2223,x0,y242&width=3200&height=1802&format=pjpg&auto=webp",
-                "url": "https://www.usatoday.com/story/sports/ncaaf/2026/07/24/arch-manning-texas-football-predictions-lane-kiffin-sec/90980658007/",
-                "source": "USA Today",
-                "date": "2026-07-24T09:44:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "One player from each MLB team who will be wearing a new uniform after the trade deadline",
-                "desc": "Just 10 days separate us from the Aug. 3 deadline, and at some point, players will be on the move. Our staff picked one from each team.",
-                "image": "https://static01.nyt.com/athletic/uploads/wp/2026/07/23164639/GettyImages-2286581999-scaled.jpg?width=1200&height=630&fit=cover",
-                "url": "https://www.nytimes.com/athletic/7466928/2026/07/24/one-player-traded-mlb-deadline-2026/",
-                "source": "The New York Times",
-                "date": "2026-07-24T09:30:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Protester interrupts Madison police briefing after deadly shooting",
-                "desc": "A protester interrupted a Madison, Wisconsin, police briefing after the fatal officer-involved shooting of Corey Durell Ruiz, grabbing the microphone and criticizing law enforcement",
-                "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/protestinmadison-1.gif",
-                "url": "https://www.foxnews.com/us/wisconsin-protester-brands-madison-corrupt-city-during-anti-police-tirade-following-deadly-shooting",
-                "source": "Fox News",
-                "date": "2026-07-24T09:26:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'It's not just an inconvenience': We've underestimated the health impacts of heavy periods",
-                "desc": "As women have fewer children and more periods, heavy menstrual bleeding is becoming more of a health burden.",
-                "image": "https://ychef.files.bbci.co.uk/624x351/p0nxt56l.jpg",
-                "url": "https://www.bbc.com/future/article/20260720-weve-been-underestimating-the-health-impacts-of-heavy-periods",
-                "source": "BBC",
-                "date": "2026-07-24T09:12:17Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "As Canada Opens Gordie Howe International Bridge, Americans Are Told to Stay Home",
-                "desc": "After a delay ordered by President Trump and new tariffs against Canada, the bridge between Windsor, Ontario, and Detroit opens in “underwhelming” fashion on Friday.",
-                "image": "https://static01.nyt.com/images/2026/07/24/multimedia/24int-canada-bridge-jclb/24int-canada-bridge-jclb-facebookJumbo.jpg",
-                "url": "https://www.nytimes.com/2026/07/24/world/canada/canada-gordie-howe-bridge-trump.html",
-                "source": "The New York Times",
-                "date": "2026-07-24T09:05:17Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Fed keeps markets guessing ahead of July interest rate decision",
-                "desc": "Federal Reserve Chair Kevin Warsh expects another \"good family fight\" at policymakers' July meeting. Why it's hard to know if interest rates will change.",
-                "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/23/USAT/91022100007-20260617-t-185612-z-509635631-rc-2-uvlamb-0-g-1-rtrmadp-3-usafed.JPG?crop=4319,2431,x0,y224&width=3200&height=1802&format=pjpg&auto=webp",
-                "url": "https://www.usatoday.com/story/money/economy/2026/07/24/july-fed-meeting-interest-rates-what-to-expect/91007839007/",
-                "source": "USA Today",
-                "date": "2026-07-24T09:05:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Can This New Enzyme Turn Back the Clock in Bodily Tissues?",
-                "desc": "In a recent study, scientists devised a way of reversing the buildup of compounds that lead to some age-related diseases.",
-                "image": "https://static01.nyt.com/images/2026/07/21/multimedia/21SCI-DEAGING-ENZYME-fjtm/21SCI-DEAGING-ENZYME-fjtm-facebookJumbo.jpg",
-                "url": "https://www.nytimes.com/2026/07/24/science/enzymes-aging-cmlase.html",
-                "source": "The New York Times",
-                "date": "2026-07-24T09:00:59Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Jay-Z Fighting Grandma of Man Claiming to Be His Son Over 6-Figure Debt",
-                "desc": "Jay-Z is going after the grandmother of the man who claims he is the rapper's son … and the music mogul wants to make sure the woman can't dodge a 6-figure sum she owes him.",
-                "image": "https://imagez.tmz.com/image/72/16by9/2026/07/23/72d690cd435444e08500b5924ac1e913_xl.jpg",
-                "url": "https://www.tmz.com/2026/07/24/jay-z-in-court-battle-with-grandmother-of-man-who-says-he-is-his-son/",
-                "source": "TMZ",
-                "date": "2026-07-24T08:00:31Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Brent Crude Oil Prices Top $100 as Conflict With Iran Drags On",
-                "desc": "Stocks in Asia were down following a sell-off in the U.S. markets over soaring oil prices, rising borrowing costs and worries about the technology industry.",
-                "image": "https://static01.nyt.com/images/2026/07/24/multimedia/24biz-oil-stocks-gas-promo-lwtb/24biz-oil-stocks-gas-promo-lwtb-facebookJumbo.jpg",
-                "url": "https://www.nytimes.com/2026/07/24/business/oil-prices-global-stocks-shipping.html",
-                "source": "The New York Times",
-                "date": "2026-07-24T07:43:53Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Upper West Side stabbing probed as hate crime after 'Allahu Akbar' shout",
-                "desc": "New York City stabbing on the Upper West Side is being investigated as a hate crime after a suspect allegedly yelled \"Allahu Akbar\" while attacking two men, NYPD says.",
-                "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/nypd-suspect-stabbing-jewish-asian.png",
-                "url": "https://www.foxnews.com/us/nyc-upper-west-side-stabbing-hate-crime",
-                "source": "Fox News",
-                "date": "2026-07-24T07:35:03Z",
-                "priority": "STANDARD"
             }
         ],
         "business": [
+            {
+                "title": "F.D.A. Panel’s Vote on Peptides Raises Concerns About a Prescribing Boom",
+                "desc": "The committee endorsed broader use of the peptides in lightly regulated compounding pharmacies that have grown into a multibillion-dollar business.",
+                "image": "https://static01.nyt.com/images/2026/07/24/multimedia/24dc-peptides-FDA-fkjz/24dc-peptides-FDA-fkjz-facebookJumbo.jpg",
+                "url": "https://www.nytimes.com/2026/07/24/us/politics/fda-panel-vote-peptides.html",
+                "source": "The New York Times",
+                "date": "2026-07-24T21:15:21Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Unhinged French squatter takes over female poker champ's $1.9M LA mansion",
                 "desc": "World Series of Poker player Wendy Weissman agreed to hand over her $1.9 million Hermosa Beach townhouse for a 30-day booking to a squatting Frenchman.",
@@ -3243,18 +3252,27 @@
                 "source": "Newser",
                 "date": "2026-07-23T17:00:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Trump expands data center pledge to shield customers from rising costs",
-                "desc": "Donald Trump is set to announce an expanded coalition of governors, tech companies and power providers pledging not to pass data center utility costs along to American families.",
-                "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/trump-thumbs-up.jpg",
-                "url": "https://www.foxnews.com/politics/trump-unveils-massive-coalition-protecting-americans-rising-costs-admin-pursues-top-priority",
-                "source": "Fox News",
-                "date": "2026-07-23T16:59:41Z",
-                "priority": "STANDARD"
             }
         ],
         "entertainment": [
+            {
+                "title": "Ben Affleck and Casey Affleck's mom dies of pancreatic cancer at 83",
+                "desc": "Ben Affleck and Casey Affleck's mother, Chris Anne Affleck, died at 83 after a battle with pancreatic cancer. She was an activist, Harvard graduate and teacher.",
+                "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/ben-affleck-mom-suit.jpg",
+                "url": "https://www.foxnews.com/entertainment/ben-affleck-casey-afflecks-mom-chris-anne-affleck-dead-83-after-pancreatic-cancer-battle",
+                "source": "Fox News",
+                "date": "2026-07-24T21:36:03Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Interview With the Vampire Renewed for Season 4 as Queen of the Damned",
+                "desc": "‘Interview With a Vampire’ has been renewed for season 4 and renamed to ’Queen of the Damned.’",
+                "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/07/TVL_05_SG_1023_0193_RT-H-2026.jpg?w=1296&h=730&crop=1",
+                "url": "https://www.hollywoodreporter.com/tv/tv-news/interview-with-vampire-renewed-season-4-queen-of-the-damned-1236656159/",
+                "source": "The Hollywood Reporter",
+                "date": "2026-07-24T21:19:44Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Sinestro Revealed, Guy Gardner Cameo, Manhunters",
                 "desc": "The new 'Lanterns' trailer revealed Sinestro, a cameo from Guy Gardner and a Manhunter mystery.",
@@ -3776,27 +3794,45 @@
                 "source": "Variety",
                 "date": "2026-07-24T00:06:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Meghan Markle, Prince Harry’s Kids Archie and Lilibet Seen in U.K. Photos",
-                "desc": "Meghan Markle shared a carousel of photos from her and Prince Harry's U.K. \"summer holiday\" with their kids Prince Archie and Princess Lilibet, including a rare shot of the whole family on a beach.",
-                "image": "https://akns-images.eonline.com/eol_images/Entire_Site/20260512/9a341eb4-3cd9-423a-8b18-5c2c372f5613_1778607035.jpg?fit=around%7C1200:1200&output-quality=90&crop=1200:1200;center,top",
-                "url": "https://www.eonline.com/news/1434288/meghan-markle-prince-harrys-kids-archie-and-lilibet-seen-in-u-k-photos",
-                "source": "E! News",
-                "date": "2026-07-23T23:36:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "From role player to starring role: Former Met José Iglesias heads to Broadway",
-                "desc": "José Iglesias always had range. Now he's taking it to Broadway, as a cast member in the Tony Award-winning “Buena Vista Social Club.”",
-                "image": "https://static01.nyt.com/athletic/uploads/wp/2026/07/23185804/GettyImages-2177686143-scaled.jpg?width=1200&height=630&fit=cover",
-                "url": "https://www.nytimes.com/athletic/7467206/2026/07/23/jose-iglesias-mlb-broadway-role-buena-vista-social-club/",
-                "source": "The New York Times",
-                "date": "2026-07-23T23:31:00Z",
-                "priority": "STANDARD"
             }
         ],
         "sports": [
+            {
+                "title": "Packers CEO says financial bump needed to stay competitive",
+                "desc": "Packers president/CEO Ed Policy said adjustments might be necessary as the NFL's only publicly owned franchise attempts to remain financially competitive in the long term.",
+                "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2016%2F0210%2Fr53354_1296x729_16%2D9.jpg",
+                "url": "https://www.espn.com/nfl/story/_/id/49442413/packers-ceo-says-financial-bump-needed-stay-competitive",
+                "source": "ESPN",
+                "date": "2026-07-24T22:13:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "LeBron James to Philadelphia 76ers presents challenges even for the King",
+                "desc": "LeBron James signing with the Philadelphia 76ers, which he announced Friday, puts him on arguably the best roster of his illustrious two-decade-plus career whil…",
+                "image": "https://andscape.com/wp-content/uploads/2026/07/GettyImages-2276117311-e1784908665233.jpg",
+                "url": "https://andscape.com/features/lebron-james-philadelphia-76ers-roster-analysis-embiid-brown-contract/",
+                "source": "Andscape",
+                "date": "2026-07-24T21:48:10Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Former Cowboys QB booked in Wisconsin",
+                "desc": "Former Dallas Cowboys quarterback and current NFL analyst for CBS Tony Romo was arrested on July 23. Here's what we know.",
+                "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/24/USAT/91040610007-20230628-t-045557-z-1635723039-mt-1-usatoday-20959137-rtrmadp-3-cbssportscasterandformernflquarterbacktonyromochats.JPG?crop=5758,3240,x0,y219&width=3200&height=1801&format=pjpg&auto=webp",
+                "url": "https://www.usatoday.com/story/sports/nfl/2026/07/24/tony-romo-dui-arrest-cowboys/91040541007/",
+                "source": "USA Today",
+                "date": "2026-07-24T21:47:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Caitlin Clark deserves an apology after false USA Today report about getting her hair done",
+                "desc": "USA Today issued a correction after falsely reporting Caitlin Clark skipped the WNBA Orange Carpet for a hair appointment. Clark was hosting a charity dinner for her foundation.",
+                "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/caitlin-clark-fever-connecticut-sun.jpg",
+                "url": "https://www.foxnews.com/outkick-sports/caitlin-clark-deserves-apology-false-usa-today-report-getting-hair-done",
+                "source": "Fox News",
+                "date": "2026-07-24T21:27:57Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Andy Reid: Patrick Mahomes has been cleared to fully participate",
                 "desc": "Mahomes will not start training camp on the physically unable to perform list and is set to take his full reps at training camp.",
@@ -3831,6 +3867,15 @@
                 "url": "https://www.batterypower.com/atlanta-braves-game-information/136403/ronald-acuna-jr-not-back-jorge-mateo-gets-rare-start-in-braves-opener-at-orioles",
                 "source": "Battery Power",
                 "date": "2026-07-24T19:32:43Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "CBS analyst Tony Romo arrested on suspicion of DUI in Wisconsin",
+                "desc": "The former Cowboys quarterback performed poorly on field sobriety tests and was arrested on suspicion of operating a vehicle while under the influence",
+                "image": "https://i.guim.co.uk/img/media/5fc642d98035b6dc463370ffe60059159b15c826/158_0_2292_1834/master/2292.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1048a9046a15ec374479d415396f04f8",
+                "url": "https://www.theguardian.com/sport/2026/jul/24/tony-romo-arrest-owi",
+                "source": "The Guardian",
+                "date": "2026-07-24T19:28:00Z",
                 "priority": "STANDARD"
             },
             {
@@ -4291,53 +4336,8 @@
                 "source": "Los Angeles Times",
                 "date": "2026-07-24T02:20:43Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Ravens waive Diego Pavia 3 months into 3-year contract",
-                "desc": "The Heisman Trophy finalist and undrafted free agent quarterback signed a three-year deal with the Ravens, but didn't make it to training camp.",
-                "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/23/USAT/91028019007-diego-pavia-072326.JPG?crop=6410,3606,x0,y351&width=3200&height=1801&format=pjpg&auto=webp",
-                "url": "https://www.usatoday.com/story/sports/nfl/ravens/2026/07/23/diego-pavia-ravens-waived/91028005007/",
-                "source": "USA Today",
-                "date": "2026-07-24T01:50:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Noah Lyles, Sha'Carri Richardson advance in 100m at USATF Outdoor Championships",
-                "desc": "The USATF Outdoor and Para National Championships air live on NBC Sports, Peacock and USATF.TV.",
-                "image": "https://nbcsports.brightspotcdn.com/dims4/default/4329510/2147483647/strip/true/crop/3733x2100+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F17%2F8e%2Fcb72c4714ee393773728d71f1d82%2Fhttps-api-imagn.com%2Frest%2Fdownload%2FimageID%3D26751405",
-                "url": "https://www.nbcsports.com/olympics/news/noah-lyles-shacarri-richardson-100-meters-usa-track-and-field-championships",
-                "source": "NBC Sports",
-                "date": "2026-07-24T01:40:54Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Sick soldiers and mixed messages - What's really going on at UAE Team Emirates-XRG and how will it change the last days of the Tour de France?",
-                "desc": "The collective might and will of Tadej Pogačar's team has kept the peloton in check until now but with illness in the ranks that could be about to change",
-                "image": "https://cdn.mos.cms.futurecdn.net/FTnW7kSsyHmXZYK5VY2goi-2000-80.jpg",
-                "url": "https://www.cyclingnews.com/pro-cycling/racing/sick-soldiers-and-mixed-messages-whats-really-going-on-at-uae-team-emirates-xrg-and-how-will-it-change-the-last-days-of-the-tour-de-france/",
-                "source": "Cyclingnews",
-                "date": "2026-07-24T00:56:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Fernando Mendoza officially signs rookie contract",
-                "desc": "Raiders signed No. 1 overall pick Fernando Mendoza to a four-year, $57.3 million contract.",
-                "image": "https://nbcsports.brightspotcdn.com/dims4/default/d00535d/2147483647/strip/true/crop/100x56+0+39/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F4f%2F9d%2F30f0394245009d611732d64ff4b6%2Ffernandomendoza.jpg",
-                "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-07-23/fernando-mendoza-officially-signs-rookie-contract",
-                "source": "NBC Sports",
-                "date": "2026-07-24T00:42:40Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Scottie Scheffler addresses growing rivalry between Rory McIlroy, Bryson DeChambeau after The Open",
-                "desc": "Scottie Scheffler weighs in on the Bryson DeChambeau and Rory McIlroy golf rivalry ahead of the 3M Open after their Open Championship clash at Royal Birkdale.",
-                "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/Rory-McIlroy-Bryson-DeChambeau-split.jpg",
-                "url": "https://www.foxnews.com/outkick-sports/scottie-scheffler-addresses-growing-rivalry-rory-mcilroy-bryson-dechambeau-open",
-                "source": "Fox News",
-                "date": "2026-07-24T00:27:46Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-25T08:55:00.668298Z"
+    "lastGlobalSync": "2026-07-25T10:20:41.609096Z"
 }
