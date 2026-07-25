@@ -2,6 +2,15 @@
     "hi": {
         "general": [
             {
+                "title": "धर्मेंद्र प्रधान का सियासी सफ़र: कभी पेपर लीक के ख़िलाफ़ प्रदर्शन, अब इस्तीफ़े की मांग",
+                "desc": "शिक्षा मंत्री धर्मेंद्र प्रधान का लंबा सियासी सफ़र अस्सी के दशक में छात्र राजनीति से ही शुरू हुआ था. 1997 में प्रश्नपत्र लीक के विरुद्ध प्रदर्शन करते हुए उन्होंने पुलिस की लाठी खाई थीं.",
+                "image": "https://ichef.bbci.co.uk/news/1200/branded_hindi/e47c/live/c9b29610-87e9-11f1-8df5-a398ed812330.jpg",
+                "url": "https://www.bbc.com/hindi/articles/cz64p284v35o",
+                "source": "BBC",
+                "date": "2026-07-24T23:11:09Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "डूब रहे गांव, बह रहे घर: असम और गुजरात में बाढ़ से हाहाकार, जिंदगी बचाने उतरी सेना",
                 "desc": "असम और गुजरात में बाढ़ से हाहाकार मचा हुआ है। असम में लगातार बारिश के कारण कई नदियों का जलस्तर बढ़ता जा रहा है। इस आपदा में अब तक 47 लोगों की मौत हो चुकी है और 40 लोग लापता बताए जा रहे हैं।",
                 "image": "https://www.jagranimages.com/images/2026/07/25/article/image/jagran-897-1784926810141_m.webp",
@@ -530,15 +539,6 @@
                 "url": "https://www.aajtak.in/india/news/story/delhi-high-court-save-india-foundation-petition-police-attack-cjp-protestors-jantar-mantar-ntc-agkp-rpti-2608165-2026-07-24",
                 "source": "AajTak",
                 "date": "2026-07-24T07:08:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "भारत ने बांग्लादेश के पीएम तारिक रहमान को दिया न्योता, अभी तक नहीं आया जवाब; क्या शेख हसीना के 'भूत' से डर रहे?",
-                "desc": "BRICS SUMMIT: भारत ने 18वें ब्रिक्स शिखर सम्मेलन के लिए बांग्लादेश के प्रधानमंत्री तारिक रहमान को आमंत्रित किया है, लेकिन उनकी तरफ से अभी कोई जवाब नहीं आया है। माना जा रहा है कि शेख हसीना को लेकर उनके देश में होने वाली संभावित प्रतिक्रिया को लेकर वह आशंकित हैं।",
-                "image": "https://static.langimg.com/nbt/thumb/132597540/india-invites-bangladesh-pm-to-brics-summit.jpg?imgsize=987536&width=1600&height=900&resizemode=75",
-                "url": "https://navbharattimes.indiatimes.com/india/india-invites-bangladesh-pm-tarique-rahman-to-brics-summit-former-pm-sheikh-hasina/articleshow/132597454.cms",
-                "source": "Navbharat Times",
-                "date": "2026-07-24T06:05:13Z",
                 "priority": "STANDARD"
             }
         ],
@@ -1628,6 +1628,15 @@
         ],
         "sports": [
             {
+                "title": "'अभी सिर्फ बल्लेबाजी पर रहने दें ध्यान', वैभव सूर्यवंशी के मुरीद हुए कार्यवाहक कोच सुनील जोशी",
+                "desc": "भारतीय कार्यवाहक गेंदबाजी कोच सुनील जोशी ने युवा सनसनी वैभव सूर्यवंशी की रिकॉर्डतोड़ बल्लेबाजी की सराहना करते हुए उनकी गेंदबाजी को CoE में विकसित करने की बात कही है। उन्होंने सूर्यांश शेडगे की तुलनाओं पर रोक लगाने की सलाह दी और रवि बिश्नोई के रन-अप में सुधार की तारीफ की।",
+                "image": "https://static.langimg.com/nbt/thumb/132611609/vaibhav-sooryavanshi.jpg?imgsize=462367&width=1600&height=900&resizemode=75",
+                "url": "https://navbharattimes.indiatimes.com/sports/cricket/cricket-news/coach-sunil-joshi-impressed-by-15-year-old-vaibhav-sooryavanshi/articleshow/132610769.cms",
+                "source": "Navbharat Times",
+                "date": "2026-07-24T23:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "झंडू कुमार ने कॉमनवेल्थ गेम्स में भारत को दिलाया पहला मेडल, जीता ब्रॉन्ज",
                 "desc": "बिहार के झंडू कुमार ने पुरुषों की हैवीवेट पैरा पावरलिफ्टिंग में ब्रॉन्ज मेडल जीतकर कॉमनवेल्थ गेम्स 2026 में भारत का पहला मेडल हासिल किया.",
                 "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a63d3c25ec35-commonwealth-games-2026-jhandu-kumar-240604792-16x9.jpg",
@@ -2157,20 +2166,101 @@
                 "source": "India TV Hindi",
                 "date": "2026-07-23T16:04:11Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "सचिन तेंदुलकर का दिल्ली में छात्रों पर लाठीचार्ज के बाद छलका दर्द, पिता की सीख याद कर लिखा भावुक मैसेज",
-                "desc": "दिल्ली में जंतर-मंतर पर चल रहे विरोध प्रदर्शन को लेकर भारत के पूर्व महान बल्लेबाज सचिन तेंदुलकर ने बयान दिया है। उन्होंने अपने पिता को याद करते हुए छात्रों के लिए मैसेज लिखा है।",
-                "image": "https://www.jagranimages.com/images/2026/07/23/article/image/Sachin-Tendulkar-Delhi-Protest-1784823216703_m.webp",
-                "url": "https://www.jagran.com/cricket/apni-baat-sachin-tendulkar-reaction-on-delhi-cjp-protest-neet-paper-leak-jantar-mantar-40316883.html",
-                "source": "Jagran",
-                "date": "2026-07-23T16:01:00Z",
-                "priority": "STANDARD"
             }
         ]
     },
     "en": {
         "general": [
+            {
+                "title": "WBD Merger Foes Cheer Legal Delay, Stocks Slide",
+                "desc": "After a delay in the antitrust lawsuit against the Paramount-WBD merger, stakeholders tried to process the latest twist in the merger saga.",
+                "image": "https://deadline.com/wp-content/uploads/2026/07/GettyImages-2263189576-e1784276804887.jpg?w=1024",
+                "url": "https://deadline.com/2026/07/paramount-wbd-merger-antitrust-lawsuit-delay-reactions-1237003045/",
+                "source": "Deadline",
+                "date": "2026-07-24T23:35:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "White House says Trump to give ‘unifying yet vicious’ speech at rescheduled press gala",
+                "desc": "Correspondents’ dinner begins in Washington, three months after original event was halted by a shooting",
+                "image": "https://i.guim.co.uk/img/media/b869f8c482bea933bfa9b6a12cb6bdcc299a98c1/394_0_3970_3176/master/3970.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=91fff74d0e6e0e515c8c8ec5498cef6b",
+                "url": "https://www.theguardian.com/us-news/2026/jul/24/white-house-correspondents-dinner-trump-washington",
+                "source": "The Guardian",
+                "date": "2026-07-24T23:29:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Sick of It All’s Lou Koller Dead",
+                "desc": "Lou Koller, the frontman for Sick of It All, has died. The singer had been battling adenocarcinoma cancer.",
+                "image": "https://www.rollingstone.com/wp-content/uploads/2026/07/LouKoller2015-1.jpg?w=1600&h=900&crop=1",
+                "url": "https://www.rollingstone.com/music/music-news/sick-of-it-all-lou-koller-dead-obituary-1235598730/",
+                "source": "rollingstone.com",
+                "date": "2026-07-24T23:29:06Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump says US will investigate EU for fining Google",
+                "desc": "President Donald Trump said the U.S. will investigate the European Union’s trade practices, claiming the bloc unfairly fined Google, Apple and other U.S. tech giants.",
+                "image": "https://dims.apnews.com/dims4/default/db1c236/2147483647/strip/true/crop/3829x2551+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F1a%2F6d%2F9264a18dbe8934c3b19106d37f5e%2F4a33280e2f1243f18d18780a3f147daa",
+                "url": "https://apnews.com/live/trump-tariffs-iran-updates-07-24-2026",
+                "source": "AP News",
+                "date": "2026-07-24T23:26:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Patrick Mahomes consulted with Tom Brady, others during the rehab process",
+                "desc": "Patrick Mahomes has made a remarkable recovery from a torn ACL and LCL in his left knee.",
+                "image": "https://nbcsports.brightspotcdn.com/dims4/default/39373b7/2147483647/strip/true/crop/4441x2498+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F31%2F13%2Fb7e9327049fda45e7f4676e6dd1c%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F1400539564",
+                "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patrick-mahomes-consulted-with-tom-brady-others-during-the-rehab-process",
+                "source": "NBC Sports",
+                "date": "2026-07-24T23:21:53Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump flew from Turkey on older Air Force One after credible threat from Iran and its proxies",
+                "desc": "President Trump departed the NATO summit in Turkey on an old Air Force One jet following a credible threat from Iran and allied proxy groups, U.S. officials told CBS News.",
+                "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/07/11/66532b3a-5eec-4c46-a904-8f675bc4af67/thumbnail/1200x630/9727b0c7f4a5ffa746e1c1f134b1d1aa/gettyimages-2282293932.jpg",
+                "url": "https://www.cbsnews.com/news/trump-iran-proxies-credible-threat-air-force-one-turkey/",
+                "source": "CBS News",
+                "date": "2026-07-24T23:17:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump orders signage warning visitors of ‘inaccurate information’ at Smithsonian",
+                "desc": "While he continues to seek control of the exhibits inside the Smithsonian Institution’s museums, President Donald Trump is trying a new tactic in the front yard.",
+                "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-07/260705-smithsonian-history-washington-ww-1911-0d2f68.jpg",
+                "url": "https://www.nbcnews.com/politics/trump-administration/trump-orders-signage-warning-visitors-inaccurate-information-smithsoni-rcna589156",
+                "source": "NBC News",
+                "date": "2026-07-24T23:06:18Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ukraine's Zelensky struggles to fix crisis over removal of defence minister Fedorov",
+                "desc": "Protests have continued over Zelensky's decision to dismiss Mykhailo Fedorov, and some commentators believe he has been damaged politically.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/90d1/live/f0b4a0e0-877c-11f1-845d-49d72435354a.jpg",
+                "url": "https://www.bbc.com/news/articles/c1d1gz3n99ro",
+                "source": "BBC",
+                "date": "2026-07-24T23:01:06Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Lakers Projected to Trade Bronny to 76ers for Young Wing After LeBron News",
+                "desc": "The Lakers have been projected to trade Bronny James to the 76ers for a young wing after the latest LeBron James news.",
+                "image": "https://heavy.com/wp-content/uploads/2026/07/celebrities-at-the-los-angeles-lakers-game-los-angeles-california-october-e1784927592579.jpg?quality=65&strip=all",
+                "url": "https://heavy.com/sports/nba/los-angeles-lakers/lakers-bronny-76ers-young-wing-trade/",
+                "source": "heavy.com",
+                "date": "2026-07-24T22:50:56Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump jokes about tariffs on lettuce and smoke",
+                "desc": "Facing questions about lettuce safety, President Trump joked about tariffs on Mexico and Canada over a parasite outbreak and widespread wildfire smoke.",
+                "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/24/USAT/91042955007-getty-images-2286830605.jpg?crop=1023,576,x0,y0&width=1023&height=576&format=pjpg&auto=webp",
+                "url": "https://www.usatoday.com/story/news/politics/2026/07/24/trump-tariffs-mexico-lettuce-canada-smoke/91042800007/",
+                "source": "USA Today",
+                "date": "2026-07-24T22:41:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Trump administration concedes that it canceled research grants in blue states",
                 "desc": "The Trump administration admitted that it terminated nearly 300 federal research grants “solely because” the projects were connected to states that voted against Trump in 2024",
@@ -2620,99 +2710,27 @@
                 "source": "CBS News",
                 "date": "2026-07-24T10:48:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Nick Bosa breaks extended Twitter silence to express agreement with Ryan Clark's ouster",
-                "desc": "The story of the week came from ESPN, where a supposed exercise in removing red ink became, for NFL analyst Ryan Clark, more like a Red Wedding. 49ers defensive end Nick Bosa has chosen to chime in.",
-                "image": "https://nbcsports.brightspotcdn.com/dims4/default/9e5a78d/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F5c%2F30%2F41ca265e41b69426542f0f0ae524%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2236980247",
-                "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nick-bosa-breaks-extended-twitter-silence-to-express-agreement-with-ryan-clarks-ouster",
-                "source": "NBC Sports",
-                "date": "2026-07-24T10:42:10Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Jurgen Klopp: Germany boss threatens to quit new job if media invade family's privacy",
-                "desc": "Jurgen Klopp starts his reign as Germany's head coach by threatening to quit if the media invades his family's privacy.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6a61/live/077e1fd0-8747-11f1-80f4-b5921bc87065.jpg",
-                "url": "https://www.bbc.com/sport/football/articles/cqjxd0n4gd2o",
-                "source": "BBC",
-                "date": "2026-07-24T10:40:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "US allies hit with new tariffs object to Trump's forced labor claims",
-                "desc": "Australia and the European Union were among U.S. trade partners who condemned the tariffs.",
-                "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3829x2154+0+200/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe5%2Fe7%2F746ea61749398343c3eca04fd149%2Fap26197547210310.jpg",
-                "url": "https://www.npr.org/2026/07/24/nx-s1-5906301/us-global-trump-tariffs-reaction",
-                "source": "NPR",
-                "date": "2026-07-24T10:31:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "How the Red Sox found their ‘identity’ and what it could mean at the trade deadline",
-                "desc": "Boston played more like a team during their 15-game winning streak. How can they add to the club without messing up a good thing?",
-                "image": "https://static01.nyt.com/athletic/uploads/wp/2026/07/23183333/2026-07-22T200744Z_439403858_MT1USATODAY29430956_RTRMADP_3_MLB-GAME-ONE-BALTIMORE-ORIOLES-AT-BOSTON-RED-SOX-scaled.jpg?width=1200&height=630&fit=cover",
-                "url": "https://www.nytimes.com/athletic/7466878/2026/07/24/red-sox-mlb-trade-deadline-winning-streak/",
-                "source": "The New York Times",
-                "date": "2026-07-24T10:30:37Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Andy Burnham’s Number 10 North changes the postcode, but not the politics",
-                "desc": "As Andy Burnham moves part of Downing Street to Manchester, Scotland and Wales are asking what it means for devolution.",
-                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/ap_6a624fcb29931-1784827851.jpg?resize=1920%2C1440",
-                "url": "https://www.aljazeera.com/economy/2026/7/24/andy-burnhams-number-10-north-changes-the-postcode-but-not-the-politics",
-                "source": "Al Jazeera",
-                "date": "2026-07-24T10:15:21Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "U.S. launches new Iran strikes, Trump threatens ‘massive attack’ as war widens",
-                "desc": "The United States launched a fresh barrage of strikes on Iran overnight as President Donald Trump threatened a major new escalation after Tehran opened a second front in its pressure campaign on the world economy.",
-                "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-07/260724-iran-rs-b0a311.jpg",
-                "url": "https://www.nbcnews.com/world/iran/us-iran-strikes-trump-massive-attack-war-hormuz-red-sea-oil-rcna589016",
-                "source": "NBC News",
-                "date": "2026-07-24T10:05:48Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Will the Federal Reserve raise interest rates? Here is what experts predict for July's meeting.",
-                "desc": "The central bank is widely expected to stand pat on Wednesday, but persistent inflation concerns are reshaping expectations for the rest of 2026.",
-                "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/07/23/b6f5aeee-53cd-4423-af17-feb27943aeab/thumbnail/1200x630/be707b2772c6b936e6aa4eace483ef71/gettyimages-2285620328-1.jpg",
-                "url": "https://www.cbsnews.com/news/fed-interest-rate-decision-july-meeting/",
-                "source": "CBS News",
-                "date": "2026-07-24T10:00:13Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Tropical Storm Bertha tracker: Bertha weakens into a trough with final impacts felt across Texas",
-                "desc": "The storm is expected to track over Houston before losing intensity and dissipating over central Texas.",
-                "image": "https://s.yimg.com/lo/mysterio/api/9da1a5c42cdbf6c85f549fb517c91f220a4efc056e8694f1150ace447cd399a2/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fbertha-623-am-sat_1348.png",
-                "url": "https://www.yahoo.com/news/weather-news/article/tropical-storm-bertha-tracker-bertha-weakens-into-a-trough-with-final-impacts-felt-across-texas-171934573.html",
-                "source": "Yahoo",
-                "date": "2026-07-24T09:54:47Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Prince Harry throws daughter Lilibet in swimming pool in newly released family holiday photos",
-                "desc": "Sunset strolls and days out on the beach: a peek into the Sussex’s summer holiday",
-                "image": "https://static.independent.co.uk/2026/07/24/9/47/6785552-library.jpg?trim=0,2,0,2&width=1200&height=800&crop=1200:800",
-                "url": "https://www.independent.co.uk/news/uk/home-news/prince-harry-meghan-markle-family-photos-lilibet-archie-b3020791.html",
-                "source": "The Independent",
-                "date": "2026-07-24T09:51:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Sirens sound across Bahrain in continued Iranian attack on Gulf",
-                "desc": "Tasnim also reported that Iran had targeted Amazon's data center in Bahrain as part of the strikes.",
-                "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/712204",
-                "url": "https://www.jpost.com/middle-east/iran-news/article-903537",
-                "source": "The Jerusalem Post",
-                "date": "2026-07-24T09:47:03Z",
-                "priority": "STANDARD"
             }
         ],
         "business": [
+            {
+                "title": "FDA approves pain pill that combines Tylenol and naproxen",
+                "desc": "The FDA approved a new table that combines Tylenol with naproxen, an anti-inflammatory medication.",
+                "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/09/22/USAT/86300409007-20250922-vpc-trump-autism-announcement-thumb-getty-00-00-00-00-still-004.jpg?crop=1919,1079,x0,y0&width=1919&height=1079&format=pjpg&auto=webp",
+                "url": "https://www.usatoday.com/story/news/health/2026/07/24/fda-pain-pill-combines-tylenol-naproxen/91039395007/",
+                "source": "USA Today",
+                "date": "2026-07-24T23:41:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Salmonella outbreak tied to eggs has sickened 98 people in 17 states since November, FDA says",
+                "desc": "Investigators have determined that shell eggs recalled by Midwest Poultry Services are a likely source of the germ, but the Indiana-based company doesn’t account for all the illnesses.",
+                "image": "https://d3i6fh83elv35t.cloudfront.net/static/2022/09/GettyImages-1415035613-e1667412503779-1024x608.jpg",
+                "url": "https://www.pbs.org/newshour/health/salmonella-outbreak-tied-to-eggs-has-sickened-98-people-in-17-states-since-november-fda-says",
+                "source": "PBS",
+                "date": "2026-07-24T23:25:12Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "F.D.A. Panel’s Vote on Peptides Raises Concerns About a Prescribing Boom",
                 "desc": "The committee endorsed broader use of the peptides in lightly regulated compounding pharmacies that have grown into a multibillion-dollar business.",
@@ -2747,6 +2765,15 @@
                 "url": "https://www.foxbusiness.com/lifestyle/tech-billionaire-ordered-pay-645m-ex-wife-south-koreas-divorce-century",
                 "source": "Fox Business",
                 "date": "2026-07-24T19:54:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "AI executives demand OpenAI release more details about how the Hugging Face hack happened",
+                "desc": "AI safety and policy experts want the ChatGPT maker to say more about how its agents escaped control.",
+                "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2278967313-e1784918405149.jpg?resize=1200,600",
+                "url": "https://fortune.com/2026/07/24/ai-executives-demand-openai-release-more-details-about-how-the-hugging-face-hack-happened/",
+                "source": "Fortune",
+                "date": "2026-07-24T19:27:00Z",
                 "priority": "STANDARD"
             },
             {
@@ -3225,36 +3252,54 @@
                 "source": "politico.eu",
                 "date": "2026-07-23T18:07:06Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "New Fed research suggests far fewer Americans own homes than widely believed",
-                "desc": "Only about 53% of Americans own homes, or about 12 percentage points lower than previous data has shown, the study found.",
-                "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/07/23/08267d22-f7b6-4873-bc08-6fd8936910c7/thumbnail/1200x630/a27f107ee145bda5c3713695285040a7/gettyimages-2252629180.jpg",
-                "url": "https://www.cbsnews.com/news/us-homeownership-rate-minneapolis-fed-study/",
-                "source": "CBS News",
-                "date": "2026-07-23T17:55:18Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Full Product List",
-                "desc": "Millions of eggs have been recalled across several states for possible salmonella contamination. Here’s how to identify eggs that are included in the recall.",
-                "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2026-06/eggs-daily-healthy-as06252026-df99dd.jpg",
-                "url": "https://www.today.com/health/recall/eggs-recalled-salmonella-kroger-july-2026-rcna588903",
-                "source": "TODAY.com",
-                "date": "2026-07-23T17:29:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "American Airlines Just Got Hit With a Mixed Bag of News",
-                "desc": "American Airlines just dialed back its 2026 profit hopes again, blaming fuel costs that its higher ticket prices still aren't fully covering. The stock slid about 8% in early...",
-                "image": "https://cdn.newser.com/image/1700577-12-20260723122617.jpeg",
-                "url": "https://www.newser.com/story/393378/american-airlines-slashes-2026-forecast-as-fuel-costs-soar.html",
-                "source": "Newser",
-                "date": "2026-07-23T17:00:00Z",
-                "priority": "STANDARD"
             }
         ],
         "entertainment": [
+            {
+                "title": "WBD Merger Foes Cheer Legal Delay, Stocks Slide",
+                "desc": "After a delay in the antitrust lawsuit against the Paramount-WBD merger, stakeholders tried to process the latest twist in the merger saga.",
+                "image": "https://deadline.com/wp-content/uploads/2026/07/GettyImages-2263189576-e1784276804887.jpg?w=1024",
+                "url": "https://deadline.com/2026/07/paramount-wbd-merger-antitrust-lawsuit-delay-reactions-1237003045/",
+                "source": "Deadline",
+                "date": "2026-07-24T23:35:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ben Stiller's New 103-Minute Comedy Is an Instant Global Streaming Hit",
+                "desc": "Ben Stiller is a comedy legend, and his latest Apple TV comedy, The Dink, is already one of the most-watched movies worldwide.",
+                "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2025/09/ben-stiller-oscars-red-carpet.jpg?w=1600&h=900&fit=crop",
+                "url": "https://www.cbr.com/ben-stiller-the-dink-sports-comedy-apple-tv-success-july-2026/",
+                "source": "Comic Book Resources",
+                "date": "2026-07-24T23:00:22Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'Lanterns' Trailer Reveals Sinestro and Its Manhunter Threat",
+                "desc": "The HBO show Lanterns from DC Studios arrived at Comic-Con with a new trailer.",
+                "image": "https://www.hollywoodreporter.com/wp-content/uploads/2025/02/aaron-pierre-kyle-chandler-H-2025.jpg?w=1296&h=730&crop=1",
+                "url": "https://www.hollywoodreporter.com/tv/tv-news/lanterns-trailer-reveals-sinestro-and-its-manhunter-1236656225/",
+                "source": "The Hollywood Reporter",
+                "date": "2026-07-24T22:25:56Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Dakota Mortensen and Shinia Powell Cuddle During Date Night At Baseball Game",
+                "desc": "Dakota Mortensen and Shinia Powell aren't doing much to keep their romance under wraps anymore ... 'cause \"The Secret Lives of Mormon Wives\" stars looked every bit the couple during a date night at a baseball game.",
+                "image": "https://imagez.tmz.com/image/17/16by9/2026/07/24/170593549c7b4235bef1826fc9757032_xl.jpg",
+                "url": "https://www.tmz.com/2026/07/24/dakota-mortensen-shinia-powell-date-night-at-baseball-game/",
+                "source": "TMZ",
+                "date": "2026-07-24T22:25:14Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Detective says D4vd's phone had photos of teen, talk of abortion",
+                "desc": "An LAPD detective took the witness stand Friday and laid out years worth of text messages and phone calls that authorities say indicate the singer D4vd, sexually abused a teenage girl for years, impregnated her and convinced her to have an abortion before allegedly killing her in April of 2025.",
+                "image": "https://ca-times.brightspotcdn.com/dims4/default/14e9cc5/2147483647/strip/true/crop/4672x2453+0+454/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ffc%2F09%2F1e17e70547c1848d1b0e45aad175%2Fap25070220118928a.jpg",
+                "url": "https://www.latimes.com/california/story/2026-07-24/d4vd-david-anthony-burke-preliminary-hearing-testimony",
+                "source": "Los Angeles Times",
+                "date": "2026-07-24T22:23:45Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Ben Affleck and Casey Affleck's mom dies of pancreatic cancer at 83",
                 "desc": "Ben Affleck and Casey Affleck's mother, Chris Anne Affleck, died at 83 after a battle with pancreatic cancer. She was an activist, Harvard graduate and teacher.",
@@ -3749,54 +3794,63 @@
                 "source": "Deadline",
                 "date": "2026-07-24T01:30:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "'Stuart' Creators & Stars On Premiere's Shocking OG Death & Aftermath",
-                "desc": "'Big Bang Theory' spinoff 'Stuart Fails To Save The Universe' creators and stars on premiere's shocking death of OG character Raj and its aftermath.",
-                "image": "https://deadline.com/wp-content/uploads/2026/07/Stuart-Fails-To-Save-The-Universe_75ee71.jpg?w=1024",
-                "url": "https://deadline.com/2026/07/big-bang-theory-spinoff-stuart-creators-premiere-raj-death-1236979878/",
-                "source": "Deadline",
-                "date": "2026-07-24T01:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "DNA expert ties slain 14-year-old Celeste Rivas Hernandez to blood stains found in D4vd's garage",
-                "desc": "A DNA expert testified Thursday that evidence recovered from apparent blood stains in the garage of D4vd's Hollywood home was a strong DNA match for 14-year-old Celeste Rivas Hernandez, the girl he is charged with stabbing to death.",
-                "image": "https://img.ksl.com/slc/3195/319550/31955018.jpg?filter=kslv2/responsive_story_lg",
-                "url": "https://www.ksl.com/article/51601445/dna-expert-ties-slain-14-year-old-celeste-rivas-hernandez-to-blood-stains-found-in-d4vds-garage",
-                "source": "KSL.com",
-                "date": "2026-07-24T01:28:37Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "‘72 Hours’ Review: Kevin Hart Is Joining Your Bachelor Party",
-                "desc": "Hart plays an ad executive who tries to learn about the younger generation by tagging along to a bachelor party weekend. It proves a less than healthy move.",
-                "image": "https://static01.nyt.com/images/2026/07/23/multimedia/23cul-72hours-review1-tlkg/23cul-72hours-review1-tlkg-facebookJumbo.jpg",
-                "url": "https://www.nytimes.com/2026/07/23/movies/72-hours-review-kevin-hart-netflix.html",
-                "source": "The New York Times",
-                "date": "2026-07-24T01:00:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "New details emerge on how Ripley’s injury changed SummerSlam plans for Stratton and other WWE stars",
-                "desc": "Here are some of the changes WWE reportedly made to the SummerSlam card due to Rhea Ripley’s injury.",
-                "image": "https://platform.cagesideseats.com/wp-content/uploads/sites/54/2026/06/ripley006.jpg?quality=90&strip=all&crop=0,1.7777777777778,100,93.077370564282",
-                "url": "https://www.cagesideseats.com/wwe/462376/report-rhea-ripley-injury-changed-wwe-summerslam-plans-stratton-monroe-flair-cargill-interim",
-                "source": "Cageside Seats",
-                "date": "2026-07-24T01:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Set Decorator on 'Mrs. Maisel'",
-                "desc": "Mary Kate Golding, a set decorator for shows including \"The Marvelous Mrs. Maisel\" and \"Goosebumps,\" died Tuesday in Queens, N.Y. after being stabbed.",
-                "image": "https://variety.com/wp-content/uploads/2026/07/Mary-Kate-Golding-Dead-Murder-Suicide.jpg?crop=0px%2C33px%2C1395px%2C784px&resize=1000%2C563",
-                "url": "https://variety.com/2026/tv/news/mary-kate-golding-dead-stabbed-mrs-maisel-1236819887/",
-                "source": "Variety",
-                "date": "2026-07-24T00:06:00Z",
-                "priority": "STANDARD"
             }
         ],
         "sports": [
+            {
+                "title": "Packers' annual report reveals $14.5 billion in shared NFL revenue",
+                "desc": "Business is still booming.",
+                "image": "https://nbcsports.brightspotcdn.com/dims4/default/2cc97fb/2147483647/strip/true/crop/4232x2381+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fc3%2Ff7%2Ffc63b4b44e6ead9a393cc74d5c9f%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2248316108",
+                "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/packers-annual-report-reveals-14-5-billion-in-shared-nfl-revenue",
+                "source": "NBC Sports",
+                "date": "2026-07-24T23:55:03Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Miles Russell delivers epic performance to earn spot in U.S. Junior final",
+                "desc": "Russell carded two eagles and five birdies in a 2-and-1 victory over Tyler Mawhinney to advance to Saturday’s 36-hole final of the U.S. Junior Amateur.",
+                "image": "https://assets.golfchannel.com/dims4/default/3a67f71/2147483647/strip/true/crop/5369x3020+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fversant-production-golfchannel.s3.us-east-1.amazonaws.com%2Fbrightspot%2F4e%2F77%2Fe94d1f174193a952311580841fd3%2F26jr-0724-16244154-is1-4451.jpg",
+                "url": "https://www.golfchannel.com/usga/news/miles-russell-delivers-epic-performance-to-earn-spot-in-u-s-junior-final",
+                "source": "Golf Channel",
+                "date": "2026-07-24T23:41:54Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Patrick Mahomes consulted with Tom Brady, others during the rehab process",
+                "desc": "Patrick Mahomes has made a remarkable recovery from a torn ACL and LCL in his left knee.",
+                "image": "https://nbcsports.brightspotcdn.com/dims4/default/39373b7/2147483647/strip/true/crop/4441x2498+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F31%2F13%2Fb7e9327049fda45e7f4676e6dd1c%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F1400539564",
+                "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patrick-mahomes-consulted-with-tom-brady-others-during-the-rehab-process",
+                "source": "NBC Sports",
+                "date": "2026-07-24T23:21:53Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The Green Bay Packers announce an operating loss in 2025",
+                "desc": "The Micah Parsons trade was expensive for the Green Bay Packers in 2026",
+                "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2025/12/gettyimages-2250614569.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+                "url": "https://www.acmepackingcompany.com/green-bay-packers-news/84026/the-green-bay-packers-announce-an-operating-loss-in-2025",
+                "source": "Acme Packing Company",
+                "date": "2026-07-24T23:19:16Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Bryce Harper reacts to LeBron James signing with 76ers",
+                "desc": "PHILADELPHIA -- Nobody in Philly can relate more to LeBron James’ signing with the 76ers than Phillies superstar Bryce Harper.\nWhen news broke on Feb. 28, 2019, that Harper and the Phillies had agreed to a 13-year, $330 million contract, the excitement was immediate and real. The Phillies sold 100,000",
+                "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/fexid54fyihxsqtccoht.jpg",
+                "url": "https://www.mlb.com/news/bryce-harper-reacts-to-lebron-james-signing-with-76ers",
+                "source": "MLB.com",
+                "date": "2026-07-24T22:32:29Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Tony Romo arrested and booked on suspicion of impaired driving in Milwaukee",
+                "desc": "CBS football analyst and former Dallas Cowboys quarterback Tony Romo was arrested Thursday night in Milwaukee on suspicion of intoxicated driving, officials said.",
+                "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-07/260724-tony-romo-mn-1455-65b3f4.jpg",
+                "url": "https://www.nbcnews.com/news/us-news/former-cowboys-qb-tony-romo-booked-suspicion-impaired-driving-rcna589122",
+                "source": "NBC News",
+                "date": "2026-07-24T22:22:37Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Packers CEO says financial bump needed to stay competitive",
                 "desc": "Packers president/CEO Ed Policy said adjustments might be necessary as the NFL's only publicly owned franchise attempts to remain financially competitive in the long term.",
@@ -4282,62 +4336,8 @@
                 "source": "Los Angeles Times",
                 "date": "2026-07-24T03:15:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Former Fever player responds to Sophie Cunningham by alleging Indiana harassment cover-up",
-                "desc": "Indiana Fever face controversy after WNBA player Brianna Turner alleges the organization fired a staff member for sexual harassment amid Sophie Cunningham's trans athletes comments.",
-                "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/brianna-turner-aces-dallas-wings-fox-news_.jpg",
-                "url": "https://www.foxnews.com/outkick-sports/former-fever-player-responds-sophie-cunningham-alleging-indiana-harassment-cover-up",
-                "source": "Fox News",
-                "date": "2026-07-24T03:12:23Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Los Angeles Rams Reveal Two New Throwback",
-                "desc": "The \"Classic Sol\" and \"Fearsome White\" uniforms will complement the updated home and road designs the Rams revealed this spring.",
-                "image": "https://content.sportslogos.net/news/2026/07/1.jpg",
-                "url": "https://news.sportslogos.net/2026/07/23/los-angeles-rams-reveal-two-new-throwback-inspired-alternate-uniforms/football/",
-                "source": "SportsLogos.Net News",
-                "date": "2026-07-24T03:08:34Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Rams unveil two new alternate uniforms celebrating the franchise's championship legacy and iconic history",
-                "desc": "'Classic Sol' and 'Fearsome White' designs honor defining eras of Rams football while connecting the club's past with its future",
-                "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/rams/l8bfytsh8i4ghm41bgqa",
-                "url": "https://www.therams.com/news/rams-alternate-uniforms-celebrating-franchise-championship-legacy",
-                "source": "Rams",
-                "date": "2026-07-24T03:05:43Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Rams unveil Fearsome White, Classic Sol alternate uniforms ahead of 2026 NFL season",
-                "desc": "Los Angeles revealed two new alternate uniforms inspired by the franchise's storied history on Thursday night: Fearsome White and Classic Sol.",
-                "image": "https://static.www.nfl.com/image/upload/t_editorial_landscape_12_desktop/league/pe4otymnxjmvtfabp3sv",
-                "url": "https://www.nfl.com/news/rams-fearsome-white-classic-sol-alternate-uniforms-2026",
-                "source": "NFL.com",
-                "date": "2026-07-24T03:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "President Trump makes Shohei Ohtani, Yoshinobu Yamamoto joke on Dodgers’ White House visit",
-                "desc": "President Donald Trump was all smiles when he welcomed the Dodgers to the White House. Trump even cracked a few jokes with the team Thursday during the outdoor ceremony in...",
-                "image": "https://s.yimg.com/lo/mysterio/api/32086d242552663cc4066c8a472af483d2e24c5aa06d2411efe75fa576a7e62a/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fny_post_sports_articles_389%2Fcddf31476832729b7ed114e99acac944",
-                "url": "https://sports.yahoo.com/articles/president-trump-makes-shohei-ohtani-024625086.html",
-                "source": "Yahoo Sports",
-                "date": "2026-07-24T02:46:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Dodgers visit Trump at White House to celebrate World Series win",
-                "desc": "Most of the Dodgers' roster reported to the White House on Thursday, meeting with President Trump to celebrate their 2025 championship despite fan backlash.",
-                "image": "https://ca-times.brightspotcdn.com/dims4/default/61f65b3/2147483647/strip/true/crop/5943x3120+0+0/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F13%2Fa9%2F54e199404525a23b737eea180b0b%2F2287370520.jpg",
-                "url": "https://www.latimes.com/sports/dodgers/story/2026-07-23/dodgers-visit-trump-at-white-house-to-celebrate-world-series-win",
-                "source": "Los Angeles Times",
-                "date": "2026-07-24T02:20:43Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-25T10:20:41.609096Z"
+    "lastGlobalSync": "2026-07-25T11:56:59.350483Z"
 }
