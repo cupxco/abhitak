@@ -2,6 +2,42 @@
     "hi": {
         "general": [
             {
+                "title": "'प्रधान को हटाकर प्रधानमंत्री को बचा लिया', अखिलेश यादव का हमला, कहा- चढ़ावा न बचा पाए, पेपर लीक क्या रोकेंगे",
+                "desc": "Paper Leak issue in Lok Sabha: लोकसभा में केंद्र सरकार पर बरसते हुए सपा अध्यक्ष अखिलेश यादव ने कहा कि ये सरकार राम मंदिर का चढ़ावा नहीं बचा पाए, तो पेपर लीक को कैसे रोक पाएगी।",
+                "image": "https://static.langimg.com/nbt/thumb/132681231/akhilesh-yadav-speech-in-lok-sabha.jpg?imgsize=625089&width=1600&height=900&resizemode=75",
+                "url": "https://navbharattimes.indiatimes.com/state/uttar-pradesh/lucknow/akhilesh-yadav-target-pm-modi-on-paper-leak-issue-in-lok-sabha/articleshow/132681245.cms",
+                "source": "Navbharat Times",
+                "date": "2026-07-28T10:00:31Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "पीओके में खून की नदी बहाकर शहबाज की पार्टी ने जीती मीरपुर की सभी 9 सीटें, नवाज शरीफ बनना चाहते पीएम",
+                "desc": "Pok Election: अनौपचारिक नतीजों से पता चलता है कि मीरपुर डिवीज़न के तीनों ज़िलों में PML-N ने ज़्यादातर सीटें जीतीं। रिपोर्ट के मुताबिक मीरपुर ज़िले में पार्टी ने डड्याळ और खारी शरीफ़ निर्वाचन क्षेत्र जीते। इसने भीमबर जिले के बरनाला, समाहनी और भीमबर निर्वाचन क्षेत्रों में भी जीत हासिल की।",
+                "image": "https://static.langimg.com/nbt/thumb/132681109/pok-election-result.jpg?imgsize=1187925&width=1600&height=900&resizemode=75",
+                "url": "https://navbharattimes.indiatimes.com/world/pakistan/pok-election-result-amid-violence-nawaz-sharif-party-pml-n-wins-9-of-13-mirpur-seats-in-first-phase/articleshow/132680865.cms",
+                "source": "Navbharat Times",
+                "date": "2026-07-28T09:56:40Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Avore EX Bike: 260KM रेंज, 799 रुपये में प्रीबुक, देसी कंपनी ने पेश की दमदार बाइक",
+                "desc": "भारतीय बाजार में एक नए ईवी ब्रांड की एंट्री हो गई है. हम बात कर रहे हैं एवोर की, जो पिछले कुछ समय से अपनी बाइक को टीज कर रहा था. कंपनी ने अपनी इलेक्ट्रिक बाइक्स को अनवील कर दिया है. ये बाइक्स प्रीबुकिंग के लिए उपलब्ध हैं. एवोर का टॉप मॉडल 260 किलोमीटर की रेंज और 114 किलोमीटर प्रति घंटे की टॉप स्पीड के साथ आता है.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a6877ddcdc16-avore-ex-283520161-16x9.jpg",
+                "url": "https://www.aajtak.in/auto/news/story/avore-ex-electric-bike-launch-price-range-features-auam-dskc-2610515-2026-07-28",
+                "source": "AajTak",
+                "date": "2026-07-28T09:45:35Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "पेपर लीक बिल पर बहस: सभी बड़े पदों पर RSS के लोग, NTA चीफ पर कार्रवाई क्यों नहीं; गौरव गोगोई ने सरकार को घेरा",
+                "desc": "Exam Amendment Bill Discussion Lok Sabha: नीट पेपर लीक समेत अलग-अलग मुद्दों को लेकर जंतर मंतर पर प्रदर्शन के बाद सरकार अब नया बिल जा रही है। नए परीक्षा संशोधन बिल पर लोकसभा में चर्चा चल रही। जितेंद्र सिंह ने इस चर्चा की शुरुआत की। उन्होंने कहा कि यूपीए सरकार में भी पेपर लीक होते थे। वहीं केंद्र पर कांग्रेस नेता गौरव गोगोई ने पलटवार किया।",
+                "image": "https://static.langimg.com/nbt/thumb/132680259/paper-leak-bill-discussion.jpg?imgsize=538465&width=1600&height=900&resizemode=75",
+                "url": "https://navbharattimes.indiatimes.com/india/public-examinations-prevention-of-unfair-means-amendment-bill-2026-jitiendra-singh-says-paper-leaks-occur-during-upa-government-as-well/articleshow/132680091.cms",
+                "source": "Navbharat Times",
+                "date": "2026-07-28T09:12:56Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "पाकिस्तान पहुंचा कॉकरोच जनता पार्टी का प्रोटेस्ट, Gen Z बोले- कहीं हमें आर्मी ना उठा ले",
                 "desc": "कॉकरोच जनता पार्टी के प्रदर्शन का असर पाकिस्तान के जेन जी पर भी देखने को मिल रहा है. अब वहां के युवा भी कथित अनियमितताओं के खिलाफ सड़क पर उतरने की बात कर रहे हैं.",
                 "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a68713ae1105-pakistans-last-major-student-led-mobilisation-came-in-2019--with-protesters-calling-for-the-revival-280702339-16x9.jpeg",
@@ -504,45 +540,54 @@
                 "source": "AajTak",
                 "date": "2026-07-27T16:50:28Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "बिंदियारानी देवी ने कॉमनवेल्थ गेम्स 2026 में जीता ब्रॉन्ज मेडल, भारत को मिला छठा पदक",
-                "desc": "बिंदियारानी देवी ने ग्लास्गो में चल रहे कॉमनवेल्थ गेम्स 2026 में भारत को 58 किलो ग्राम भार वर्ग में वेटलिफ्टिंग में कांस्य पदक दिलाया है। भारत का यह 6वां पदक है। उन्होंने स्नैच में 87 किलोग्राम और क्लीन एंड जर्क में 112 किलोग्राम भार उठाया, कुल मिलाकर 199 किलोग्राम का वजन उठाकर कांस्य जीता।, Other-sports Hindi News - Hindustan",
-                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/07/27/1600x900/logo/PTI07-27-2026-000485A-0_1785170282541_1785170291773_b2e0a4c0-35a6-44da-8799-e0ea182e43b5.jpg",
-                "url": "https://www.livehindustan.com/cricket/bindyarani-devi-won-a-bronze-medal-at-2026-commonwealth-games-adding-to-indias-medal-tally-201785170148761.html",
-                "source": "Hindustan",
-                "date": "2026-07-27T16:42:04Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "बिहार सरकार भी छात्रों के आगे झुकी, प्रदर्शन के दौरान दर्ज सारे केस वापस लेने का ऐलान",
-                "desc": "Bihar Student Cases: बिहार की सम्राट चौधरी सरकार भी छात्रों के प्रदर्शन के आगे झुक गई है। सरकार ने छात्रों पर दर्ज सारे केस वापस लेने का ऐलान कर दिया है। जानिए सरकार ने क्या कहा है अपने ताजा बयान में।",
-                "image": "https://static.langimg.com/nbt/thumb/132666151/student-protest-fir-will-be-taken-back-in-bihar.jpg?imgsize=198176&width=1600&height=900&resizemode=75",
-                "url": "https://navbharattimes.indiatimes.com/state/bihar/patna/bihar-government-will-take-back-all-cases-which-was-lodged-against-student-in-bihar-protest/articleshow/132665900.cms",
-                "source": "Navbharat Times",
-                "date": "2026-07-27T16:24:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "बड़े सुधारों की तैयारी में मोदी सरकार: सचिवों को दिए 3 टास्क, मंगलवार को पीएम के साथ होगी मीटिंग",
-                "desc": "सरकार पश्चिम एशिया संकट के प्रभाव से अर्थव्यवस्था को उबारने और विकसित भारत के लक्ष्य को प्राप्त करने के लिए बड़े सुधारों की ओर बढ़ रही है। प्रधानमंत्री मोदी आज सचिवों के साथ बैठक करेंगे, जिसमें वे चुनौतियों, अंतर-विभागीय सहयोग और सुधारों पर अपनी रिपोर्ट प्रस्तुत करेंगे।",
-                "image": "https://www.jagranimages.com/images/2026/07/27/article/image/PM-Modi-(34)-1785165266242_m.webp",
-                "url": "https://www.jagran.com/news/national-pm-modi-gave-3-tasks-to-secretaries-for-major-government-reforms-40321176.html",
-                "source": "Jagran",
-                "date": "2026-07-27T16:21:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "जंतर-मंतर पर खाना खिलाने वाले जुनैद का आया वीडियो, कहा- अभिजीत ने नहीं किया फोन, CJP दे मेरा साथ",
-                "desc": "दिल्ली के जंतर-मंतर पर छात्रों को भोजन-पानी उपलब्ध कराने वाले जुनैद मलिक इस समय चर्चा में बने हुए हैं। उनका एक और वीडियो सामने आया है, जिसमें उन्होंने सीजेपी पर सवाल उठाए हैं।",
-                "image": "https://static.langimg.com/nbt/thumb/132666110/abhijeet-dipke.jpg?imgsize=132522&width=1600&height=900&resizemode=75",
-                "url": "https://navbharattimes.indiatimes.com/state/uttar-pradesh/ghaziabad/mohammad-junaid-said-neither-abhijit-dipke-nor-cjp-spokesperson-called/articleshow/132666111.cms",
-                "source": "Navbharat Times",
-                "date": "2026-07-27T16:20:45Z",
-                "priority": "STANDARD"
             }
         ],
         "business": [
+            {
+                "title": "Avore EX Bike: 260KM रेंज, 799 रुपये में प्रीबुक, देसी कंपनी ने पेश की दमदार बाइक",
+                "desc": "भारतीय बाजार में एक नए ईवी ब्रांड की एंट्री हो गई है. हम बात कर रहे हैं एवोर की, जो पिछले कुछ समय से अपनी बाइक को टीज कर रहा था. कंपनी ने अपनी इलेक्ट्रिक बाइक्स को अनवील कर दिया है. ये बाइक्स प्रीबुकिंग के लिए उपलब्ध हैं. एवोर का टॉप मॉडल 260 किलोमीटर की रेंज और 114 किलोमीटर प्रति घंटे की टॉप स्पीड के साथ आता है.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a6877ddcdc16-avore-ex-283520161-16x9.jpg",
+                "url": "https://www.aajtak.in/auto/news/story/avore-ex-electric-bike-launch-price-range-features-auam-dskc-2610515-2026-07-28",
+                "source": "AajTak",
+                "date": "2026-07-28T09:45:35Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "एल्यूमिनियम फॉइल ट्रिक: क्या राउटर पर फॉइल लपेटने से सच में बढ़ती है इंटरनेट स्पीड?",
+                "desc": "सोशल मीडिया पर वायरल वाई-फाई स्पीड बढ़ाने वाले एल्यूमीनियम फॉइल हैक से क्या सच में इंटरनेट की स्पीड बेहतर होती है।",
+                "image": "https://www.jagranimages.com/images/2026/07/28/article/image/wifi-hack-1785228202182_m.webp",
+                "url": "https://www.jagran.com/technology/tech-guide-aluminum-foil-wifi-hack-does-it-really-boost-internet-speed-40321779.html",
+                "source": "Jagran",
+                "date": "2026-07-28T09:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "3 बोनस शेयर, 10 टुकड़ों में शेयरों का बंटवारा, पेनी स्टॉक में लगा अपर सर्किट",
+                "desc": "A-1 Limited के शेयरों में आज मंगलवार को अपर सर्किट लगा है। पेनी स्टॉक का दाम 10 रुपये से भी कम है। कंपनी ने तिमाही नतीजों का ऐलान किया है। , Share-market Hindi News - Hindustan",
+                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/07/28/1600x900/logo/stock_market_1711093020592_1785230176673_feb79df7-f9ee-4311-beaf-49b48a6ef061.jpg",
+                "url": "https://www.livehindustan.com/business/share-market/penny-stock-a-1-limited-share-hit-upper-circuit-after-q1-result-201785230024531.html",
+                "source": "Hindustan",
+                "date": "2026-07-28T09:19:03Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Silver Price Crash: क्या ₹2 लाख से नीचे फिसलेगी चांदी? अचानक आज बड़ी गिरावट",
+                "desc": "Gold-Silver Rate Fall: मंगलवार को कमोडिटी मार्केट में कारोबार ओपन होने के साथ ही सोना-चांदी की कीमतों में बड़ी गिरावट आई है. इसके बाद अब 1 Kg Silver Price वायदा बाजार में अपने हाई से 2.03 लाख रुपये तक सस्ती हो गई है.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a6840e09522e-silver-crash-gold-fall-080146754-16x9.jpg",
+                "url": "https://www.aajtak.in/business/utility/story/silver-price-crash-today-gold-also-plunges-check-10-gram-24-karat-gold-rate-update-tutc-dskc-2610360-2026-07-28",
+                "source": "AajTak",
+                "date": "2026-07-28T09:11:22Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Kawasaki Ninja 300: दमदार इंजन और रेट्रो फीचर्स, लॉन्च हुई धांसू बाइक, इतनी है कीमत",
+                "desc": "Kawasaki Ninja 300 Launch: सुपरस्पोर्ट बाइक चाहने वालों की लिस्ट में निंजा के लिए एक अलग ही जगह है. ये बाइक काफी ज्यादा पॉपुलर है. कंपनी ने इसका लेटेस्ट वर्जन लॉन्च कर दिया है, जिसमें पुराने के मुकाबले कोई बड़ा बदलाव नहीं किया गया है. बाइक लिमो ग्रीन कलर में आती है. आइए जानते हैं इसकी कीमत और फीचर्स.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a6869aeaab96-kawasaki-ninja-300-283449128-16x9.jpg",
+                "url": "https://www.aajtak.in/auto/news/story/kawasaki-ninja-300-update-launch-price-features-auam-dskc-2610461-2026-07-28",
+                "source": "AajTak",
+                "date": "2026-07-28T09:05:39Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "नई Brezza के 4 वेरिएंट, किसे खरीदना समझदारी?",
                 "desc": "Maruti Brezza Variants Explained: मारुती ब्रेजा के LXi, VXi, ZXi और ZXi Plus वेरिएंट्स में क्या अंतर है? जानिए अपनी जरूरत और बजट के हिसाब से कौन सा मॉडल खरीदना सबसे समझदारी भरा सौदा रहेगा.",
@@ -1037,54 +1082,27 @@
                 "source": "Hindustan",
                 "date": "2026-07-27T05:20:34Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "SBI फंड्स के IPO का कमाल! जुलाई में FPI निवेश ₹42,000 करोड़ पहुंचा, टूट गया फरवरी का रिकॉर्ड",
-                "desc": "ईरान युद्ध के बीच विदेशी निवेशकों ने भारतीय बाजार में जमकर बिकवाली की थी। लेकिन जुलाई में यह सिलसिला टूटता दिख रहा है। इस महीने अब तक वे नेट बायर रहे हैं। 24 जुलाई तक नेट FPI इक्विटी निवेश लगभग $1.6 बिलियन यानी करीब ₹14,946 करोड़ रहा।",
-                "image": "https://static.langimg.com/nbt/thumb/132652854/fpi-inflow-in-july.jpg?imgsize=674727&width=1600&height=900&resizemode=75",
-                "url": "https://navbharattimes.indiatimes.com/business/share-market/share-news/fpis-turn-net-buyers-in-july-breaking-a-four-month-streak-of-heavy-outflows/articleshow/132652575.cms",
-                "source": "Navbharat Times",
-                "date": "2026-07-27T05:09:34Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "2 हिस्सों में बंट रहा है यह स्टॉक, रिकॉर्ड डेट का कंपनी ने किया ऐलान, आज शेयरों में उछाल",
-                "desc": "JOJO Ltd Stock Split News: जोजो लिमिटेड के शेयरों का बंटवारा 2 हिस्सों में होने जा रहा है। कंपनी ने स्टॉक स्प्लिट के लिए रिकॉर्ड डेट का ऐलान कर दिया है। , Share-market Hindi News - Hindustan",
-                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/07/27/1600x900/logo/Stock_Split_News_1741417162521_1785126178271_4646bf9e-769d-47df-9df9-a35571a80cc7.jpeg",
-                "url": "https://www.livehindustan.com/business/share-market/jojo-ltd-stock-split-record-date-announced-check-share-jumps-201785126047824.html",
-                "source": "Hindustan",
-                "date": "2026-07-27T04:26:10Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "कम माइलेज की किचकिच खत्म! टाटा लाने जा रही 3 धाकड़ हाइब्रिड SUV, जानिए कब होंगी लॉन्च",
-                "desc": "टाटा मोटर्स का पूरा ध्यान अभी अपनी इलेक्ट्रिक कारों पर है। हालांकि, इसका मतलब ये नहीं है कि कंपनी हाइब्रिड गाड़ियों को भूल गई है। असल में, टाटा इस वक्त तीन नई हाइब्रिड कारों पर काम कर रही है।, Auto Hindi News - Hindustan",
-                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/07/27/1600x900/logo/Lower-Spec_Tata_Sierra_Interior_1763655527681_1763655536347_1785125653664_70a42531-9f17-48c5-8832-646da5e0d7d2.jpg",
-                "url": "https://www.livehindustan.com/auto/tata-is-set-to-launch-3-powerful-hybrid-suv-check-details-201785125469159.html",
-                "source": "Hindustan",
-                "date": "2026-07-27T04:15:27Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Stock Market Rally: विदेश से आई एक खबर, फिर खुलते ही शेयर बाजार में मचा गदर",
-                "desc": "US-Iran War में 13 दिनों की जोरदार जंग के बाद अब हमले रुके हुए हैं, डोनाल्ड ट्रंप की ओर से ईरान पर अटैक पर रोक लगाने की खबर आते ही दुनियाभर के शेयर बाजार बमबम हो गए हैं. भारतीय बाजार में सेंसेक्स खुलने के साथ ही 600 अंक से ज्यादा उछल गया.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a66d9166654e-stock-market-rise-094354764-16x9.jpg",
-                "url": "https://www.aajtak.in/business/news/story/stock-market-rally-sensex-nifty-surge-amid-us-iran-war-update-crude-oil-price-crash-vix-tutc-dskc-2609732-2026-07-27",
-                "source": "AajTak",
-                "date": "2026-07-27T04:07:11Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "बैटरी के साथ-साथ सूरज की रोशनी से भी चलेगी यह 4-सीटर इलेक्ट्रिक कार, रोज मिलेगी 50 KM फ्री रेंज",
-                "desc": "मार्केट में इलेक्ट्रिक कारों के साथ-साथ सोलर यानी की सूरज की रोशनी से चलने वाली कारें भी आ गई हैं। ऐसी ही एक छोटी कार है जिसका नाम है Solarky SunV। यह एक 4-सीटर कार है। बैटरी के साथ-साथ इस इलेक्ट्रिक कार की बैटरी सूरज की रोशनी से भी चार्ज होती है। इससे रोज कार को चलाने के लिए 50 KM की फ्री रेंज मिलती है। आइए आपको इस कार की खूबियों के बारे में जानकारी देते हैं।",
-                "image": "https://static.langimg.com/nbt/thumb/132651983/four-seater-electric-car-run-on-battery-with-sunlight-offer-50-km-free-range.jpg?imgsize=231852&width=1600&height=900&resizemode=75",
-                "url": "https://navbharattimes.indiatimes.com/auto/ev/four-seater-electric-car-run-on-battery-with-sunlight-offer-50-km-free-range/articleshow/132651983.cms",
-                "source": "Navbharat Times",
-                "date": "2026-07-27T04:01:53Z",
-                "priority": "STANDARD"
             }
         ],
         "entertainment": [
+            {
+                "title": "'निरहुआ ने गाने से निकलवाया', काजल राघवानी का आरोप, आम्रपाली से चिढ़ीं, बोलीं- मेरे साथ कोई नेता नहीं",
+                "desc": "रियलिटी शो भोजपुरी बवाल में काजल राघवानी ने निरहुआ पर आरोप लगाया कि उन्होंने आम्रपाली दुबे को फेवर करते हुए उन्हें गाने को हटवा दिया था. इस खुलासे पर निरहुआ और आम्रपाली ने कैसे रिएक्ट किया है. चलिए जानते हैं.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a6861683d41a-amrapali-dubey--nirhua-250949277-16x9.jpg",
+                "url": "https://www.aajtak.in/entertainment/bhojpuri/story/dinesh-lal-yadav-slams-kajal-raghwani-allegations-of-favoring-amrapali-dubey-bhojpuri-bawaal-industry-secrets-tmovh-dskc-2610421-2026-07-28",
+                "source": "AajTak",
+                "date": "2026-07-28T09:56:35Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "समय रैना ने फिर उड़ाया आलिया भट्ट का मजाक, बोले- उसकी भी नहीं…",
+                "desc": "आलिया भट्ट, समय रैना के शो इंडियाज गॉट लेटेंट के दूसरे सीजन के पहले एपिसोड की गेस्ट थीं। उस दौरान समय ने आलिया को काफी रोस्ट किया था। इतना ही नहीं अब तो एक बार फिर समय ने आलिया को रोस्ट किया।, Bollywood Hindi News - Hindustan",
+                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/07/28/1600x900/logo/askl_1785232156496_1785232165816_14732282-2808-4284-a796-8dafed544948.jpg",
+                "url": "https://www.livehindustan.com/entertainment/bollywood/samay-raina-takes-hilarious-dig-at-alia-bhatt-alpha-failure-201785231177036.html",
+                "source": "Hindustan",
+                "date": "2026-07-28T09:50:12Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Batwara 1947 Trailer: 'मंदिर तोड़ना इस्लाम नहीं', सनी देओल मसीहा बनकर लौटे, प्रीति जिंटा जंचीं, छा गए अली फजल",
                 "desc": "आमिर खान प्रोडक्शंस की बहुप्रतीक्षित फिल्म 'बंटवारा 1947' का ट्रेलर रिलीज हो गया है, जिसका निर्देशन राजकुमार संतोषी ने किया है और इसमें शबाना आजमी, सनी देओल और प्रीति जिंटा लीड रोल्स में हैं। ये पार्टिशन डे यानी 14 अगस्त 2026 को सिनेमाघरों में रिलीज होगी।",
@@ -1606,27 +1624,36 @@
                 "source": "ABP News",
                 "date": "2026-07-27T09:26:26Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "'जनता की सेवा के लिए...', एक्टर धनुष की राजनीति में एंट्री के लगने लगे कयास",
-                "desc": "धनुष के जन्मदिन से पहले उनके फैन क्लबों द्वारा बड़े पैमाने पर कल्याणकारी कार्यक्रम शुरू करने से उनकी राजनीतिक एंट्री की अटकलें तेज हो गई हैं।\nधनुष ने अपने प्रशंसकों से समाज सेवा और एकता का उपयोग लोगों की भलाई के लिए करने का आग्रह किया है, जिससे उनके भविष्य के इरादों पर सवाल उठ रहे हैं।",
-                "image": "https://www.jagranimages.com/images/2026/07/27/article/image/Dhanush-Entry-In-Politics-Buzz-1785143024690_m.webp",
-                "url": "https://www.jagran.com/news/national-actor-dhanush-to-join-politics-what-triggered-the-buzz-know-details-40320703.html",
-                "source": "Jagran",
-                "date": "2026-07-27T09:04:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "बिकिनी में बोल्ड हुईं टाइगर श्रॉफ की बहन, भीगी जुल्फों में दिखाई अदाएं, अफगानी BF संग रोमांटिक हुईं कृष्णा श्रॉफ",
-                "desc": "कृष्णा ने वेकेशन की कई तस्वीरें सोशल मीडिया पर फैंस संग शेयर की हैं. वेकेशन की फोटोज में कृष्णा अपने स्वीटहार्ट अब्दुल अजीम बदख्शी संग क्वालिटी टाइम स्पेंड करती हुई नजर आईं.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/photo_gallery/202607/6a670f34f3d1b-krishna-shroff-slayed-in-bikini-275631581-16x9.jpg",
-                "url": "https://www.aajtak.in/entertainment/bollywood-news/photo/krishna-shroff-bikini-bold-photos-ice-bath-gets-romantic-with-afghanistani-boyfriend-interfaith-marriage-tmovf-2609845-2026-07-27",
-                "source": "AajTak",
-                "date": "2026-07-27T08:23:31Z",
-                "priority": "STANDARD"
             }
         ],
         "sports": [
+            {
+                "title": "फुटबॉल के मैदान पर 36 साल के बॉलीवुड स्टार की एंट्री, डूरंड कप में करेगा डेब्यू",
+                "desc": "बॉलीवुड स्टार टाइगर श्रॉफ डूरंड कप 2026 में Mumbay FC की ओर से प्रोफेशनल फुटबॉल खेलते नजर आ सकते हैं. जानिए कब हो सकता है उनका डेब्यू और क्या है पूरी कहानी.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a687746d4bb4-tiger-shroff-280407175-16x9.jpg",
+                "url": "https://www.aajtak.in/sports/football/story/tiger-shroff-mumbay-fc-durand-cup-2026-football-debut-tspok-dskc-2610496-2026-07-28",
+                "source": "AajTak",
+                "date": "2026-07-28T09:51:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "जसप्रीत बुमराह अभी जवान हैं, खुद को फिट रखने का तरीका खोजना होगा, महान गेंदबाज ने दिया सुझाव",
+                "desc": "जसप्रीत बुमराह से महान गेंदबाज ग्लेन मैकग्रा ने अपने करियर को लंबा खींचने का आग्रह किया है। उन्होंने कहा है कि यह तो आखिरकार बुमराह को ही तय करना होगा कि अपने करियर को कैसे और लंबा कर सकते हैं। , Cricket Hindi News - Hindustan",
+                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/07/28/1600x900/logo/Jasprit_Bumrah__1785231580516_1785231580681_83aa0a46-c0d0-4631-8a18-910fb3b51433.jpg",
+                "url": "https://www.livehindustan.com/cricket/glenn-mcgrath-urges-jasprit-bumrah-to-prolong-his-career-201785231460996.html",
+                "source": "Hindustan",
+                "date": "2026-07-28T09:48:51Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "कोहली की बेशकीमती सलाह का पालन नहीं कर पाए संजू सैमसन, बोले- मैं ट्रैक पर नहीं रह सका",
+                "desc": "संजू सैमसन ने विराट कोहली की बेशकीमती फिटनेस सलाह का पूरी तरह पालन नहीं किया। विकेटकीपर-बल्लेबाज ने खुद इसका खुलासा किया है। सैमसन ने भारत को टी20 वर्ल्ड कप जिताने में अहम रोल निभाया था।, Cricket Hindi News - Hindustan",
+                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/07/28/1600x900/logo/Sanju_Samson_on_Virat_Kohli_fitness_advice_1785229679700_1785229686051_6cefc45f-1a05-497b-9f4d-0e87da21bf7c.jpg",
+                "url": "https://www.livehindustan.com/cricket/sanju-samson-could-not-follow-virar-kohlis-valuable-fitness-advice-says-i-could-not-stay-on-track-with-that-201785229309936.html",
+                "source": "Hindustan",
+                "date": "2026-07-28T09:27:58Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "एक्टर से फुटबॉलर बने टाइगर श्रॉफ, जानें किस दिन होगा प्रोफेशनल डेब्यू!",
                 "desc": "Tiger Shroff: एक्टर टाइगर श्रॉफ फुटबॉल में अपना प्रोफेशनल डेब्यू करने के लिए पूरी तरह से तैयार हैं. उन्हें मुंबई FC की टीम का हिस्सा बना लिया गया है.",
@@ -2139,38 +2166,92 @@
                 "source": "ABP News",
                 "date": "2026-07-27T06:34:13Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "अभिषेक शर्मा का दर्द देखकर पिघला सूर्यकुमार यादव का दिल, पूर्व कप्तान ने एक कमेंट से लूट ली महफिल",
-                "desc": "भारतीय सलामी बल्लेबाज अभिषेक शर्मा हाल के दिनों में संघर्ष करते हुए नजर आए हैं। उनके बुरे दौर में पूर्व कप्तान सूर्यकुमार यादव ने साथ दिया है।",
-                "image": "https://static.langimg.com/nbt/thumb/132654041/suryakumar-yadav-abhishek-sharma.jpg?imgsize=163262&width=1600&height=900&resizemode=75",
-                "url": "https://navbharattimes.indiatimes.com/sports/cricket/cricket-news/suryakumar-yadav-comment-on-abhishek-sharma-post-after-zimbabwe-tour-end/articleshow/132654019.cms",
-                "source": "Navbharat Times",
-                "date": "2026-07-27T06:28:12Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "संजू सैमसन के साथ नाइंसाफी, अभिषेक शर्मा को इतने मौके क्यों? भड़के एक्सपर्ट्स",
-                "desc": "संजू सैमसन को यूके के खराब दौरे के बाद टीम से बाहर कर दिया गया, वहीं लगातार खराब प्रदर्शन कर रहे अभिषेक शर्मा को क्यों टीम मैनेजमेंट से इतना सपोर्ट मिल रहा है? एक्सपर्ट्स इससे काफी नाराज हैं।, Cricket Hindi News - Hindustan",
-                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/07/27/1600x900/logo/vaibhav_abhishek_sanju_1782371814366_1782371820800_70b9e358-edc7-452a-8ec8-15470936954d_1785133207457_4e4f4b56-ce91-455f-b2a5-c6e7f40bb896.jpg",
-                "url": "https://www.livehindustan.com/cricket/sanju-samson-is-being-unfairly-treated-why-is-abhishek-sharma-getting-so-many-chances-experts-are-furious-201785132139374.html",
-                "source": "Hindustan",
-                "date": "2026-07-27T06:20:53Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "रेप केस के चलते करियर पर लगा था ब्रेक, अब नई टीम के लिए मैदान पर उतरेगा ये IPL स्टार",
-                "desc": "यश दयाल के पास अब खुद को साबित करने का सबसे बड़ा मौका है. अब सभी की नजर इस बात पर होगी कि क्या छत्तीसगढ़ टीम की जर्सी पहनकर वह अपने करियर को नई उड़ान दे पाते हैं या नहीं. यश दयाल आईपीएल 2025 में रॉयल चैलेंजर्स बेंगलुरु का हिस्सा थे.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a66f5e4c3fc0-yash-dayal-270831480-16x9.jpg",
-                "url": "https://www.aajtak.in/sports/cricket/story/cricketer-yash-dayal-leaves-up-joins-chhattisgarh-domestic-cricket-ipl-rcb-tspoa-dskc-2609787-2026-07-27",
-                "source": "AajTak",
-                "date": "2026-07-27T06:13:21Z",
-                "priority": "STANDARD"
             }
         ]
     },
     "en": {
         "general": [
+            {
+                "title": "Donald Trump to deliver tribute during Lindsey Graham’s funeral service - US politics live",
+                "desc": "The Israeli prime minister, Benjamin Netanyahu, and the Ukrainian president, Volodymyr Zelenskyy, are scheduled to meet with the US president after attending Tuesday’s funeral",
+                "image": "https://i.guim.co.uk/img/media/4a6dc7acc03b8812a0176d236ef9a9fb1fbda694/764_0_3818_3055/master/3818.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=ce004c259c16337e296d92b916df0528",
+                "url": "https://www.theguardian.com/us-news/live/2026/jul/28/lindsey-graham-funeral-donald-trump-benjamin-netanyahu-volodymyr-zelenskyy-iran-israel-hormuz-ukraine-russia-latest-news-updates",
+                "source": "The Guardian",
+                "date": "2026-07-28T09:59:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "France issues heat warnings in wildfire-hit areas, as at least 63,000 evacuated near Madrid",
+                "desc": "French President Emmanuel Macron said his country was battling the “most severe” situation since World War II. Follow live updates.",
+                "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2287122823.jpg?c=16x9&q=w_800,c_fill",
+                "url": "https://www.cnn.com/2026/07/28/world/live-news/france-spain-wildfires-ww2",
+                "source": "CNN",
+                "date": "2026-07-28T09:49:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The timing of war and peace is not yours to decide, Iran tells US",
+                "desc": "Tehran's foreign ministry said Iran would not allow Washington to determine \"the timing of war and peace,\" as Trump claimed the Islamic Republic had requested negotiations and mediators sought to revive the collapsed interim deal.",
+                "image": "https://images.euronews.com/articles/stories/09/85/28/09/1200x675_cmsv2_23c552c7-ca82-5b3f-b1b9-1d582cb1e32f-9852809.jpg",
+                "url": "https://www.euronews.com/2026/07/28/the-timing-of-war-and-peace-is-not-yours-to-decide-iran-tells-us",
+                "source": "Euronews.com",
+                "date": "2026-07-28T09:43:49Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "As U.S. Pauses Strikes, Iran Is No Rush to Resume Cease-Fire Talks",
+                "desc": "Amid a reprieve in the fighting, Iran’s leaders are betting that they can endure more pain than President Trump and have leverage over the Strait of Hormuz, analysts say.",
+                "image": "https://static01.nyt.com/images/2026/07/28/multimedia/28int-iran-moment-tzvw/28int-iran-moment-tzvw-facebookJumbo.jpg",
+                "url": "https://www.nytimes.com/2026/07/28/world/middleeast/iran-war-us-trump.html",
+                "source": "The New York Times",
+                "date": "2026-07-28T09:40:04Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Sam Smith Shows a New Side on “Hazel Eyes”",
+                "desc": "After rising to global pop star status with songs about heartbreak, Smith returns with an album about pointedly queer “requited love,” made exactly how and where made them happiest.",
+                "image": "https://static01.nyt.com/images/2026/07/24/sam-smith-top-47666-cover/sam-smith-top-47666-cover-facebookJumbo.jpg",
+                "url": "https://www.nytimes.com/2026/07/28/arts/music/sam-smith-hazel-eyes-new-album.html",
+                "source": "The New York Times",
+                "date": "2026-07-28T09:01:03Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "What new Sixers fans need to know about LeBron James' next team",
+                "desc": "The Sixers gained an enormous number of new fans with LeBron James' decision on Friday. What should those suddenly invested in Sixers basketball know about this team?",
+                "image": "https://media.phillyvoice.com/media/images/2023-11-28T003903Z_186488514_M.d2516fba.fill-1200x630-c0.jpg",
+                "url": "https://www.phillyvoice.com/sixers-news-analysis-roster-lebron-james-depth-chart-nick-nurse-role-players-lineups-nba-free-agency/",
+                "source": "PhillyVoice",
+                "date": "2026-07-28T09:01:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Kevin Warsh can’t reopen the Strait of Hormuz",
+                "desc": "The public is fed up with the high cost of living, and the Federal Reserve is once again under pressure to act.",
+                "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2282087955.jpg?c=16x9&q=w_800,c_fill",
+                "url": "https://www.cnn.com/2026/07/28/economy/prices-iran-rates-fed-inflation",
+                "source": "CNN",
+                "date": "2026-07-28T09:00:25Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump shattered ethics norms. Will voters trust Democrats to fix them?",
+                "desc": "Democrats are making the case that now is the time to tackle anti-corruption reforms — to serve as a check on Donald Trump and to overhaul a system voters say is co-opted against their interests.",
+                "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x2250+0+209/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffa%2F28%2Faabb21854e73900d699abbb5d9ad%2Fgettyimages-2259830568.jpg",
+                "url": "https://www.npr.org/2026/07/28/nx-s1-5869808/family-trump-profit-corruption-voters-ethics-democrats",
+                "source": "NPR",
+                "date": "2026-07-28T09:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Washington says goodbye to Sen. Lindsey Graham",
+                "desc": "A special ceremony at the Capitol and a funeral service at the National Cathedral on Tuesday will be private, but both events will be livestreamed for the public.",
+                "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-08/240819-lindsey-graham-mb-1134-24015e.jpg",
+                "url": "https://www.nbcnews.com/politics/congress/washington-says-goodbye-sen-lindsey-graham-rcna589475",
+                "source": "NBC News",
+                "date": "2026-07-28T09:00:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Major 7.1 magnitude earthquake rocks southern Japan, injuring dozens",
                 "desc": "Multiple people were trapped in a collapsed mall in southern Japan Tuesday after a major earthquake hit the country and triggered a tsunami warning.",
@@ -2629,90 +2710,45 @@
                 "source": "Variety",
                 "date": "2026-07-27T19:49:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Galaxy S27 Ultra reportedly getting a major battery upgrade",
-                "desc": "If you had to pick one spec on Samsung’s top-end flagship that doesn’t feel all that “Ultra,” it’d probably be...",
-                "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/02/galaxy-s26-ultra-15.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-                "url": "https://9to5google.com/2026/07/27/samsung-galaxy-s27-ultra-battery-upgrade-rumor/",
-                "source": "9to5Google",
-                "date": "2026-07-27T19:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "What losing out on LeBron James means for Stephen Curry and the Warriors",
-                "desc": "In a summer full of NBA blockbuster moves, Golden State has come up empty once again.",
-                "image": "https://s.yimg.com/lo/mysterio/api/ec9961dc98da1e664702c03155824fc741a74201ce8b5601994b3949c67805ba/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-07%2Fc5c473ab-c8a2-4eef-b5de-478606b3f39b",
-                "url": "https://sports.yahoo.com/nba/article/what-losing-out-on-lebron-james-means-for-stephen-curry-and-the-warriors-192908211.html",
-                "source": "Yahoo Sports",
-                "date": "2026-07-27T19:29:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Wife of Eric Bieniemy shot in Ashburn; couple's son arrested, authorities say",
-                "desc": "The wife of Kansas City Chiefs offensive coordinator Eric Bieniemy was shot Sunday night in Virginia, allegedly by their son.",
-                "image": "https://media.nbcwashington.com/2026/07/image-37-2.png?resize=1200%2C675&quality=85&strip=all",
-                "url": "https://www.nbcwashington.com/news/local/northern-virginia/wife-of-eric-bieniemy-shot-in-ashburn-couples-son-arrested-authorities-say/4134672/",
-                "source": "NBC4 Washington",
-                "date": "2026-07-27T19:02:10Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The 8 Winners and 4 Losers of San Diego Comic-Con 2026",
-                "desc": "io9 picks the best and worst from this year’s massive pop culture gathering.",
-                "image": "https://gizmodo.com/app/uploads/2026/07/WinnersLosersSDCC-1200x675.jpg",
-                "url": "https://gizmodo.com/the-8-winners-and-4-losers-of-san-diego-comic-con-2026-2000791398",
-                "source": "Gizmodo",
-                "date": "2026-07-27T19:00:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Update Now: iOS 26.6 and macOS Tahoe 26.6 Patch Hundreds of Security Flaws",
-                "desc": "Apple today released iOS 26.6, iPadOS 26.6, and macOS Tahoe 26.6, all of which have a long list of security fixes. iOS 26.6 and iPadOS 26.6 address almost 90 security vulnerabilities affecting everything from the App Store to the Neural Engine. Multiple kernel and WebKit vulnerabilities were fixed, along with problems affecting Wi-Fi, Siri, and the iPhone's image processing. Details on all of the fixes can be found in Apple's security support document.",
-                "image": "https://images.macrumors.com/t/DP79CVusAMIqMynljMiYHm13LK8=/2016x/article-new/2026/03/apple-lock-security-bug-vulnerability-fix-privacy.jpg",
-                "url": "https://www.macrumors.com/2026/07/27/ios-26-6-security-fixes/",
-                "source": "MacRumors",
-                "date": "2026-07-27T18:55:37Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Trump touts tariffs and views drag races during Michigan visit",
-                "desc": "President Donald Trump says his economic policies have revived the auto industry and American manufacturing.",
-                "image": "https://dims.apnews.com/dims4/default/afaf3e7/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fba%2F24%2F54a25ce917f785a031eb50e954e3%2F363c25d4a4ae4f02a1d96b9d24b286d8",
-                "url": "https://apnews.com/article/trump-michigan-tariffs-economy-midterms-gm-7afc50b1ec74988e63880947efe0b818",
-                "source": "AP News",
-                "date": "2026-07-27T18:55:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Wife of Chiefs OC Eric Bieniemy shot in DC area; son in custody",
-                "desc": "The wife of Kansas City Chiefs offensive coordinator Eric Bieniemy was shot Sunday night outside Washington, D.C. Bieniemy's son is in custody.",
-                "image": "https://ewscripps.brightspotcdn.com/dims4/default/fc7863a/2147483647/strip/true/crop/1920x1008+0+36/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fd2%2F0a%2F5ab5fdc94538afe362c8ddd5e1f2%2Felijah-bieniemy.png",
-                "url": "https://www.kshb.com/sports/football/chiefs/report-wife-of-chiefs-oc-eric-bieniemy-shot-in-d-c-area-club-aware",
-                "source": "KSHB 41 Kansas City",
-                "date": "2026-07-27T17:34:25Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "MLB trade deadline buyers and sellers: Where all 30 teams stand with one week to go",
-                "desc": "It's a seller's market ahead of the Aug. 3 deadline",
-                "image": "https://sportshub.cbsistatic.com/i/r/2026/07/27/1c940b99-42c1-4550-b3e1-c42fd6680ef9/thumbnail/1200x675/efbc97cb3b0dbfa15ccef465307f97e9/vlad-getty-2.png",
-                "url": "https://www.cbssports.com/mlb/news/mlb-trade-deadline-buyers-sellers-one-week/",
-                "source": "CBS Sports",
-                "date": "2026-07-27T17:33:59Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Nvidia and OpenAI in talks for up to $250 billion dollar AI backstop",
-                "desc": "The backstop would let OpenAI raise debt for a data center campus in Pike County, Ohio, on the strength of Nvidia's credit.",
-                "image": "https://image.cnbcfm.com/api/v1/image/108316430-17805267702026-06-03t224450z_1708536359_rc2mmla7s69c_rtrmadp_0_usa-congress-openai.jpeg?v=1780674650&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/07/27/nvidia-and-openai-in-talks-for-up-to-250-billion-dollar-ai-backstop.html",
-                "source": "CNBC",
-                "date": "2026-07-27T17:32:53Z",
-                "priority": "STANDARD"
             }
         ],
         "business": [
+            {
+                "title": "This Startup Will Pay You To Provide Home Care For Your Loved Ones",
+                "desc": "Havi Nguyen grew up managing Medicaid for her family while working at her parents’ nail salon. Now the Abby Care founder is helping others navigate America’s byzantine health care programs by using her AI-powered app to become paid caregivers for loved ones.",
+                "image": "https://imageio.forbes.com/specials-images/imageserve/6a636b6944dc53d598e8d7a7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+                "url": "https://www.forbes.com/sites/richardnieva/2026/07/28/this-entrepreneur-will-pay-you-to-provide-home-care-for-your-loved-ones/",
+                "source": "Forbes",
+                "date": "2026-07-28T10:04:59Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "CENTENE CORPORATION REPORTS SECOND QUARTER 2026 RESULTS",
+                "desc": "-- Second Quarter GAAP Diluted Earnings Per Share of $2.19; Adjusted Diluted Earnings Per Share of $2.51 -- -- Increases 2026 GAAP Diluted EPS Guidance: Greater than $3.11 & Adjusted Diluted EPS...",
+                "image": "https://mmx.prnewswire.com/media/MS627489/Centene-Corporation-Logo.jpg?id=OA2796075&p=facebook",
+                "url": "https://investors.centene.com/2026-07-28-CENTENE-CORPORATION-REPORTS-SECOND-QUARTER-2026-RESULTS",
+                "source": "Centene",
+                "date": "2026-07-28T10:04:13Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "South Korea's Kospi share index plunges nearly 11% on selling of chipmaking stocks",
+                "desc": "South Korea's Kospi index has plunged nearly 11% on heavy selling of chipmaking stocks that have been battered recently by waves of fears that the boom in artificial intelligence may be a bubble.",
+                "image": "https://dims.apnews.com/dims4/default/ada0711/2147483647/strip/true/crop/5640x3758+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe9%2Fc8%2F537246b0d88bb6399963277d7e9d%2F740f52d9bb64498f9b2e5afd608cb7a6",
+                "url": "https://apnews.com/article/stock-markets-ai-chips-oil-a880057323bd065c325ad19b23de0cf3",
+                "source": "AP News",
+                "date": "2026-07-28T09:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Kevin Warsh can’t reopen the Strait of Hormuz",
+                "desc": "The public is fed up with the high cost of living, and the Federal Reserve is once again under pressure to act.",
+                "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2282087955.jpg?c=16x9&q=w_800,c_fill",
+                "url": "https://www.cnn.com/2026/07/28/economy/prices-iran-rates-fed-inflation",
+                "source": "CNN",
+                "date": "2026-07-28T09:00:25Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Made by AI? EU tells firms to stick a label on it from Sunday",
                 "desc": "Deepfakes and other AI-generated content must be labelled from Sunday, as the European Union's sweeping artificial intelligence transparency rules kick in.Of particular concern for the EU are deepfake...",
@@ -3216,45 +3252,45 @@
                 "source": "KFF Health News",
                 "date": "2026-07-27T09:00:42Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "How Meta Got Everything It Wanted in a Secret Louisiana Data Center Deal",
-                "desc": "A Times examination details how the Silicon Valley giant used private talks with local officials to start a project big enough to cover nearly six square miles.",
-                "image": "https://static01.nyt.com/images/2026/02/21/multimedia/21biz-ai-backlash-meta-lqfh/21biz-ai-backlash-meta-lqfh-facebookJumbo.jpg",
-                "url": "https://www.nytimes.com/2026/07/27/technology/meta-data-center-louisiana.html",
-                "source": "The New York Times",
-                "date": "2026-07-27T09:00:20Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Former Netflix Exec Sues After Losing a $1.1 Million Job, Says Medically Prescribed Ketamine Disclosure L",
-                "desc": "Former Netflix VP Kevin Baillie sued the company, claiming he was fired after disclosing prescribed ketamine therapy.",
-                "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/07/27/Hand-Holding-A-Smartphone-With-Netflix-L.jpg",
-                "url": "https://www.benzinga.com/news/legal/26/07/60688041/former-netflix-exec-sues-after-losing-a-1-1-million-job-says-medically-prescribed-ketamine-disclosure-led-to-his-firing",
-                "source": "Benzinga",
-                "date": "2026-07-27T07:55:37Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Mamdani’s Grocery Stores Will Offer 30 Percent Discount on Some Products",
-                "desc": "Mayor Zohran Mamdani’s five city-owned grocery stores will provide a 30 percent discount on produce, meat, bread and milk.",
-                "image": "https://static01.nyt.com/images/2026/07/27/multimedia/27met-mamdani-groceries-khfq/27met-mamdani-groceries-khfq-facebookJumbo.jpg",
-                "url": "https://www.nytimes.com/2026/07/27/nyregion/mamdani-grocery-stores-discount.html",
-                "source": "The New York Times",
-                "date": "2026-07-27T07:00:14Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Police chase suspect stops, fills full tank of gas mid-pursuit in Los Angeles County",
-                "desc": "A police chase suspect is in custody – but not before leading a dramatic half-hour pursuit across Los Angeles County.",
-                "image": "https://images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2026/07/1200/630/police-chase-suspect-stops-to-fill-gas-mid-pursuit.jpg?ve=1&tl=1",
-                "url": "https://www.foxla.com/news/los-angeles-police-chase-july-26-2026",
-                "source": "FOX 11 Los Angeles",
-                "date": "2026-07-27T04:17:48Z",
-                "priority": "STANDARD"
             }
         ],
         "entertainment": [
+            {
+                "title": "Lena Waithe Says Goodbye to ‘The Chi’",
+                "desc": "Her groundbreaking drama just ended after eight seasons. “I’m grateful that we’re going out when people still care,” she said.",
+                "image": "https://static01.nyt.com/images/2026/07/27/multimedia/27cul-lena-waithe-04-hqpf/27cul-lena-waithe-04-hqpf-facebookJumbo.jpg",
+                "url": "https://www.nytimes.com/2026/07/28/arts/television/lena-waithe-the-chi-end.html",
+                "source": "The New York Times",
+                "date": "2026-07-28T09:02:07Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "‘Wham! 10 Days in China’ Review: Pop Music History With a Secret Goal",
+                "desc": "The British pop duo Wham! was the first Western act of its kind to play mainland China. This documentary reveals the hidden agenda of the shows.",
+                "image": "https://static01.nyt.com/images/2026/07/28/multimedia/28cul-wham-review-ctgq/28cul-wham-review-ctgq-facebookJumbo.jpg",
+                "url": "https://www.nytimes.com/2026/07/28/movies/wham-10-days-in-china-review.html",
+                "source": "The New York Times",
+                "date": "2026-07-28T09:01:51Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Sam Smith Shows a New Side on “Hazel Eyes”",
+                "desc": "After rising to global pop star status with songs about heartbreak, Smith returns with an album about pointedly queer “requited love,” made exactly how and where made them happiest.",
+                "image": "https://static01.nyt.com/images/2026/07/24/sam-smith-top-47666-cover/sam-smith-top-47666-cover-facebookJumbo.jpg",
+                "url": "https://www.nytimes.com/2026/07/28/arts/music/sam-smith-hazel-eyes-new-album.html",
+                "source": "The New York Times",
+                "date": "2026-07-28T09:01:03Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Classicist Rips Into Christopher Nolan’s ‘The Odyssey, Calls It ‘Gimmicky’ And ‘Abysmal’",
+                "desc": "Christopher Nolan‘s “The Odyssey” has become one of the year’s most talked-about releases, earning praise from audiences and some critics. The Classicist Rips Into Christopher Nolan’s ‘The Odyssey, Ca...",
+                "image": "https://s.yimg.com/lo/mysterio/api/10624f6a46ac3af9999da20740710d76175ec2f0512fcec4f51f72d2daca42eb/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2Fc979292034c0d0fca1a85463d6100654",
+                "url": "https://www.yahoo.com/entertainment/movies/articles/classicist-rips-christopher-nolan-odyssey-090000997.html",
+                "source": "Yahoo",
+                "date": "2026-07-28T09:00:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Late Music Producer Tay Keith Left Behind Massive Estate When He Died",
                 "desc": "Music producer Tay Keith left behind a massive estate when he died, including a car collection and a home in Tennessee, TMZ has learned.",
@@ -3271,6 +3307,15 @@
                 "url": "https://nypost.com/2026/07/28/us-news/white-house-fires-back-after-john-mellencamp-mocks-trumps-gulf-of-america-during-concert/",
                 "source": "New York Post",
                 "date": "2026-07-28T05:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Jon Stewart Exposes Real Reason Donald Trump’s Jokes Bombed So Hard",
+                "desc": "Stewart couldn’t believe just how poorly Trump’s speech went.",
+                "image": "https://www.thedailybeast.com/resizer/v2/7GXT7WHIVRDADNXEQDI5QNI4G4.png?smart=true&auth=1948b9a633a065c42cbf221e7651bc946929e7da9a21e2249300b06240da01b3&width=1200&height=630",
+                "url": "https://www.thedailybeast.com/obsessed/jon-stewart-exposes-real-reason-donald-trumps-jokes-bombed-so-hard/",
+                "source": "The Daily Beast",
+                "date": "2026-07-28T05:04:00Z",
                 "priority": "STANDARD"
             },
             {
@@ -3749,54 +3794,63 @@
                 "source": "BroadwayWorld",
                 "date": "2026-07-27T13:37:32Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Oliver Tree's mom shares haunting final conversation with late singer at emotional memorial",
-                "desc": "Oliver Tree's mom, Christine Begin Nickell, detailed the last conversation she had with her son before his fatal helicopter crash during his celebration of life ceremony on Saturday.",
-                "image": "https://pagesix.com/wp-content/uploads/sites/3/2026/07/135653862.jpg?quality=75&strip=all&w=1200",
-                "url": "https://pagesix.com/2026/07/27/celebrity-news/oliver-trees-mom-shares-haunting-final-conversation-with-late-singer-at-emotional-memorial/",
-                "source": "Page Six",
-                "date": "2026-07-27T13:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Bon Jovi Close Out MSG Residency with Surprise Bruce Springsteen Duet Days After Ending Show Early Due to Sinus Infection",
-                "desc": "Springsteen joined longtime friend Jon Bon Jovi to sing “Who Says You Can’t Go Home” and “The Promised Land”",
-                "image": "https://s.yimg.com/lo/mysterio/api/1a6c761b094d37564862662142797ec81954295454586b409d90599892d1cd65/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F4d983205d77345485c478a925db4e6a8",
-                "url": "https://ca.news.yahoo.com/bon-jovi-close-msg-residency-131136674.html",
-                "source": "Yahoo News Canada",
-                "date": "2026-07-27T13:11:36Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "seen '80s star Kristy McNichol appears in 'fangirl' Carnie Wilson's selfie",
-                "desc": "\"Fangirl\" Carnie Wilson snapped a selfie with rarely-seen '70s star Kristy McNichol, sharing the surprise shot via Facebook.",
-                "image": "https://pagesix.com/wp-content/uploads/sites/3/2026/07/mcnichol-00.jpg?quality=75&strip=all&w=1200",
-                "url": "https://pagesix.com/2026/07/27/entertainment/rarely-seen-80s-star-kristy-mcnichol-appears-in-fangirl-carnie-wilsons-selfie/",
-                "source": "Page Six",
-                "date": "2026-07-27T13:07:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Carly Simon Reveals She Has Parkinson’s Disease",
-                "desc": "The singer-songwriter, 83, has also had surgery to treat basal cell carcinoma on her face, making her “self-conscious about being seen in public,” she said.",
-                "image": "https://static01.nyt.com/images/2026/07/27/nyregion/27cul-carly-simon/27cul-carly-simon-facebookJumbo.jpg",
-                "url": "https://www.nytimes.com/2026/07/27/arts/music/carly-simon-parkinsons.html",
-                "source": "The New York Times",
-                "date": "2026-07-27T11:50:09Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Carly Simon reveals she's been diagnosed with Parkinson's disease",
-                "desc": "The singer is speaking publicly for the first time about living with the disease.",
-                "image": "https://i.abcnewsfe.com/a/e8e630d9-31fa-44b1-8b82-5b0f84cb4b5f/CarlySimon-gty-sn-260726_1785099860867_hpMain_16x9.jpg?w=1600",
-                "url": "https://abcnews.com/GMA/Wellness/carly-simon-reveals-shes-diagnosed-parkinsons-disease/story?id=135105119",
-                "source": "ABC News - Breaking News, Latest News and Videos",
-                "date": "2026-07-27T11:39:36Z",
-                "priority": "STANDARD"
             }
         ],
         "sports": [
+            {
+                "title": "\"You're the guy that creates the rings\" - Derek Fisher shuts down claims LeBron James is ring-chasing in Philadelphia",
+                "desc": "Fisher says critics misunderstand LeBron's career, insisting he creates contenders instead of jumping onto them.",
+                "image": "https://s.yimg.com/lo/mysterio/api/c2d6d57d04229a274ac046901849c641a52ff6cde88d3c0b7578d67548c06d07/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbasketball_network_725%2F6fe5c425d3d26bda0d9bb503660dfe44",
+                "url": "https://sports.yahoo.com/articles/youre-guy-creates-rings-derek-065300568.html",
+                "source": "Yahoo Sports",
+                "date": "2026-07-28T10:05:59Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "NY Giants news: Training camp is almost here",
+                "desc": "New York Giants headlines for Tuesday",
+                "image": "https://platform.bigblueview.com/wp-content/uploads/sites/27/2025/12/gettyimages-2250992665.jpg?quality=90&strip=all&crop=0%2C10.726772140733%2C100%2C78.546455718535&w=1200",
+                "url": "https://www.bigblueview.com/new-york-giants-news/165972/training-camp-is-almost-here-previews-analysis",
+                "source": "Big Blue View",
+                "date": "2026-07-28T10:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Giants camp in W.Va.: Cool temps, plush grounds and some football",
+                "desc": "It's the summer of \"Country Roads,\" and the Giants are going to the place where they belong for camp, in West Virginia.",
+                "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0707%2Fr1686009_1296x729_16%2D9.jpg",
+                "url": "https://www.espn.com/nfl/story/_/id/49433032/new-york-giants-training-camp-wv-features-cool-temps-plush-grounds-fine-dining",
+                "source": "ESPN",
+                "date": "2026-07-28T10:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "2026 Fantasy Football: Wide receivers to avoid in drafts",
+                "desc": "Nathan Jahnke pinpoints five receivers who may not live up to their draft billing for the 2026 fantasy football season.",
+                "image": "https://media.pff.com/2025/11/Marvin-Harrison-Jr-scaled.jpg?w=1200&h=675",
+                "url": "https://www.pff.com/news/2026-fantasy-football-wide-receivers-to-avoid-in-drafts",
+                "source": "PFF",
+                "date": "2026-07-28T09:15:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "What new Sixers fans need to know about LeBron James' next team",
+                "desc": "The Sixers gained an enormous number of new fans with LeBron James' decision on Friday. What should those suddenly invested in Sixers basketball know about this team?",
+                "image": "https://media.phillyvoice.com/media/images/2023-11-28T003903Z_186488514_M.d2516fba.fill-1200x630-c0.jpg",
+                "url": "https://www.phillyvoice.com/sixers-news-analysis-roster-lebron-james-depth-chart-nick-nurse-role-players-lineups-nba-free-agency/",
+                "source": "PhillyVoice",
+                "date": "2026-07-28T09:01:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Disgraced Dodgers Interpreter Implicates Shohei Ohtani, Blames ‘Lifestyle’ For Illegal Gambling In Confession Release",
+                "desc": "The Los Angeles Dodgers’ former interpreter Ippei Mizuhara initially said he was “trying to make ends meet” before the slugger paid his debts.",
+                "image": "https://imageio.forbes.com/specials-images/imageserve/6a675e75a3e1c2f443064017/0x0.jpg?format=jpg&crop=3546,1993,x0,y99,safe&height=900&width=1600&fit=bounds",
+                "url": "https://www.forbes.com/sites/peterchawaga/2026/07/28/disgraced-dodgers-interpreter-implicates-shohei-ohtani-blames-lifestyle-for-illegal-gambling-in-confession-release/",
+                "source": "Forbes",
+                "date": "2026-07-28T09:00:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "8 Tour de France Stats That Show How Dominant Pogačar Truly Is",
                 "desc": "From winning five Tours faster than anyone to a record 189 distinctive jerseys, the stunning numbers behind the Pogacar dominance.",
@@ -4282,62 +4336,8 @@
                 "source": "NBC Sports",
                 "date": "2026-07-27T14:01:45Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Report: Commanders dismissed TE coach Ben Steele for violating team policy",
-                "desc": "The Commanders announced the departure of tight ends coach Ben Steele on Monday morning and declined further comment about why the offseason addition to Dan Quinn's staff was leaving the team just before the start of training camp.",
-                "image": "https://nbcsports.brightspotcdn.com/dims4/default/140ebf5/2147483647/strip/true/crop/4000x2250+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F91%2F6d%2Fb34f8f7444c4b6af67011517fb11%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F1767482997",
-                "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-commanders-dismissed-te-coach-ben-steele-for-violating-team-policy",
-                "source": "NBC Sports",
-                "date": "2026-07-27T14:00:28Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Commanders part ways with TEs coach Ben Steele after DWI arrest",
-                "desc": "The Commanders need a new TEs coach after dismissing Ben Steele",
-                "image": "https://platform.hogshaven.com/wp-content/uploads/sites/92/2026/07/gettyimages-1793799493.jpg?quality=90&strip=all&crop=0%2C2.8355898982882%2C100%2C37.400249767872&w=1200",
-                "url": "https://www.hogshaven.com/washington-commanders-news/426340/commanders-part-ways-tight-ends-coach-after-dui-arrest",
-                "source": "Hogs Haven",
-                "date": "2026-07-27T14:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Bills' New Alternate Jerseys Revealed in Epic Hype Trailer, 'We Are the Nickel City'",
-                "desc": "The Buffalo Bills are the latest team to unveil their revamped alternate uniforms for the 2026 season.",
-                "image": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/ap_images/2026-07/237dca2696d64c4fa0bce00bf11b3338/Bills_Dolphins_Football_14152_5259x2959_(0,273).jpg?w=1120&h=630",
-                "url": "https://bleacherreport.com/articles/25458319-bills-new-alternate-jerseys-revealed-epic-hype-trailer-we-are-nickel-city",
-                "source": "Bleacher Report",
-                "date": "2026-07-27T13:52:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Some More Stuff I Saw At The Tour de France",
-                "desc": "VARIOUS CITIES AND TOWNS, France — The Tour de France is over. I hope you enjoyed my 16 dispatches from France, on topics such as the race’s impossible future, how cycling solved sleep, the unforgiving life of a photographer, France’s vibrant unc ecosystem, and the chaotic frenzy of Alpe d’Huez. It was a privilege to be…",
-                "image": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/07/GettyImages-2287097359.jpg",
-                "url": "https://defector.com/some-more-stuff-i-saw-at-the-2026-tour-de-france",
-                "source": "Defector",
-                "date": "2026-07-27T13:44:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Tadej Pogačar's five-star Tour de France performance was his least stressful yet, and paved the way for his very promising successor - Philippa York analysis",
-                "desc": "Cyclingnews' expert columnist marvels at Pogačar's fifth Tour victory and searing Alpe d'Huez ascent, analyses his GC rivals' progression, and reflects on a memorable final stage",
-                "image": "https://cdn.mos.cms.futurecdn.net/SxFWtYXjE9RfzEwVnxSDYU-2000-80.png",
-                "url": "https://www.cyclingnews.com/pro-cycling/tadej-pogacars-five-star-tour-de-france-performance-was-his-least-stressful-yet-and-paved-the-way-for-his-very-promising-successor-philippa-york-analysis/",
-                "source": "Cyclingnews",
-                "date": "2026-07-27T11:35:39Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "NFL training camp 2026 storylines include Seahawks title defense, new coaches and QB battles",
-                "desc": "The Seahawks hope to become a rare repeat champ, while the Vikings and Browns are among the teams still deciding on a starting QB.",
-                "image": "https://static01.nyt.com/athletic/uploads/wp/2026/07/25154311/0724-storylines-1-scaled.jpg?width=1200&height=630&fit=cover",
-                "url": "https://www.nytimes.com/athletic/7466351/2026/07/27/nfl-training-camp-2026-storylines-seahawks-new-coaches/",
-                "source": "The New York Times",
-                "date": "2026-07-27T11:28:12Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-28T20:59:39.017513Z"
+    "lastGlobalSync": "2026-07-28T22:06:05.150756Z"
 }
