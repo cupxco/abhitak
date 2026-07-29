@@ -2,6 +2,96 @@
     "hi": {
         "general": [
             {
+                "title": "प्रियंका गांधी और अनुराग ठाकुर संसद में भिड़ गए, वजह थे आईआईटी के ये प्रोफ़ेसर",
+                "desc": "मंगलवार को कांग्रेस सांसद प्रियंका गांधी वाड्रा के नई शिक्षा सुधार समिति को लेकर दिए गए बयान पर बीजेपी सांसदों ने तीखी प्रतिक्रिया दी.",
+                "image": "https://ichef.bbci.co.uk/news/1200/branded_hindi/b39a/live/5e391890-8b0a-11f1-baef-9b9692338545.jpg",
+                "url": "https://www.bbc.com/hindi/articles/cp9e2392ml1o",
+                "source": "BBC",
+                "date": "2026-07-29T04:54:53Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Stock Market Rally: ये 3 कारण... शेयर बाजार में धुआंधार तेजी, सेंसेक्स 800 अंक उछला",
+                "desc": "Stock Market Surge: सप्ताह के तीसरे कारोबारी दिन भारतीय शेयर बाजार में तूफानी तेजी देखने को मिल रही है. कच्चे तेल की कीमतों में तगड़े उछाल के बाद भी सेंसेक्स-निफ्टी खुलते ही दौड़ लगाते नजर आए हैं.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a6982fd90301-stock-market-rally-095912944-16x9.jpg",
+                "url": "https://www.aajtak.in/business/news/story/stock-market-rally-amid-crude-oil-price-surge-iran-attack-hormuz-three-big-reason-behind-tutc-dskc-2610941-2026-07-29",
+                "source": "AajTak",
+                "date": "2026-07-29T04:48:33Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "अमेरिका से जंग में कमजोर पड़ा ईरान? चीन से की 400 एयर डिफेंस मिसाइल डील",
+                "desc": "ईरान ने चीन से 300-400 पोर्टेबल एयर डिफेंस मिसाइल सिस्टम (MANPADS) खरीदने का समझौता किया है. चीन ने इस रिपोर्ट को पूरी तरह निराधार बताया है. अगर यह डील पूरी होती है, तो US और इजरायल के साथ युद्ध के बाद ईरान की एयर डिफेंस क्षमता को बड़ा सहारा मिल सकता है.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a6983d9db142-china-iran-weapon-deal-293844564-16x9.png",
+                "url": "https://www.aajtak.in/defence-news/story/china-weapon-supply-iran-air-defense-purchase-transportation-pakistan-route-ntc-mnrd-dskc-2610936-2026-07-29",
+                "source": "AajTak",
+                "date": "2026-07-29T04:40:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "जापान: भूकंप से अब तक 13 लोगों की मौत, मलबे में दबे लोगों की तलाश जारी",
+                "desc": "यह भूकंप मंगलवार को स्थानीय समयानुसार शाम 4:27 बजे क्यूशू द्वीप के अंदरूनी हिस्से में आया था. अमेरिकी भूवैज्ञानिक सर्वेक्षण ने इसकी तीव्रता 6.8 बताई है.",
+                "image": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/80a1/live/1a2e9b50-8b07-11f1-b8ee-9b3c26ad07bb.jpg",
+                "url": "https://www.bbc.com/hindi/live/cjwxq537vj1t",
+                "source": "BBC",
+                "date": "2026-07-29T04:25:10Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'राहुल गांधी को शादी के लिए मनाओ', जब प्रियंका ने इरफान से कही ये बात",
+                "desc": "जंतर-मंतर पर आंदोलन के दौरान एक इंटरव्यू में इरफान ने श्रमिकों की समस्याओं पर चिंता जताई थी. श्रमिकों और मजदूरों के हालात पर चैनल से बात करते-करते इरफान भावुक हो गए थे.",
+                "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/29/9f9d233a9e7576d7947ccf1378c3312d17852989316761189_original.jpg?impolicy=abp_cdn&imwidth=1200",
+                "url": "https://www.abplive.com/news/india/priyanka-gandhi-says-to-viral-irfan-persuade-rahul-gandhi-to-get-married-cjp-protest-3167231",
+                "source": "ABP News",
+                "date": "2026-07-29T04:24:17Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Bhopal Farmers Protest: भोपाल में Gen-Z किसान आंदोलन! CM हाउस तक मार्च, मनवाएंगे ये दो मांगें",
+                "desc": "Bhopal Farmers Protest Today: भोपाल आने से पहले किसानों का यह आंदोलन 25 दिन से जिला मुख्यालयों में चल रहा था, लेकिन वहां प्रशासन और सरकार उनको नजरअंदाज कर रहे थे. इसलिए अब किसान सीएम आवास तक मार्च करेंगे.",
+                "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/29/7851b260b38bb0fcf977dd910fd86d0d1785298951347584_original.jpg?impolicy=abp_cdn&imwidth=1200",
+                "url": "https://www.abplive.com/states/madhya-pradesh/bhopal-farmers-protest-over-moong-procurement-msp-march-towards-cm-house-traffic-jam-3167229",
+                "source": "ABP News",
+                "date": "2026-07-29T04:22:59Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "31 जुलाई नहीं है ITR फाइल करने की आखिरी तारीख! जान लें आपके लिए क्या है नई डेडलाइन",
+                "desc": "Income Tax Return 2026 Deadline: इनकम टैक्स रिटर्न (ITR) फाइल करने की आखिरी तारीख को लेकर कई टैक्सपेयर्स के बीच भ्रम बना हुआ है। कुछ टैक्सपेयर्स को लगता है कि वे 31 जुलाई की जगह 31 अगस्त तक आईटीआर दाखिल कर सकते हैं।, Business Hindi News - Hindustan",
+                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/07/29/1600x900/logo/ITR_filing_deadlines_1784614712098_1784614724170_e832319d-04a8-4c91-967f-ee9187aab424_1785298750086_ed982640-4cc7-4fb5-b2aa-bf62f70234d5.jpeg",
+                "url": "https://www.livehindustan.com/business/income-tax-return-filing-deadline-is-not-31-july-2026-for-all-can-file-itr-till-31-august-201785298187075.html",
+                "source": "Hindustan",
+                "date": "2026-07-29T04:19:26Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Russia Oil: 'भारत पर लगाएंगे 100 प्रतिशत टैरिफ', अमेरिकी सांसदों का ऐलान, रूसी प्रतिबंधों पर सीनेट में वोट‍िंग",
+                "desc": "US India Tariffs Russia Oil Gas: अमेरिका की सीनेट में रूस पर प्रतिबंधों को लेकर एक ब‍िल पर वोटिंग होने जा रही है। इस बिल को अगर मंजूरी म‍िलती है तो भारत पर 100 फीसदी लगाया जा सकेगा। अमेरिकी सांसदों ने कहा है कि यह ब‍िल खासतौर पर चीन और भारत के ल‍िए है।",
+                "image": "https://static.langimg.com/nbt/thumb/132700033/trump-modi-putin.jpg?imgsize=210812&width=1600&height=900&resizemode=75",
+                "url": "https://navbharattimes.indiatimes.com/world/america/india-will-be-targeted-by-100-percent-us-tariffs-for-buying-russian-oil-gas-says-us-senator-senate-to-vote/articleshow/132699959.cms",
+                "source": "Navbharat Times",
+                "date": "2026-07-29T04:15:18Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "WI vs PAK Test: बाबर आजम की कप्‍तानी में पाकिस्‍तान का बेड़ागर्क, वेस्‍टइंडीज जीता और Justin Greaves बन गए हीरो",
+                "desc": "WI vs PAK Test Match Result:जस्टिन ग्रीव्स 7 विकेट की शानदार गेंदबाजी के चलते मेजबान वेस्‍टइंडीज ने पहले टेस्‍ट मैच में पाकिस्‍तान को 90 रन से करारी शिकस्‍त दी।",
+                "image": "https://www.jagranimages.com/images/2026/07/29/article/image/WI-vs-PAK-1st-Test-1785297175108_m.webp",
+                "url": "https://www.jagran.com/cricket/match-report-wi-vs-pak-1st-test-west-indies-beat-pakistan-by-90-runs-day-4-babar-azam-justin-greaves-shan-masood-40322545.html",
+                "source": "Jagran",
+                "date": "2026-07-29T03:57:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "दुनिया में भारत का जलवा, दूसरा सबसे बड़ा नाविक आपूर्तिकर्ता देश बना; नंबर-1 पर कौन?",
+                "desc": "भारत दुनिया में नाविकों का दूसरा सबसे बड़ा सप्लायर बन गया है, जिसकी वैश्विक समुद्री कार्यबल में 12.2 हिस्सेदारी है।\nBIMCO-ICS रिपोर्ट 2026 के अनुसार, भारत ने पिछले पांच सालों में अपनी हिस्सेदारी दोगुनी की है, जबकि फिलीपींस पहले स्थान पर है।",
+                "image": "https://www.jagranimages.com/images/2026/07/29/article/image/Indian-Sailor-1785296848553_m.webp",
+                "url": "https://www.jagran.com/news/national-india-become-second-largest-supplier-of-seafarers-indian-sailor-demand-high-globally-philippines-at-number-one-spot-40322529.html",
+                "source": "Jagran",
+                "date": "2026-07-29T03:54:00Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "किसान-छात्र और युवा... CJP नेताओं ने राकेश टिकैत से मिलकर बनाया नया प्लान",
                 "desc": "कॉकरोच जनता पार्टी (CJP) के नेताओं ने दिल्ली में किसान नेता राकेश टिकैत से मुलाकात कर किसानों, छात्रों और युवाओं का संयुक्त मोर्चा बनाने की बात कही. CJP का आरोप है कि आंदोलन के दौरान छात्रों पर दर्ज मामलों को सभी राज्यों में वापस नहीं लिया गया है.",
                 "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a697b972bf51-cjp-rakesh-tikait-290329750-16x9.jpg",
@@ -450,99 +540,45 @@
                 "source": "AajTak",
                 "date": "2026-07-28T13:03:30Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "क्या E20 पेट्रोल का इस्तेमाल करने पर रिजेक्ट हो सकता है इंश्योरेंस क्लेम? सरकार ने किया साफ",
-                "desc": "पेट्रोलियम मंत्रालय ने स्पष्ट किया है कि E20 पेट्रोल के इस्तेमाल से वाहन बीमा क्लेम रिजेक्ट नहीं किया जा सकता है।",
-                "image": "https://www.jagranimages.com/images/2026/07/28/article/image/E-20-AI--1785238625192_m.webp",
-                "url": "https://www.jagran.com/news/national-e20-petrol-use-wont-reject-insurance-claims-ministry-40321974.html",
-                "source": "Jagran",
-                "date": "2026-07-28T11:42:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "अचानक भारतीय कोच ने दिया इस्तीफा! IPL 2027 में फिर थामेंगे KKR का हाथ",
-                "desc": "Indian Coach: यूके दौरे पर टीम इंडिया के खराब प्रदर्शन के बाद कोच ने इस्तीफा दे दिया. इसके साथ बताया गया कि कोच एक बार फिर KKR के सपोर्ट स्टाफ का हिस्सा बनेंगे.",
-                "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/28/b7ced33ceedbeb1545fe5337b271e05917852385064931364_original.jpg?impolicy=abp_cdn&imwidth=1200",
-                "url": "https://www.abplive.com/sports/cricket/ryan-ten-doeschate-stepped-down-as-india-assistant-coach-news-set-to-join-kkr-ipl-2027-know-details-3167026",
-                "source": "ABP News",
-                "date": "2026-07-28T11:35:20Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "क्रिकेट में नहीं देखी होगी ऐसी बेईमानी, फील्डर ने चुटकी बजाकर किया ‘खेला’; वीडियो हुआ वायरल",
-                "desc": "Fielder Clicks Finger Video: इंग्लिश क्लब क्रिकेट का एक वीडियो जमकर वायरल हो रहा, जिसमें हैरान करने वाली बेईमानी का नजारा दिखा। सॉल्टबर्न के फील्डर ने चुटकी बजाकर बल्लेबाज को आउट करार देने पर मजबूर किया।, Cricket Hindi News - Hindustan",
-                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/07/28/1600x900/logo/Fielder_clicks_finger_Video_1785235896163_1785235901476_2eb39c26-5da6-474b-bb5d-3f693d603682.jpg",
-                "url": "https://www.livehindustan.com/cricket/you-may-not-have-seen-such-cheating-in-cricket-fielder-clicks-his-finger-and-umpire-gives-batsman-out-video-goes-viral-201785235634922.html",
-                "source": "Hindustan",
-                "date": "2026-07-28T11:32:25Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "सुप्रीम कोर्ट की शर्तें मंजूर नहीं; CJP बोली- हमने जो कहा वही हो",
-                "desc": "कॉकरोच जनता पार्टी के मुख्य प्रवक्ता सौरभ दास ने कहा है कि उन्हें सुप्रीम कोर्ट की शर्तें मंजूर नहीं है। उन्होंने कहा कि सरकार उनकी मांगों को ही पहले पूरा करे।, Ncr Hindi News - Hindustan",
-                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/07/28/1600x900/logo/cjp_and_supreme_court_1785237770476_1785237770797_942650f9-1cff-486e-90b7-42a8596f58ec.jpg",
-                "url": "https://www.livehindustan.com/ncr/whatever-the-supreme-court-says-should-be-in-addition-to-our-demands-says-cjp-201785237076072.html",
-                "source": "Hindustan",
-                "date": "2026-07-28T11:25:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "मंतर पर गोली चलाने की वकालत करने वाले हिंदुत्व विचारक टीजी मोहनदास से आरएसएस ने बनाई दूरी",
-                "desc": "राष्ट्रीय स्वयंसेवक संघ ने दक्षिणपंथी राजनीतिक विश्लेषक और हिंदुत्व विचारक टीजी मोहनदास की नई दिल्ली के जंतर-मंतर पर हाल में हुए स्टूडेंट्स प्रोटेस्ट पर की गई विवादित टिप्पणियों की निंदा की है.",
-                "image": "https://ichef.bbci.co.uk/news/1200/branded_hindi/0320/live/73d81520-8a6f-11f1-924e-bfa32777c3ff.jpg",
-                "url": "https://www.bbc.com/hindi/articles/c36d5krke76o",
-                "source": "BBC",
-                "date": "2026-07-28T10:59:28Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'तुम्हारे पांवों के नीचे कोई जमीन नहीं...' मां सुषमा स्वराज के अंदाज में लोकसभा में गरजीं बांसुरी, शायरी से विपक्ष पर प्रहार",
-                "desc": "लोकसभा में एंटी पेपर लीक बिल पर चर्चा के दौरान बीजेपी सांसद बांसुरी स्वराज ने अपने भाषण के अंत में दुष्यंत कुमार की शायरी सुनाकर विपक्ष पर तीखा निशाना साधा। उनके इस शायराना अंदाज से उनकी मां सुषमा स्वराज की प्रभावशाली संसदीय शैली की याद ताजा कर दी।",
-                "image": "https://static.langimg.com/nbt/thumb/132682587/bansuri-swaraj.jpg?imgsize=169920&width=1600&height=900&resizemode=75",
-                "url": "https://navbharattimes.indiatimes.com/india/bansuri-swaraj-anti-paper-leak-bill-debate-lok-sabha-dushyant-kumar-shayari-attack-on-opposition-a-glimpse-of-sushma-swaraj-style-was-seen/articleshow/132681328.cms",
-                "source": "Navbharat Times",
-                "date": "2026-07-28T10:56:32Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "ईरान के हमलों के बीच कुवैत भी पाकिस्तान से करेगा सैन्य समझौता, भारत के लिए क्या हैं मायने?",
-                "desc": "ईरान के हमलों के बीच कुवैत ने पाकिस्तान के साथ रक्षा समझौते को मंजूरी दे दी है। यह समझौता वैसा ही होगा जैसा पाकिस्तान ने पिछले साल सऊदी अरब के साथ किया था। कुवैत का पाकिस्तान के साथ पहले से ही रक्षा सहयोग समझौता है। ऐसे में इस नए रक्षा समझौते से भारत की परेशानी बढ़ सकती है।",
-                "image": "https://static.langimg.com/nbt/thumb/132682439/pakistan-kuwait-defense-pact.jpg?imgsize=139885&width=1600&height=900&resizemode=75",
-                "url": "https://navbharattimes.indiatimes.com/world/asian-countries/kuwait-to-sign-military-pact-with-pakistan-amid-iranian-attacks-what-does-this-mean-for-india/articleshow/132682471.cms",
-                "source": "Navbharat Times",
-                "date": "2026-07-28T10:52:56Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "29 साल बाद राजकुमार संतोषी संग सनी देओल, 'बंटवारा 1947' से रिपीट होगी हिस्ट्री? बोले- धमाल मचाएंगे",
-                "desc": "'बंटवारा 1947' के ट्रेलर लॉन्च पर सनी देओल ने 29 साल बाद राजकुमार संतोषी के साथ काम करने का अनुभव साझा किया. जानिए उन्होंने अपनी सुपरहिट जोड़ी, फिल्म और इमोशनल कहानी को लेकर क्या कहा.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a6886c9c1e1c-batwara-1947-trailer-launch-284102440-16x9.jpg",
-                "url": "https://www.aajtak.in/entertainment/bollywood-news/story/sunny-deol-rajkumar-santoshi-reunion-batwara-1947-trailer-launch-dedicated-to-mothers-tmova-dskc-2610563-2026-07-28",
-                "source": "AajTak",
-                "date": "2026-07-28T10:48:07Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ethanol Blending: E20 पेट्रोल इस्तेमाल करने पर इंश्योरेंस क्लेम खारिज हो सकता है? सरकार ने दी जानकारी",
-                "desc": "E20 Petrol Insurance Claim: E20 पेट्रोल को लेकर सरकार ने एक बड़ा क्‍लैरिफिकेशन दिया है। उसने साफ कहा है कि इसका इस्‍तेमाल करने पर इंश्‍योरेंस क्‍लेम खारिज नहीं किया जा सकता है। इसके पहले पेट्रोलियम मंत्रालय की ओर से इथेनॉल-ब्‍लेंडेड पेट्रोल से जुड़ी कई गलतफहमियों को दूर करने के लिए एक डिटेल्‍ड प्रेस रिलीज भी जारी की गई थी।",
-                "image": "https://static.langimg.com/nbt/thumb/132682176/e20-petrol-insurance-claim.jpg?imgsize=114545&width=1600&height=900&resizemode=75",
-                "url": "https://navbharattimes.indiatimes.com/personal-finance/insurance/ethanol-blending-can-insurance-claim-be-rejected-if-e20-petrol-is-used-govt-clarifies/articleshow/132682078.cms",
-                "source": "Navbharat Times",
-                "date": "2026-07-28T10:42:48Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "कल का मौसम 29 जुलाई: 11 घंटे के भीतर 16 राज्यों में तूफानी बारिश का अलर्ट, 90 की स्पीड से हवा; IMD अपडेट जारी",
-                "desc": "देश में मौसम एक बार फिर से बिगड़ने वाला है। मौसम विभाग की भविष्यवाणी के मुताबिक कल यानी 29 जुलाई को दिल्ली, यूपी, बिहार समेत 16 राज्यों में भारी बारिश और आंधी की चेतावनी जारी की गई है। इस दौरान 90 किलोमीटर प्रति घंटे की रफ्तार से तेज आंधी चलने वाली है। किसानों को सावधान रहने को कहा गया है।",
-                "image": "https://static.langimg.com/nbt/thumb/132682174/weather-tomorrow-29-july.jpg?imgsize=242297&width=1600&height=900&resizemode=75",
-                "url": "https://navbharattimes.indiatimes.com/india/tomorrow-weather-29-july-2026-thunderstorm-and-heavy-rain-alert-in-16-states-within-11-hours-wind-speed-up-to-90-kmph-delhi-up-bihar-tn-tempera/articleshow/132681900.cms",
-                "source": "Navbharat Times",
-                "date": "2026-07-28T10:41:22Z",
-                "priority": "STANDARD"
             }
         ],
         "business": [
+            {
+                "title": "Penny Stock: ₹6 से कम का शेयर, रोज लग रहा है अपर सर्किट",
+                "desc": "Penny issue under ₹6: लॉजिस्टिक सेक्टर की कंपनी A-1 लिमिटेड का शेयर आज भी अपर सर्किट में फंसा है। कल भी इसका शेयर अपर सर्किट में फंस कर बंद हुआ था। कंपनी ने कल ही इस साल की पहली तिमाही का परिणाम जारी किया है। इस दौरान कंपनी का प्रदर्शन बढ़िया रहा है।",
+                "image": "https://static.langimg.com/nbt/thumb/132701260/penny-stock-under-rs-6-hits-5-percent-upper-circuit-after-q1fy27-results.jpg?imgsize=170208&width=1600&height=900&resizemode=75",
+                "url": "https://navbharattimes.indiatimes.com/business/share-market/share-news/penny-stock-under-rs-6-hits-5-percent-upper-circuit-after-q1fy27-results/articleshow/132701277.cms",
+                "source": "Navbharat Times",
+                "date": "2026-07-29T04:59:22Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Stock Market Rally: ये 3 कारण... शेयर बाजार में धुआंधार तेजी, सेंसेक्स 800 अंक उछला",
+                "desc": "Stock Market Surge: सप्ताह के तीसरे कारोबारी दिन भारतीय शेयर बाजार में तूफानी तेजी देखने को मिल रही है. कच्चे तेल की कीमतों में तगड़े उछाल के बाद भी सेंसेक्स-निफ्टी खुलते ही दौड़ लगाते नजर आए हैं.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a6982fd90301-stock-market-rally-095912944-16x9.jpg",
+                "url": "https://www.aajtak.in/business/news/story/stock-market-rally-amid-crude-oil-price-surge-iran-attack-hormuz-three-big-reason-behind-tutc-dskc-2610941-2026-07-29",
+                "source": "AajTak",
+                "date": "2026-07-29T04:48:33Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "बुलेट से पावरफुल! TVS ने पेश की बच्चों की Apache मिनी बाइक",
+                "desc": "TVS Racing Bike for Kids: टीवीएस ने बच्चों के लिए नई रेसिंग मिनी बाइक अपाचे को लॉन्च किया है. जिसकी ताकत बुलेट से भी ज्यादा है.",
+                "image": "https://cf-img-a-in.tosshub.com/sites/visualstory/wp/2026/07/tvs-apache-mini-racing-kid-bike-ampITG-1785222202442.jpg?size=*:675",
+                "url": "https://www.aajtak.in/visualstories/auto/tvs-apache-rr-200-mini-racing-bike-launched-for-kids-feaures-specification-auaw-283901-29-07-2026",
+                "source": "AajTak",
+                "date": "2026-07-29T04:24:54Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Scorpio N Facelift: महिंद्रा ला रही नई स्कॉर्पियो N, नए इंटीरियर और शानदार फीचर्स के साथ जल्द होगी लॉन्च",
+                "desc": "Scorpio N महिंद्रा कंपनी की सबसे पॉपुलर गाड़ियों में से एक है। कंपनी इस एसयूवी का अपडेटेड मॉडल लॉन्च करने की तैयारी कर रही है। नए मॉडल को टेस्टिंग के दौरान देखा गया है, जिससे कार के इंटीरियर और एक्सटीरियर अपडेट्स के बारे में जानकारी मिली है। महिंद्रा इस फेसलिफ्ट मॉडल को अगले महीने तक लॉन्च कर सकती है। आइए आपको बताते हैं कि इसमें क्या कुछ खास देखने को मिल सकता है। ​",
+                "image": "https://static.langimg.com/nbt/thumb/132699583/mahindra-scorpio-n-facelift-soon-launch-in-india-with-new-features-and-updates.jpg?imgsize=303867&width=1600&height=900&resizemode=75",
+                "url": "https://navbharattimes.indiatimes.com/auto/car-bikes/mahindra-scorpio-n-facelift-soon-launch-in-india-with-new-features-and-updates/articleshow/132699583.cms",
+                "source": "Navbharat Times",
+                "date": "2026-07-29T03:54:50Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "बाढ़ ने रोकी Tata की रफ्तार! प्रोडक्शन बंद, इन कारों की सप्लाई पर पड़ सकता है असर",
                 "desc": "टाटा मोटर्स पैसेंजर व्हीकल्स लिमिटेड (TMPV) के लिए गुजरात का साणंद प्लांट काफी अहम है. यहां पर कंपनी की कई हाई डिमांड गाड़ियों की मैन्युफैक्चरिंग होती है. बाढ़ के चलते प्रोडक्शन बंद होने के कारण इन कारों के सप्लाई और डिलीवरी पर भी असर पड़ सकता है.",
@@ -1046,45 +1082,90 @@
                 "source": "Hindustan",
                 "date": "2026-07-28T00:06:33Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "चीन ने तरेरी आंख, US को दी जवाबी कार्रवाई की धमकी, जानें पूरा मामला",
-                "desc": "अमेरिका ने चीनी कंपनियों पर अमेरिकी मॉडल्स की 'डिस्टिलेशन' के जरिए कॉपी करने के आरोप लगाए थे. इस पर बीजिंग ने प्रतिक्रिया दी है और इन आरोपों को झूठा करार दिया.",
-                "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/27/de52debca87a70c234cf48bd96b884be17851688231841368_original.png?impolicy=abp_cdn&imwidth=1200",
-                "url": "https://www.abplive.com/news/world/china-retaliates-against-us-threats-of-investigations-and-sanctions-against-chinese-ai-companies-3166596",
-                "source": "ABP News",
-                "date": "2026-07-27T16:14:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "रेत, दरिया, पहाड़... हर जगह दौड़ेगी कार! कल आएगी धांसू SUV",
-                "desc": "2026 Toyota Hilux: कल यानी 28 जुलाई को टोयोटा अपनी मशहूर पिक-अप ट्रक Hilux का नेक्स्ट जेनरेशन मॉडल पेश करने जा रही है.",
-                "image": "https://cf-img-a-in.tosshub.com/sites/visualstory/wp/2026/07/toyota-hilux-india-launch-ampITG-1785167283709.jpg?size=*:675",
-                "url": "https://www.aajtak.in/visualstories/auto/toyota-hilux-to-be-launched-in-india-tomorrow-expected-price-features-auaw-283885-27-07-2026",
-                "source": "AajTak",
-                "date": "2026-07-27T16:04:37Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "इस सरकारी कंपनी का धमाका! Q1 रिजल्ट के साथ ₹5.50 डिविडेंड, क्या आपके पास हैं शेयर?",
-                "desc": "सरकारी कंपनी कोल इंडिया (Coal India) ने वित्त वर्ष 2026-27 की पहली तिमाही में ₹8,852 करोड़ का शुद्ध मुनाफा दर्ज किया है, जो सालाना आधार पर मामूली बढ़ोतरी है। कंपनी ने इसके साथ ही ₹5.50 प्रति शेयर अंतरिम डिविडेंड देने की घोषणा की है। 31 जुलाई 2026 को रिकॉर्ड डेट तय की गई है।, Business Hindi News - Hindustan",
-                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/07/27/1600x900/logo/Coal_India_Limited_1785166685967_1785166686138_045cd17e-0132-4069-85f5-6f178564fb4f.jpg",
-                "url": "https://www.livehindustan.com/business/coal-india-q1-results-rs-5-50-interim-dividend-record-date-share-price-check-details-201785165511470.html",
-                "source": "Hindustan",
-                "date": "2026-07-27T15:38:57Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "AC, Washing Machine या Fridge? कौन सा होम अप्लाइंस बचा सकता है ज्यादा बिजली",
-                "desc": "इन दिनों कंपनियां होम अप्लायंस में जम कर AI यानी आर्टिफिशियल इंटेलिजेंस यूज कर रही हैं. सवाल ये है कि क्या इससे आपके घर का बिजली बिल कम हो सकता है? आइए जानते हैं.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a676bc45593d-ai-home-appliances-electricity-bill-saver-273126626-16x9.png",
-                "url": "https://www.aajtak.in/technology/tech-tips-and-tricks-/story/ai-ac-vs-ai-fridge-vs-ai-washing-machine-vs-ai-tv-which-saves-most-electricity-ttecm-dskc-2610105-2026-07-27",
-                "source": "AajTak",
-                "date": "2026-07-27T14:33:17Z",
-                "priority": "STANDARD"
             }
         ],
         "entertainment": [
+            {
+                "title": "'रामायणम्' ने रिलीज के पहले ही कमाए ₹75 करोड़, टी-सीरीज के साथ सबसे बड़ी डील, मेकर्स ने बेचे म्यूजिक राइट्स",
+                "desc": "रणबीर कपूर और साई पल्लवी जैसे स्टार्स से सजी फिल्म 'रामायणम्' को लेकर बहुत ज्यादा एक्साइटमेंट बनी हुई है। फिल्म की कास्ट से लेकर इसकी हर बात पर चर्चा हो रही है। ट्रेलर पर अपडेट के साथ ही, इसके म्यूजिक को लेकर भी बड़ी खबर आई है। मेकर्स को 75 करोड़ की बड़ी डील मिली है।",
+                "image": "https://static.langimg.com/nbt/thumb/132700999/ramayana-music-rights.jpg?imgsize=99682&width=1600&height=900&resizemode=75",
+                "url": "https://navbharattimes.indiatimes.com/entertainment/news-from-bollywood/ramayana-earns-75-crore-before-release-makers-sell-music-rights-with-t-series-in-massive-deal/articleshow/132700715.cms",
+                "source": "Navbharat Times",
+                "date": "2026-07-29T04:58:12Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'उसके बच्चे की मां बनने वाली हूं', दुबई की हसीना को मिला धोखा, सामने आई बॉयफ्रेंड की प्रेग्नेंट GF, टूटी शादी",
+                "desc": "पामेला सेरेना इन दिनों लॉकअप शो में नजर आ रही हैं. उन्होंने एक शॉकिंग खुलासा किया है. पामेला ने बताया कि उन्हें बॉयफ्रेंड ने चीट किया था. इस घटना के बाद वो किसी पर ट्रस्ट नहीं कर पातीं.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a6977bbafcb2-pamela-serena-on-bookies-250227106-16x9.jpg",
+                "url": "https://www.aajtak.in/entertainment/ott/story/pamela-sarena-ex-boyfriend-cheated-affair-caught-girl-pregnant-heartbreak-lock-upp-tmovh-dskc-2610915-2026-07-29",
+                "source": "AajTak",
+                "date": "2026-07-29T04:50:03Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "तुम्हारा सब माल असली है? आम्रपाली दुबे ने रानी चटर्जी से पूछा सवाल, एक्ट्रेस बोलीं- तुम खुद…",
+                "desc": "आम्रपाली दुबे और रानी चटर्जी का एक वीडियो वायरल हो रहा है। इस वीडियो में दोनों बोटॉक्स को लेकर बात करते हैं। इसके अलावा वे बॉलीवुड एक्ट्रेसेस पर भी कमेंट करते हैं।, Bhojpuri Hindi News - Hindustan",
+                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/07/29/1600x900/logo/sur_1785299912718_1785299963241_f7252bed-c8b3-4737-a572-6a66dc81141e.jpg",
+                "url": "https://www.livehindustan.com/entertainment/bhojpuri/aamrapali-dubey-asked-rani-chatterjee-tumhara-sab-maal-asli-hai-know-what-she-said-201785298406771.html",
+                "source": "Hindustan",
+                "date": "2026-07-29T04:41:04Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'मैं अनाथ हूं,' Shilpa Shinde का शॉकिंग खुलासा, लॉक अप 2 में वसीयत को लेकर भी खोला राज",
+                "desc": "छोटे पर्दे की मशहूर अदाकारा शिल्पा शिंदे इस वक्त रियलिटी शो लॉक अप 2 को लेकर चर्चा में बनी हुई हैं।",
+                "image": "https://www.jagranimages.com/images/2026/07/29/article/image/shilpa-shinde-lockupp-2-1785299161844_m.webp",
+                "url": "https://www.jagran.com/entertainment/tv-lock-upp-2-contestant-shilpa-shinde-reveals-she-is-orphan-details-share-of-testament-40322570.html",
+                "source": "Jagran",
+                "date": "2026-07-29T04:37:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'तारक मेहता' को हुए 18 साल, इमोशनल हुआ बाघा, असित मोदी बोले- 12 घंटे काम करता है",
+                "desc": "'तारक मेहता का उल्टा चश्मा' 28 जुलाई को 18 साल का हो गया है. इस मौके पर मेकर्स ने एक सक्सेस पार्टी आयोजित की जिसमें पूरी टीम शामिल हुई.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a69735b7951d-tanmay-vekaria-171815251-16x9.jpg",
+                "url": "https://www.aajtak.in/entertainment/television/story/taarak-mehta-ka-ooltah-chashmah-18-years-bagha-aka-tanmay-vekaria-emotional-success-story-tmovb-dskc-2610908-2026-07-29",
+                "source": "AajTak",
+                "date": "2026-07-29T04:26:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Crime Thriller Series: 8 एपिसोड वाली क्राइम थ्रिलर सीरीज, 7.9 है रेटिंग, लोग बोले- असुर से है बेहतर",
+                "desc": "OTT Crime Thriller Series: आपको अरशद वारसी की ‘असुर’ पसंद आई थी? हां! तो आपको ये 8 एपिसोड वाली सीरीज भी पसंद आएगी। इसकी आईएमडीबी रेटिंग 7.9 है।, Web-series Hindi News - Hindustan",
+                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/07/29/1600x900/logo/ott_Vadhandhi_1785295354708_1785295358858_dcdacde7-0b18-4a34-a0c7-5e7a06f6db6a.jpg",
+                "url": "https://www.livehindustan.com/entertainment/web-series/ott-crime-thriller-series-on-amazon-prime-video-vadhandhi-with-imdb-rating-above-7-201785295360951.html",
+                "source": "Hindustan",
+                "date": "2026-07-29T04:02:39Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "10 साल छोटे मॉडल की दुल्हन बनी थी एक्ट्रेस, दूसरे धर्म में शादी करने पर झेली ट्रोलिंग, 8 साल में टूटकर बिखरा रिश्ता",
+                "desc": "उर्मिला की प्रोफेशनल लाइफ के साथ उनकी पर्सनल लाइफ भी हमेशा चर्चा में रही, क्योंकि एक्ट्रेस ने मार्च 2016 में एक निजी समारोह में कश्मीरी मॉडल और बिजनेसमैन मोहसिन अख्तर मीर से शादी करके घर बसा लिया था.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/photo_gallery/202607/6a65e1e432de8-urmila-matondkar-living-single-life-263054585-16x9.jpg",
+                "url": "https://www.aajtak.in/entertainment/bollywood-news/photo/urmila-matondkar-living-single-life-divorced-8-years-after-interfaith-marriage-ex-husband-mohsin-akhtar-tmovf-2609459-2026-07-29",
+                "source": "AajTak",
+                "date": "2026-07-29T04:00:04Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'मुझे पटक दिया', शिवांगी जोशी के मामा ने किया घटियापन, तो श्रेया कालरा का कजिन निकला नीच! राज बताकर टूटीं दोनों",
+                "desc": "'लॉक अप' सीजन 2 में श्रेया कालरा और शिवांगी जोशी ने अपने ऐसे राज बताए, जिसे सुनकर इंटरनेट पर हलचल मच गई है। श्रेया ने बताया कि उनके कजिन ने उन्हें मोलेस्ट किया था, जबकि शिवांगी ने राज खोलते हुए खुलासा किया कि उनके मामा जी ने ही उनके साथ गलत हरकत की।",
+                "image": "https://static.langimg.com/nbt/thumb/132699143/shivangi-joshi-shreya-kalra-molested.jpg?imgsize=79860&width=1600&height=900&resizemode=75",
+                "url": "https://navbharattimes.indiatimes.com/tv/news/lock-upp-2-shivangi-joshi-molested-by-maternal-uncle-shreya-kalra-cousin-harassed-her/articleshow/132698855.cms",
+                "source": "Navbharat Times",
+                "date": "2026-07-29T03:53:50Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "शोभा डे: सोनम वांगचुक को सलमान का 'ब्रो' पुकारना शर्मनाक, आंटी की कैटिगरी में आ रहीं कंगना ने खोए Gen Z फैन्स",
+                "desc": "राइटर और कॉलमनिस्ट शोभा डे ने सलमान खान की सोनम वांगचुक वाली पोस्ट को बेहद आपत्तिजनक बताया। उन्होंने कंगना रनौत, हेमा मालिनी और अनुपम खेर की सीजेपी विरोध प्रदर्शन वाले कॉमेंट की भी आलोचना की है।",
+                "image": "https://static.langimg.com/nbt/thumb/132693119/shobhaa-de-criticised-salman-khan-post.jpg?imgsize=172957&width=1600&height=900&resizemode=75",
+                "url": "https://navbharattimes.indiatimes.com/entertainment/news-from-bollywood/shobhaa-de-criticised-salman-khan-post-for-sonam-wangchuk-and-kangana-ranaut-hema-malini-anupam-kher-over-cjp-protest/articleshow/132692885.cms",
+                "source": "Navbharat Times",
+                "date": "2026-07-29T03:45:40Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "'रात में उसने छुआ', 9 की उम्र में हुआ मोलेस्ट, खौफ में सुन्न हुआ एक्टर, Gay से लगा डर",
                 "desc": "नेटफ्लिक्स के शो लॉकअप में हर्षद चोपड़ा ने बचपन में हुए यौन शोषण का खुलासा किया है. उन्होंने बताया कि 9-10 साल की उम्र में एक जानने वाले ने उन्हें मोलेस्ट किया था.",
@@ -1543,90 +1624,45 @@
                 "source": "Jagran",
                 "date": "2026-07-28T06:25:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "13 साल बड़े हीरो संग टूटा रिश्ता, इस एक्टर को गुपचुप डेट कर रहीं शिवांगी जोशी? खुल गई रिश्ते की पोल",
-                "desc": "लॉक अप में शिवांगी जोशी और हर्षद चोपड़ा के रिश्ते को लेकर सस्पेंस बना हुआ है. सभी को लगता है कि दोनों प्यार में हैं. मगर वो एक दूसरे को दोस्त ही बताते हैं. अब धीरज धूपर ने उनके रिश्ते को लेकर बड़ी बात कही है.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a683925f3037-shivangi-joshi-and-harshad-chopda-27191176-16x9.jpg",
-                "url": "https://www.aajtak.in/entertainment/ott/story/shivangi-joshi-dating-harshad-chopda-confirms-dheeraj-dhoopar-lock-upp-emotional-tmovf-dskc-2610345-2026-07-28",
-                "source": "AajTak",
-                "date": "2026-07-28T06:00:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "इंडियन आइडल 16 की विनर बनीं ज्योतिर्मयी नायक, स्क्रिप्टेड थी जीत? आरोपों पर तोड़ी चुप्पी",
-                "desc": "इंडियन आइडल 16 का फिनाले खत्म हो चुका है, जिसमें ओडिशा की ज्योतिर्मयी नायक ने जीत हासिल की है. उन्होंने शो के स्क्रिप्टेड होने और विनर फिक्स होने के आरोपों को स्पष्ट रूप से खारिज किया है.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a68321cac23f-indian-idol-16-winner-jyotirmayee-nayak-271153112-16x9.jpg",
-                "url": "https://www.aajtak.in/entertainment/television/story/indian-idol-16-winner-jyotirmayi-nayak-break-silence-scripted-allegations-gets-emotional-tmovb-dskc-2610312-2026-07-28",
-                "source": "AajTak",
-                "date": "2026-07-28T05:33:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'मैं अनाथ हूं', शिल्पा शिंदे ने वसीयत में लिखा- परिवार से कोई नाता नहीं, भाई के बहकावे में आई मां, घर से निकाला",
-                "desc": "शिल्पा शिंदे ने हाल ही में 'लॉक अप: सच या सजा' में खुलासा किया कि वो अपने परिवार से अलग हो गई हैं। भाई से बातचीत नहीं होती और मां से भी नाता तोड़ लिया है। एक्ट्रेस ने आगे कहा कि उन्होंने अपनी वसीयत में भी लिख दिया है कि उनका परिवार से कोई रिश्ता नहीं है।",
-                "image": "https://static.langimg.com/nbt/thumb/132675654/shilpa-shinde-family.jpg?imgsize=159160&width=1600&height=900&resizemode=75",
-                "url": "https://navbharattimes.indiatimes.com/tv/tv-masala/shilpa-shinde-calls-herself-orphan-claimed-no-relations-with-family-live-alone-in-shelter-home/articleshow/132675481.cms",
-                "source": "Navbharat Times",
-                "date": "2026-07-28T05:19:26Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'अनाथ हूं', शिल्पा शिंदे को मां-भाई ने घर से निकाला, तोड़े सारे रिश्ते, मुंबई छोड़ पहाड़ों में बसीं 'भाभीजी', लिखी वसीयत",
-                "desc": "शिल्पा शिंदे रियलिटी शो लॉकअप सीजन 2 में रूल कर रही हैं. बीते एपिसोड में एक्ट्रेस ने अपना सीक्रेट रिवील किया. जिसे सुनकर सबकी आंखें नम हो गईं.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a6825893b6f5-shilpa-shinde-sexual-harassment-065555125-16x9.jpg",
-                "url": "https://www.aajtak.in/entertainment/ott/story/shilpa-shinde-shocking-secret-family-cut-ties-living-alone-karjat-left-home-emotional-lock-upp-tmovh-dskc-2610268-2026-07-28",
-                "source": "AajTak",
-                "date": "2026-07-28T05:05:32Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'मैंने अपने पिता की मौत प्लान की', 'लॉक अप' में राम कपूर का सनसनीखेज खुलासा, मां-बहन ने 5 साल से तोड़ा नाता",
-                "desc": "रियलिटी शो 'लॉक अप' में राम कपूर ने खुलासा किया कि उन्होंने कैंसर पीड़ित पिता की इच्छा से उन्हें सुकून की मौत में मदद की थी। इस वजह से उनकी मां-बहन 5 साल से उनसे नाराज हैं।",
-                "image": "https://resize.indiatv.in/resize/newbucket/1200_-/2026/07/ram-kapoor-1785214242.jpg",
-                "url": "https://www.indiatv.in/entertainment/ott/ram-kapoor-sensational-secret-on-lock-upp-mother-sister-cut-ties-for-five-years-says-planned-my-fathers-death-2026-07-28-1233826",
-                "source": "India TV Hindi",
-                "date": "2026-07-28T04:51:31Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "वीकेंड के बाद भी नहीं थमी Dhamaal 4 की रफ्तार, ग्लोबल बॉक्स ऑफिस पर धड़ल्ले से छापे नोट",
-                "desc": "फिल्म धमाल 4 वीकेंड बीतने के बाद भी ग्लोबल बॉक्स ऑफिस पर धुआंधार कमाई करती हुई नजर आ रही है।",
-                "image": "https://www.jagranimages.com/images/2026/07/28/article/image/dhamaal-4-worldwide-collection--1785213196118_m.webp",
-                "url": "https://www.jagran.com/entertainment/box-office-dhamaal-4-worldwide-collection-day-18-report-ajay-devgn-arshad-warsi-comedy-drama-gross-earning-total-210-crore-so-far-40321552.html",
-                "source": "Jagran",
-                "date": "2026-07-28T04:45:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'पिता की मरने में की मदद', कैंसर के दर्द में तड़प रहे थे राम कपूर के पापा, सालों छिपाया सच, मां से टूटा रिश्ता",
-                "desc": "नेटफ्लिक्स के लॉक अप 2 के लेटेस्ट एपिसोड में राम कपूर ने अपने पिता की मौत में मदद करने का दिल छू लेने वाला सच बताया. उनके पिता को पैंक्रियाटिक कैंसर था और कोविड महामारी के दौरान उनकी मौत हुई.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a68224fdc07b-ram-kapoor-shares-being-molested-in-school-112021636-16x9.jpg",
-                "url": "https://www.aajtak.in/entertainment/ott/story/ram-kapoor-helped-his-father-death-emotional-revelation-lockupp-my-mother-dont-talk-tmovb-dskc-2610264-2026-07-28",
-                "source": "AajTak",
-                "date": "2026-07-28T04:13:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "नेटफ्लिक्स, प्राइम वीडियो को जी5 से मिलेगी कड़ी टक्कर? मल्टीपल प्रोजेक्ट्स हुए अनाउंस, मिलेगा एंटरटेनमेंट का डोज",
-                "desc": "जी5 ने ओटीटी प्लेटफॉर्म्स को कॉम्पिटिशन देते हुए कई नए प्रोजेक्ट्स का ऐलान किया है, जिनमें वेब सीरीज, फिल्में और डॉक्यूमेंट्री शामिल हैं. ये कंटेंट कई भाषाओं में होगा.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a68141622653-zee5-announed-new-shows-282936709-16x9.jpg",
-                "url": "https://www.aajtak.in/entertainment/ott/story/zee5-announced-mutiple-projects-challenge-to-netflix-prime-video-full-entertainment-tmovh-dskc-2609968-2026-07-28",
-                "source": "AajTak",
-                "date": "2026-07-28T03:50:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'मेरी मां ही मेरा रब', सनी देओल की मां के लिए भावुक पोस्ट, इस अंदाज में दिखीं धर्मेंद्र की पहली पत्नी",
-                "desc": "सनी देओल ने अपनी मच-अवेटेड फिल्म 'बंटवारा 1947' के ट्रेलर रिलीज से पहले मां प्रकाश कौर के लिए एक इमोशनल पोस्ट शेयर की है. उन्होंने अपनी मां के साथ दुनियाभर की माओं को अपनी पोस्ट डेडिकेट की है.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a681583855da-prakash-kaur-dharmendra-first-wife-batwara-1947-283542726-16x9.jpg",
-                "url": "https://www.aajtak.in/entertainment/bollywood-news/story/sunny-deol-emotional-post-mother-prakash-kaur-dharmendra-first-wife-batwara-1947-trailer-review-tmovf-dskc-2610240-2026-07-28",
-                "source": "AajTak",
-                "date": "2026-07-28T03:26:02Z",
-                "priority": "STANDARD"
             }
         ],
         "sports": [
+            {
+                "title": "ऑस्ट्रेलिया ने ICC से कर दी बड़ी डिमांड, वर्ल्ड कप 2027 के लिए टीम में रखे जाएं 17 खिलाड़ी",
+                "desc": "ऑस्ट्रेलिया के कोच एंड्रयू मैकडोनाल्ड ने ICC से की वर्ल्ड कप 2027 में खिलाड़ियों की संख्या बढ़ाने की मांग की है। 15 की जगह 17 सदस्यीय टीम वर्ल्ड कप के लिए चुनने की अनुमति आईसीसी को देनी चाहिए।, Cricket Hindi News - Hindustan",
+                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/07/29/1600x900/logo/Australia_Cricket_Team_Coach_Andrew_Mcdonald_Getty_1785300997001_1785301000664_69c66b9f-8aec-4ddd-ba15-42ac0d555347.jpg",
+                "url": "https://www.livehindustan.com/cricket/australia-cricket-team-coach-andrew-mcdonald-call-for-larger-squad-size-of-17-players-for-expanded-2027-odi-world-cup-201785300898191.html",
+                "source": "Hindustan",
+                "date": "2026-07-29T05:01:50Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "रोहित टॉप-10 से बाहर, इशान नंबर 1; भारत के लिए साल 2026 में सबसे ज्यादा रन बनाने वाले टॉप-11 बल्लेबाज",
+                "desc": "इशान किशन साल 2026 में इंटरनेशनल क्रिकेट में भारत की तरफ से सबसे ज्यादा रन बनाने वाले बल्लेबाज हैं तो वहीं रोहित शर्मा टॉप-10 की लिस्ट से बाहर हैं। रविंद्र जडेजा इस सूची में श्रेयस, अभिषेक, संजू, कोहली जैसे बल्लेबाजों से भी आगे हैं।",
+                "image": "https://images.jansatta.com/2026/07/IshanRohit2.jpg",
+                "url": "https://www.jansatta.com/khel/rohit-sharma-out-of-top-10-ishan-kishan-number-1-sanju-samson-shreyas-iyer-most-runs-in-international-cricket-for-india-2026-top-11-batsman/4638802/",
+                "source": "Jansatta",
+                "date": "2026-07-29T04:17:12Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "चुटकी बजाकर चीटिंग, इंग्लैंड में भारी बवाल, नए स्कैंडल ने क्रिकेट वर्ल्ड को हिलाया",
+                "desc": "इंग्लैंड के एक क्लब ने चीटिंग के लिए ऐसा तरीका निकाला, जिसने क्रिकेट वर्ल्ड को हिलाकर रख दिया है। बल्लेबाज को आउट करवाने के लिए फील्डर उंगली बजाकर अंपायर को गुमराह करते हैं।",
+                "image": "https://static.langimg.com/nbt/thumb/132700072/england-club-cricket.jpg?imgsize=76026&width=1600&height=900&resizemode=75",
+                "url": "https://navbharattimes.indiatimes.com/sports/cricket/cricket-news/english-cricket-club-under-fire-after-finger-click-cheating-claim-goes-viral/articleshow/132699703.cms",
+                "source": "Navbharat Times",
+                "date": "2026-07-29T04:12:05Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "WI vs PAK Test: बाबर आजम की कप्‍तानी में पाकिस्‍तान का बेड़ागर्क, वेस्‍टइंडीज जीता और Justin Greaves बन गए हीरो",
+                "desc": "WI vs PAK Test Match Result:जस्टिन ग्रीव्स 7 विकेट की शानदार गेंदबाजी के चलते मेजबान वेस्‍टइंडीज ने पहले टेस्‍ट मैच में पाकिस्‍तान को 90 रन से करारी शिकस्‍त दी।",
+                "image": "https://www.jagranimages.com/images/2026/07/29/article/image/WI-vs-PAK-1st-Test-1785297175108_m.webp",
+                "url": "https://www.jagran.com/cricket/match-report-wi-vs-pak-1st-test-west-indies-beat-pakistan-by-90-runs-day-4-babar-azam-justin-greaves-shan-masood-40322545.html",
+                "source": "Jagran",
+                "date": "2026-07-29T03:57:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "वेस्टइंडीज की जीत ने WTC 2025-27 अंकतालिका में पाकिस्तान का किया बुरा हाल, भारतीय टीम इस पोजीशन पर",
                 "desc": "वेस्टइंडीज की टीम ने पाकिस्तान के खिलाफ दो मैचों की टेस्ट सीरीज के पहले मुकाबले को जीतने के साथ वर्ल्ड टेस्ट चैंपियनशिप 2025-27 की प्वाइंट्स टेबल में अपने अंकों के प्रतिशत में सुधार किया है तो वहीं पाकिस्तान की स्थिति और भी खराब हो गई है।",
@@ -2130,47 +2166,47 @@
                 "source": "AajTak",
                 "date": "2026-07-28T01:19:36Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "गौतम गंभीर के राज में लगातार हार रही टीम इंडिया, भड़के सुनील गावस्कर ने कहा- इन खिलाड़ियों को बाहर कर दो",
-                "desc": "पूर्व क्रिकेटर सुनील गावस्कर ने भारतीय टीम के हालिया खराब प्रदर्शन के बाद सख्त रवैया अपनाते हुए औसतन फील्डिंग करने वाले खिलाड़ियों को टीम से बाहर करने की मांग की है।",
-                "image": "https://static.langimg.com/nbt/thumb/132670538/sunil-gavaskar-gambhir.jpg?imgsize=428104&width=1600&height=900&resizemode=75",
-                "url": "https://navbharattimes.indiatimes.com/sports/cricket/cricket-news/show-the-door-to-average-fielders-sunil-gavaskar-slams-indian-teams-poor-fielding-performance/articleshow/132670508.cms",
-                "source": "Navbharat Times",
-                "date": "2026-07-27T23:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "कॉमनवेल्थ गेम्स में आधी रात को भारतीय खिलाड़ियों का कमाल, शर्मिला ने जिताया दूसरा गोल्ड, हाई जंप में कुशारे का सिल्वर",
-                "desc": "राष्ट्रमंडल खेल 2026 में भारत की शर्मिला धनखड़ ने महिलाओं की शॉट पुट F57 स्पर्धा में 9.81 मीटर के थ्रो के साथ स्वर्ण पदक जीता। वहीं, पुरुषों के हाई जंप फाइनल में सर्वेश कुशारे ने शानदार प्रदर्शन करते हुए भारत के लिए रजत पदक अपने नाम किया।",
-                "image": "https://static.langimg.com/nbt/thumb/132670572/cwc-2026-1.jpg?imgsize=396293&width=1600&height=900&resizemode=75",
-                "url": "https://navbharattimes.indiatimes.com/sports/commonwealth-games/news/sharmila-dhankar-clinches-gold-in-shot-put-f57-sarvesh-kushare-bags-silver-in-high-jump-in-commonwealth-games/articleshow/132670566.cms",
-                "source": "Navbharat Times",
-                "date": "2026-07-27T21:03:54Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "लगातार 5 मेडन ओवर और हर किसी में विकेट, टेस्ट क्रिकेट का सबसे अनोखा फाइफर, एक गेंदबाज के सामने पाकिस्तान ने टेके घुटने",
-                "desc": "वेस्टइंडीज के तेज गेंदबाज जस्टिन ग्रीव्स ने पाकिस्तान के खिलाफ पहले टेस्ट में लगातार 5 मेडन ओवर फेंकते हुए 5 विकेट झटके।",
-                "image": "https://static.langimg.com/nbt/thumb/132669956/justin-greaves.jpg?imgsize=508701&width=1600&height=900&resizemode=75",
-                "url": "https://navbharattimes.indiatimes.com/sports/cricket/cricket-news/justin-greaves-takes-5-wickets-in-5-consecutive-maiden-overs-against-pakistan/articleshow/132669643.cms",
-                "source": "Navbharat Times",
-                "date": "2026-07-27T19:04:27Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "11 में 6 ओवर मेडन, 5 विकेट... वेस्टइंडीज के खिलाड़ी ने लूटी महफिल; पाकिस्तान चित",
-                "desc": "Justin Greaves: वेस्टइंडीज के जस्टिन ग्रीव्स ने पाकिस्तान के खिलाफ पहले टेस्ट में कमाल ही कर दिया. उन्होंने 11 में 6 ओवर मेडन फेंके. उन्होंने सिर्फ 27 रन खर्चे.",
-                "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/27/7d48b89fa5974942a9f0cf86d193ebe117851757581191364_original.jpg?impolicy=abp_cdn&imwidth=1200",
-                "url": "https://www.abplive.com/sports/cricket/west-indies-justin-greaves-unbelievable-spell-6-median-overs-in-11-wi-vs-pak-1st-test-at-trinidad-3166622",
-                "source": "ABP News",
-                "date": "2026-07-27T18:21:41Z",
-                "priority": "STANDARD"
             }
         ]
     },
     "en": {
         "general": [
+            {
+                "title": "Inside a temporary shelter in France for wildfire evacuees",
+                "desc": "A massive wildfire in southwest France has forced over 220,000 people to evacuate. Among them is Morgane Bonichot.",
+                "image": "https://dims.apnews.com/dims4/default/63fcff3/2147483647/strip/true/crop/4032x2687+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F80%2F92%2Fd35ea9e572d08ab6a7ed52b12f3d%2Fb19bfdec6dc749b581de32b49e68fad0",
+                "url": "https://apnews.com/article/europe-wildfires-france-spain-evacuees-shelter-13b3173c427388881108c58510312993",
+                "source": "AP News",
+                "date": "2026-07-29T04:29:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "‘The fire has such power’: why the wildfires gripping France and Spain are off the charts",
+                "desc": "The fires facing Spanish and French firefighters are harder to put out – and much more intense.",
+                "image": "https://images.theconversation.com/files/750769/original/file-20260729-57-ln5098.jpg?ixlib=rb-4.1.1&rect=0%2C512%2C3000%2C1500&q=45&auto=format&w=1356&h=668&fit=crop",
+                "url": "https://theconversation.com/the-fire-has-such-power-why-the-wildfires-gripping-france-and-spain-are-off-the-charts-288507",
+                "source": "The Conversation",
+                "date": "2026-07-29T04:28:40Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Despite frustration over high prices, Federal Reserve is expected to keep rates unchanged -- for now",
+                "desc": "Federal Reserve policymakers are losing patience with inflation, which has been stuck above their 2% target for more than five years.",
+                "image": "https://dims.apnews.com/dims4/default/9a21bab/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff6%2F33%2F17da8a407b995a4aa5bf8ed2ad95%2F09a13206a22e419ead7f7b30629a7bae",
+                "url": "https://apnews.com/article/federal-reserve-inflation-interest-rates-iran-war-ad10c177cb8d96f9e3ed122e12352a74",
+                "source": "AP News",
+                "date": "2026-07-29T04:01:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "South Korea's Kospi share index falls 7%, as investors dump more AI-related stocks",
+                "desc": "Asian shares are mixed but South Korea’s Kospi share index is trading about 6% lower on prolonged selling of chipmaking shares. Oil prices jumped more than 2%.",
+                "image": "https://dims.apnews.com/dims4/default/ada0711/2147483647/strip/true/crop/5640x3758+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe9%2Fc8%2F537246b0d88bb6399963277d7e9d%2F740f52d9bb64498f9b2e5afd608cb7a6",
+                "url": "https://apnews.com/article/stocks-markets-ai-oil-trump-rates-b8bfaf782877957bbaa7196b70a4d725",
+                "source": "AP News",
+                "date": "2026-07-29T03:48:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Keiko Fujimori sworn in as Peru’s president after tight June election",
                 "desc": "Keiko Fujimori has been sworn in as Peru’s president after a narrow victory in the June runoff election. The swearing-in ceremony took place Tuesday.",
@@ -2674,45 +2710,27 @@
                 "source": "MMA Fighting",
                 "date": "2026-07-28T13:00:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Seattle pays tribute to festival shooting victims",
-                "desc": "Families grieved on Monday as they remembered the three people killed in a shooting at a food festival.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/9d93/live/2033abe0-8a75-11f1-a7ab-8b30adf0800a.jpg",
-                "url": "https://www.bbc.com/news/articles/cvgv7m5z4n0o",
-                "source": "BBC",
-                "date": "2026-07-28T11:50:59Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ukraine’s Strike on an Iranian Ship Could Bring Two Wars Closer",
-                "desc": "The attack in the Caspian Sea was an unusually direct encounter between two countries that have been on opposite sides for years.",
-                "image": "https://static01.nyt.com/images/2026/07/28/multimedia/28xp-wars/28xp-wars-facebookJumbo.jpg",
-                "url": "https://www.nytimes.com/2026/07/28/world/middleeast/iran-ukraine-ship-strikes-caspian.html",
-                "source": "The New York Times",
-                "date": "2026-07-28T11:13:33Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Doctors And GLP-1 Users Respond To Trump's 'Fat Drugs' Comments",
-                "desc": "Despite the president’s comments, patients say these medications have been life-changing, and their effectiveness cannot be ignored.",
-                "image": "https://img.huffingtonpost.com/asset/6a5fb340190000fe653309d9.jpeg?cache=GiIyBMfLQA&ops=500_281%2Cscalefit_1200_630",
-                "url": "https://www.huffpost.com/entry/trump-glp1-fat-drugs_l_6a5faddee4b06bbe43f4b2f7",
-                "source": "HuffPost",
-                "date": "2026-07-28T11:00:17Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Trump's Latest Name For GLP-1s Has Doctors And Patients Raising An Important Concern",
-                "desc": "Despite the president’s comments, patients say these medications have been life-changing, and their effectiveness cannot be ignored.",
-                "image": "https://s.yimg.com/lo/mysterio/api/03a76074923a98ca05c8d673afb45c652409233f44ebbe2966128ff00b312ff9/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fhuffpost_life_308%2F52bd6f5c333b309957363331ab26ff20",
-                "url": "https://www.yahoo.com/news/politics/articles/trumps-latest-name-glp-1s-110017040.html",
-                "source": "Yahoo",
-                "date": "2026-07-28T11:00:17Z",
-                "priority": "STANDARD"
             }
         ],
         "business": [
+            {
+                "title": "China’s humanoid robots have been taking over the global market. Now the US is banning them",
+                "desc": "China, which supplies the vast majority of the world’s humanoid robots, has suddenly been cut off from its largest export market as the US government moves to curb its reliance on foreign technology.",
+                "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2287539965.jpg?c=16x9&q=w_800,c_fill",
+                "url": "https://www.cnn.com/2026/07/29/tech/us-china-robot-ban-intl-hnk",
+                "source": "CNN",
+                "date": "2026-07-29T04:51:05Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Despite frustration over high prices, Federal Reserve is expected to keep rates unchanged -- for now",
+                "desc": "Federal Reserve policymakers are losing patience with inflation, which has been stuck above their 2% target for more than five years.",
+                "image": "https://dims.apnews.com/dims4/default/9a21bab/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff6%2F33%2F17da8a407b995a4aa5bf8ed2ad95%2F09a13206a22e419ead7f7b30629a7bae",
+                "url": "https://apnews.com/article/federal-reserve-inflation-interest-rates-iran-war-ad10c177cb8d96f9e3ed122e12352a74",
+                "source": "AP News",
+                "date": "2026-07-29T04:01:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Mega Millions $800M jackpot winning numbers for Tuesday, July 28",
                 "desc": "The Mega Millions jackpot has grown to $800 million ahead of the July 28 drawing. Do you have the winning numbers?",
@@ -3233,24 +3251,6 @@
                 "url": "https://venturebeat.com/technology/kimi-k3s-full-weights-are-here-but-theyre-open-with-a-caveat-what-enterprises-should-know",
                 "source": "VentureBeat",
                 "date": "2026-07-28T02:32:24Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Cyclospora outbreak may involve more than lettuce, former CDC lead says",
-                "desc": "The cyclospora outbreak continues to be a point of concern for health professionals, with one former CDC director saying people should now be cautious about more than just lettuce.",
-                "image": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2026/07/snapshot-2026-07-27T193648.146.jpg?w=1280",
-                "url": "https://www.newsnationnow.com/health/cyclospora-outbreak-fresh-produce-robert-redfield/",
-                "source": "NewsNation",
-                "date": "2026-07-28T02:02:22Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "BuzzFeed Lays Off a Third of Its Staff",
-                "desc": "The company’s new owner, Byron Allen, is cutting roughly 180 employees as he looks to reduce its financial losses.",
-                "image": "https://static01.nyt.com/images/2026/07/27/multimedia/27biz-buzzfeed-blhf/27biz-buzzfeed-blhf-facebookJumbo.jpg",
-                "url": "https://www.nytimes.com/2026/07/27/business/buzzfeed-huffpost-layoffs-byron-allen.html",
-                "source": "The New York Times",
-                "date": "2026-07-28T01:11:26Z",
                 "priority": "STANDARD"
             }
         ],
@@ -3798,6 +3798,42 @@
         ],
         "sports": [
             {
+                "title": "Breaking down the Tarik Skubal trade market",
+                "desc": "Tarik Skubal will take the mound on Wednesday afternoon against the Orioles at Comerica Park, making his 150th Major League start.\nThe big question on everyone’s mind around the baseball world is whether his 151st start -- which would be scheduled for after next Monday’s 6 p.m. ET Trade Deadline",
+                "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/v1785300068/mlb/bu4kjxbggqsdombn6cn4.jpg",
+                "url": "https://www.mlb.com/news/breaking-down-the-tarik-skubal-trade-market",
+                "source": "MLB.com",
+                "date": "2026-07-29T04:34:19Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Caitlin Clark erupts for 32 points as Fever hold off Storm to complete season-series sweep",
+                "desc": "Caitlin Clark scored a team-high 32 points as the Indiana Fever earned a 103-95 road win over the Seattle Storm, extending the home team's struggles at Climate Pledge Arena.",
+                "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/caitlin-clark-indiana-fever-seattle-storm-scaled.jpg",
+                "url": "https://www.foxnews.com/outkick-sports/caitlin-clark-erupts-32-points-fever-hold-off-storm-complete-season-series-sweep",
+                "source": "Fox News",
+                "date": "2026-07-29T04:30:39Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Report: Curtis Mead to IL with fractured wrist",
+                "desc": "Curtis Mead will be placed on the injured list after being diagnosed with a fractured left wrist, reports Tommy Cassell of the Worcester Telegram & Gazette.",
+                "image": "https://nbcsports.brightspotcdn.com/dims4/default/f0fb943/2147483647/strip/true/crop/100x56+0+39/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F43%2F4a%2F64012b7d4d56bfdb3fb6be4f04f0%2Fmead-curtis.jpg",
+                "url": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-28/report-curtis-mead-to-il-with-fractured-wrist",
+                "source": "NBC Sports",
+                "date": "2026-07-29T04:29:07Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "‘Boycott this league’: Outrage after fan forced to remove sign supporting Sophie Cunningham",
+                "desc": "The Indiana Fever took on the Seattle Storm on Tuesday night in Seattle, Washington. The game was Indiana’s first out of the 2026 All-Star Weekend. However, the conversation surrounding the Fever heading into the game was less about their improved play as of late and more about reserve guard Sophie Cunningham’s recent comments regarding transgender…",
+                "image": "https://s.yimg.com/lo/mysterio/api/1338dc01c19f2c93ee2ebe401f407094abec55f9d48a58dd8756e6958b31fe8c/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_comeback_288%2Fe441be9f85b7b41ae50c5758bb996e17",
+                "url": "https://sports.yahoo.com/articles/boycott-league-outrage-fan-forced-035629837.html",
+                "source": "Yahoo Sports",
+                "date": "2026-07-29T03:56:00Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "It could 'be over' for J.J. McCarthy with Vikings",
                 "desc": "ESPN’s Adam Schefter says Kyler Murray has the edge over J.J. McCarthy in the Vikings' QB battle.",
                 "image": "https://nypost.com/wp-content/uploads/sites/2/2026/07/newspress-collage-l4phr9642-1785292885421.jpg?quality=75&strip=all&1785278572&w=1200",
@@ -4300,44 +4336,8 @@
                 "source": "The New York Times",
                 "date": "2026-07-28T12:44:19Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Joel Embiid’s Strange New Reality",
-                "desc": "What does the Process mean to the Sixers now?",
-                "image": "https://wp.theringer.com/wp-content/uploads/2026/07/cropped-embiidprocess_getty_ringer-scaled-1.jpg",
-                "url": "https://www.theringer.com/2026/07/28/nba/joel-embiid-trade-rumors-philadelphia-76ers-lebron-james",
-                "source": "The Ringer",
-                "date": "2026-07-28T12:42:58Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "France hires Zinedine Zidane as men's national soccer team coach",
-                "desc": "Zidane replaces Didier Deschamps at the helm of the team he led to glory as arguably its greatest ever player.",
-                "image": "https://dims.apnews.com/dims4/default/f4704ac/2147483647/strip/true/crop/5401x3599+108+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F45%2Fad%2Ff2670a911783bff589df48a15c21%2F25a43ab56a9247659f45a1f097571446",
-                "url": "https://apnews.com/article/france-coach-zidane-7024af747bd665aefad70244b1743561",
-                "source": "AP News",
-                "date": "2026-07-28T12:36:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Five Eagles players on the trade block heading into training camp",
-                "desc": "Last week we noted that Howie Roseman has made 24 trades since he reassumed his GM duties in 2016, and we guessed on three players around the league who might make sense as depth pieces to add to the roster. Here we'll propose five players currently on the Eagles' roster who are expendable to some degree and who might make sense for other teams.",
-                "image": "https://media.phillyvoice.com/media/images/2026-01-10T033336Z_28258212_MT.62aaf294.fill-1200x630-c0.jpg",
-                "url": "https://www.phillyvoice.com/five-eagles-players-trade-block-kelee-ringo-tanner-mckee-cameron-williams-darius-cooper-andy-dalton/",
-                "source": "PhillyVoice",
-                "date": "2026-07-28T11:34:49Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Milos Kerkez interview: ‘It’s just your job. Do your damn job. Honestly, I don’t care about pressure’",
-                "desc": "The Liverpool left-back on the pressure to succeed Andy Robertson and enjoying playing for Andoni Iraola again",
-                "image": "https://static01.nyt.com/athletic/uploads/wp/2026/07/27152529/GettyImages-2264158465-scaled.jpg?width=1200&height=630&fit=cover",
-                "url": "https://www.nytimes.com/athletic/7471013/2026/07/28/liverpool-milos-kerkez-interview-iraola-robertson/",
-                "source": "The New York Times",
-                "date": "2026-07-28T11:03:13Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-29T15:44:51.376470Z"
+    "lastGlobalSync": "2026-07-29T17:05:29.424785Z"
 }
