@@ -2,6 +2,51 @@
     "hi": {
         "general": [
             {
+                "title": "प्रशांत किशोर देर रात थाना पहुंचे, चुनाव के बीच बड़ा बयान, 'अगर जन सुराज…'",
+                "desc": "Prashant Kishor Bankipur By-Election: प्रशांत किशोर ने पुलिस पर आरोप लगाया कि जन सुराज के नेताओं को कहां रखा गया है यह नहीं बताया जा रहा है. पढ़िए पीके ने और क्या कहा है.",
+                "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/30/23815d30250a91cea8fca82c966903d91785350414940169_original.jpg?impolicy=abp_cdn&imwidth=1200",
+                "url": "https://www.abplive.com/states/bihar/prashant-kishor-reached-police-station-amid-bankipur-bypoll-jan-suraaj-3167687",
+                "source": "ABP News",
+                "date": "2026-07-29T18:40:33Z",
+                "priority": "CRITICAL_ALERT"
+            },
+            {
+                "title": "किसान आंदोलन के बीच सरकार का मास्टरस्ट्रोक, मूंग खरीद पर लिया बड़ा फैसला",
+                "desc": "भोपाल में अपनी मांगों को मनवाने के लिए किसान आज सड़कों पर उतरे। इस बीच मध्य प्रदेश सरकार ने बड़ा फैसला लिया है। सरकार अब अब प्रत्येक पात्र किसान से उसकी मूंग उपज का 25 प्रतिशत नहीं, बल्कि 60 प्रतिशत खरीदेगी।",
+                "image": "https://resize.indiatv.in/resize/newbucket/1200_-/2026/07/bhopal-2-1785314291.jpg",
+                "url": "https://www.indiatv.in/madhya-pradesh/live-farmers-take-to-the-streets-in-large-numbers-in-bhopal-preparing-to-lay-siege-to-the-cm-residence-2026-07-29-1234064",
+                "source": "India TV Hindi",
+                "date": "2026-07-29T18:25:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'मुझे जान से मारने की धमकियां मिल रही हैं', CJP प्रवक्ता रत्ना सिंह का दावा; दिपके के पिता ने भी लगाए गंभीर आरोप",
+                "desc": "CJP की प्रवक्ता रत्ना सिंह ने दावा किया कि आंदोलन के बाद उन्हें लगातार जान से मारने की धमकियां मिल रही हैं। इसी बीच संगठन के संस्थापक अभिजीत दिपके के पिता ने भी आरोप लगाया कि उनके बेटे पर BJP में शामिल होने का दबाव बनाया गया था।",
+                "image": "https://static.langimg.com/nbt/thumb/132720002/cjp-ratna-singhabhijeet-dipke.jpg?imgsize=145351&width=1600&height=900&resizemode=75",
+                "url": "https://navbharattimes.indiatimes.com/india/cjp-spokesperson-ratna-singh-claims-death-threats-as-abhijeet-dipke-father-levels-serious-allegations/articleshow/132719646.cms",
+                "source": "Navbharat Times",
+                "date": "2026-07-29T18:18:12Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "बांकीपुर, दतिया और मांजलपुर... तीन विधानसभा सीटों पर आज उपचुनाव, बीजेपी के सामने गढ़ बचाने की चुनौती",
+                "desc": "बिहार की बांकीपुर विधानसभा सीट पर होने वाले उपचुनाव पर सभी की नजरें बनी हुई हैं. बीजेपी का गढ़ कहे जाने वाली इस सीट पर त्रिकोणीय मुकाबला देखने को मिल रहा है.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a6a3a6341fba-byelection-293733659-16x9.png",
+                "url": "https://www.aajtak.in/india/news/story/bihar-bankipur-by-election-datia-manjalpur-prashant-kishor-nitin-nabin-bjp-congress-ntc-rttm-dskc-2611397-2026-07-29",
+                "source": "AajTak",
+                "date": "2026-07-29T17:42:12Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "उद्धव ठाकरे बोले, 'हां, मेरा परिवारवाद है लेकिन उसकी एक...'",
+                "desc": "Uddhav Thackeray News: मुंबई में मार्मिक प्रबोधन शतक पुस्तक के विमोचन पर उद्धव ठाकरे ने बीजेपी पर तीखा हमला बोला. परिसीमन, संविधान और परिवारवाद को लेकर सरकार पर सवाल उठाए.",
+                "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/29/0d07757afa11bd4107f3c69cc2d09b0317853456223761278_original.jpg?impolicy=abp_cdn&imwidth=1200",
+                "url": "https://www.abplive.com/states/maharashtra/uddhav-thackeray-attacks-bjp-over-delimitation-constitution-remarks-marmik-prabodhan-shatak-book-launch-ann-3167670",
+                "source": "ABP News",
+                "date": "2026-07-29T17:32:10Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "'अलायंस' के सेट पर पहुंचे सलमान खान, काउबॉय लुक में ली स्पेशल एंट्री, फोटोज वायरल",
                 "desc": "बॉलीवुड के दबंग सुपरस्टार सलमान खान एक बार फिर अपने पारिवारिक प्यार और सपोर्ट की वजह से चर्चा में आ गए हैं. इस बार सलमान अपने छोटे भाई सोहेल खान का सपोर्ट करने के लिए प्राइम वीडियो के नए रियलिटी शो 'अलायंस' के घर में खास अपीयरेंस देने पहुंचे हैं.",
                 "image": "https://akm-img-a-in.tosshub.com/aajtak/images/photo_gallery/202607/6a6a2c8a5e808-salman-khan-alliance-sets-293828940-16x9.jpg",
@@ -26,6 +71,15 @@
                 "url": "https://www.abplive.com/states/madhya-pradesh/mohan-yadav-government-decisions-will-buy-60-percent-moong-amid-farmers-protest-3167657",
                 "source": "ABP News",
                 "date": "2026-07-29T16:39:04Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "2016 से पहले की गाड़ियों में E-20 पेट्रोल डालने से क्या हो सकता है नुकसान, सरकार ने बताया",
+                "desc": "सिर्फ एक अप्रैल, 2005 से पेश की गई और वर्ष 2016 से पहले बनी बीएस-थ्री गाड़ियों के परीक्षण के मामले में, रबर के कुछ पुर्जे और गास्केट को बदलने की जरूरत पड़ सकती है, जिसे गाड़ी की नियमित होने वाली सर्विसिंग के दौरान आसानी से ठीक किया जा सकता है।, India News in Hindi - Hindustan",
+                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/07/29/1600x900/logo/E-20_petrol_in_vehicles_1785341725698_1785341725835_be674e23-8b82-4e9c-87d1-045e36bfec90.jpg",
+                "url": "https://www.livehindustan.com/national/government-has-explained-harm-of-using-e-20-petrol-in-vehicles-manufactured-before-2016-201785341661734.html",
+                "source": "Hindustan",
+                "date": "2026-07-29T16:17:47Z",
                 "priority": "STANDARD"
             },
             {
@@ -485,60 +539,6 @@
                 "url": "https://navbharattimes.indiatimes.com/state/west-bengal/kolkata/mahua-motra-slams-tmc-rebel-mp-over-not-getting-merger-recognition-by-lok-sabha-speaker-in-ncpi-shares-screenshot-of-parliament-live-telecast/articleshow/132702553.cms",
                 "source": "Navbharat Times",
                 "date": "2026-07-29T06:24:23Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "CJP प्रोटेस्ट में पैलेट गन चलाने वाले जवानों पर नहीं होगा एक्शन, जानें क्यों?",
-                "desc": "कॉकरोच जनता पार्टी के प्रोटेस्ट में प्रदर्शनकारियों के खिलाफ पैलेट गन का इस्तेमाल किया गया था. इससे घायल लोग सामने आए थे. हालांकि दिल्ली पुलिस ने इसके इस्तेमाल से इनकार किया है.",
-                "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/27/c575a519bec1013eda69892fe6e750d11785139887469736_original.png?impolicy=abp_cdn&imwidth=1200",
-                "url": "https://www.abplive.com/news/india/cjp-protest-pellet-gun-no-action-taken-against-personal-delhi-police-cockroach-janta-party-jantar-mantar-3167307",
-                "source": "ABP News",
-                "date": "2026-07-29T06:19:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "2029 में 'सबसे बड़ी ताकत' से मोदी-राहुल की टक्कर, ये जिसका थामेंगे हाथ वही बनेगा सत्ता का सिकंदर",
-                "desc": "Gen Z Challenge: NEET-UG विवाद को लेकर हुए विरोध-प्रदर्शन अब महज परीक्षा से जुड़ा आंदोलन नहीं रह गया है। यह राजनीतिक तौर पर एक बड़े बदलाव की सुगबुगाहट के रूप में भी देखा जा रहा है।",
-                "image": "https://static.langimg.com/nbt/thumb/132702065/2029-lok-sabha-election-and-gen-z.jpg?imgsize=942143&width=1600&height=900&resizemode=75",
-                "url": "https://navbharattimes.indiatimes.com/india/2029-lok-sabha-election-would-be-challenge-for-bjp-congress-sp-bsp-ncp-due-to-gen-z-who-become-india-most-powerful-voter-bloc/articleshow/132701884.cms",
-                "source": "Navbharat Times",
-                "date": "2026-07-29T06:08:41Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "प्रियंका गांधी और अनुराग ठाकुर संसद में भिड़ गए, वजह थे आईआईटी के ये प्रोफ़ेसर",
-                "desc": "मंगलवार को कांग्रेस सांसद प्रियंका गांधी वाड्रा के नई शिक्षा सुधार समिति को लेकर दिए गए बयान पर बीजेपी सांसदों ने तीखी प्रतिक्रिया दी.",
-                "image": "https://ichef.bbci.co.uk/news/1200/branded_hindi/b39a/live/5e391890-8b0a-11f1-baef-9b9692338545.jpg",
-                "url": "https://www.bbc.com/hindi/articles/cp9e2392ml1o",
-                "source": "BBC",
-                "date": "2026-07-29T04:54:53Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Stock Market Rally: ये 3 कारण... शेयर बाजार में धुआंधार तेजी, सेंसेक्स 800 अंक उछला",
-                "desc": "Stock Market Surge: सप्ताह के तीसरे कारोबारी दिन भारतीय शेयर बाजार में तूफानी तेजी देखने को मिल रही है. कच्चे तेल की कीमतों में तगड़े उछाल के बाद भी सेंसेक्स-निफ्टी खुलते ही दौड़ लगाते नजर आए हैं.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a6982fd90301-stock-market-rally-095912944-16x9.jpg",
-                "url": "https://www.aajtak.in/business/news/story/stock-market-rally-amid-crude-oil-price-surge-iran-attack-hormuz-three-big-reason-behind-tutc-dskc-2610941-2026-07-29",
-                "source": "AajTak",
-                "date": "2026-07-29T04:48:33Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "अमेरिका से जंग में कमजोर पड़ा ईरान? चीन से की 400 एयर डिफेंस मिसाइल डील",
-                "desc": "ईरान ने चीन से 300-400 पोर्टेबल एयर डिफेंस मिसाइल सिस्टम (MANPADS) खरीदने का समझौता किया है. चीन ने इस रिपोर्ट को पूरी तरह निराधार बताया है. अगर यह डील पूरी होती है, तो US और इजरायल के साथ युद्ध के बाद ईरान की एयर डिफेंस क्षमता को बड़ा सहारा मिल सकता है.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a6983d9db142-china-iran-weapon-deal-293844564-16x9.png",
-                "url": "https://www.aajtak.in/defence-news/story/china-weapon-supply-iran-air-defense-purchase-transportation-pakistan-route-ntc-mnrd-dskc-2610936-2026-07-29",
-                "source": "AajTak",
-                "date": "2026-07-29T04:40:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "जापान: भूकंप से अब तक 13 लोगों की मौत, मलबे में दबे लोगों की तलाश जारी",
-                "desc": "यह भूकंप मंगलवार को स्थानीय समयानुसार शाम 4:27 बजे क्यूशू द्वीप के अंदरूनी हिस्से में आया था. अमेरिकी भूवैज्ञानिक सर्वेक्षण ने इसकी तीव्रता 6.8 बताई है.",
-                "image": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/80a1/live/1a2e9b50-8b07-11f1-b8ee-9b3c26ad07bb.jpg",
-                "url": "https://www.bbc.com/hindi/live/cjwxq537vj1t",
-                "source": "BBC",
-                "date": "2026-07-29T04:25:10Z",
                 "priority": "STANDARD"
             }
         ],
@@ -1628,6 +1628,42 @@
         ],
         "sports": [
             {
+                "title": "बांग्लादेश क्रिकेट में 'तख्तापलट', मेहदी हसन की हुई छुट्टी; लिटन दास को BCB ने बनाया नया वनडे कप्तान",
+                "desc": "बांग्लादेश क्रिकेट बोर्ड BCB ने वर्ल्ड कप 2027 को ध्यान में रखते हुए लिटन दास को नया वनडे कप्तान बनाया है। दास को कप्तान बनाने का एलान बीसीबी अध्यक्ष तमीम इकबाल ने की।",
+                "image": "https://www.jagranimages.com/images/2026/07/29/article/image/Litton-Das-1785347792142_m.webp",
+                "url": "https://www.jagran.com/cricket/headlines-litton-das-named-white-ball-captain-what-prompted-bcb-to-sack-successful-mehidy-hasan-40323429.html",
+                "source": "Jagran",
+                "date": "2026-07-29T18:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "एक घूंसे में चित्त हुआ बॉक्सर, Commonwealth Games से आई दिल दहला देने वाली तस्वीर",
+                "desc": "Boxing At Commonwealth Games 2026: कॉमनवेल्थ गेम्स से एक दिल दहला देने वाली तस्वीर सामने आई है. बॉक्सिंग में एक जबरदस्त नॉकआउट फिनिश देखने को मिला.",
+                "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/29/41ba6bdf9eb3193b41431637d81c91151785346572285975_original.jpg?impolicy=abp_cdn&imwidth=1200",
+                "url": "https://www.abplive.com/sports/commonwealth-games-2026-wales-orlando-holley-sotomi-knockout-refiloe-thai-70-kg-boxing-quarterfinal-video-3167672",
+                "source": "ABP News",
+                "date": "2026-07-29T17:37:54Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "अश्विन नंबर 1, रविंद्र जडेजा मौजूदा टीम से अकेले बॉलर; ये हैं श्रीलंका में सबसे ज्यादा टेस्ट विकेट लेने वाले टॉप 15 भारतीय गेंदबाज",
+                "desc": "भारत और श्रीलंका के बीच 2 मैचों की टेस्ट सीरीज 15 अगस्त से शुरू होगी। मौजूदा स्क्वाड में शामिल 15 में से 12 खिलाड़ी पहली बार यहां टेस्ट खेलेंगे। रविचंद्रन अश्विन श्रीलंका में सबसे ज्यादा टेस्ट विकेट लेने वाले भारतीय गेंदबाज हैं। देखें टॉप-15 भारतीय गेंदबाजों की पूरी सूची।",
+                "image": "https://images.jansatta.com/2026/07/ashwin-jadeja-kuldeep-most-wickets-test-in-sri-lanka.jpg",
+                "url": "https://www.jansatta.com/khel/ravichandran-ashwin-number-1-ravindra-jadeja-only-indian-bowler-current-squad-india-vs-sri-lanka-test-series-ind-vs-sl/4639976/",
+                "source": "Jansatta",
+                "date": "2026-07-29T17:26:47Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "बांग्लादेश ने मेहदी हसन मिराज को कप्तानी से हटाया, लिटन दास बने नए कप्तान",
+                "desc": "बांग्लादेश क्रिकेट बोर्ड ने लिटन दास को वनडे टीम का नया कप्तान नियुक्त किया है। मेहदी हसन मिराज को पद से हटा दिया गया है। उनकी कप्तानी में टीम ने 10 मैच जीते थे।, Cricket Hindi News - Hindustan",
+                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/07/29/1600x900/logo/Litton_Das_1785345355480_1785345363167_852d2908-a4fc-4c69-9690-9a7dd83b2e1a.jpeg",
+                "url": "https://www.livehindustan.com/cricket/litton-das-named-bangladesh-new-odi-captain-after-mehidy-hasan-miraz-axed-ahead-of-world-cup-2027-201785344627135.html",
+                "source": "livehindustan.com",
+                "date": "2026-07-29T17:18:51Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Cwg 2026 Day-7 Live:भारत ने मुक्केबाजी में आज पक्का किया छठा पदक, जैस्मीन सेमीफाइनल में पहुंचीं",
                 "desc": ",commonwealth games 2026 ,commonwealth games 2026 medal tally ,commonwealth games day 7 live Glasgow Commonwealth Games 2026 Day-7 Live Updates: नमस्कार! अमर उजाला के लाइव ब्लॉग में आपका स्वागत है। ग्लास्गो कॉमनवेल्थ गेम्स 2026 में आज भारत के पास एक बार फिर कई पदक जीतने का मौका है। भारोत्तोलन और एथलेटिक्स में आज कई पदक दांव पर हैं। मुक्केबाजी में भी आज कई पदक पक्के कर सकते हैं।",
                 "image": "https://staticimg.amarujala.com/assets/images/2026/07/29/cwg_79c49f944d435f98f5a215c8b692d067.jpeg?w=1200&dpr=1.0",
@@ -2130,47 +2166,101 @@
                 "source": "Jansatta",
                 "date": "2026-07-28T16:02:12Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "रजत पाटीदार के आगे तिलक वर्मा कुछ भी नहीं, मौका दो उसे, पूर्व चयनकर्ता ने कर दी बड़ी मांग",
-                "desc": "पूर्व भारतीय क्रिकेटर और चयनकर्ता क्रिस श्रीकांत ने तिलक वर्मा के स्थान पर रजत पाटीदार को टीम में शामिल करने की बात कही है। उन्होंने तिलक की तीखे शब्दों में आलोचना की है और उनके धीमे अप्रोच को टीम के लिए नुकसानदेह बताया है।, Cricket Hindi News - Hindustan",
-                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/07/28/1600x900/logo/rajat_patidar_vs_tilak_warma_1785253849432_1785253855185_c4681d94-fcc6-4368-833a-0918f40dfafc.jpg",
-                "url": "https://www.livehindustan.com/cricket/kris-srikkanth-has-called-for-rajat-patidar-to-be-played-in-place-of-tilak-varma-201785253334874.html",
-                "source": "Hindustan",
-                "date": "2026-07-28T15:53:48Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'तुम गिरकर दोबारा उठने वाले खिलाड़ी हो', चोट से टूटे तेजस्विन शंकर का विनेश फोगाट ने बढ़ाया हौसला",
-                "desc": "भारत के स्टार हाई जंपर तेजस्विन शंकर घुटने की चोट के कारण मेडल की दौड़ से बाहर हो गए थे. इस घटना के बाद विनेश फोगाट ने तेजस्विन शंकर को लेकर एक दिल जीतने वाला पोस्ट शेयर किया है.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a68c6ac6c22a-vinesh-phogat-281134869-16x9.png",
-                "url": "https://www.aajtak.in/sports/news/story/vinesh-phogat-offers-encouragement-to-heartbroken-tejaswin-shankar-aksp-dskc-2610765-2026-07-28",
-                "source": "AajTak",
-                "date": "2026-07-28T15:17:09Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'विराट और रोहित को वर्ल्ड कप से बाहर रखने का...', पाकिस्तानी दिग्गज ने कही दमदार बात",
-                "desc": "पाकिस्तानी दिग्गज जहीर अब्बास ने स्टार बल्लेबाज विराट कोहली और रोहित शर्मा को लेकर दमदार बात कही है। 2027 वनडे वर्ल्ड कप तक रोहित 40 साल से अधिक के हो जाएंगे जबकि कोहली 39 साल के होंगे।, Cricket Hindi News - Hindustan",
-                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/07/28/1600x900/logo/Virat_Kohli_and_Rohit_Sharma_1785250555936_1785250556098_6edfb11b-3cf9-4412-951a-f760bfc07230.jpg",
-                "url": "https://www.livehindustan.com/cricket/i-dont-see-any-reason-why-virat-kohli-and-rohit-sharma-should-not-play-2027-world-cup-says-pakistan-great-zaheer-abbas-201785250289405.html",
-                "source": "Hindustan",
-                "date": "2026-07-28T15:10:51Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "गौतम गंभीर के सबसे करीबी ने छोड़ा टीम इंडिया का साथ, अब आईपीएल में होगी एंट्री, टीम इंडिया को जिताई कई ट्रॉफी",
-                "desc": "टीम इंडिया के सहायक कोच रयान टेन डोशेट का कार्यकाल खत्म हो चुका है। वे अब दोबारा से आईपीएल की टीम केकेआर के साथ जुड़ जाएंगे।",
-                "image": "https://static.langimg.com/nbt/thumb/132686899/ryan-ten-doeschate.jpg?imgsize=516202&width=1600&height=900&resizemode=75",
-                "url": "https://navbharattimes.indiatimes.com/sports/cricket/cricket-news/ryan-ten-doeschate-quits-indian-team-set-to-join-kkr-from-ipl-2027/articleshow/132686868.cms",
-                "source": "Navbharat Times",
-                "date": "2026-07-28T14:30:05Z",
-                "priority": "STANDARD"
             }
         ]
     },
     "en": {
         "general": [
+            {
+                "title": "Teenage Lifeguard Fights Intense Waves to Bring Boy to Safety",
+                "desc": "A lifeguard with a relentless grip on a young boy brought him to safety amid enormous waves that ripped across a Santa Cruz beach over the weekend.",
+                "image": "https://static01.nyt.com/images/2026/07/29/multimedia/29nat-ca-lifeguard-promo-wtlk/29nat-ca-lifeguard-promo-wtlk-facebookJumbo.jpg",
+                "url": "https://www.nytimes.com/2026/07/29/us/santa-cruz-lifeguard-rescue-ryder-williams.html",
+                "source": "The New York Times",
+                "date": "2026-07-29T19:24:26Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Report: Tony Romo had open container of alcohol when pulled over",
+                "desc": "Yes, anyone who is too busy to put down the phone or who has had more than a drink or two should use a driver.",
+                "image": "https://nbcsports.brightspotcdn.com/dims4/default/3a8a8c2/2147483647/strip/true/crop/2400x1350+0+125/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F99%2Fe8%2Fc34e4a7c44d78e8ec3b046741b1c%2Fhttps-api-imagn.com%2Frest%2Fdownload%2FimageID%3D21049916",
+                "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-tony-romo-had-open-container-of-alcohol-when-pulled-over",
+                "source": "NBC Sports",
+                "date": "2026-07-29T19:00:06Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'She killed the kids!' 911 call from Lindsay Clancy's husband brings tears to the courtroom",
+                "desc": "There was an update in the Lindsay Clancy case Wednesday. Jurors heard the 911 call her husband Patrick made when he found their children dead.",
+                "image": "https://cdn.abcotvs.com/dip/images/19586373_ex-testifies-clancy-cnnw-img.png?w=1600",
+                "url": "https://abc7chicago.com/post/lindsay-clancys-ex-husband-set-resume-testifying-day-she-killed-3-children/19596135/",
+                "source": "ABC7 Chicago",
+                "date": "2026-07-29T18:53:29Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Courtroom hears harrowing 911 call in Lindsay Clancy case, as ex-husband recalls the day of children's killings",
+                "desc": "Lindsay Clancy is charged with three counts of first-degree murder for strangling her children. Her attorney is seeking what's known as the insanity defense, arguing that she was in the throes of postpartum psychosis.",
+                "image": "https://media.wbur.org/wp/2026/07/Lindsay_Clancy_Trial_26210613494206-1000x657.jpg",
+                "url": "https://www.wbur.org/news/2026/07/29/lindsay-clancy-patrick-clancy-testimony-911-murder-trial",
+                "source": "WBUR",
+                "date": "2026-07-29T18:50:05Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "What’s the catch with the Apple Upgrade program?",
+                "desc": "Apple has just announced a new program that allows you to lease an iPhone, iPad, Mac, and Apple Watch for a relatively low monthly price, but it might not be worth the hassle.",
+                "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/apple-upgrade.png?quality=90&strip=all&crop=0%2C6.5752975720548%2C100%2C47.838007384337&w=1200",
+                "url": "https://www.theverge.com/tech/972583/apple-upgrade-program-deal",
+                "source": "The Verge",
+                "date": "2026-07-29T18:40:06Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "New Dodgers Rumors on 'Increased' Tarik Skubal Trade Interest Amid Shohei Ohtani's Biceps Injury",
+                "desc": "While two-way star Shohei Ohtani continues to abstain from pitching amid his biceps injury, the Los Angeles Dodgers are reportedly eyeing the biggest name on the trade market ahead of Monday's deadline.",
+                "image": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2026-07/2287517142_large_cropped.jpg?w=1120&h=630",
+                "url": "https://bleacherreport.com/articles/25459067-new-dodgers-rumors-increased-tarik-skubal-trade-interest-amid-shohei-ohtanis-biceps-injury",
+                "source": "Bleacher Report",
+                "date": "2026-07-29T18:36:42Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Joe Miñoso Leaving in Season 15",
+                "desc": "Joe Miñoso, who plays Joe Cruz on 'Chicago Fire,' is leaving the series in Season 15.",
+                "image": "https://variety.com/wp-content/uploads/2026/07/joe.jpg?crop=68px%2C0px%2C932px%2C524px&resize=1000%2C563",
+                "url": "https://variety.com/2026/tv/news/chicago-fire-joe-minoso-leaving-season-15-1236823672/",
+                "source": "Variety",
+                "date": "2026-07-29T18:36:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'Chicago Fire' Original Cast Member Joe Miñoso Leaving In Season 15",
+                "desc": "Joe Miñoso, who has been on 'Chicago Fire' since Season 1, is departing the NBC drama series in Season 15.",
+                "image": "https://deadline.com/wp-content/uploads/2026/07/joe-minoso-.jpg?w=1024",
+                "url": "https://deadline.com/2026/07/chicago-fire-joe-minoso-leaving-season-15-1237012291/",
+                "source": "Deadline",
+                "date": "2026-07-29T18:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Southern Europe burns as 3 firefighters die and France battles blaze 4 times the size of Paris",
+                "desc": "At the peak of the evacuations, a third of a million people were driven from homes and vacation sites in France and Spain.",
+                "image": "https://dims.apnews.com/dims4/default/9b33e9a/2147483647/strip/true/crop/3842x2560+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F7e%2F71%2F08c40b9e75719967dd4cd1ed5b1c%2F8458e8cdb7484f4a99d88c743c77d906",
+                "url": "https://apnews.com/article/france-spain-bordeaux-wildfires-heat-wave-climate-change-c3d9c45cdbf57d19bbec46d49e5237de",
+                "source": "AP News",
+                "date": "2026-07-29T18:18:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Glen Hansard death: Oscar-winning Irish musician and star of Once dies aged 56 in motorbike crash",
+                "desc": "Musician emerged from Dublin’s busking scene before forming his band The Frames, going on to achieve international fame by starring in the musical drama film ‘Once’",
+                "image": "https://static.the-independent.com/2026/07/29/9/36/PA-34251105-98e66843.jpeg?trim=87,0,132,0&width=1200&height=800&crop=1200:800",
+                "url": "https://www.the-independent.com/arts-entertainment/music/news/glen-hansard-dead-cause-once-songs-b3024075.html",
+                "source": "The Independent",
+                "date": "2026-07-29T18:18:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Trump Administration Is Repurposing Federal Land for A.I. Data Centers",
                 "desc": "In the latest example, the Energy Department will convert a shuttered Cold War-era uranium enrichment facility into a data center campus and gas plants.",
@@ -2620,99 +2710,99 @@
                 "source": "DW.com",
                 "date": "2026-07-29T07:38:23Z",
                 "priority": "CRITICAL_ALERT"
-            },
-            {
-                "title": "Japan earthquake kills at least 13 as rescuers search for people trapped in damaged mall and factory",
-                "desc": "A major earthquake in Japan's southwest killed at least 13 people and left several injured or missing after a shopping center and a paper mill were heavily damaged.",
-                "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/07/28/d8f1c30c-5af0-408b-9e54-05283cc91c5b/thumbnail/1200x630/2d07f20b4e7883345d710f74c4f96225/japan-mall-earthquake-kumamoto.jpg",
-                "url": "https://www.cbsnews.com/news/strong-earthquake-with-7-1-magnitude-strikes-southern-japan-tsunami-alert-issued/",
-                "source": "CBS News",
-                "date": "2026-07-29T07:25:14Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "France evacuates thousands as fires displace a third of a million in southwest Europe",
-                "desc": "French authorities ordered 4,000 more people evacuated from tourist sites along its Atlantic coast, widening what may be France's largest peacetime evacuation.",
-                "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8105x4559+0+422/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F58%2F6d%2F42fa8e5b4db9a75ff30b2f07f212%2Fap26209754980998.jpg",
-                "url": "https://www.npr.org/2026/07/29/g-s1-136057/france-wildfires",
-                "source": "NPR",
-                "date": "2026-07-29T07:22:44Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Results, drawing",
-                "desc": "The odds of winning the Mega Millions jackpot are 1 in 290,472,336.",
-                "image": "https://nypost.com/wp-content/uploads/sites/2/2026/06/newspress-collage-onjtnqwz5-1781751992424.jpg?quality=75&strip=all&1781737598&w=1200",
-                "url": "https://nypost.com/2026/07/29/us-news/mega-millions-800m-jackpot-winning-ticket-sold-in-florida-results-drawing/",
-                "source": "New York Post",
-                "date": "2026-07-29T07:15:12Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Bryan Kohberger’s Potential Motive Explored",
-                "desc": "Find out more about one investigators theory on Bryan Kohberger's possible motive in murders of four University of Idaho college students.",
-                "image": "https://www.oxygen.com/sites/oxygen/files/2022/11/xana-kernodle-ethan-chapin-kaylee-goncalves-madison-mogen.jpg",
-                "url": "https://www.oxygen.com/crime-news/the-idaho-murders-bryan-kohbergers-potential-motive-explored",
-                "source": "Oxygen Official Site",
-                "date": "2026-07-29T07:04:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The biggest bombshells from Netflix's 'The Idaho Murders' documentary",
-                "desc": "Netflix’s new \"Idaho Murders\" docuseries reveals chilling details about Bryan Kohberger and the 2022 slayings of University of Idaho students Kaylee Goncalves, 21, Madison Mogen, 21, Xana Kernodle, 20, and Ethan Chapin, 20.",
-                "image": "https://pagesix.com/wp-content/uploads/sites/3/2026/07/netflix.jpg?quality=75&strip=all&w=1200",
-                "url": "https://pagesix.com/2026/07/29/entertainment/the-biggest-bombshells-from-netflixs-the-idaho-murders-documentary/",
-                "source": "Page Six",
-                "date": "2026-07-29T07:01:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Iran to get Chinese shoulder-launched missile systems in weeks",
-                "desc": "Iran is set to receive up to 400 Chinese shoulder-fired missile launchers in a $60M-$70M deal to boost its defenses amid war with the US.",
-                "image": "https://nypost.com/wp-content/uploads/sites/2/2026/07/135835945.jpg?quality=75&strip=all&w=1200",
-                "url": "https://nypost.com/2026/07/29/world-news/iran-to-get-chinese-shoulder-launched-missile-systems-in-weeks/",
-                "source": "New York Post",
-                "date": "2026-07-29T06:46:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Flood warnings issued for eastern New York as life-threatening flash flood threat shifts toward New England",
-                "desc": "Dangerous flooding is unfolding in eastern New York amid torrential rainfall as a potent storm moves toward New England. It comes a day after it triggered water rescues and widespread travel impacts in the Northeast.",
-                "image": "https://media.cnn.com/api/v1/images/stellar/prod/22847193-northeast-flash-16x9-thumb.jpg?c=16x9&q=w_800,c_fill",
-                "url": "https://www.cnn.com/2026/07/29/weather/northeast-storm-flash-flood-threat-climate-hnk",
-                "source": "CNN",
-                "date": "2026-07-29T06:37:24Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Wisconsin Democratic primary debate for governor",
-                "desc": "The five Democratic candidates for Wisconsin governor face off two weeks before the primary election.",
-                "image": "https://kubrick.htvapps.com/htv-prod/images/eb7f552b-780b-4e5c-8488-ed34fce973ba.jpg?crop=0.832xw%3A0.832xh%3B0.111xw%2C0&resize=1200%3A*",
-                "url": "https://www.wisn.com/article/7-wisconsin-democratic-primary-debate-for-governor-wisn-12/73278024",
-                "source": "WISN",
-                "date": "2026-07-29T05:59:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Mega Millions Player From Florida Wins $800 Million-Here’s What They Could Take Home",
-                "desc": "This is the biggest lottery prize won in 2026 so far, eclipsing the $533 million Mega Millions jackpot won by a lottery player from Illinois in March",
-                "image": "https://imageio.forbes.com/specials-images/imageserve/6a69949615f2a484d678886b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-                "url": "https://www.forbes.com/sites/siladityaray/2026/07/29/mega-millions-ticket-buyer-from-florida-wins-800-million-jackpot-heres-what-they-could-take-home/",
-                "source": "Forbes",
-                "date": "2026-07-29T05:52:36Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "After Asian pop category launch, BTS says it won't submit music to Grammys",
-                "desc": "K-pop juggernaut BTS announced Wednesday that it will not submit its music for consideration at the 69th Grammy Awards, set for February, in a move...",
-                "image": "https://newsimg.koreatimes.co.kr/2026/07/29/6aee1c97-ff95-419b-b120-50e731bd5fc0.jpg",
-                "url": "https://www.koreatimes.co.kr/entertainment/k-pop/20260729/after-asian-pop-category-launch-bts-says-it-wont-submit-music-to-grammys",
-                "source": "The Korea Times",
-                "date": "2026-07-29T05:38:03Z",
-                "priority": "STANDARD"
             }
         ],
         "business": [
+            {
+                "title": "Florida player beats 1-in-290 million odds to win Mega Millions jackpot",
+                "desc": "A single Mega Millions ticket sold in Florida matched all six numbers to win the $800 million jackpot, the largest lottery prize of 2026.",
+                "image": "https://ewscripps.brightspotcdn.com/dims4/default/4275fed/2147483647/strip/true/crop/1024x538+0+115/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F92%2F91%2F477f742e4aa2b17dffefdb3dc67f%2Fap22186617978906.jpg",
+                "url": "https://www.scrippsnews.com/us-news/florida-player-beats-1-in-290-million-odds-to-win-mega-millions-jackpot",
+                "source": "Scripps News",
+                "date": "2026-07-29T18:58:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Cyclosporiasis Outbreak 2026 Map, Foods to Avoid as Parasite Cases Hit 45 States",
+                "desc": "Cyclospora, the “diarrhea parasite,” is fueling an outbreak linked to shredded lettuce in nine states as cases surge nationwide. Here’s how to prevent it and stay safe.",
+                "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2026-07/diarrhea-outbreak-cyclosporiasis-mh-07072026-b1dc81.jpg",
+                "url": "https://www.today.com/health/news/cyclospora-outbreak-2026-foods-avoid-lettuce-map-parasite-45-states-rcna589833",
+                "source": "today.com",
+                "date": "2026-07-29T18:56:36Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Airbus A350 completes 24-hour test flight for Qantas’ Project Sunrise",
+                "desc": "The aircraft flew more than 14,000 miles during the marathon test as Qantas prepares to launch the world’s longest nonstop commercial routes between Australia and Europe.",
+                "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/07/0/0/airbus-project-sunrise-2.jpg?ve=1&tl=1",
+                "url": "https://www.foxbusiness.com/markets/airbus-jet-completes-24-hour-flight-push-worlds-longest-commercial-route",
+                "source": "Fox Business",
+                "date": "2026-07-29T18:32:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Oil prices surge after Trump vows retaliation for Iranian attack",
+                "desc": "Global oil prices climbed 7% on Wednesday, crossing above $90 a barrel.",
+                "image": "https://i.abcnewsfe.com/a/21c71e42-d31c-460a-96d9-16e58e10e9d5/hormuz-gty-jef-260729_1785334006559_hpMain_16x9.jpg?w=1600",
+                "url": "https://abcnews.com/Business/oil-prices-surge-after-trump-vows-retaliation-iranian/story?id=135185546",
+                "source": "ABC News - Breaking News, Latest News and Videos",
+                "date": "2026-07-29T18:30:35Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Work Halted at Another Office Conversion in Midtown Manhattan",
+                "desc": "The Department of Buildings ordered work to stop on certain floors at 750 Third Avenue. It’s the third conversion project to have work halted since one became dangerously unstable earlier this month.",
+                "image": "https://static01.nyt.com/images/2026/07/29/multimedia/29-met-building-conversion-02-mjqw/29-met-building-conversion-02-mjqw-facebookJumbo.jpg",
+                "url": "https://www.nytimes.com/2026/07/29/nyregion/midtown-manhattan-conversions-steel.html",
+                "source": "The New York Times",
+                "date": "2026-07-29T18:16:37Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The US government just banned Roombas",
+                "desc": "The FCC’s foreign robot ban will include robot vacuums and other types of robots, not just Chinese humanoids and dogs.",
+                "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKB341_IROBOT_CVIRGINIA_A_514bad.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+                "url": "https://www.theverge.com/policy/972312/us-robot-ban-sweep-up-chinese-vacuums",
+                "source": "The Verge",
+                "date": "2026-07-29T18:13:09Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Beloved Macy's red shopping bag billboard in Herald Square taken down after decades",
+                "desc": "The iconic shopping bag billboard stood in Herald for decades.",
+                "image": "https://i.abcnewsfe.com/a/b87f7617-c732-43be-a8d6-60c642d71843/macys-abc-gmh-260729_1785344481324_hpMain_16x9.jpg?w=1600",
+                "url": "https://abcnews.com/US/beloved-macys-red-shopping-bag-billboard-new-york/story?id=135197119",
+                "source": "ABC News - Breaking News, Latest News and Videos",
+                "date": "2026-07-29T18:07:04Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Elon Musk’s xAI is trying to sue its way out of a Grok reckoning",
+                "desc": "Musk defends Grok, says Minnesota's nudifying app ban is unconstitutional.",
+                "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2255893185-2-1152x648-1785343633.jpg",
+                "url": "https://arstechnica.com/tech-policy/2026/07/elon-musks-xai-is-trying-to-sue-its-way-out-of-a-grok-reckoning/",
+                "source": "Ars Technica",
+                "date": "2026-07-29T17:58:24Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "FCC: Ban on Foreign-Made Robots Includes Robot Vacuums",
+                "desc": "It's bad news for Chinese robot vacuum manufacturers like Roborock, Ecovacs, and Dreame, which dominate the market. The ban will also ensnare robot lawn mowers.",
+                "image": "https://i.pcmag.com/imagery/articles/05clb5SHTe1VjlEhhGQs3eA-1.fit_lim.size_1200x630.v1785341972.jpg",
+                "url": "https://www.pcmag.com/news/fcc-ban-on-foreign-made-robots-includes-robot-vacuums",
+                "source": "PCMag",
+                "date": "2026-07-29T17:56:24Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "US government bans new foreign-made humanoids, robot dogs, and solar inverters, citing risks to national security",
+                "desc": "The ban largely affects U.S. imports from China, which currently dominates the global market for making humanoid robots and solar inverters.",
+                "image": "https://techcrunch.com/wp-content/uploads/2026/07/humanoid-robot-china-fcc-2285947327.jpg?resize=1200,800",
+                "url": "https://techcrunch.com/2026/07/29/us-government-bans-new-foreign-made-humanoids-robot-dogs-and-solar-inverters-citing-risks-to-national-security/",
+                "source": "TechCrunch",
+                "date": "2026-07-29T17:41:09Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Trump Administration Is Repurposing Federal Land for A.I. Data Centers",
                 "desc": "In the latest example, the Energy Department will convert a shuttered Cold War-era uranium enrichment facility into a data center campus and gas plants.",
@@ -3162,99 +3252,99 @@
                 "source": "Ars Technica",
                 "date": "2026-07-28T21:36:39Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "T-Mobile outage: Users say they couldn't connect to Starlink via T-Satellite",
-                "desc": "T-Mobile's T-Satellite with Starlink service wasn't the immediate fix some customers were hoping for during the Monday outage.",
-                "image": "https://helios-i.mashable.com/imagery/articles/07AE6ftdbjiTFcAEChTccA5/hero-image.fill.size_1200x675.v1785271586.jpg",
-                "url": "https://mashable.com/tech/t-satellite-starlink-t-mobile-network-outage",
-                "source": "Mashable",
-                "date": "2026-07-28T21:35:13Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "AI Company Employees Petition US Government For Regulation",
-                "desc": "A thousand workers from OpenAI, Anthropic, Google, Meta and more have signed the letter.",
-                "image": "https://www.engadget.com/img/gallery/ai-company-employees-petition-us-government-for-regulation/l-intro-1785273552.jpg",
-                "url": "https://www.engadget.com/2225612/ai-company-employees-petition-us-government-for-regulation/",
-                "source": "Engadget",
-                "date": "2026-07-28T21:20:39Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Elon Musk’s X Money offers 6% yield and a Visa debit card but it's invitation only",
-                "desc": "Elon Musk's social media company X, previously Twitter, has launched X Money, a bank account-like service for users to send money to each other.",
-                "image": "https://dims.apnews.com/dims4/default/1f97643/2147483647/strip/true/crop/7681x5118+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F7e%2Fce%2F89288826af935f2d3ec643c381f0%2Fa1104d63187a4e15b6016739a2d39d31",
-                "url": "https://apnews.com/article/elon-musk-x-money-cross-river-payments-0bb86f98e0747757992bc8f435f7014e",
-                "source": "AP News",
-                "date": "2026-07-28T21:20:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "T-Mobile breaks silence over nationwide outage",
-                "desc": "T-Mobile is apologizing to customers affected by Monday's nationwide service outage.",
-                "image": "https://helios-i.mashable.com/imagery/articles/03kpCRJnroVHxqZrY3oMtVb/hero-image.fill.size_1200x675.v1785250645.jpg",
-                "url": "https://mashable.com/tech/t-mobile-outage-statement-amid-customer-dissatisfaction",
-                "source": "Mashable",
-                "date": "2026-07-28T21:05:43Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "eBay to pay nearly $50 million after employees reportedly harassed a couple",
-                "desc": "The settlement resolves a lawsuit over former employees' stalking of a newsletter couple who covered eBay.",
-                "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-452847902-e1785269247779.jpg?resize=1200,600",
-                "url": "https://fortune.com/2026/07/28/ebay-steiner-harassment-settlement-50-million-cyberstalking/",
-                "source": "Fortune",
-                "date": "2026-07-28T21:01:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Mark Zuckerberg says AI power should be distributed, not centralized",
-                "desc": "Meta CEO Mark Zuckerberg says superintelligence will drive economic growth and create opportunities if AI access is broadly distributed rather than controlled by a few.",
-                "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/02/0/0/mark-priscilla-zuckerberg-carpet.jpg?ve=1&tl=1",
-                "url": "https://www.foxbusiness.com/economy/zuckerberg-predicts-more-jobs-entrepreneurship-superintelligence-widely-distributed",
-                "source": "Fox Business",
-                "date": "2026-07-28T20:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Boeing Reports Loss on $280 Million Hit to Troubled Air Force One Program",
-                "desc": "Boeing pushed back delivery of two presidential planes by four years. The delay and related expenses contributed to a bigger-than-expected loss in the second quarter.",
-                "image": "https://static01.nyt.com/images/2026/07/28/multimedia/28biz-boeing-af1-zwkh/28biz-boeing-af1-zwkh-facebookJumbo.jpg",
-                "url": "https://www.nytimes.com/2026/07/28/business/boeing-earnings-air-force-one.html",
-                "source": "The New York Times",
-                "date": "2026-07-28T20:18:34Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Sam Altman is ready to decelerate",
-                "desc": "His change of position comes after \"the first security incident that I have felt very viscerally.\"",
-                "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2226496284.jpg?w=1024",
-                "url": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/",
-                "source": "TechCrunch",
-                "date": "2026-07-28T20:17:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ross Douthat, Sebastian Junger, Gianna Toboni, to Join CBS' '60 Minute",
-                "desc": "Ross Douthat, Sebastian Junger, Gianna Toboni, Trevor Phillips to Join CBS' '60 Minutes'",
-                "image": "https://variety.com/wp-content/uploads/2021/02/60-Minutes.jpg?w=640&h=360&crop=1",
-                "url": "https://variety.com/2026/tv/news/ross-douthat-sebastian-junger-gianna-toboni-cbs-60-minutes-1236822917/",
-                "source": "Variety",
-                "date": "2026-07-28T20:05:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Congressman Launches Inquiry Into Taylor Farms CEO's Donation to Trump Amid Cyclospora Outbreak",
-                "desc": "A California congressman who is the ranking member of the House Oversight Committee is now investigating donations made by Taylor Farms CEO Bruce Taylor and a possible attempt to influence the FDA's handling of the recent cyclospora outbreak tied to his company's lettuce.",
-                "image": "https://img.sfist.com/2026/07/taylor-farms-getty-1.jpg",
-                "url": "https://sfist.com/2026/07/28/congressman-launches-inquiry-into-taylor-farms-ceos-donation-to-trump-amid-cyclospora-outbreak/",
-                "source": "SFist",
-                "date": "2026-07-28T19:29:35Z",
-                "priority": "STANDARD"
             }
         ],
         "entertainment": [
+            {
+                "title": "Jason Cloth Indicted in Alleged $100 Million Ponzi Scheme",
+                "desc": "Jason Cloth, a veteran film financier with credits on 'Joker' and 'Babylon,' has been indicted on seven counts of wire fraud.",
+                "image": "https://variety.com/wp-content/uploads/2024/05/JasonCloth.jpg?w=1000&h=563&crop=1",
+                "url": "https://variety.com/2026/film/news/jason-cloth-babylon-joker-financier-indicted-ponzi-scheme-1236823635/",
+                "source": "Variety",
+                "date": "2026-07-29T19:05:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Gabbie Gonzalez's Plea for Parenting Time Denied After Arrest Over Hitman Allegations",
+                "desc": "TikTok influencer Gabbie Gonzalez's request for parenting time regarding her and Jack Avery's child has been denied.",
+                "image": "https://imagez.tmz.com/image/a1/16by9/2026/07/29/a1012ccb49754ab2bd69d409325f9a65_xl.jpg",
+                "url": "https://www.tmz.com/2026/07/29/influencer-gabbie-gonzalez-request-for-parenting-time-denied-after-restraining-order-obtained-by-ex/",
+                "source": "TMZ",
+                "date": "2026-07-29T18:40:34Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Joe Miñoso Leaving in Season 15",
+                "desc": "Joe Miñoso, who plays Joe Cruz on 'Chicago Fire,' is leaving the series in Season 15.",
+                "image": "https://variety.com/wp-content/uploads/2026/07/joe.jpg?crop=68px%2C0px%2C932px%2C524px&resize=1000%2C563",
+                "url": "https://variety.com/2026/tv/news/chicago-fire-joe-minoso-leaving-season-15-1236823672/",
+                "source": "Variety",
+                "date": "2026-07-29T18:36:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'Chicago Fire' Original Cast Member Joe Miñoso Leaving In Season 15",
+                "desc": "Joe Miñoso, who has been on 'Chicago Fire' since Season 1, is departing the NBC drama series in Season 15.",
+                "image": "https://deadline.com/wp-content/uploads/2026/07/joe-minoso-.jpg?w=1024",
+                "url": "https://deadline.com/2026/07/chicago-fire-joe-minoso-leaving-season-15-1237012291/",
+                "source": "Deadline",
+                "date": "2026-07-29T18:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'Chad Powers' Reveals Return Date and Season 2 First-Look Photos",
+                "desc": "'Chad Powers' season two premiere date and first-look photos.",
+                "image": "https://www.hollywoodreporter.com/wp-content/uploads/2025/10/174480_0247R-EMBED-2025.jpg?w=1000&h=667&crop=1",
+                "url": "https://www.hollywoodreporter.com/tv/tv-news/chad-powers-season-2-premiere-date-first-look-photos-1236659346/",
+                "source": "The Hollywood Reporter",
+                "date": "2026-07-29T18:26:11Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Hilaria Baldwin says she started dieting at age 5. It's not uncommon",
+                "desc": "Hilaria Baldwin revealed she started dieting as a kid. With the social pressures of diet culture, it's not uncommon, experts say.",
+                "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/03/31/USAT/89403609007-2262003421.jpg?crop=2610,1468,x1587,y418&width=2610&height=1468&format=pjpg&auto=webp",
+                "url": "https://www.usatoday.com/story/life/health-wellness/2026/07/29/hilaria-baldwin-dieting-disordered-eating-kids/91093353007/",
+                "source": "USA Today",
+                "date": "2026-07-29T18:25:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Nick Reiner Gets Written Up After ‘Extremely Hostile’ Verbal Argument with Prison Officials",
+                "desc": "Nick Reiner — the 32-year-old accused of killing his parents, Rob Reiner and Michele Singer Reiner — was allegedly disciplined months ago while behind bars. Nick, who is an inmate at the Los Angeles C...",
+                "image": "https://s.yimg.com/lo/mysterio/api/c5ff47cc945557ab4b8052fcef145e6db5ca5213e489b0d3e661c7ce9b49a2f8/lightyear_networkapi/resizefill_w748_h421;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fin_touch_weekly_articles_766%2Fc2fe415b85b7507ec3b53430ef09b4d9",
+                "url": "https://www.yahoo.com/news/us/articles/nick-reiner-gets-written-extremely-180646521.html?guccounter=1&guce_referrer=aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vXy9Eb3RzU3BsYXNoVWkvZGF0YS9iYXRjaGV4ZWN1dGU&guce_referrer_sig=AQAAAJXJCNAQ5efDSNlQZcKlewWjg1lAVQRO-RvdXykjHXR5Op5_gDQOyqkhRL19xrAE9P31axbd73cgVvhn0HUxmGec_kAJY7fWYDOJILrqAr5VgSqs9oXbjTIWePnViL8WdzzZ1dAywzE-_SbrbZvaWsYd5GVXc3IxQd23d7zHLFpn",
+                "source": "Yahoo",
+                "date": "2026-07-29T18:06:46Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Crunchyroll, Starz Announce Bundle Through Amazon Prime Video in U.S.",
+                "desc": "Bundle service costs US$16.99 per month // Crunchyroll and Starz announced on Wednesday a new bundle for both services available via Amazon's Prime Video in...",
+                "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI0/cms/news.7/213365/crunchyroll-logo-stacked.png.jpg",
+                "url": "https://www.animenewsnetwork.com/news/2026-07-29/crunchyroll-starz-announce-bundle-through-amazon-prime-video-in-u.s/.240085",
+                "source": "Anime News Network",
+                "date": "2026-07-29T18:00:44Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "4 women accuse U.S. actor Jared Leto of committing sexual offenses when they were teens; he denies it",
+                "desc": "Four women say Hollywood star Jared Leto committed sexual crimes against them when they were teenagers, in interviews with the BBC.",
+                "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/07/29/176ce353-15da-49e1-b88c-1820fafc6cf9/thumbnail/1200x630/0bf704f061c3f0dc90ef469d15224acc/jared-leto-2239724858.jpg",
+                "url": "https://www.cbsnews.com/news/jared-leto-women-accuse-us-actor-sexual-offenses-bbc-documentary/",
+                "source": "CBS News",
+                "date": "2026-07-29T17:47:25Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'Chad Powers' Season 2 Release Date Revealed",
+                "desc": "Hulu released first look images from the upcoming second season of 'Chad Powers,' where the team is eyeing the College Football Playoff.",
+                "image": "https://deadline.com/wp-content/uploads/2026/07/182998_086.jpg?w=1024",
+                "url": "https://deadline.com/2026/07/chad-powers-season-2-release-date-photos-glen-powell-hulu-1237012387/",
+                "source": "Deadline",
+                "date": "2026-07-29T17:19:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Oprah Winfrey Says She’s Ending Her South Africa Girls’ Academy to ‘Reach More Young Women’ with Scholarships",
                 "desc": "“The dream was never simply to build a school. It was to invest in the limitless potential of young women,” said Winfrey, whose academy will transition back to the community as she focuses on helping ...",
@@ -3704,99 +3794,99 @@
                 "source": "The New York Times",
                 "date": "2026-07-28T21:46:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Dakota Johnson transforms into Marilyn Monroe for Venice short film",
-                "desc": "Dakota Johnson transforms into Marilyn Monroe for \"Flesh Impact,\" a short film by Maggie Gyllenhaal premiering at the Venice Film Festival in September.",
-                "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/dakota-johnson-splitsville-premiere-los-angeles.jpg",
-                "url": "https://www.foxnews.com/entertainment/dakota-johnson-stuns-marilyn-monroe-first-look-after-director-doubted-casting",
-                "source": "Fox News",
-                "date": "2026-07-28T20:56:26Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "\"60 Minutes\" announces new correspondents and contributors",
-                "desc": "\"60 Minutes\" announced ahead of its 59th season that Ross Douthat, Sebastian Junger, Gianna Toboni and Trevor Phillips will join the show.",
-                "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/10/29/a7676876-3da9-4534-b4e1-298d47f16953/thumbnail/1200x630/af030d4025c89149fc474aaa8daf6da1/60min-cbsnews-sq-2.jpg",
-                "url": "https://www.cbsnews.com/news/60-minutes-ross-douthat-sebastian-junger-gianna-toboni-trevor-phillips/",
-                "source": "CBS News",
-                "date": "2026-07-28T20:56:18Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Artist Betye Saar has died at 99. She repurposed objects to reclaim identity : NPR",
-                "desc": "Saar told NPR in 2006, \"I'm the kind of person who recycles materials, but I also recycle emotions and feelings.\" She died days away from her 100th birthday.",
-                "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2631x1480+216+195/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F76%2F1e%2Fc1083d0f4075869b0b78673b3c3a%2Fgettyimages-2244541849.jpg",
-                "url": "https://www.npr.org/2026/07/28/nx-s1-5910539/betye-saar-dead",
-                "source": "NPR",
-                "date": "2026-07-28T20:31:06Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Backstage Details On Triple H Involvement In Brock Lesnar-Oba Femi Segment On WWE Raw",
-                "desc": "A new report provided more backstage details on the involvement of Paul \"Triple H\" Levesque during the Brock Lesnar and Oba Femi weigh-in segment on \"WWE Raw.\"",
-                "image": "https://www.wrestlinginc.com/img/gallery/backstage-details-on-triple-h-involvement-in-brock-lesnar-oba-femi-segment-on-wwe-raw/l-intro-1785269854.jpg",
-                "url": "https://www.wrestlinginc.com/2225542/triple-h-brock-lesnar-oba-femi-wwe-raw/",
-                "source": "Wrestling Inc.",
-                "date": "2026-07-28T20:18:52Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Penske Media Sued by Hollywood Foreign Press Over Golden Globes Buy",
-                "desc": "The Hollywood Foreign Press Association has sued Penske Media, parent of The Hollywood Reporter, Variety, Rolling Stone and other publications, alleging the company fraudulently acquired the Golden Globes as part of a larger plan to monopolize the awards market.",
-                "image": "https://www.hollywoodreporter.com/wp-content/uploads/2023/06/GettyImages-1304641400-H-2023.jpg?w=1296&h=730&crop=1",
-                "url": "https://www.hollywoodreporter.com/business/business-news/penske-media-sued-hollywood-foreign-press-golden-globes-1236658413/",
-                "source": "The Hollywood Reporter",
-                "date": "2026-07-28T20:15:17Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ross Douthat, Sebastian Junger, Gianna Toboni, to Join CBS' '60 Minute",
-                "desc": "Ross Douthat, Sebastian Junger, Gianna Toboni, Trevor Phillips to Join CBS' '60 Minutes'",
-                "image": "https://variety.com/wp-content/uploads/2021/02/60-Minutes.jpg?w=640&h=360&crop=1",
-                "url": "https://variety.com/2026/tv/news/ross-douthat-sebastian-junger-gianna-toboni-cbs-60-minutes-1236822917/",
-                "source": "Variety",
-                "date": "2026-07-28T20:05:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ben Affleck's mom's cause of death revealed after passing at actor's LA home",
-                "desc": "A death certificate revealed new details about the death of Ben and Casey Affleck's mom, Chris Anne Affleck.",
-                "image": "https://pagesix.com/wp-content/uploads/sites/3/2026/07/135787784.jpg?quality=75&strip=all&w=1200",
-                "url": "https://pagesix.com/2026/07/28/celebrity-news/ben-afflecks-moms-cause-of-death-revealed-after-passing-at-actors-la-home/",
-                "source": "Page Six",
-                "date": "2026-07-28T19:43:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Trace Adkins details being shot by his ex-wife during heated argument",
-                "desc": "Trace Adkins recalled surviving being shot through the heart by his ex-wife Julie Curtis in 1994 on a new episode of Theo Von's podcast.",
-                "image": "https://pagesix.com/wp-content/uploads/sites/3/2026/07/135785993-1.jpg?quality=75&strip=all&w=1200",
-                "url": "https://pagesix.com/2026/07/28/celebrity-news/trace-adkins-details-being-shot-by-his-ex-wife-during-heated-argument/",
-                "source": "Page Six",
-                "date": "2026-07-28T19:19:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Law Roach Says Zendaya and Tom Holland Won’t Have Another Wedding After They ‘Got Away with’ Their Private Ceremony",
-                "desc": "Holland confirmed his marriage to Zendaya in June after months of speculation",
-                "image": "https://s.yimg.com/lo/mysterio/api/7f9bb59b8e88c85918daa7a64b12a80925b11029e7b86f8ddc721ce12bb4130a/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F60d13c89d6338744887d3919190e1bb4",
-                "url": "https://uk.news.yahoo.com/law-roach-says-zendaya-tom-191009761.html",
-                "source": "Yahoo News UK",
-                "date": "2026-07-28T19:10:09Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Jelly Roll and Bunnie XO Unfollow Each Other on Instagram After Finalizing Divorce",
-                "desc": "Jelly Roll and Bunnie XO appear to be putting even more distance between them following their divorce ... because the former couple is no longer following each other on Instagram.",
-                "image": "https://imagez.tmz.com/image/0a/16by9/2026/07/28/0ad9f70dba1842f3ba4d4c32b84a8d23_xl.jpg",
-                "url": "https://www.tmz.com/2026/07/28/jelly-roll-and-bunnie-xo-unfollow-each-other-on-social-media-after-divorce/",
-                "source": "TMZ",
-                "date": "2026-07-28T18:45:07Z",
-                "priority": "STANDARD"
             }
         ],
         "sports": [
+            {
+                "title": "Chiefs’ Andy Reid gives update on Mia Bieniemy: ‘She’s doing better’",
+                "desc": "The Kansas City Chiefs’ head coach had positive news about the unfortunate situation around Eric Bieniemy.",
+                "image": "https://platform.arrowheadpride.com/wp-content/uploads/sites/12/2026/07/gettyimages-2288057741.jpg?quality=90&strip=all&crop=0%2C5.7617924217566%2C100%2C69.837955421708&w=1200",
+                "url": "https://www.arrowheadpride.com/kansas-city-chiefs-news/206351/chiefs-andy-reid-update-mia-bieniemy-doing-better",
+                "source": "Arrowhead Pride",
+                "date": "2026-07-29T19:15:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Falcons training camp 2026: Day 1 news, injuries, and interviews",
+                "desc": "The first day of training camp is in the books for the 2026 Falcons, and boy was it something.",
+                "image": "https://platform.thefalcoholic.com/wp-content/uploads/sites/161/2026/06/gettyimages-2277847127.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+                "url": "https://www.thefalcoholic.com/atlanta-falcons-training-camp/94684/day-1-news-injuries-qb-tua-tagovailoa-michael-penix-jr-cooper-rush-hold-in-bijan-robinson",
+                "source": "The Falcoholic",
+                "date": "2026-07-29T19:13:40Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Saints Training Camp Day 1: Olave holds in, Tyson debuts",
+                "desc": "Saints training camp Day 1: Chris Olave holds in, Jordyn Tyson shines, Kool-Aid McKinstry impresses and Bryan Bresee suffers a major injury scare.",
+                "image": "https://www.louisianasports.net/wp-content/uploads/2026/07/Jordyn-Tyson-scaled.jpg",
+                "url": "https://www.louisianasports.net/2026/07/29/saints-training-camp-day-1-olave-holds-in-tyson-debuts/top-stories/",
+                "source": "Louisiana Sports",
+                "date": "2026-07-29T19:11:36Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "TF North basketball coach and former Simeon star Tim Bankston found fatally shot in Auburn Gresham home",
+                "desc": "Bankston was found unresponsive with a gunshot wound in the 7600 block of South Emerald Avenue, police said.",
+                "image": "https://cst.brightspotcdn.com/dims4/default/6c3c242/2147483647/strip/true/crop/2400x1370+0+115/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2F3b%2F59%2Fd49d951c4fb2bc566ce23541397a%2Ftf-north-mount-carmel-2.JPG",
+                "url": "https://chicago.suntimes.com/crime/2026/07/29/tim-bankston-simeon-auburn-gresham-shooting",
+                "source": "Chicago Sun-Times",
+                "date": "2026-07-29T19:08:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Caleb Williams enters new stage of development as Bears camp gets rolling",
+                "desc": "Williams and Bears coach Ben Johnson remain on the same page with the vision for evolving and reaching the next level.",
+                "image": "https://static01.nyt.com/athletic/uploads/wp/2026/07/29142609/GettyImages-2287506667-scaled.jpg?width=1200&height=630&fit=cover",
+                "url": "https://www.nytimes.com/athletic/7477963/2026/07/29/bears-caleb-williams-development-training-camp/",
+                "source": "The New York Times",
+                "date": "2026-07-29T19:06:22Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Report: Tony Romo had open container of alcohol when pulled over",
+                "desc": "Yes, anyone who is too busy to put down the phone or who has had more than a drink or two should use a driver.",
+                "image": "https://nbcsports.brightspotcdn.com/dims4/default/3a8a8c2/2147483647/strip/true/crop/2400x1350+0+125/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F99%2Fe8%2Fc34e4a7c44d78e8ec3b046741b1c%2Fhttps-api-imagn.com%2Frest%2Fdownload%2FimageID%3D21049916",
+                "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-tony-romo-had-open-container-of-alcohol-when-pulled-over",
+                "source": "NBC Sports",
+                "date": "2026-07-29T19:00:06Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The Clemson Insider",
+                "desc": "Latest sports new from Clemson",
+                "image": "https://www.theclemsoninsider.com/wp-content/uploads/2024/05/Clemson-Georgia-1000x600.jpg",
+                "url": "https://www.theclemsoninsider.com/2026/07/29/horrible-news-for-former-clemson-star/",
+                "source": "The Clemson Insider",
+                "date": "2026-07-29T18:57:41Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Former NFL Doctor Fears Serious Injury for Shemar Stewart",
+                "desc": "Former NFL Doctor Fears Serious Injury for Shemar Stewart. The former Bengals First Round Pick went down during practice on Wednesday.",
+                "image": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_8313,h_4676/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/all_bengals/01kyqkm0gj33w9r06j8y.jpg",
+                "url": "https://www.si.com/nfl/bengals/onsi/former-nfl-doctor-fears-serious-injury-for-shemar-stewart-01kyqgf361fn",
+                "source": "Sports Illustrated",
+                "date": "2026-07-29T18:54:28Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Phillies swept by a team that lost 12 straight entering series",
+                "desc": "The Phillies squander a 6-0 lead, falling 8-6 to the Marlins in Miami.",
+                "image": "https://media.nbcsportsphiladelphia.com/2026/07/USATSI_29473048.jpg?quality=85&strip=all&crop=0px%2C50px%2C4061px%2C2382px&resize=1200%2C675",
+                "url": "https://www.nbcsportsphiladelphia.com/mlb/philadelphia-phillies/swept-squander-lead-miami-marlins-bryce-harper-jesus-luzardo/744420/",
+                "source": "nbcsportsphiladelphia.com",
+                "date": "2026-07-29T18:52:51Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Don Mattingly not thrilled with Bryce Harper's trade deadline comments",
+                "desc": "Don Mattingly would prefer if Bryce Harper leaves the general managing to Dave Dombrowski.",
+                "image": "https://nypost.com/wp-content/uploads/sites/2/2026/07/newspress-collage-awo7dedj0-1785347192724.jpg?quality=75&strip=all&1785332995&w=1200",
+                "url": "https://nypost.com/2026/07/29/sports/don-mattingly-not-thrilled-with-bryce-harpers-trade-deadline-comments/",
+                "source": "New York Post",
+                "date": "2026-07-29T18:45:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Josh Allen: \"Stop hating on the jerseys, guys\"",
                 "desc": "The Bills debuted their new \"Nickel City\" alternate uniforms earlier this week and the feedback has been — to put it mildly — generally negative.",
@@ -4246,98 +4336,8 @@
                 "source": "Hogs Haven",
                 "date": "2026-07-29T00:59:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Jarring Masyn Winn quote just revealed Cardinals' trade deadline plans",
-                "desc": "St. Louis Cardinals' Masyn Winn was recently quoted on the team's trade deadline position and made a revealing statement to Cardinals' beat writer Jeff Jones.",
-                "image": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_6514,h_3664/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/33/01kynm098y7r4c9yt29s.jpg",
-                "url": "https://redbirdrants.com/jarring-masyn-winn-quote-just-revealed-cardinals-trade-deadline-plans",
-                "source": "Redbird Rants",
-                "date": "2026-07-29T00:27:12Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Tony Petitti’s Big Ten Keeps Winning. Now His 24",
-                "desc": "With championship momentum at his back and College Football Playoff expansion in his sights, the Big Ten commissioner has never commanded a brighter spotlight.",
-                "image": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_27,w_1024,h_576/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/si/01kynj149a2txs6gx350.jpg",
-                "url": "https://www.si.com/college-football/tony-petitti-big-ten-keeps-winning-24-team-playoff-push",
-                "source": "Sports Illustrated",
-                "date": "2026-07-29T00:12:59Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Adam Peters gets a creative question about Brandon Aiyuk",
-                "desc": "When it comes to players under contract with one team, other teams generally shy away from saying anything about him.",
-                "image": "https://nbcsports.brightspotcdn.com/dims4/default/de317f9/2147483647/strip/true/crop/5431x3055+0+359/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F75%2F3e%2F906f95324732b71b58f958f1c1cb%2Fhttps-api-imagn.com%2Frest%2Fdownload%2FimageID%3D24379442",
-                "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/adam-peters-gets-a-creative-question-about-brandon-aiyuk",
-                "source": "NBC Sports",
-                "date": "2026-07-29T00:12:26Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Former UFC fighter from Nebraska facing felony charges in Sarpy County",
-                "desc": "The former UFC fighter was arrested on Monday evening in an alleged domestic violence incident.",
-                "image": "https://kubrick.htvapps.com/htv-prod/images/4eba316f-fb34-4180-870a-8b4a5f73d0ac.jpg?crop=1.00xw%3A1.00xh%3B0%2C0&resize=1200%3A*",
-                "url": "https://www.ketv.com/article/nebraska-former-ufc-fighter-arrested/73289251",
-                "source": "KETV",
-                "date": "2026-07-29T00:09:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Commanders tab ex-All-Pro WR Wes Welker to coach tight ends",
-                "desc": "Former All-Pro receiver Wes Welker will coach the Washington Commanders' tight ends after the team fired its previous position coach Monday.",
-                "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0728%2Fr1694906_1296x729_16%2D9.jpg",
-                "url": "https://www.espn.com/nfl/story/_/id/49474991/commanders-tab-ex-all-pro-wr-wes-welker-coach-tight-ends",
-                "source": "ESPN",
-                "date": "2026-07-28T23:38:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Notre Dame gets an even better jersey patch deal than Ohio State",
-                "desc": "There's gold in them thar jerseys.",
-                "image": "https://nbcsports.brightspotcdn.com/dims4/default/7a710cb/2147483647/strip/true/crop/1289x725+0+241/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F79%2Fab%2F954138634f8794b2968dbc59d817%2Fimg-0869.jpeg",
-                "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/notre-dame-gets-an-even-better-jersey-patch-deal-than-ohio-state",
-                "source": "NBC Sports",
-                "date": "2026-07-28T23:36:54Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Highlights from Commanders Dan Quinn, Adam Peters training camp presser",
-                "desc": "Dan Quinn and Adam Peters talked about Jayden Daniels, Trey Amos, Rasul Douglas and more in their pre-camp presser",
-                "image": "https://platform.hogshaven.com/wp-content/uploads/sites/92/chorus/uploads/chorus_asset/file/25333014/1988532336.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-                "url": "https://www.hogshaven.com/washington-commanders-news/426649/highlights-dan-quinn-adam-peters-training-camp-presser-2026-brandon-aiyuk-jayden-daniels",
-                "source": "Hogs Haven",
-                "date": "2026-07-28T23:10:40Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Casey Schmitt has torn meniscus, Giants share in injury update",
-                "desc": "The San Francisco Giants placed Casey Schmitt on the 10-day IL with a left meniscus tear after he sustained a knee injury rounding first base.",
-                "image": "https://media.nbcsportsbayarea.com/2026/07/2026-07-28T024203Z_1326444708_MT1USATODAY29462249_RTRMADP_3_MLB-MILWAUKEE-BREWERS-AT-SAN-FRANCISCO-GIANTS-e1785279847681.jpg?quality=85&strip=all&resize=1200%2C675",
-                "url": "https://www.nbcsportsbayarea.com/mlb/san-francisco-giants/casey-schmitt-injury-update-meniscus-tear/1952810/",
-                "source": "NBC Sports Bay Area & California",
-                "date": "2026-07-28T23:08:23Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Jerry Jones is willing to give up a top pick for a defensive playmaker",
-                "desc": "The Cowboys owner said he talked to another owner about a trade as recently as Monday.",
-                "image": "https://nbcsports.brightspotcdn.com/dims4/default/dfcd257/2147483647/strip/true/crop/5040x2835+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd3%2F7f%2F0af4e9e64e898457002ac2b48d03%2Fhttps-cdn1-agency-thomsonreuters-com-download-image-tag-reuters-com-2026-newsml-mt1usatoday29466034-1889429525-tag-reuters-com-2026-binary-mt1usatoday29466034-baseimage-5040x3360-2026-07-28t200511z-1889429525-mt1usatoday29466034-rtrmadp-3-nfl-dallas-cowboys-training-camp.JPG",
-                "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jerry-jones-is-willing-to-give-up-a-top-pick-for-a-defensive-playmaker",
-                "source": "NBC Sports",
-                "date": "2026-07-28T22:56:09Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Casey Schmitt Placed On IL With Torn Meniscus",
-                "desc": "The Giants will be without Schmitt for a while, which almost certainly takes him off the trade block. MLB Trade Rumors has more.",
-                "image": "https://cdn.mlbtraderumors.com/files/2026/07/CaseySchmitt-1024x683.jpg",
-                "url": "https://www.mlbtraderumors.com/2026/07/casey-schmitt-placed-on-il-with-torn-meniscus.html",
-                "source": "MLB Trade Rumors",
-                "date": "2026-07-28T22:56:05Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-30T04:49:43.615230Z"
+    "lastGlobalSync": "2026-07-30T07:28:17.134416Z"
 }
