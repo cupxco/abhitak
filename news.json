@@ -2,6 +2,15 @@
     "hi": {
         "general": [
             {
+                "title": "किसान सम्मान निधि पर कैबिनेट में बड़ा फैसला, सूर्य सरोवर योजना को भी मंजूरी",
+                "desc": "किसान सम्मान निधि योजना को पांच साल आगे बढ़ाने का निर्णय कैबिनेट की बैठक में लिया गया है। इसके लिए 3.15 लाख करोड़ रुपये स्वीकृत किए गए। इसके अलावा कैबिनेट में पानी पर सोलर प्लांट तैराने वाली योजना को मंजूरी दी गई है।, India News in Hindi - Hindustan",
+                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/07/31/1600x900/logo/ANI-20260728061-0_1785538779353_1785538787690_ee9669a3-3783-492b-ae3e-884fe53c3992.jpg",
+                "url": "https://www.livehindustan.com/national/cabinet-meeting-decision-on-kisan-samman-nidhi-khelo-india-surya-sarovar-yojana-201785538400200.html",
+                "source": "Hindustan",
+                "date": "2026-07-31T23:01:18Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "पासपोर्ट बनवाना हुआ महंगा, 14 साल बाद फीस में 67 फीसदी की भारी बढ़ोतरी",
                 "desc": "सरकार ने हाल ही में 'पासपोर्ट नियम, 1980' में संशोधन करके पासपोर्ट फीस में बदलाव किया है। इसके तहत, 36 पेज वाले सामान्य नए पासपोर्ट के लिए आवेदन शुल्क 1,500 रुपये से बढ़ाकर 2,500 रुपये कर दिया गया है। नए नियम एक जुलाई, 2026 से लागू हो गए हैं।",
                 "image": "https://www.jagranimages.com/images/2026/08/01/article/image/jagran-photo-1785523721308_m.webp",
@@ -530,15 +539,6 @@
                 "url": "https://www.livehindustan.com/auto/tvs-raider-doctor-doom-edition-launched-at-rs-95320-check-details-201785479005379.html",
                 "source": "Hindustan",
                 "date": "2026-07-31T06:32:31Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "कावेरी जल विवाद: केंद्र ने कर्नाटक की DPR लौटाई, SC के फैसले का पालन करने का निर्देश",
-                "desc": "कावेरी जल विवाद को लेकर कर्नाटक और तमिलनाडु के बीच फिर छिड़ी खींचतान के बीच केंद्र सरकार ने स्थिति साफ कर दी है, संसद में एक सवाल का जवाब देते हुए केंद्र ने बताया कि कर्नाटक की विवादित मेकेदातु पेयजल परियोजना की विस्तृत रिपोर्ट (DPR) को कमियों के कारण वापस लौटा दिया गया है.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a6c40994e090-centre-returns-karnataka-mekedatu-dpr-312835354-16x9.png",
-                "url": "https://www.aajtak.in/india/news/story/centre-returns-karnataka-mekedatu-dpr-ntcpsc-dskc-2612440-2026-07-31",
-                "source": "AajTak",
-                "date": "2026-07-31T06:29:45Z",
                 "priority": "STANDARD"
             }
         ],
@@ -2172,6 +2172,96 @@
     "en": {
         "general": [
             {
+                "title": "Who is the new Mayor of Greater Manchester?",
+                "desc": "Bev Craig succeeds Andy Burnham as Greater Manchester's mayor, but what do we know about her?",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/f817/live/de5b2700-6fdc-11f1-b763-7be8e457290d.png",
+                "url": "https://www.bbc.com/news/articles/cly5nvj2d2jo",
+                "source": "BBC",
+                "date": "2026-07-31T23:02:20Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump says settlement fund is 'dead' even as he defends it",
+                "desc": "President Donald Trump says his $1.8 billion anti-weaponization fund is “dead” while also continuing to defend it.",
+                "image": "https://dims.apnews.com/dims4/default/512d804/2147483647/strip/true/crop/2140x1426+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F34%2F1e%2F73ec32d9e87c903956f5a743689b%2F2df26b7e0c494d7aa0e2629198e3a7b4",
+                "url": "https://apnews.com/article/blanche-tillis-cornyn-trump-attorney-general-settlement-0f214c3da82c5d5ee971ef83565a344b",
+                "source": "AP News",
+                "date": "2026-07-31T22:54:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Labour's Bev Craig elected new Mayor of Greater Manchester",
+                "desc": "Labour's Bev Craig secures nearly double the number of votes won by Reform UK's Sian Astley.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/4918/live/44b70360-8d2f-11f1-a8c6-f78b94006729.jpg",
+                "url": "https://www.bbc.com/news/articles/cy74n1n1lnxo",
+                "source": "BBC",
+                "date": "2026-07-31T22:53:54Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "DR Congo Ebola outbreak becomes world's second-largest ever",
+                "desc": "DR Congo’s fast-spreading Ebola outbreak has exceeded 3,500 cases, overtaking the country’s deadliest epidemic and becoming the world’s second-largest ever. The Bundibugyo strain has no approved vaccine or treatment.",
+                "image": "https://static.dw.com/image/78156816_6.jpg",
+                "url": "https://www.dw.com/en/dr-congo-ebola-outbreak-becomes-worlds-second-largest-ever/a-78196627",
+                "source": "DW.com",
+                "date": "2026-07-31T22:53:13Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
+                "desc": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.",
+                "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-green.jpg?w=1024",
+                "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
+                "source": "TechCrunch",
+                "date": "2026-07-31T22:47:26Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Brooks and Capehart on Blanche's stalled nomination and Trump's 'anti-weaponization fund'",
+                "desc": "David Brooks of The Atlantic and Jonathan Capehart of MS NOW join Geoff Bennett to discuss the week in politics, including Todd Blanche’s stalled confirmation to be attorney general, Trump's 'anti-weaponization fund,' turmoil inside the Democratic National Committee and the Reflection Poll vandalism charges dropped.",
+                "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/07/brooks-1024x576.jpg",
+                "url": "https://www.pbs.org/newshour/show/brooks-and-capehart-on-blanches-stalled-nomination-and-trumps-anti-weaponization-fund",
+                "source": "PBS",
+                "date": "2026-07-31T22:25:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump orders more strikes on Iran after 'losing faith' in peace talks",
+                "desc": "“We’re in for five months, and we have obliterated their military capacity,” he said of Operation Epic Fury, which began Feb. 28. “Again, they’ve got some left, but soon they won’t have some left.”",
+                "image": "https://nypost.com/wp-content/uploads/sites/2/2026/07/trump-iran-plans-camp-david-comp.jpg?quality=75&strip=all&w=1200",
+                "url": "https://nypost.com/2026/07/31/us-news/trump-previews-next-damaging-military-offensive-against-iran-from-camp-david-cabinet-summit/",
+                "source": "New York Post",
+                "date": "2026-07-31T22:20:20Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ceuta: Spain says most migrants have returned to Morocco",
+                "desc": "Spain's government said that an estimated 48,300 migrants were back in Morocco on Friday evening. Italy has temporarily suspended its Schengen free-travel pact with Spain. DW has more.",
+                "image": "https://static.dw.com/image/78197979_6.jpg",
+                "url": "https://www.dw.com/en/ceuta-spain-says-most-migrants-have-returned-to-morocco/live-78191601",
+                "source": "DW.com",
+                "date": "2026-07-31T22:18:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "With Switch 2, iPhone, and laptop tricks, the Sharge Disk Pro 2 is finally a worthy EDC",
+                "desc": "Hands-on the Sharge Disk Pro 2, an SSD enclosure that doubles as a USB-C to HDMI dock, one that even works with the Nintendo Switch 2.",
+                "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/verge-sharge-disk-pro-2-sean-hollister-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+                "url": "https://www.theverge.com/gadgets/973886/sharge-disk-pro-2-hands-on-switch-2-hdmi-usb-c-dock",
+                "source": "The Verge",
+                "date": "2026-07-31T22:09:11Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Colin Cowherd believes CBS executives resented Tony Romo since contract negotiations",
+                "desc": "Colin Cowherd has never been the biggest fan of Tony Romo the broadcaster, and he’s not sure whether CBS has been either. Cowherd joined Ethan Strauss on his House of Strauss podcast Friday, where the FS1 host discussed Romo’s now unclear future with CBS. In the wake of being arrested on suspicion of operating while…",
+                "image": "https://s.yimg.com/lo/mysterio/api/510087cb72df7426fee842ba5d77dd179b6634459c4efbc1cb452ce741efe03b/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fawful_announcing_173%2F6d62cdd2ea64a4f552e73b448f87bdd8",
+                "url": "https://sports.yahoo.com/articles/colin-cowherd-believes-cbs-executives-220036473.html",
+                "source": "Yahoo Sports",
+                "date": "2026-07-31T22:00:36Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "John Oliver Renews HBO Deal For One Year",
                 "desc": "Oliver has signed a twelve month deal with the cable network, keeping Last Week Tonight on air until the end of 2027. His previous deal was up this year.",
                 "image": "https://deadline.com/wp-content/uploads/2026/01/john-oliver.jpg?w=1024",
@@ -2620,99 +2710,36 @@
                 "source": "The New York Times",
                 "date": "2026-07-31T09:25:40Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Spain’s Leader Rushes to Ceuta After Thousands of Migrants Burst Across Border: Live Updates",
-                "desc": "Prime Minister Pedro Sánchez was set to arrive in Ceuta, a Spanish exclave in North Africa, amid an escalating crisis for his pro-immigration government.",
-                "image": "https://static01.nyt.com/images/2026/07/31/multimedia/31europe-migrants-promo-6am-et-wzhm/31europe-migrants-promo-6am-et-wzhm-facebookJumbo.jpg",
-                "url": "https://www.nytimes.com/live/2026/07/31/world/spain-ceuta-migrants-morocco",
-                "source": "The New York Times",
-                "date": "2026-07-31T09:24:41Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Claims of noncitizens on voter rolls leave states baffled : NPR",
-                "desc": "Trump officials say they found 250,000 noncitizens on voter rolls in just four states. Those states don't know where the numbers came from, and some worry what the claims may portend for the midterms.",
-                "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff4%2Fbb%2F72b330f74fe0a52c7b865b1f441a%2Fgettyimages-2286523203.jpg",
-                "url": "https://www.npr.org/2026/07/31/nx-s1-5906708/trump-claim-noncitizens-midterms-election-interference-voter-rolls",
-                "source": "NPR",
-                "date": "2026-07-31T09:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Tanning is getting hot again. Here’s what it really does to your skin.",
-                "desc": "Nichole Sims started using a tanning bed at 15 because she said everyone around her was doing it. Eight years later, she was diagnosed with melanoma — a skin cancer.",
-                "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-07/260731-tanning-rs-ce9137.jpg",
-                "url": "https://www.nbcnews.com/health/cancer/tanning-beds-skin-melanoma-health-rcna590185",
-                "source": "NBC News",
-                "date": "2026-07-31T08:35:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Samsung will introduce a new design for the Galaxy SmartTag 3",
-                "desc": "Samsung is close to launching the Galaxy SmartTag 3. The upcoming object location tracker features a new design compared to its predecessors.",
-                "image": "https://www.sammobile.com/wp-content/uploads/2023/12/Galaxy-SmartTag-2-review-1.jpg",
-                "url": "https://www.sammobile.com/news/samsung-galaxy-smarttag-3-new-design/",
-                "source": "SamMobile",
-                "date": "2026-07-31T08:15:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Sony Says It's Not Backing Down From Ending PlayStation Discs",
-                "desc": "The PS5 maker said it already put a lot of thought into the decision",
-                "image": "https://kotaku.com/app/uploads/2026/07/GettyImages-2186493403-1200x675.jpg",
-                "url": "https://kotaku.com/sony-not-budging-on-ending-playstation-discs-in-the-face-of-fan-protests-were-going-to-cautiously-move-this-forward-2000720708",
-                "source": "Kotaku",
-                "date": "2026-07-31T08:12:24Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Spain’s prime minister rushes to defuse migrant crisis after 60,000 cross from Morocco in a single day",
-                "desc": "Spain’s prime minister has rushed to Ceuta to defuse a growing crisis after an estimated 60,000 migrants poured into the Spanish enclave in north Africa from Morocco in a single day.",
-                "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26211515968908-20260730235542541.jpg?c=16x9&q=w_800,c_fill",
-                "url": "https://www.cnn.com/2026/07/31/europe/spain-ceuta-migrants-intl",
-                "source": "CNN",
-                "date": "2026-07-31T08:11:56Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ukraine Hits Wildberries Logistics Center and Energy Facility in Volgograd, Killing At Least One",
-                "desc": "Ukrainian drones killed one person in the southern Volgograd region on Friday as they struck an energy facility and warehouse belonging to the online retailer Wildberries.",
-                "image": "https://static.themoscowtimes.com/image/og/a7/93383__a77dd34ef25c252e3d676d8fea4e5341.jpg",
-                "url": "https://www.themoscowtimes.com/2026/07/31/ukraine-hits-wildberries-logistics-center-and-energy-facility-in-volgograd-killing-at-least-one-a93383",
-                "source": "The Moscow Times",
-                "date": "2026-07-31T07:53:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Pakistan searching for 10 climbers missing on Broad Peak find 4 bodies",
-                "desc": "Pakistani officials say rescuers have located four bodies among the 10 international climbers missing since an avalanche on Broad Peak.",
-                "image": "https://dims.apnews.com/dims4/default/a22ebff/2147483647/strip/true/crop/2266x1510+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb6%2Ff6%2F71fc08c5f88fc89e652b989f0436%2F3efe031263d345a4b675d5aa92533ca5",
-                "url": "https://apnews.com/article/pakistan-mountaineers-missing-avalanche-broad-peak-8bfa2c9e346b3a617cfed91f091283e5",
-                "source": "AP News",
-                "date": "2026-07-31T07:48:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Boy George pulls out of Jesus Christ Superstar, after releasing pro-Israel single",
-                "desc": "British pop singer was slated to play Herod in West End production from August 3-15; manager makes oblique reference to 'We Will Dance Again,' which defends Jewish state",
-                "image": "https://static-cdn.toi-media.com/www/uploads/2026/07/AP26166752192988.jpg",
-                "url": "https://www.timesofisrael.com/boy-george-pulls-out-of-jesus-christ-superstar-after-releasing-pro-israel-single/",
-                "source": "The Times of Israel",
-                "date": "2026-07-31T07:41:21Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "World Cup boycott latest: Infantino refuses to back down after Uefa say they’ll refuse to play in Fifa tournaments",
-                "desc": "Uefa have agreed to boycott the World Cup and all Fifa tournaments if Infantino’s proposals to privatise its competitions are voted through",
-                "image": "https://static.independent.co.uk/2026/07/31/04/0de07e3de7d02d42e42e674f50794671Y29udGVudHNlYXJjaGFwaSwxNzg1NTU1NDcx-2.85355297.jpg?width=1200&height=800&crop=1200:800",
-                "url": "https://www.independent.co.uk/sport/football/world-cup-uefa-boycott-fifa-infantino-live-updates-b3025106.html",
-                "source": "independent.co.uk",
-                "date": "2026-07-31T07:41:00Z",
-                "priority": "STANDARD"
             }
         ],
         "business": [
+            {
+                "title": "Full Ballard Link Line Could Take Until 2060 To Build, Sound Transit Says",
+                "desc": "The new 2060 timeline for light rail stations in Interbay and Ballard assumes Sound Transit isn't able to unearth any major cost savings or unlock additional financial tools. But the agency painted an optimistic picture about being able to make inroads in those areas, pushing the opening to 2042.",
+                "image": "https://storage.ghost.io/c/19/31/1931222a-d1c5-42ac-8932-2ee3ac1f8927/content/images/size/w1200/2026/07/Save_Ballard_Rail_Marchers_on_Ballard_Bridge_-_Trumm_20260419_xoudl5-1-.jpg",
+                "url": "https://www.theurbanist.org/full-ballard-link-line-could-take-until-2060-to-build-sound-transit-says/",
+                "source": "The Urbanist",
+                "date": "2026-07-31T22:14:40Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Barnes & Noble clarifies viral '$1 book discount'",
+                "desc": "Social media has recently seen a surge in posts about books at Barnes & Noble being discounted to only a dollar. Here's the truth.",
+                "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/12/19/USAT/87852054007-usatsi-25779965.jpg?crop=5855,3294,x0,y295&width=3200&height=1801&format=pjpg&auto=webp",
+                "url": "https://www.usatoday.com/story/money/2026/07/31/barnes-noble-clarifies-viral-dollar-book-discount/91126067007/",
+                "source": "USA Today",
+                "date": "2026-07-31T21:35:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "AI’s power couple is getting married after groom Leopold Aschenbrenner’s hedge fund nearly blew up",
+                "desc": "Leopold Aschenbrenner sold the bulk of his firm, Situational Awareness, to Citadel at a discount, then offered investors one-on-one calls during his honeymoon.",
+                "image": "https://fortune.com/img-assets/wp-content/uploads/2025/10/Leophold-Headshot-expand.jpg?resize=1200,600",
+                "url": "https://fortune.com/2026/07/31/leopold-aschenbrenner-wedding-hedge-fund/",
+                "source": "Fortune",
+                "date": "2026-07-31T21:01:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "SpaceXAI Says It Will Take A Year To Fully Remove Unpermitted Gas Turbines From Its Mississippi Data Center",
                 "desc": "The company was accused of violating the Clean Air Act by the NAACP.",
@@ -2729,6 +2756,15 @@
                 "url": "https://www.nytimes.com/2026/07/31/business/federal-reserve-warsh-meetings.html",
                 "source": "The New York Times",
                 "date": "2026-07-31T20:30:27Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Electrical issue causes power outage at SeaWorld, remains closed for the day",
+                "desc": "SDG&E is responding to a power outage impacting SeaWorld, causing it to close on Friday and issue refunds.",
+                "image": "https://ewscripps.brightspotcdn.com/dims4/default/aee529d/2147483647/strip/true/crop/1817x954+0+7/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F77%2Fad%2Fc3cf6d1c40d692989942dd0bd393%2Fseaworld-outage.png",
+                "url": "https://www.10news.com/news/local-news/sdg-e-responding-to-power-outage-at-seaworld",
+                "source": "10news.com",
+                "date": "2026-07-31T20:28:51Z",
                 "priority": "STANDARD"
             },
             {
@@ -3216,45 +3252,72 @@
                 "source": "Business Insider",
                 "date": "2026-07-30T18:58:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "The rent was already high. Then came the $200 work-from-home fee",
-                "desc": "For some tenants, rent on the sunlit one-bedroom in an upscale California neighborhood was $3,250. But if you worked from home? $200 more a month.",
-                "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/30/USAT/91107735007-20210630-t-140157-z-127427011-rc-2-c-4-o-9-eva-2-k-rtrmadp-3-usacourteviction.JPG?crop=4031,2268,x0,y211&width=3200&height=1801&format=pjpg&auto=webp",
-                "url": "https://www.usatoday.com/story/money/2026/07/30/remote-work-rental-fee-sparks-outrage/91101669007/",
-                "source": "USA Today",
-                "date": "2026-07-30T18:01:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Beyond The Mag 7 And Headline Noise: Top Stocks For AI's Next Phase",
-                "desc": "The best AI stocks that can benefit from Mag 7 earnings and capex spending are semiconductor companies with strong fundamentals. Click here to see the top 4 stocks.",
-                "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2251858151/image_2251858151.jpg?io=getty-c-w1536",
-                "url": "https://seekingalpha.com/article/4927932-beyond-the-mag-7-and-headline-noise-top-stocks-for-ais-next-phase",
-                "source": "Seeking Alpha",
-                "date": "2026-07-30T17:28:55Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "(JMKE) starts trading on the New York Stock Exchange",
-                "desc": "Jersey Mike's priced its initial public offering at $23 per share.",
-                "image": "https://image.cnbcfm.com/api/v1/image/108342424-1785418219523-gettyimages-2287616935-JERSEY_MIKES_IPO.jpeg?v=1785418259&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/07/30/jersey-mikes-ipo-jmke-starts-trading-on-the-new-york-stock-exchange.html",
-                "source": "cnbc.com",
-                "date": "2026-07-30T17:08:38Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "$19.6 Billion: The Microsoft Earnings Number That Matters Most",
-                "desc": "Microsoft has accomplished something that eluded both Alphabet and Tesla.",
-                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F2b438e98c54ca07031d0fbd486c018df3a413ae8-2000x1500.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-                "url": "https://www.fool.com/investing/2026/07/30/196-billion-the-microsoft-earnings-number-that-matters-most/",
-                "source": "The Motley Fool",
-                "date": "2026-07-30T16:40:00Z",
-                "priority": "STANDARD"
             }
         ],
         "entertainment": [
+            {
+                "title": "Ken Jennings sparks backlash from trans activists over NY Times boycott",
+                "desc": "'Jeopardy!' host Ken Jennings used sarcasm to respond to trans rights activists urging a boycott of New York Times games, drawing pushback from the LGBTQ community on Bluesky.",
+                "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/ken-jennings-jeopardy_-fox-news.jpg",
+                "url": "https://www.foxnews.com/media/jeopardy-host-ken-jennings-infuriates-trans-activists-sarcastic-joke-nyt-games-boycott",
+                "source": "Fox News",
+                "date": "2026-07-31T22:21:35Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Pete Davidson and Elsie Hewitt reach joint co-parenting agreement 2 months after split",
+                "desc": "Pete Davidson and Elsie Hewitt have reached a joint co-parenting agreement two months after their split.",
+                "image": "https://pagesix.com/wp-content/uploads/sites/3/2026/07/135923022.jpg?quality=75&strip=all&w=1200",
+                "url": "https://pagesix.com/2026/07/31/celebrity-news/pete-davidson-and-elsie-hewitt-reach-joint-agreement-two-months-after-split/",
+                "source": "Page Six",
+                "date": "2026-07-31T22:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Who Will Replace Ross Douthat?",
+                "desc": "A modest proposal. - Start a free trial today for full access.",
+                "image": "https://thedispatch.com/wp-content/uploads/2026/07/GettyImages-1238118390.jpg?w=1024",
+                "url": "https://thedispatch.com/newsletter/gfile/ross-douthat-new-york-times-herzog/",
+                "source": "The Dispatch",
+                "date": "2026-07-31T21:58:13Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Bravo VP on Amanda & West's Summer House Exits, In the City Season 2",
+                "desc": "The Bravo VP also discusses Lindsay's reunion fallout with Whitney and Danielle, new 'Summer House' house and Carl potentially joining 'In the City.",
+                "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/07/In-the-City-Two-Part-Reunion-MAIN.jpg?w=1296&h=730&crop=1",
+                "url": "https://www.hollywoodreporter.com/tv/tv-features/bravo-vp-amanda-west-summer-house-exit-in-the-city-season-2-1236659055/",
+                "source": "The Hollywood Reporter",
+                "date": "2026-07-31T21:40:59Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "What To Watch This Weekend: New Shows And Movies To Stream On Netflix, Hulu, Prime Video, Apple TV And More",
+                "desc": "Looking for something new to stream this weekend? Here’s every major new movie and show hitting Netflix, Hulu, Prime Video, Apple TV and more.",
+                "image": "https://imageio.forbes.com/specials-images/imageserve/6a6d15360ff27607e998cd91/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+                "url": "https://www.forbes.com/sites/erikkain/2026/07/31/what-to-watch-this-weekend-new-shows-and-movies-to-stream-on-netflix-hulu-prime-video-apple-tv-and-more/",
+                "source": "Forbes",
+                "date": "2026-07-31T21:37:48Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Tarot Horoscopes For Each Zodiac Sign On Saturday, August 1, 2026",
+                "desc": "Each zodiac sign's daily tarot horoscope is here for Saturday, August 1, 2026. The Moon is in Aries, and the collective card for everyone is the Emperor.",
+                "image": "https://www.yourtango.com/sites/default/files/image_blog/2026-07/daily-tarot-horoscope-august-1-2026_0.png",
+                "url": "https://www.yourtango.com/zodiac/tarot-horoscope-reading-saturday-august-1-2026",
+                "source": "YourTango",
+                "date": "2026-07-31T21:07:25Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'Fire Country' star Diane Farr leaves Los Angeles behind after 30 years",
+                "desc": "\"Fire Country\" star Diane Farr has left Los Angeles after 30 years, sharing her final day on Instagram and reflecting on her Hollywood career and raising her family.",
+                "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/diane-farr-fire-country.jpg",
+                "url": "https://www.foxnews.com/entertainment/fire-country-star-diane-farr-leaves-los-angeles-after-30-years-start-her-third-act",
+                "source": "Fox News",
+                "date": "2026-07-31T21:06:14Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "'Alaskan Bush People' Star Gabe Brown and Wife Raquell Separate",
                 "desc": "\"Alaskan Bush People\" star Gabriel Brown and his wife, Raquell, have separated after seven years of marriage ... TMZ has learned.",
@@ -3731,72 +3794,99 @@
                 "source": "The Hollywood Reporter",
                 "date": "2026-07-30T23:31:09Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Boy George Exits ‘Jesus Christ Superstar’ After Genocide-Denying Song",
-                "desc": "After the release of Boy George's controversial pro-Israel song, the singer has withdrawn from the 'Jesus Christ Superstar' revival in London.",
-                "image": "https://www.rollingstone.com/wp-content/uploads/2026/07/boy-george-musical-exits.jpg?w=1600&h=900&crop=1",
-                "url": "https://www.rollingstone.com/music/music-news/boy-george-drops-out-jesus-christ-superstar-musical-1235601316/",
-                "source": "Rolling Stone",
-                "date": "2026-07-30T23:12:14Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "5 Zodiac Signs Have The Best Horoscopes By Far On Friday, July 31",
-                "desc": "On Friday, July 30, 2026, five zodiac signs have the best horoscopes out of them all. They are: Sagittarius, Scorpio, Aries, Pisces, and Capricorn.",
-                "image": "https://www.yourtango.com/sites/default/files/image_blog/2026-07/zodiac-signs-best-horoscopes-july-31-2026.png",
-                "url": "https://www.yourtango.com/2026399596/zodiac-signs-best-horoscopes-july-31-2026",
-                "source": "YourTango",
-                "date": "2026-07-30T23:07:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'Glee' star blasts fans saying the show is cursed after 3 cast members' deaths",
-                "desc": "\"Glee\" star Kevin McHale angrily called out fans on X who say the show is \"cursed\" following the deaths of three main cast members.",
-                "image": "https://pagesix.com/wp-content/uploads/sites/3/2026/07/136028223.jpg?quality=75&strip=all&w=1200",
-                "url": "https://pagesix.com/2026/07/30/entertainment/glee-star-blasts-fans-saying-the-show-is-cursed-after-3-cast-members-deaths/",
-                "source": "pagesix.com",
-                "date": "2026-07-30T23:04:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Meghann Fahy Starring in HBO Miniseries 'The Trial of Louise Woodward'",
-                "desc": "HBO has ordered a limited series called 'The Trial of Louise Woodward,' with Meghann Fahy attached to star.",
-                "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/07/GettyImages-2273762763.jpg?w=1296&h=730&crop=1",
-                "url": "https://www.hollywoodreporter.com/tv/tv-news/meghann-fahy-hbo-limited-series-trial-of-louise-woodward-1236660550/",
-                "source": "The Hollywood Reporter",
-                "date": "2026-07-30T23:00:38Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Jessica Simpson marks 46th birthday with a poolside tanning selfie",
-                "desc": "Jessica Simpson celebrated her 46th birthday tanning in a polka-dot bikini. The self-described sun lover continues her music comeback after years focused on motherhood.",
-                "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/jessica-simpson-summer-pap.jpg",
-                "url": "https://www.foxnews.com/entertainment/jessica-simpson-celebrates-turning-46-bikini-admits-children-never-seen-perform",
-                "source": "Fox News",
-                "date": "2026-07-30T22:59:23Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "‘Spider-Man: Brand New Day’ Sets Rotten Tomatoes Audience Record For Holland’s Spidey Films",
-                "desc": "While Tom Holland’s \"Spider-Man: Brand New Day\" has the lowest critics’ score for the actor’s \"Spider-Man\" films on Rotten Tomatoes, the site’s users feel otherwise.",
-                "image": "https://imageio.forbes.com/specials-images/imageserve/6a6bcf1492ac5cbbea825ace/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-                "url": "https://www.forbes.com/sites/timlammers/2026/07/30/spider-man-brand-new-day-sets-rotten-tomatoes-audience-record-for-hollands-spidey-films/",
-                "source": "Forbes",
-                "date": "2026-07-30T22:28:04Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Jax Taylor breaks silence on romance with ex Brittany Cartwright's publicist",
-                "desc": "Jax Taylor confirmed he's dating someone, following the release of steamy PDA photos with ex Brittany Cartwright's publicist Lori Krebs.",
-                "image": "https://pagesix.com/wp-content/uploads/sites/3/2026/07/136023217.jpg?quality=75&strip=all&w=1200",
-                "url": "https://pagesix.com/2026/07/30/celebrity-news/jax-taylor-breaks-silence-on-romance-with-ex-brittany-cartwrights-publicist/",
-                "source": "Page Six",
-                "date": "2026-07-30T22:22:00Z",
-                "priority": "STANDARD"
             }
         ],
         "sports": [
+            {
+                "title": "Three talking points from Birmingham City 2-2 Barcelona",
+                "desc": "First pre-season game done",
+                "image": "https://platform.barcablaugranes.com/wp-content/uploads/sites/21/2026/07/gettyimages-2288499543.jpg?quality=90&strip=all&crop=0%2C10.72812391249%2C100%2C78.54375217502&w=1200",
+                "url": "https://www.barcablaugranes.com/fc-barcelona-preseason/127902/three-talking-points-from-birmingham-city-barcelona",
+                "source": "Barca Blaugranes",
+                "date": "2026-07-31T23:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "2026 Denver Broncos Training Camp: Day 1 News and Notes",
+                "desc": "Your best source for quality Denver Broncos news, rumors, analysis, stats and scores from the fan perspective.",
+                "image": "https://platform.milehighreport.com/wp-content/uploads/sites/108/2026/07/gettyimages-2287759975.jpg?quality=90&strip=all&crop=0%2C10.739618355655%2C100%2C78.520763288691&w=1200",
+                "url": "https://www.milehighreport.com/denver-broncos-training-camp/179864/2026-denver-broncos-training-camp-day-1-news-and-notes-bo-nix-sean-payton-jaylen-waddle-evan-engram",
+                "source": "Mile High Report",
+                "date": "2026-07-31T22:41:07Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Tigers' Max Clark to make MLB debut against Athletics",
+                "desc": "Rookie Max Clark will start in center field and bat seventh in the order on Friday in Oakland.",
+                "image": "https://www.detroitnews.com/gcdn/authoring/authoring-images/2026/01/21/PDTN/88285262007-getty-images-2224811079.jpg?crop=3999,2251,x0,y207&width=3200&height=1802&format=pjpg&auto=webp",
+                "url": "https://www.detroitnews.com/story/sports/mlb/tigers/2026/07/31/max-clark-will-bat-sixth-in-his-mlb-debut-for-the-tigers/91129442007/",
+                "source": "The Detroit News",
+                "date": "2026-07-31T22:35:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "LeBron James Recruited to Use Amtrak in Trending Post Amid NYC Travel Rumors After 76ers Contract",
+                "desc": "Amtrak is ready to help LeBron James out with a potential commute to play for the Philadelphia 76ers.",
+                "image": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2026-07/2275200306_2_large_cropped.jpg?w=1120&h=630",
+                "url": "https://bleacherreport.com/articles/25460391-lebron-james-recruited-use-amtrak-trending-post-amid-nyc-travel-rumors-after-76ers-contract",
+                "source": "Bleacher Report",
+                "date": "2026-07-31T22:21:07Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Stephen Jones says Cowboys investigating trades, big-name veteran signings",
+                "desc": "The Cowboys have been trade-happy the past year in rebuilding their defense.",
+                "image": "https://nbcsports.brightspotcdn.com/dims4/default/ca32f1c/2147483647/strip/true/crop/4436x2495+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd0%2Fd2%2Ffa1392a848389d6847c7e92577a7%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2288337939",
+                "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/stephen-jones-says-cowboys-investigating-trades-big-name-veteran-signings",
+                "source": "NBC Sports",
+                "date": "2026-07-31T22:10:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Colin Cowherd believes CBS executives resented Tony Romo since contract negotiations",
+                "desc": "Colin Cowherd has never been the biggest fan of Tony Romo the broadcaster, and he’s not sure whether CBS has been either. Cowherd joined Ethan Strauss on his House of Strauss podcast Friday, where the FS1 host discussed Romo’s now unclear future with CBS. In the wake of being arrested on suspicion of operating while…",
+                "image": "https://s.yimg.com/lo/mysterio/api/510087cb72df7426fee842ba5d77dd179b6634459c4efbc1cb452ce741efe03b/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fawful_announcing_173%2F6d62cdd2ea64a4f552e73b448f87bdd8",
+                "url": "https://sports.yahoo.com/articles/colin-cowherd-believes-cbs-executives-220036473.html",
+                "source": "Yahoo Sports",
+                "date": "2026-07-31T22:00:36Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Giants' Cam Skattebo admits doing 'dumb things,' will save backflips for TDs",
+                "desc": "Giants running back Cam Skattebo admitted Friday to sometimes doing \"dumb things,\" citing his recent backflip at Fanatics Fest, and said he met with coach John Harbaugh.",
+                "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0731%2Fr1696137_1296x729_16%2D9.jpg",
+                "url": "https://www.espn.com/nfl/story/_/id/49500174/giants-cam-skattebo-admits-doing-dumb-things-save-backflips-real-touchdowns",
+                "source": "ESPN",
+                "date": "2026-07-31T21:55:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "6 winners and losers from Patriots training camp practice on Friday",
+                "desc": "Who caught our eye during the Patriots’ practice on Friday, for better or worse.",
+                "image": "https://platform.patspulpit.com/wp-content/uploads/sites/121/2026/07/reuters-tagreuters.com2026newsml_MT1USATODAY294673031682467832.jpg?quality=90&strip=all&crop=1.1448059082031%2C5.1222688177828%2C98.855194091797%2C77.610473404911&w=1200",
+                "url": "https://www.patspulpit.com/new-england-patriots-training-camp/132186/winners-losers-patriots-training-camp-2026-sixth-practice-friday",
+                "source": "Pats Pulpit",
+                "date": "2026-07-31T21:31:13Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "WNBA star Brittney Griner files for divorce from wife Cherelle Griner",
+                "desc": "WNBA star Brittney Griner has filed for divorce after eight years of marriage.",
+                "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-07/260731-Brittney-Griner-vsb-1632-bca48f.jpg",
+                "url": "https://www.nbcnews.com/sports/wnba/wnba-star-brittney-griner-files-divorce-wife-cherelle-griner-rcna590290",
+                "source": "NBC News",
+                "date": "2026-07-31T21:14:50Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Keyshawn Davis rejects Devin Haney fight, WBO purse bid",
+                "desc": "Keyshawn Davis has rejected the Top Rank purse-bid offer of $2.1375 million to fight WBO welterweight champion Devin Haney.",
+                "image": "https://photo.boxingscene.com/uploads/KeyshawnDavis-TrainingCamp-05082026-03.webp",
+                "url": "https://www.boxingscene.com/articles/keyshawn-davis-rejects-devin-haney-fight-wbo-purse-bid",
+                "source": "BoxingScene",
+                "date": "2026-07-31T21:10:16Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Red Sox Open To Moving Jarren Duran",
                 "desc": "The Red Sox are buying but could still move on from their underperforming left fielder on the heels of an on-field outburst.",
@@ -4246,98 +4336,8 @@
                 "source": "MLB.com",
                 "date": "2026-07-31T04:03:04Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Vikings Training Camp Notes: 7/30 Edition",
-                "desc": "Your best source for quality Minnesota Vikings news, rumors, analysis, stats and scores from the fan perspective.",
-                "image": "https://platform.dailynorseman.com/wp-content/uploads/sites/72/2026/07/Screenshot_30-7-2026_224256_www.vikings.com_.jpeg?quality=90&strip=all&crop=0,10.517704601819,100,78.964590796363",
-                "url": "https://www.dailynorseman.com/minnesota-vikings-training-camp/97817/vikings-training-camp-notes-7-30-edition",
-                "source": "Daily Norseman",
-                "date": "2026-07-31T03:44:16Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Deebo Samuel returning to 49ers following Ricky Pearsall’s setback",
-                "desc": "Samuel's reunion with the 49ers comes after receivers Ricky Pearsall and Christian Kirk missed practice with injuries this week.",
-                "image": "https://static01.nyt.com/athletic/uploads/wp/2025/10/12145429/GettyImages-2239468755-scaled.jpg?width=1200&height=630&fit=cover",
-                "url": "https://www.nytimes.com/athletic/7482055/2026/07/30/deebo-samuel-49ers-signing-training-camp/",
-                "source": "nytimes.com",
-                "date": "2026-07-31T03:33:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "As Brendan Donovan nears return, Mariners consider roster shake-up",
-                "desc": "While the Mariners are firm buyers for Monday's MLB trade deadline, they are considering several roster moves ahead of a nine-game homestand that begins Friday.",
-                "image": "https://images.seattletimes.com/wp-content/uploads/2026/07/07302026_tzr_tzr_201027.jpg?d=1200x630",
-                "url": "https://www.seattletimes.com/sports/mariners/as-brendan-donovan-nears-return-mariners-consider-roster-shake-up/",
-                "source": "The Seattle Times",
-                "date": "2026-07-31T03:12:46Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Portland Trail Blazers call city council's proposed Moda Center term sheet a 'non-starter'",
-                "desc": "Portland and the Trail Blazers remain divided over key terms of a Moda Center deal, but both sides say they remain committed to reaching an agreement.",
-                "image": "https://katu.com/resources/media2/16x9/5712/1320/0x536/90/20cf49a2-451e-4272-b028-ee4151360d13-IMG_8722.JPG",
-                "url": "https://katu.com/news/local/portland-trail-blazers-call-city-councils-proposed-moda-center-term-sheet-a-non-starter-nba-local-tom-dundon-local-business-economy-oregon",
-                "source": "katu.com",
-                "date": "2026-07-31T03:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Saints sign Chris Olave to a four-year extension",
-                "desc": "Saints signed WR Chris Olave to a four-year, $132 million extension through 2030.",
-                "image": "https://nbcsports.brightspotcdn.com/dims4/default/8554cb1/2147483647/strip/true/crop/100x56+0+39/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F01%2Ffd%2F1447ee7949098cc472d8188e46ce%2Folave-chris.jpg",
-                "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-07-30/saints-sign-chris-olave-to-a-four-year-extension",
-                "source": "NBC Sports",
-                "date": "2026-07-31T02:12:33Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Sparks' Kelsey Plum says she's not taking trade talk personal",
-                "desc": "Five-time All-Star guard Kelsey Plum said she's \"not taking anything personal\" amid growing speculation that the Sparks could move her before Sunday's trade deadline",
-                "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0528%2Fr1664919_1296x729_16%2D9.jpg",
-                "url": "https://www.espn.com/wnba/story/_/id/49493080/sparks-kelsey-plum-says-not-taking-trade-talk-personal",
-                "source": "ESPN",
-                "date": "2026-07-31T01:28:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Falcons coach’s wife loses battle with cancer",
-                "desc": "The Atlanta Falcons have announced the death of defensive coordinator Jeff Ulbrich’s wife.",
-                "image": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FK2KKO4FKUBH2VPI4CDOUX3DDH4.jpg?auth=745cb83eeaa6352e7abf7ce334ca5cdbdbc631ce72aa4575bc86a405a00e4622&width=1200&height=630&smart=true",
-                "url": "https://www.wsbtv.com/news/local/atlanta/falcons-coachs-wife-loses-battle-with-cancer/CFDD62YQMRHBJKJYFVMPPORQS4/",
-                "source": "WSB-TV",
-                "date": "2026-07-31T01:21:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Cristina Ulbrich, Wife of Falcons' Jeff Ulbrich, Dies After Cancer Diagnosis",
-                "desc": "Cristina Ulbrich, the wife of Atlanta Falcons defensive coordinator Jeff Ulbrich, has tragically died of cancer, per a team announcement.",
-                "image": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/ap_images/2026-07/9b72c60290794ce5af40ad8da530e10d/Falcons_Patriots_Football_06908_3344x1881_(0,147).jpg?w=1120&h=630",
-                "url": "https://bleacherreport.com/articles/25460167-cristina-ulbrich-wife-falcons-jeff-ulbrich-dies-after-cancer-diagnosis",
-                "source": "Bleacher Report",
-                "date": "2026-07-31T01:18:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Dak Prescott, Cowboys nickname their offense \"Greatest Offense There Is\"",
-                "desc": "The Cowboys are talking the talk.",
-                "image": "https://nbcsports.brightspotcdn.com/dims4/default/4a368f6/2147483647/strip/true/crop/7276x4093+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F78%2F48%2F5b9a81a84a918bd2bb476993b16f%2Fhttps-cdn1-agency-thomsonreuters-com-download-image-tag-reuters-com-2026-newsml-mt1usatoday29476244-2070495489-tag-reuters-com-2026-binary-mt1usatoday29476244-baseimage-7276x4851-2026-07-30t004959z-2070495489-mt1usatoday29476244-rtrmadp-3-nfl-dallas-cowboys-training-camp.JPG",
-                "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dak-prescott-cowboys-nickname-offense-greatest-offense-there-is",
-                "source": "NBC Sports",
-                "date": "2026-07-31T01:07:10Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Six takeaways from Curt Cignetti’s appearance at Big Ten football media days",
-                "desc": "IU football coach Curt Cignetti took the stage Thursday afternoon at Big Ten football media days in Chicago, discussing the challenge of following up a national championship, quarterback Josh Hoover and the identity of his third IU team.",
-                "image": "https://www.insidethehall.com/wp-content/uploads/2026/01/IUFBNatty00028.jpg",
-                "url": "https://www.insidethehall.com/2026/07/30/six-takeaways-from-curt-cignettis-appearance-at-big-ten-football-media-days/",
-                "source": "Inside the Hall",
-                "date": "2026-07-31T00:29:12Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-08-01T09:00:35.153227Z"
+    "lastGlobalSync": "2026-08-01T11:10:51.544572Z"
 }
