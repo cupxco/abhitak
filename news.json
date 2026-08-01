@@ -2,6 +2,60 @@
     "hi": {
         "general": [
             {
+                "title": "PoK में बवाल, कश्मीर में बढ़े आतंकी हमले... क्या ध्यान भटकाने की कोशिश कर रहा है पाकिस्तान?",
+                "desc": "जम्मू-कश्मीर के कुलगाम में आतंकियों ने छत्तीसगढ़ के दो प्रवासी मजदूरों की गोली मारकर हत्या कर दी. दोनों केल्लम इलाके में ईंट-भट्ठे पर काम करते थे. घटना ऐसे समय हुई जब PoK में सरकार विरोधी प्रदर्शन जोरों पर हैं. एजेंसियों ने दोनों घटनाओं में सीधा संबंध अभी नहीं माना है, लेकिन जानकार इसे व्यापक रणनीति का हिस्सा मान रहे हैं.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202608/6a6d87cc6086e-kulgam-terror-attack-pok-protests-014438566-16x9.jpg",
+                "url": "https://www.aajtak.in/india/news/story/kulgam-terror-attack-pok-islamabad-protests-migrant-workers-connection-explained-ntc-agkp-dskc-2612997-2026-08-01",
+                "source": "AajTak",
+                "date": "2026-08-01T05:50:18Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "शेयर बाजार की ट्रेडिंग टाइमिंग में बड़ा बदलाव, निवेशकों के लिए जानना जरूरी",
+                "desc": "भारतीय शेयर बाजार में 3 अगस्त 2026 से एक बड़ा बदलाव लागू होने जा रहा है। इसके साथ ही फ्यूचर्स एंड ऑप्शंस सेगमेंट की ट्रेडिंग अवधि 10 मिनट बढ़ाकर शाम 3:40 बजे तक कर दी गई है।, Business Hindi News - Hindustan",
+                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/08/01/1600x900/logo/PTI02-01-2026-000274B-0_1771392549514_1771392561793_1785563276087_20d58b9b-c6c2-44fd-a3ff-94671db933ca.jpg",
+                "url": "https://www.livehindustan.com/business/stock-market-timings-change-from-monday-3-aug-investors-and-traders-need-to-know-detail-here-201785562883430.html",
+                "source": "Hindustan",
+                "date": "2026-08-01T05:48:41Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "कौन कर रहा था शुभेंदु अधिकारी की रेकी? बंगाल STF ने दबोचा, जैश-ए-मोहम्मद से डायरेक्ट लिंक",
+                "desc": "मुख्यमंत्री शुभेंदु अधिकारी ने भी इस गिरफ्तारी पर प्रतिक्रिया दी है। मुख्यमंत्री ने इसे अत्यंत संवेदनशील बताते हुए इस पर विस्तार से बात करने से इनकार कर दिया है।, India News in Hindi - Hindustan",
+                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/08/01/1600x900/logo/PTI07-27-2026-000428A-0_1785561501851_1785561511403_ccb26547-845d-4278-b449-4a7c73b07036.jpg",
+                "url": "https://www.livehindustan.com/national/threat-to-suvendu-adhikari-life-stf-nabs-jaish-operative-who-was-conducting-recce-of-the-cm-201785561340162.html",
+                "source": "livehindustan.com",
+                "date": "2026-08-01T05:36:05Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "केरलम में मूसलाधार बारिश से भारी तबाही, भूस्खलन से चार लोगों की मौत; 8 जिलों में रेड अलर्ट",
+                "desc": "केरल में मूसलाधार बारिश, बाढ़ और भूस्खलन से भारी तबाही हुई है, जिसमें इडुक्की और कोट्टायम जिलों में तीन लोगों की मौत हो गई। राज्य के आठ जिलों में रेड अलर्ट जारी किया गया है, जबकि कई इलाकों में बचाव अभियान जारी है और लोगों को सुरक्षित स्थानों पर पहुंचाया जा रहा है।",
+                "image": "https://www.jagranimages.com/images/2026/08/01/article/image/kerlm-news-1785562378370_m.webp",
+                "url": "https://www.jagran.com/news/national-torrential-rains-wreak-havoc-in-kerala-three-killed-in-landslides-red-alert-issued-for-8-districts-40325829.html",
+                "source": "Jagran",
+                "date": "2026-08-01T05:36:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "नीरज चोपड़ा पर भारी पड़े गेंदबाज़ रहे श्रीलंका के रुमेश, पाकिस्तान के अरशद नदीम को क्या मिला",
+                "desc": "रुमेश पाथिरागे इस समय दुनिया के सबसे बेहतरीन जेवलिन थ्रोअर माने जा रहे हैं. उनका एक ही लीगल थ्रो नीरज के थ्रो से आगे निकल गया.",
+                "image": "https://ichef.bbci.co.uk/news/1200/branded_hindi/3ca4/live/08b98120-8d49-11f1-af87-9d859bf837fd.jpg",
+                "url": "https://www.bbc.com/hindi/articles/c39ed4rd82no",
+                "source": "BBC",
+                "date": "2026-08-01T05:27:53Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "नेपाल के मधेश इलाक़े में कांवड़ यात्रा के दौरान सांप्रदायिक हिंसा, तीन की मौत",
+                "desc": "मधेश इलाक़े में इस तरह की घटनाएं लगातार हो रही हैं. कुछ समय पहले, परसा, रौतहट और धनुषा समेत कई जगहों से सांप्रदायिक तनाव की ख़बरें आई थीं.",
+                "image": "https://ichef.bbci.co.uk/news/1200/branded_hindi/ce70/live/2962daf0-8d5f-11f1-9d95-65fa93be7a3d.jpg",
+                "url": "https://www.bbc.com/hindi/articles/cy4k0wz89r8o",
+                "source": "BBC",
+                "date": "2026-08-01T05:09:11Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "128KM रेंज, 30 रुपये से कम में फुल चार्ज... Vida ने लॉन्च किया नया स्कूटर",
                 "desc": "विडा (Vida) ने भारतीय बाजार में अपना नया स्कूटर लॉन्च किया है. ये स्कूटर 128 किलोमीटर की क्लेम्ड रेंज ऑफर करता है. इसमें 3.1kWh की फिक्स्ड बैटरी मिलती है. यानी इस बैटरी को आप स्कूटर से रिमूव नहीं कर सकते हैं. इसके साथ ही कंपनी के वीएक्स2 पोर्टफोलियो में स्कूटर्स की संख्या 5 हो गई है. आइए जानते हैं इस स्कूटर की खास बातें.",
                 "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a6cb82456e15-vida-vx2-go-315838923-16x9.jpg",
@@ -486,63 +540,36 @@
                 "source": "Hindustan",
                 "date": "2026-07-31T14:22:41Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "BJP प्रवक्ता शहजाद पूनावाला का इस्तीफा, जानिए कांग्रेस से बीजेपी तक का सफर",
-                "desc": "BJP के राष्ट्रीय प्रवक्ता शहजाद पूनावाला ने पार्टी की प्राथमिक सदस्यता से इस्तीफा दे दिया है. कभी कांग्रेस से राजनीति की शुरुआत करने वाले शहजाद कैसे BJP के प्रमुख चेहरों में शामिल हुए .",
-                "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/31/847198986571c2bdf4be4de9b08b0bb617855006458921115_original.png?impolicy=abp_cdn&imwidth=1200",
-                "url": "https://www.abplive.com/news/india/who-is-bjp-national-spokesperson-shahzad-poonawala-resigned-from-party-x-member-of-congress-3168568",
-                "source": "ABP News",
-                "date": "2026-07-31T14:07:46Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "61 साल पहले Mukesh ने गाया था मोस्ट रोमांटिक सॉन्ग, एक-एक लाइन पर पिघल जाएगा गर्लफ्रेंड का दिल",
-                "desc": "मुकेश का ये गीत 61 साल बाद भी सदाबहार बना हुआ है। इसकी एक-एक लाइन सीधा दिल को छूती है।",
-                "image": "https://www.jagranimages.com/images/2026/07/31/article/image/mukesh-(7)-1785505677004_m.webp",
-                "url": "https://www.jagran.com/entertainment/bollywood-mukesh-song-chand-si-mehbooba-ho-meri-timeless-track-even-after-61-years-from-himalay-ki-god-mein-movie-40325324.html",
-                "source": "Jagran",
-                "date": "2026-07-31T13:51:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "3 मिनट में सोल्ड आउट हुई ये Royal Enfield, क्यों खास है बाइक",
-                "desc": "रॉयल एनफील्ड ने हाल में अपनी 650 सीसी बाइक का लिमिटेड एडिशन लॉन्च किया था. सिर्फ 3 मिनट में ही इस बाइक की सभी यूनिट्स सोल्ड आउट हो गईं.",
-                "image": "https://cf-img-a-in.tosshub.com/sites/visualstory/wp/2026/07/Royal-Enfield-shotgun-650ITG-1785503671871.jpg?size=*:675",
-                "url": "https://www.aajtak.in/visualstories/auto/royal-enfield-shotgun-650-x-rough-crafts-sold-out-in-3-minutes-auam-284050-31-07-2026",
-                "source": "AajTak",
-                "date": "2026-07-31T13:50:55Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "सड़कों पर आवारा पशु 'प्राकृतिक स्पीड ब्रेकर' नहीं, हादसों के पीड़ितों को मुआवजा दें राज्य: सुप्रीम कोर्ट",
-                "desc": "सुप्रीम कोर्ट ने देशभर में सड़कों और राजमार्गों पर घूम रहे आवारा मवेशियों से होने वाले हादसों पर गहरी चिंता जताते हुए कहा कि राज्य सरकारों को ऐसे मामलों में पीड़ितों को मुआवजा देने की व्यवस्था करनी...",
-                "image": "https://hindi.livelaw.in/h-upload/2026/07/31/690787-750x450629701-cattles-and-sc.jpg",
-                "url": "https://hindi.livelaw.in/supreme-court/nisha-v-municipal-council-sangrur-cattle-justice-sanjay-karol-justice-nk-singh-543799",
-                "source": "Live Law Hindi",
-                "date": "2026-07-31T11:37:16Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "वर्ल्ड कप विजेता खिलाड़ी का निधन, शोक में डूबा खेल जगत",
-                "desc": "Franco Baresi Dies: फुटबॉल जगत के दिग्गज खिलाड़ी फ्रेंको बारेसी का 66 साल की उम्र में निधन हो गया. उन्होंने अपने करियर में एक FIFA वर्ल्ड कप का भी खिताब जीता.",
-                "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/31/5977ac89b25bddddbbc808694dfaa6e317854975152001364_original.jpg?impolicy=abp_cdn&imwidth=1200",
-                "url": "https://www.abplive.com/sports/football/franco-baresi-dies-italy-world-cup-winner-ac-milan-club-sports-world-in-mourning-3168539",
-                "source": "abplive.com",
-                "date": "2026-07-31T11:35:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "PM-किसान पर मोदी सरकार का बड़ा फैसला, 9 करोड़ से ज्यादा किसानों को फायदा",
-                "desc": "केंद्रीय मंत्रिमंडल ने शुक्रवार को अगले पांच वर्षों के लिए वित्त वर्ष 2030-31 तक पीएम-किसान योजना के विस्तार को मंजूरी दी। इसका फायदा करोड़ों किसानों को होगा।, Business Hindi News - Hindustan",
-                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/07/31/1600x900/logo/ANI-20260720109-0_1784537012192_1784537018419_812fc799-168b-4993-b07c-d89e5c12835d_1785497380953_7f0c06e6-acf8-4c92-a795-beb3212c19ee.jpg",
-                "url": "https://www.livehindustan.com/business/modi-cabinet-approves-extends-pm-kisan-samman-nidhi-yojna-for-5-years-check-detail-201785496822958.html",
-                "source": "Hindustan",
-                "date": "2026-07-31T11:29:55Z",
-                "priority": "STANDARD"
             }
         ],
         "business": [
+            {
+                "title": "शेयर बाजार की ट्रेडिंग टाइमिंग में बड़ा बदलाव, निवेशकों के लिए जानना जरूरी",
+                "desc": "भारतीय शेयर बाजार में 3 अगस्त 2026 से एक बड़ा बदलाव लागू होने जा रहा है। इसके साथ ही फ्यूचर्स एंड ऑप्शंस सेगमेंट की ट्रेडिंग अवधि 10 मिनट बढ़ाकर शाम 3:40 बजे तक कर दी गई है।, Business Hindi News - Hindustan",
+                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/08/01/1600x900/logo/PTI02-01-2026-000274B-0_1771392549514_1771392561793_1785563276087_20d58b9b-c6c2-44fd-a3ff-94671db933ca.jpg",
+                "url": "https://www.livehindustan.com/business/stock-market-timings-change-from-monday-3-aug-investors-and-traders-need-to-know-detail-here-201785562883430.html",
+                "source": "Hindustan",
+                "date": "2026-08-01T05:48:41Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "देश की सबसे सस्ती 7-सीटर का विदेशों में बुरा हाल, 3 महीनों में मिले मात्र 1,608 खरीदार; 36% घट गई बिक्री",
+                "desc": "मारुति सुजुकी ईको (Maruti Suzuki Eeco) भारतीय मार्केट में खूब पसंद की जाती रही है। हालांकि, एक्सपोर्ट के लिहाज से देखें तो अप्रैल से जून 2026 के बीच इसके निर्यात में 35.37 पर्सेंट की गिरावट देखी गई।, Auto Hindi News - Hindustan",
+                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/08/01/1600x900/logo/maruti_ecoo_car__1738831634146_1785562783681_df2000a2-9728-4142-a353-e1034d54f24b.jpg",
+                "url": "https://www.livehindustan.com/auto/maruti-suzuki-eeco-exports-1608-units-between-april-june-q2-2026-201785562605980.html",
+                "source": "Hindustan",
+                "date": "2026-08-01T05:41:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "FD Investment: एफडी में 10-15 लाख रुपये लगाने से पहले रुकें, 1 गलती से हो सकता है बड़ा नुकसान, जानें सही तरीका",
+                "desc": "काफी लोग 10-15 लाख रुपये की एक ही एफडी करा लेते हैं। एक्सपर्ट इसे गलत बताते हैं। अगर अचानक पैसों की जरूरत पड़ जाए तो पूरी ही एफडी तुड़वानी पड़ती है जिससे बड़ा नुकसान होता है। ऐसे में एक्सपर्ट छोटी-छोटी रकम की 3 या 4 एफडी कराने की सलाह देते हैं।",
+                "image": "https://static.langimg.com/nbt/thumb/132781780/bank-fd-vs-split-fd.jpg?imgsize=152262&width=1600&height=900&resizemode=75",
+                "url": "https://navbharattimes.indiatimes.com/personal-finance/savings-and-investments/fd-investment-strategy-multiple-fd-benefits-dicgc-insurance/articleshow/132781776.cms",
+                "source": "Navbharat Times",
+                "date": "2026-08-01T05:12:51Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "अनिल अंबानी की Reliance Infra में बड़ा उलटफेर, रिन्यूएबल बिजनेस CEO ने दिया इस्तीफा; शेयरों पर दिखेगा असर?",
                 "desc": "अनिल अंबानी की रिलायंस इंफ्रास्ट्रक्चर के रिन्यूएबल बिजनेस के सीईओ इवान साहा ने व्यक्तिगत कारणों से इस्तीफा दे दिया है, जो 31 जुलाई, 2026 से प्रभावी होगा। इस खबर के बाद कंपनी के शेयरों में गिरावट दर्ज की गई, और अब नए सीईओ की नियुक्ति पर निवेशकों की नजर है।",
@@ -1055,36 +1082,27 @@
                 "source": "CNBC TV18",
                 "date": "2026-07-31T06:39:43Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Gold Investment: सोने में फिर से खरीदारी शुरू करने का आ गया सही मौका! जेफरीज के क्रिस वुड ने क्यों कहा ऐसा?",
-                "desc": "Gold Investment Advice: क्रिस वुड ने सोने की हालिया चाल का विश्लेषण करते हुए बताया कि जब हाल ही में ईरान संघर्ष की शुरुआत हुई थी, तब भी सोने ने अपना नया रिकॉर्ड हाई नहीं बनाया था। ईरान युद्ध की खबर के बावजूद सोने का नया ऑल-टाइम हाई न बनाना इस बात का साफ इशारा था कि सोने का बाजार फिलहाल अपने शिखर पर पहुंच चुका है और इसके बाद एक ठहराव या कंसोलिडेशन फेज शुरू होना तय था -",
-                "image": "https://images.moneycontrol.com/static-hindinews/2026/07/gold-investment-buying-opportunity-chris-wood-jefferies-.jpg",
-                "url": "https://hindi.moneycontrol.com/news/your-money/gold-investment-buying-opportunity-chris-wood-jefferies-advice-dollar-debasement-2425272.html",
-                "source": "Moneycontrol Hindi",
-                "date": "2026-07-31T06:32:38Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "लॉन्च हुआ टीवीएस राइडर का 'सुपर स्क्वाड एडिशन', कीमत ₹95,320; जानिए खासियत",
-                "desc": "टीवीएस ने मार्वल  के साथ अपनी साझेदारी को आगे बढ़ाते हुए अपनी पॉपुलर बाइक राइडर 125 का नया 'सुपर स्क्वाड एडिशन' लॉन्च कर दिया है। इस बाइक की एक्स-शोरूम कीमत 95,320 रुपये रखी गई है।, Auto Hindi News - Hindustan",
-                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/07/31/1600x900/logo/tvs_raider_doctor_doom_edition_1785479412102_1785479420518_8c979071-9902-41f3-aa6c-316320fe58dc.jpeg",
-                "url": "https://www.livehindustan.com/auto/tvs-raider-doctor-doom-edition-launched-at-rs-95320-check-details-201785479005379.html",
-                "source": "Hindustan",
-                "date": "2026-07-31T06:32:31Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "छत्तीसगढ़ में प्रमाणित पुराने ट्रैक्टर खरीदें",
-                "desc": "छत्तीसगढ़ में प्रमाणित पुराने ट्रैक्टर खरीदना चाहते हैं? Tractor Junction के कवर्धा, बलौदा बाजार, मुंगेली, पंडारिया और खैरागढ़ में उपलब्ध पुराने ट्रैक्टरों की कीमत, मॉडल, शोरूम पता और संपर्क की पूरी जानकारी पढ़ें।",
-                "image": "https://assets.tractorjunction.com/tractor-junction/assets/images/images/news/tractor-1785398473.webp",
-                "url": "https://www.tractorjunction.com/tractor-news/used-tractor-price-showrooms-chhattisgarh/",
-                "source": "Tractor Junction",
-                "date": "2026-07-31T06:09:38Z",
-                "priority": "STANDARD"
             }
         ],
         "entertainment": [
+            {
+                "title": "'सीता' के अवतार में छाईं कंगना रनौत, किसे दिया आशीर्वाद? 29 साल पुरानी तस्वीर देख मंत्रमुग्ध हुए फैंस",
+                "desc": "कंगना रनौत ने अपनी इंस्टाग्राम स्टोरी पर स्कूल के दिनों की थ्रोबैक फोटोज शेयर की हैं, जिसमें वो सीता के अवतार में नजर आ रही हैं.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/photo_gallery/202608/6a6d78a85a24f-kangana-ranaut-played-sita-29-years-ago-014002383-16x9.jpg",
+                "url": "https://www.aajtak.in/entertainment/bollywood-news/photo/kangana-ranaut-played-sita-29-years-ago-shares-childhood-photos-give-aashirvaad-to-liberals-ramayana-tmovf-2612972-2026-08-01",
+                "source": "AajTak",
+                "date": "2026-08-01T05:00:41Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'गंदी नाली के कीडे बन गए हैं', सीजेपी प्रोटेस्ट पर फूटा मुकेश खन्ना का गुस्सा, बोले- ‘ये स्पॉन्सर्ड आंदोलन था’",
+                "desc": "Mukesh Khanna On CJP Protest: मुकेश खन्ना ने एक वीडियो शेयर कर सीजेपी प्रोटेस्ट पर भड़ास निकाली है. उन्होंने छात्रों के इस आंदोलन को स्पॉन्सर्ड होने का भी दावा किया.",
+                "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/08/01/0558044368e248f0a2bb900d23df58271785564718412209_original.jpeg?impolicy=abp_cdn&imwidth=1200",
+                "url": "https://www.abplive.com/entertainment/bollywood/mukesh-khanna-slams-cjp-protest-called-it-sponsored-share-video-3168769",
+                "source": "ABP News",
+                "date": "2026-08-01T04:57:23Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "एक्ट्रेस शगुन शर्मा ने गौरव खन्ना पर लगाए संगीन आरोप, कहा- वो सेट पर बुली करते हैं, उनसे कभी नहीं मिलूंगी",
                 "desc": "'खतरों के खिलाड़ी 15' की कंटेस्टेंट शगुन शर्मा ने गौरव खन्ना पर उन्हें सेट पर परेशान और बुली करने के आरोप लगाए हैं। शगुन ने कहा कि वह गौरव से कभी भी नहीं मिलना चाहेंगी। एक्टर ने उनसे सेट पर काफी मीन बातें कही थीं।",
@@ -1606,27 +1624,36 @@
                 "source": "AajTak",
                 "date": "2026-07-31T03:30:05Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Box Office: दूसरे थर्सडे घटी 'जना नायकन' की कमाई, जानें- 8 दिनों में कितना वसूला बजट",
-                "desc": "Jana Nayagan BO Collection Day 8: थलपति विजय की 'जना नायकन' को सिनेमाघरों में रिलीज हुए 8 दिन हो गए हैं. इस दौरान इसने ठीक कमाई कर ली है. यहां जान सकते हैं इसने कितना बजट वसूला है.",
-                "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/31/5a50124cdd4ca21aa5f842b183cea2ff1785468419078209_original.jpg?impolicy=abp_cdn&imwidth=1200",
-                "url": "https://www.abplive.com/entertainment/south-cinema/jana-nayagan-box-office-collection-day-8-thalapathy-vijay-film-eighth-day-second-thursday-collection-3168246",
-                "source": "ABP News",
-                "date": "2026-07-31T03:28:50Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "1800 करोड़ी Dhurandhar 2 का रिकॉर्ड तोड़ने आ रहीं ये 7 बड़ी फिल्में, अगस्त से बदलेगा बॉक्स ऑफिस का गणित!",
-                "desc": "अगस्त के साथ ही त्योहारों के सीजन में इन पांच महीनों के दौरान कई बड़ी फिल्में रिलीज होंगी। ऐसे में सवाल यही है कि क्या कोई धुरंधर: द रिवेंज Dhurandhar The Revenge का रिकॉर्ड तोड़ पाएगी?",
-                "image": "https://www.jagranimages.com/images/2026/07/31/article/image/Upcoming-Movies-Theatre-Release-2026-1785467974916_m.webp",
-                "url": "https://www.jagran.com/entertainment/bollywood-upcoming-bollywood-movies-august-december-2026-release-date-list-dhurandhar-2-record-will-break-40324721.html",
-                "source": "Jagran",
-                "date": "2026-07-31T03:20:00Z",
-                "priority": "STANDARD"
             }
         ],
         "sports": [
+            {
+                "title": "इंग्लैंड में गदर काट रहे कुलदीप यादव, बेन स्टोक्स भी फिरकी में घूम गए, VIDEO",
+                "desc": "इंग्लैंड में जारी मेट्रो बैंक वन-डे कप में भारतीय स्पिनर कुलदीप यादव शानदार प्रदर्शन कर रहे हैं. कुलदीप यादव ने बेन स्टोक्स का भी अहम विकेट चटकाया. कुलदीप ने 10 ओवर में सिर्फ 23 रन देकर 2 विकेट लिए और यॉर्कशायर को डरहम पर 7 विकेट की शानदार जीत दिलाने में अहम भूमिका निभाई.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202608/6a6d7b1fef8c3-kuldeep-yadav-315331130-16x9.jpg",
+                "url": "https://www.aajtak.in/sports/cricket/story/kuldeep-yadav-ben-stokes-yorkshire-win-one-day-cup-team-india-tspoa-dskc-2612978-2026-08-01",
+                "source": "aajtak.in",
+                "date": "2026-08-01T05:27:57Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "5 स्टार गेंदबाज जो एक टेस्ट में 10 विकेट नहीं ले पाए, एक भारतीय खिलाड़ी का भी नाम",
+                "desc": "टेस्ट क्रिकेट में अभी तक 244 गेंदबाजों ने एक मैच में 10 या उससे ज्यादा विकेट लिए हैं। इस लिस्ट में कई स्टार गेंदबाज शामिल नहीं हैं।",
+                "image": "https://static.langimg.com/nbt/thumb/132781865/5-great-bowlers-who-never-take-10-wickets-in-a-test-match-jasprit-bumrah.jpg?imgsize=43732&width=1600&height=900&resizemode=75",
+                "url": "https://navbharattimes.indiatimes.com/sports/cricket/cricket-news/5-great-bowlers-who-never-take-10-wickets-in-a-test-match-jasprit-bumrah/articleshow/132781865.cms",
+                "source": "Navbharat Times",
+                "date": "2026-08-01T05:25:57Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "सचिन तेंदुलकर नंबर-1, कोहली-गांगुली टॉप-10 में; IND vs SL टेस्ट सीरीज में सबसे ज्यादा रन बनाने वाले बल्लेबाज",
+                "desc": "इंडिया वर्सेस श्रीलंका टेस्ट सीरीज का आगाज 15 अगस्त से होने जा रहा है। इससे पहले आईए एक नजर भारत बनाम श्रीलंका टेस्ट सीरीज के इतिहास में सबसे ज्यादा रन बनाने वाले टॉप-10 बल्लेबाजों पर डालते हैं।, Cricket Hindi News - Hindustan",
+                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/08/01/1600x900/logo/sachin_kohli_sehwag_1785561702943_1785561707363_f59a0c25-33b0-410d-beff-a3982c77612e.jpg",
+                "url": "https://www.livehindustan.com/cricket/sachin-tendulkar-no-1-virat-kohli-sourav-ganguly-in-top-10-highest-run-scorers-in-the-ind-vs-sl-test-series-201785559984368.html",
+                "source": "Hindustan",
+                "date": "2026-08-01T05:22:56Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "दिनेश कार्तिक ने वर्ल्ड कप 2027 के लिए चुनी भारतीय टीम, 2 ऐसे खिलाड़ियों को दिया मौका जिनको सिलेक्टर गए भूल",
                 "desc": "दिनेश कार्तिक ने वर्ल्ड कप 2027 के लिए उन खिलाड़ियों को चुना है जो साउथ अफ्रीका, जिम्बाब्वे और नामीबिया की परिस्थिती में सबसे बेस्ट शामिल हो सकते हैं। इसके लिए उन्होंने मोहम्मद शमी और भुवनेश्वर कुमार को भी टीम में डाला है।",
@@ -2139,38 +2166,29 @@
                 "source": "India TV Hindi",
                 "date": "2026-07-31T05:30:52Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "वैभव सूर्यवंशी, ऋषभ पंत बाहर, भुवनेश्वर कुमार IN; अश्विन ने चुने वर्ल्ड कप 2027 के संभावित प्लेयर्स",
-                "desc": "अश्विन ने 2027 वर्ल्ड कप में चुने जाने वाले खिलाड़ी, ना चुने जाने वाले खिलाड़ी और शायद चुने जाने वाले खिलाड़ियों की लिस्ट तैयार की है। इस लिस्ट में वैभव सूर्यवंशी का भी नाम है।, Cricket Hindi News - Hindustan",
-                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/07/31/1600x900/logo/Vaibhav_Sooryavanshi_1785397706421_1785397706727_599920f7-d19d-4122-a87d-458f996bbcd6_1785473989826_a3b149be-fb7e-4f21-a93a-c292b37b7e07.jpg",
-                "url": "https://www.livehindustan.com/cricket/r-ashwin-selected-potential-players-for-the-2027-world-cup-giving-his-verdict-on-vaibhav-sooryavanshi-201785472149542.html",
-                "source": "Hindustan",
-                "date": "2026-07-31T05:03:46Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'इंग्लैंड के पास धोनी जैसा कप्तान नहीं...', स्टीफन फ्लेमिंग की नियुक्ति पर माइकल वॉन ने उठाए सवाल",
-                "desc": "चेन्नई सुपर किंग्स के साथ बतौर कोच 5 आईपीएल और 2 चैम्पियंस लीग टी20 खिताब जीतने वाले स्टीफन फ्लेमिंग पहली बार किसी नेशनल टीम को कोचिंग देने जा रहे हैं. लेकिन इस बार परिस्थितियां बिल्कुल अलग हैं. यहां ना एमएस धोनी जैसा कप्तान होगा, ना ही चेन्नई सुपर किंग्स जैसी अनुभवी टीम.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a6c1f8292fba-dhoni-fleming-31072550-16x9.png",
-                "url": "https://www.aajtak.in/sports/cricket/story/michael-vaughan-ms-dhoni-stephen-fleming-england-test-coach-csk-remark-tspoa-dskc-2612356-2026-07-31",
-                "source": "AajTak",
-                "date": "2026-07-31T04:26:57Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "4 अजेय भारतीय कप्तान, टेस्ट क्रिकेट में कभी नहीं देखा हार का मुंह",
-                "desc": "भारत के 94 साल के टेस्ट क्रिकेट इतिहास में 38 खिलाड़ियों ने कप्तानी की है और इसमें सिर्फ चार को ही हार नहीं मिली।",
-                "image": "https://static.langimg.com/nbt/thumb/132755120/4-indian-captain-who-never-lost-a-test-match-ajinkya-rahane.jpg?imgsize=50580&width=1600&height=900&resizemode=75",
-                "url": "https://navbharattimes.indiatimes.com/sports/cricket/cricket-news/4-indian-captain-who-never-lost-a-test-match-ajinkya-rahane/articleshow/132755120.cms",
-                "source": "Navbharat Times",
-                "date": "2026-07-31T03:49:17Z",
-                "priority": "STANDARD"
             }
         ]
     },
     "en": {
         "general": [
+            {
+                "title": "Slipknot reportedly kicks Sid Wilson out of band, another member posts cryptic message",
+                "desc": "TMZ reports that one of the original members of Slipknot, a heavy metal band formed in Des Moines, has been \"permanently\" kicked out of the band.",
+                "image": "https://kubrick.htvapps.com/htv-prod/images/8f4af282-b12f-47bb-ba03-3b751ed55cec.jpg?crop=1.00xw%3A0.846xh%3B0%2C0.110xh&resize=1200%3A*",
+                "url": "https://www.kcci.com/article/slipknot-reportedly-kicks-sid-wilson-out-of-band/73322622",
+                "source": "KCCI",
+                "date": "2026-08-01T05:47:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Japan’s Rescuers Battle Cruel Heat After Major Earthquake",
+                "desc": "Kumamoto faces a “double disaster,” as rescuers work in 100 degree heat, and shelters with limited air-conditioning put displaced people at risk for heatstroke.",
+                "image": "https://static01.nyt.com/images/2026/08/01/multimedia/01int-japan-quake-dispatch-01-kvgj/01int-japan-quake-dispatch-01-kvgj-facebookJumbo.jpg",
+                "url": "https://www.nytimes.com/2026/08/01/world/asia/japan-earthquake-recovery-heat.html",
+                "source": "The New York Times",
+                "date": "2026-08-01T04:57:29Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "On ‘Ted Lasso,’ Hannah Waddingham Is Ruthless. Off Camera, She’s ‘Quite a Goofy Nugget.’",
                 "desc": "Hannah Waddingham is a rare British actor to beat a path from musical theater to the screen.",
@@ -2691,24 +2709,6 @@
                 "url": "https://www.nytimes.com/2026/07/31/climate/colorado-river-basin-water-cuts.html",
                 "source": "The New York Times",
                 "date": "2026-07-31T15:12:23Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Taylor Sheridan's 'Lioness' season 3 is an action-packed saga loaded with violence and carnage",
-                "desc": "'Lioness' season 3 from Taylor Sheridan stars Zoe Saldaña and Nicole Kidman in a CIA military series focused on Russia. The action thriller streams on Paramount+ Aug. 2, 2026.",
-                "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/Lioness_Season_3_001.jpg",
-                "url": "https://www.foxnews.com/outkick-culture/taylor-sheridan-lioness-season-3-action-packed-saga-loaded-violence-carnage",
-                "source": "Fox News",
-                "date": "2026-07-31T15:11:27Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Police chief resigns days after deadly shooting in US city of Seattle",
-                "desc": "Shon Barnes steps down amid questions over authorities’ handling of the shooting at a popular food festival.",
-                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a6cab679972-1785506663.jpg?resize=1920%2C1440",
-                "url": "https://www.aljazeera.com/news/2026/7/31/police-chief-resigns-days-after-deadly-shooting-in-us-city-of-seattle",
-                "source": "Al Jazeera",
-                "date": "2026-07-31T14:58:40Z",
                 "priority": "STANDARD"
             }
         ],
@@ -3256,6 +3256,15 @@
         ],
         "entertainment": [
             {
+                "title": "Slipknot reportedly kicks Sid Wilson out of band, another member posts cryptic message",
+                "desc": "TMZ reports that one of the original members of Slipknot, a heavy metal band formed in Des Moines, has been \"permanently\" kicked out of the band.",
+                "image": "https://kubrick.htvapps.com/htv-prod/images/8f4af282-b12f-47bb-ba03-3b751ed55cec.jpg?crop=1.00xw%3A0.846xh%3B0%2C0.110xh&resize=1200%3A*",
+                "url": "https://www.kcci.com/article/slipknot-reportedly-kicks-sid-wilson-out-of-band/73322622",
+                "source": "KCCI",
+                "date": "2026-08-01T05:47:00Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "On ‘Ted Lasso,’ Hannah Waddingham Is Ruthless. Off Camera, She’s ‘Quite a Goofy Nugget.’",
                 "desc": "Hannah Waddingham is a rare British actor to beat a path from musical theater to the screen.",
                 "image": "https://static01.nyt.com/images/2026/08/02/multimedia/02cul-hannah-waddingham-glct/02cul-hannah-waddingham-glct-facebookJumbo.jpg",
@@ -3784,15 +3793,6 @@
                 "url": "https://www.yahoo.com/entertainment/music/articles/ariana-grande-cardi-b-shaboozey-051810553.html",
                 "source": "Yahoo",
                 "date": "2026-07-31T05:18:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Rumor Roundup: Brock Lesnar retirement, WWE baffled by AEW, Mercedes Moné plan, more!",
-                "desc": "Is Brock Lesnar really retiring, WWE baffled by Tony Khan’s booking, Mercedes Mone switch, babyface Solo Sikoa, SummerSlam winners, Ventura, and more rumors.",
-                "image": "https://platform.cagesideseats.com/wp-content/uploads/sites/54/2026/07/lesnar2.jpg?quality=90&strip=all&crop=0,4.4986999649828,100,88.96351765712",
-                "url": "https://www.cagesideseats.com/rumor-round-up/464480/rumor-roundup-brock-lesnar-final-wwe-match-summerslam-winners-mone-plan-solo-sikoa-babyface",
-                "source": "Cageside Seats",
-                "date": "2026-07-31T05:00:00Z",
                 "priority": "STANDARD"
             }
         ],
@@ -4339,5 +4339,5 @@
             }
         ]
     },
-    "lastGlobalSync": "2026-08-01T16:50:29.576169Z"
+    "lastGlobalSync": "2026-08-01T17:53:37.916289Z"
 }
