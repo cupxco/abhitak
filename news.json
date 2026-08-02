@@ -2,6 +2,87 @@
     "hi": {
         "general": [
             {
+                "title": "ट्रंप ने ईरान पर अमेरिका के हमले रोकने का किया एलान, क्या है वजह?",
+                "desc": "अमेरिका के राष्ट्रपति डोनाल्ड ट्रंप ने फ़िलहाल ईरान पर अपने संभावित हमले को रोकने का एलान किया है.",
+                "image": "https://ichef.bbci.co.uk/news/1200/branded_hindi/dddb/live/556deae0-8e54-11f1-a236-b9d779ddbf54.jpg",
+                "url": "https://www.bbc.com/hindi/articles/c9d8xgg565qo",
+                "source": "BBC",
+                "date": "2026-08-02T09:40:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "25 छक्के, 15 चौके और 233 रन... अभिषेक शर्मा ने बल्ले से उड़ाया गर्दा, विपक्षी गेंदबाज हुए बेबस",
+                "desc": "टीम इंडिया के सलामी बल्लेबाज अभिषेक शर्मा ने घरेलू क्रिकेट में ऐसा तूफान मचाया कि हर कोई हैरान रह गया. अमृतसर मेन सीनियर की ओर से खेलते हुए उन्होंने 91 गेंदों पर 233 रन बना दिए. इस दौरान अभिषेक ने चौके-छक्कों की बरसात कर डाली.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202608/6a6f0e3ee0ed8-abhishek-sharma-02303384-16x9.jpg",
+                "url": "https://www.aajtak.in/sports/cricket/story/abhishek-sharma-smashes-233-runs-with-25-sixes-district-one-day-match-team-india-opener-tspoa-dskc-2613627-2026-08-02",
+                "source": "AajTak",
+                "date": "2026-08-02T09:32:28Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "PM मोदी ने भद्दी गालियां देने वाली लड़की को किया माफ, मां बोली- जीवनदान दिया, गोद भी ले लीजिए",
+                "desc": "पीएम मोदी को गालियां देने वाली लड़की की मां ने कहा है कि पीएम मोदी ने उसे जीवनदान दिया है। उन्होंने अपील की है कि जैसे वे गांव को को गोद लेते हैं, वैसे उनकी बेटी को भी गोद ले लें। , Ncr Hindi News - Hindustan",
+                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/08/02/1600x900/logo/noida_girl_abuse_1785663008017_1785663016010_8ff433d0-85b9-4eb5-98ce-4142a9c74b8e.jpg",
+                "url": "https://www.livehindustan.com/ncr/mother-of-girl-who-abuse-pm-modi-said-he-gave-jeevandan-appeal-to-adopt-her-201785661262981.html",
+                "source": "Hindustan",
+                "date": "2026-08-02T09:14:11Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "टीम इंडिया से लगातार नजरअंदाज किए जाने पर भुवनेश्वर कुमार ने तोड़ी चुप्पी, बताया क्या है प्राथमिकता",
+                "desc": "तेज गेंदबाज भुवनेश्वर कुमार को लगातार भारतीय टीम से नजरअंदाज किया जा रहा है। इसे लेकर अब उन्होंने अपनी चुप्पी तोड़ी है।",
+                "image": "https://www.jagranimages.com/images/2026/08/02/article/image/Bhuvneshwar-Kumar--1785661370182_m.webp",
+                "url": "https://www.jagran.com/cricket/headlines-bhuvneshwar-kumar-comment-on-india-team-recall-rcb-podcast-40327075.html",
+                "source": "Jagran",
+                "date": "2026-08-02T09:09:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "कल का मौसम: 3 अगस्त को इन 45 जिलों में होगी झमाझम बारिश, IMD का सबसे बड़ा अपडेट",
+                "desc": "Kal Ka Mausam: भारतीय मौसम विभाग (IMD) के अनुसार 3 अगस्त को उत्तर प्रदेश में मानसून सक्रिय रहेगा. लखनऊ, वाराणसी, प्रयागराज, गोरखपुर, मेरठ, आगरा, गाजियाबाद, सहारनपुर, बरेली और आसपास के कई जिलों में गरज-चमक के साथ बारिश के आसार हैं. पूर्वी यूपी के अनेक और पश्चिमी यूपी के कुछ स्थानों पर वर्षा होगी. दोनों क्षेत्रों में कहीं-कहीं भारी बारिश की चेतावनी जारी की गई है.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202608/6a6f057253a25-monsoon-stays-active--shifts-focus-to-north--east-india-heavy-rains-to-arrive-01234933-16x9.jpg",
+                "url": "https://www.aajtak.in/uttar-pradesh/story/up-weather-alert-3-august-heavy-rain-monsoon-update-weather-news-hindi-kal-ka-mausam-lclg-strc-2613613-2026-08-02",
+                "source": "AajTak",
+                "date": "2026-08-02T08:55:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'मेरी बेटी को गोद ले लें पीएम मोदी', जंतर-मंतर पर गाली देने वाली रुचिका की मां की अपील, बोलीं- 'उसका भविष्य संवार दें'",
+                "desc": "जंतर-मंतर प्रदर्शन में पीएम मोदी पर आपत्तिजनक टिप्पणी करने वाली लड़की रुचिका की मां ने प्रधानमंत्री का धन्यवाद करते हुए बेटी को माफ करने और एफआईआर वापस लेने की भावुक अपील की।",
+                "image": "https://static.langimg.com/nbt/thumb/132803590/noida-girl-apology-case-pm-modi-abuse-controversy.jpg?imgsize=168083&width=1600&height=900&resizemode=75",
+                "url": "https://navbharattimes.indiatimes.com/state/uttar-pradesh/noida/jantar-mantar-protest-girl-mother-thanks-pm-modi-seeks-fir-withdrawal/articleshow/132803439.cms",
+                "source": "Navbharat Times",
+                "date": "2026-08-02T08:49:07Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "ग्लैमरस शूर्पणखा, घुंघराले बालों वाली सीता... इतने बदले-बदले क्यों हैं नई 'रामायण' के किरदार",
+                "desc": "रामानंद सागर की रामायण में अरुण गोविल ने भगवान राम की भूमिका निभाई थी. नितेश तिवारी की रामायण में रणबीर कपूर, राम बने हैं. दोनों का पहनावा और चेहरे की सौम्यता लगभग एक सी है.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/photo_gallery/202608/6a6efa0ce40da-ramayan-020423240-16x9.jpg",
+                "url": "https://www.aajtak.in/entertainment/television/photo/ramayana-yash-ravan-ranbir-kapoor-sai-pallavi-rakul-preet-singh-surpanakha-lara-dutta-kaikeyi-tmovb-2613587-2026-08-02",
+                "source": "aajtak.in",
+                "date": "2026-08-02T08:46:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "3.50 लाख कीमत... 34KM माइलेज! छोटी कारों की डबल सेल",
+                "desc": "Maruti Car Sales: मारुति सुजुकी इंडिया ने जुलाई 2026 में कुल 2,41,421 वाहनों की बिक्री की. इसमें घरेलू बाजार में 2,00,123 यूनिट की रिकॉर्ड बिक्री हुई.",
+                "image": "https://cf-img-a-in.tosshub.com/sites/visualstory/wp/2026/06/cheapest-best-mileage-cars-2ITG-1782371034737.jpg?size=*:675",
+                "url": "https://www.aajtak.in/visualstories/auto/maruti-alto-and-s-presso-sales-double-in-july-2026-car-sales-report-auaw-284104-02-08-2026",
+                "source": "AajTak",
+                "date": "2026-08-02T08:38:43Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "जसप्रीत बुमराह श्रीलंका टेस्ट सीरीज से हुए बाहर, टीम इंडिया को लगा 440 वोल्ट का झटका",
+                "desc": "स्टार पेसर जसप्रीत बुमराह श्रीलंका में टेस्ट सीरीज नहीं खेलेंगे। वह पूरी तरह फिट नहीं हो पाए हैं। भारत को श्रीलंका की सरजमीं पर दो मैचों की टेस्ट सीरीज खेलनी है। यह वर्ल्ड टेस्ट चैंपियनशिप का हिस्सा है।, Cricket Hindi News - Hindustan",
+                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/08/02/1600x900/logo/Jasprit_Bumrah_Ruled_out_of_Sri_Lanka_Test_Series_1785657298291_1785657306985_9026ebe7-4699-4e83-ae8e-4956268208c8.jpg",
+                "url": "https://www.livehindustan.com/cricket/jasprit-bumrah-ruled-out-of-sri-lanka-test-series-massive-setback-for-team-india-201785657059658.html",
+                "source": "livehindustan.com",
+                "date": "2026-08-02T08:07:53Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "रवि किशन के गरीबी वाले डायलॉग पर भारी पड़ी घड़ियां, ढाई करोड़ से भी ज्यादा कीमत की घड़ी का वीडियो हो रहा वायरल",
                 "desc": "रवि किशन हर बार सोशल मीडिया पर सुर्खियां बटोरते हैं। गरीबी के स्ट्रगल वाले बयान को लेकर ट्रोलिंग का शिकार होने के बाद अब लोग उनकी महंगी घड़ियों के वीडियो वायरल हो रहे हैं, इसमे वो ढाई करोड़ से भी ज्यादा कीमत की घड़ी को पहने दिख रहे।, फैशन Hindustan",
                 "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/08/02/1600x900/logo/RAVI_KISHAN_WATCH_1785657293975_1785657294188_cb725712-703b-4ef5-8733-c729ea3b2e1e.jpg",
@@ -459,90 +540,63 @@
                 "source": "BBC",
                 "date": "2026-08-02T01:52:30Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "'अपनी गर्लफ्रेंड को शर्मिंदा मत करो', ऋतिक रोशन पर भड़कीं कंगना रनौत, सबा आजाद का घसीटा नाम",
-                "desc": "कंगना रनौत ने ऋतिक रोशन पर पलटवार किया है और जवाब देने के चक्कर में उनकी गर्लफ्रेंड सबा आजाद को भी घसीट लिया। ऋतिक ने हाल ही खुद पर बने 'सॉरी ऋतिक' वाले ट्रेंड पर रिएक्ट किया था, जिसका ताल्लुक कंगना संग 2016 में हुई कानूनी लड़ाई से था। इसी पर कंगना बिफर गईं। जानिए पूरा मामला:",
-                "image": "https://static.langimg.com/nbt/thumb/132799034/kangana-ranaut-dig-at-hrithik-roshan.jpg?imgsize=310126&width=1600&height=900&resizemode=75",
-                "url": "https://navbharattimes.indiatimes.com/entertainment/news-from-bollywood/kangana-ranaut-blasts-hrithik-roshan-takes-dig-dragging-his-girlfriend-saba-azad-name-dont-tease-you-are-committed/articleshow/132799016.cms",
-                "source": "Navbharat Times",
-                "date": "2026-08-02T01:40:49Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'गृह मंत्री अमित शाह इस्तीफ़ा दें', 23 दिन भूख हड़ताल पर रहीं नेहा बोरा ने और क्या कहा",
-                "desc": "ऑल इंडिया स्टूडेंट्स एसोसिएशन (आइसा) की राष्ट्रीय अध्यक्ष नेहा बोरा ने 20 जुलाई को दिल्ली में पेपर लीक विरोधी प्रदर्शन के दौरान हुई पुलिस कार्रवाई को लेकर केंद्रीय गृह मंत्री अमित शाह के इस्तीफ़े की मांग दोहराई है.",
-                "image": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/416e/live/4e43b4f0-8e1a-11f1-93da-a3727cddeb9f.jpg",
-                "url": "https://www.bbc.com/hindi/live/cn9n5gqvr4nt",
-                "source": "BBC",
-                "date": "2026-08-02T01:40:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "अमेरिका के रेस्तरां में बिछ गईं लाशें, अंधाधुंध गोलीबारी के बाद मारा गया हमलावर",
-                "desc": "अमेरिका के आयडहो में एक रेस्तरां में अचानक हमला हो गया। अंधाधुंध गोलीबारी में कई लोगों के मारे जाने की खबर है। जानकारी के मुताबिक हमलावर भी मारा गया है। , International Hindi News - Hindustan",
-                "image": "https://www.livehindustan.com/lh-img/smart/img/2026/08/02/1600x900/generated_17294349146985175668_1785634060426_1785634115023_186c2e50-1f67-422e-b17d-6914035cbafc.gif",
-                "url": "https://www.livehindustan.com/international/many-dead-after-shooting-at-fast-food-restaurant-in-southern-idaho-america-shooter-also-killed-201785633827696.html",
-                "source": "livehindustan.com",
-                "date": "2026-08-02T01:29:09Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Aaj ka Rashifal 2 अगस्त 2026: मीन राशि वाले उधार लेन-देन से बचें, जानें आज क्या कहती है आपकी राशि",
-                "desc": "Aaj ka Rashifal 2 अगस्त 2026, Horoscope Today: आज आपको उधार लेन-देन से बचना होगा. लंबी दूरी की यात्रा से बचें. आपके खर्चे बढ़ेंगे. मित्रों की सलाह से फैसले करें. आत्मविश्वास को और बढ़ाना होगा. व्यापार में नुकसान हो सकता है.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202608/aaj-ka-rashiphal-4-original.jpg",
-                "url": "https://www.aajtak.in/religion/rashiphal/story/aaj-ka-rashifal-02-august-2026-mesh-to-meen-ravivaar-rashi-daily-horoscope-today-in-hindi-dskc-2613296-2026-08-02",
-                "source": "AajTak",
-                "date": "2026-08-02T00:30:09Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "NEET UG Rank List: MBBS, BDS एडमिशन के लिए नीट रैंक लिस्ट जारी, 705 मार्क्स वाला टॉपर, 680 से ऊपर वाले टॉप 17 में",
-                "desc": "KNRUHS NEET Rank List: KNRUHS ने तेलंगाना के NEET-UG 2026 पास उम्मीदवारों की रैंक लिस्ट जारी कर दी है। AIR 13 हासिल करने वाले वीरियागारी साह्यु राज्य में टॉप पर रहे। काउंसलिंग रजिस्ट्रेशन जल्द शुरू होगा।, Career Hindi News - Hindustan",
-                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/08/02/1600x900/logo/MBBS_Merit_Rank_List_1785629163792_1785629172110_5a046fdd-14f7-4a54-8acd-a36cd4b19f4c.jpg",
-                "url": "https://www.livehindustan.com/career/neet-rank-list-neet-ug-state-merit-list-out-mbbs-bds-bams-admission-topper-705-marks-rank-13-air-680-marks-201785628379293.html",
-                "source": "Hindustan",
-                "date": "2026-08-02T00:28:33Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "पीएम मोदी की मां को गाली देनेवालों के समर्थन में आए MNS चीफ राज ठाकरे, बोले- जो बोया वही काट रहे हो",
-                "desc": "NEET विरोध प्रदर्शनों के दौरान प्रधानमंत्री नरेंद्र मोदी और उनकी मां के लिए अपशब्द कहने वाले छात्रों को माफ करने की बात कहने पर राज ठाकरे ने उनकी आलोचना की। MNS प्रमुख राज ठाकरे ने उनसे यह भी कहा कि वे BJP के ट्रोलर्स को भी अपशब्द कहना बंद करने के लिए कहें।",
-                "image": "https://static.langimg.com/nbt/thumb/132798833/pm-modi-raj-thackeray.jpg?imgsize=163470&width=1600&height=900&resizemode=75",
-                "url": "https://navbharattimes.indiatimes.com/metro/mumbai/politics/pm-narendra-modi-should-stop-abuses-heaped-by-bjps-trolls-raj-thackeray/articleshow/132798820.cms",
-                "source": "Navbharat Times",
-                "date": "2026-08-02T00:20:51Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "21वीं सदी का सबसे लंबा सूर्य ग्रहण, कई देशों में 6 मिनट 23 सेकंड तक दिन में छाएगा अंधेरा",
-                "desc": "2 अगस्त 2027 को आसमान में एक दुर्लभ और रोमांचक खगोलीय घटना देखने को मिलेगी। इस दिन 21वीं सदी के सबसे लंबे पूर्ण सूर्य ग्रहणों में से एक लगेगा, जो अपने पूर्ण पथ पर छह मिनट से अधिक समय तक दिन को रात में बदल देगा।",
-                "image": "https://www.jagranimages.com/images/2026/08/02/article/image/jagran-photo-1785628567810_m.webp",
-                "url": "https://www.jagran.com/news/national-longest-solar-eclipse-of-the-century-darkness-to-envelop-the-day-for-six-minutes-and-23-seconds-40326678.html",
-                "source": "Jagran",
-                "date": "2026-08-02T00:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "कैसे प्रशांत किशोर ने 360 डिग्री बदली अपनी सियासी प्लानिंग! BJP में आगामी चुनावों को लेकर रणनीति बदलने पर मंथन",
-                "desc": "Prashant Kishor: बांकीपुर में उपचुनाव संपन्न हो चुका है। अब रिजल्ट आने में महज 24 घंटे बाकी हैं। उसके बाद क्लियर हो जाएगा कि बांकीपुर का ताज किसके सिर सजता है। लेकिन इस दौरान एक बात नोटिस करने वाली है। ऐसा सियासी जानकार मानते हैं। वो बात ये कि अब बीजेपी को टक्कर देने के लिए कोई सामने आया है। ऐसा क्यों, पढ़िए इस रिपोर्ट में।",
-                "image": "https://static.langimg.com/nbt/thumb/132796398/prashant-kishor-bankipur-by-election-results.jpg?imgsize=2286869&width=1600&height=900&resizemode=75",
-                "url": "https://navbharattimes.indiatimes.com/state/bihar/patna/prashant-kishor-completely-overhauled-political-strategy-bankipur-by-election-bjp-changing-strategies-upcoming-elections/articleshow/132796373.cms",
-                "source": "Navbharat Times",
-                "date": "2026-08-01T23:40:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "पेरू के नाज्का में टूरिस्ट प्लेन क्रैश, प्लेन में सवार सभी 13 लोगों की मौत",
-                "desc": "पेरू के नाज्का में पर्यटकों को ले जा रहा एक विमान क्रैश हो गया. इस प्लेन में सवार सभी 13 यात्रियों की मौके पर ही मौत हो गई. ये विमान नाज्का लाइंस की हवाई यात्रा के लिए उड़ान भर रहा था. प्रशासन मृतकों की पहचान करने और परिजनों से संपर्क करने में जुटा है.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202608/6a6ea6b9325c4-peru-plane-crash-020852189-16x9.png",
-                "url": "https://www.aajtak.in/world/story/peru-nazca-tourist-plane-crash-13-dead-rescue-dead-body-identification-nct-drmt-dskc-2613472-2026-08-02",
-                "source": "AajTak",
-                "date": "2026-08-01T23:29:55Z",
-                "priority": "CRITICAL_ALERT"
             }
         ],
         "business": [
+            {
+                "title": "क्या आप भी फोन को लैपटॉप से करते हैं चार्ज? एक छोटी सी गलती पड़ सकती है महंगी, ये है सही तरीका!",
+                "desc": "Phone Charging From Laptop: अगर आप भी अक्सर अपने मोबाइल को लैपटॉप से चार्ज करते हैं, तो ये खबर आपके काम की है. यह तरीका पूरी तरह गलत नहीं है, लेकिन कुछ छोटी गलतियां आपके फोन, डेटा और बैटरी की सुरक्षा पर असर डाल सकती हैं.",
+                "image": "https://images.cnbctv18.com/hindicnbctv18/2026/08/image-92-2026-08-74c2a9018ad02421ac77557270746916.jpg?im=FitAndFill,width=1200,height=675",
+                "url": "https://hindi.cnbctv18.com/photos/technology/phone-charging-from-laptop-safe-or-not-usb-charging-tips-data-security-battery-care-188395.htm",
+                "source": "CNBC TV18",
+                "date": "2026-08-02T09:17:57Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "100 रुपये की SIP से भी बन सकते हैं करोड़पति, जानें कितने साल में पूरा होगा सपना? बस एक शर्त",
+                "desc": "How To choose Best SIP: एसआईपी करने से पहले फंड्स की पड़ताल करना फायदेमंद रहता है। रोजाना 100 रुपये की एसआईपी के जरिए भी करोड़पति बना जा सकता है। , Share-market Hindi News - Hindustan",
+                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/08/02/1600x900/logo/Penny_Stock__1775215325185_1775215325408_1785662084842_67b233f7-dfb7-4424-9f48-c9a92a103d12.jpeg",
+                "url": "https://www.livehindustan.com/business/share-market/daily-100-rupee-sip-also-make-investors-crorepati-but-how-201785661864577.html",
+                "source": "Hindustan",
+                "date": "2026-08-02T09:17:52Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "EV Charging Station List: पढ़िए उन राज्यों की लिस्ट, जहां इलेक्ट्रिक कार लेना ज्यादा बेहतर क्योंकि यहां मिलेंगे सबसे ज्यादा चार्जिंग स्टेशन",
+                "desc": "EV Charging Station List: राष्ट्रीय राजधानी दिल्ली में 1,985 सार्वजनिक चार्जिंग स्टेशन हैं. वहीं मध्य प्रदेश (1,794), आंध्र प्रदेश (1,792), पश्चिम बंगाल (1,720) और पंजाब (1,505) में भी 1,500 से अधिक चार्जिंग स्टेशन स्थापित किए जा चुके हैं.",
+                "image": "https://images.cnbctv18.com/hindicnbctv18/2024/04/Electric-Car.jpg?im=FitAndFill,width=1200,height=675",
+                "url": "https://hindi.cnbctv18.com/auto/india-nears-50000-public-ev-charging-stations-maharashtra-and-karnataka-lead-the-way-state-wise-list-188388.htm",
+                "source": "CNBC TV18",
+                "date": "2026-08-02T09:04:29Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "5 लाख रुपये और 5 साल... फिर FD से होगी इतनी कमाई, समझें गणित",
+                "desc": "अगर आप एफडी में 5 लाख रुपये निवेश करते हैं तो आपको एक अच्‍छी रकम मिल सकती है. कैलकुलेशन के मुताबिक, सिर्फ ब्‍याज से आप 2 लाख रुपये से लेकर 3 लाख रुपये तक की कमाई कर सकते हैं. आइए समझते हैं विस्‍तार से...",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/photo_gallery/202608/6a6f07459f84b-bank-fd-return-020047960-16x9.jpg",
+                "url": "https://www.aajtak.in/business/utility/photo/five-lakhs-rupees-in-fixed-deposit-how-much-earning-fd-calculation-tutd-2613619-2026-08-02",
+                "source": "AajTak",
+                "date": "2026-08-02T09:02:32Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "3.50 लाख कीमत... 34KM माइलेज! छोटी कारों की डबल सेल",
+                "desc": "Maruti Car Sales: मारुति सुजुकी इंडिया ने जुलाई 2026 में कुल 2,41,421 वाहनों की बिक्री की. इसमें घरेलू बाजार में 2,00,123 यूनिट की रिकॉर्ड बिक्री हुई.",
+                "image": "https://cf-img-a-in.tosshub.com/sites/visualstory/wp/2026/06/cheapest-best-mileage-cars-2ITG-1782371034737.jpg?size=*:675",
+                "url": "https://www.aajtak.in/visualstories/auto/maruti-alto-and-s-presso-sales-double-in-july-2026-car-sales-report-auaw-284104-02-08-2026",
+                "source": "AajTak",
+                "date": "2026-08-02T08:38:43Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "बदल गया शेयर बाजार का समय, 3 अगस्त से अब इस समय होगा बंद",
+                "desc": "3 अगस्त से शेयर बाजार में बड़ा बदलाव लागू होगा. F&O शेयरों के लिए क्लोजिंग ऑक्शन सेशन शुरू होगा और डेरिवेटिव्स ट्रेडिंग 10 मिनट बढ़ेगी. इससे क्लोजिंग प्राइस तय करने का तरीका बदलेगा और F&O ट्रेडर्स को अतिरिक्त समय मिलेगा.",
+                "image": "https://images.money9live.com/wp-content/uploads/2026/08/FO.jpg?w=1280",
+                "url": "https://www.money9live.com/share-market/stock-market-timing-change-3-august-cas-fno-trading-rules-article-109706.html",
+                "source": "Money9live",
+                "date": "2026-08-02T08:24:32Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Stocks to Watch: 20 कंपनियों पर धड़ाधड़ आई बड़ी खबरें, कल शेयर बाजार खुलते ही मच सकती है इन स्टॉक्स में हलचल",
                 "desc": "Stocks to Watch: 3 अगस्त 2026 को शेयर बाजार के खुलते ही कुल 20 कंपनियों के स्टॉक्स में एक्शन देखने को मिल सकता है. निवेशकों की इन शेयरों पर नजर है. आप भी डिटेल में जान लें.",
@@ -1028,63 +1082,54 @@
                 "source": "Moneycontrol Hindi",
                 "date": "2026-08-01T06:32:15Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Gold Demand Falls: सस्ता होने के बाद भी क्यों गिर रही सोने की मांग? गोल्ड से क्या लोगों का मोह हो गया भंग, जानें 5 बड़े कारण",
-                "desc": "भारत में सोने की मांग अप्रैल-जून तिमाही में छह साल के निचले स्तर पर पहुंच गई। काफी लोगों ने अब सोने में निवेश करना भी छोड़ दिया है। इसका बड़ा कारण इसके रिटर्न में आई गिरावट है। पिछले 6 महीने में सोने की कीमत 25 फीसदी से ज्यादा गिर गई है।",
-                "image": "https://static.langimg.com/nbt/thumb/132783402/why-gold-demand-falling-6-year-low-know-5-big-reason-price-falls.jpg?imgsize=281151&width=1600&height=900&resizemode=75",
-                "url": "https://navbharattimes.indiatimes.com/business/business-dictionary/why-gold-demand-falling-6-year-low-know-5-big-reason-price-falls/articleshow/132783402.cms",
-                "source": "Navbharat Times",
-                "date": "2026-08-01T06:32:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Toyota का कमाल, E20 नहीं E100 पर भी चलेगी Fortuner",
-                "desc": "इन दिनों E20 पेट्रोल पर खूब शोर मचा हुआ है. 20 परसेंट इथेनॉल ब्लेंड वाले पेट्रोल को लेकर लोग परेशान हैं. खासकर वे लोग जिनकी कार पुरानी है.",
-                "image": "https://cf-img-a-in.tosshub.com/sites/visualstory/wp/2026/08/toyota-fortuner-RearITG-1785565521301.jpg?size=*:675",
-                "url": "https://www.aajtak.in/visualstories/auto/toyota-fortuner-flex-fuel-2026-showcased-indonesia-motor-show-auam-284065-01-08-2026",
-                "source": "AajTak",
-                "date": "2026-08-01T06:31:50Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "53% टूट चुके बजाज हाउसिंग फाइनेंस के शेयर, 181.50 रुपये से 86 रुपये पर आया स्टॉक, एक्सपर्ट ने दी अहम सलाह",
-                "desc": "अपने ऑल टाइम हाई से 53% टूटने के बाद फिर चर्चा में बजाज हाउसिंग फाइनेंस के शेयर । मजबूत जून तिमाही नतीजों के बावजूद ब्रोकरेज हाउस की राय अलग-अलग है। जानिए मौजूदा स्तर पर खरीदारी का मौका है या अभी इंतजार करना बेहतर रहेगा।",
-                "image": "https://static.langimg.com/ethindi/thumb/132782431/bajaj-housing-finance-share-price.jpg?imgsize=1589491&width=1600&height=900&resizemode=75",
-                "url": "https://hindi.economictimes.com/markets/share-bazaar/bajaj-housing-finance-share-falls-q1-results-brokerage-view/articleshow/132782416.cms",
-                "source": "The Economic Times Hindi",
-                "date": "2026-08-01T05:55:42Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "शेयर बाजार की ट्रेडिंग टाइमिंग में बड़ा बदलाव, निवेशकों के लिए जानना जरूरी",
-                "desc": "भारतीय शेयर बाजार में 3 अगस्त 2026 से एक बड़ा बदलाव लागू होने जा रहा है। इसके साथ ही फ्यूचर्स एंड ऑप्शंस सेगमेंट की ट्रेडिंग अवधि 10 मिनट बढ़ाकर शाम 3:40 बजे तक कर दी गई है।, Business Hindi News - Hindustan",
-                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/08/01/1600x900/logo/PTI02-01-2026-000274B-0_1771392549514_1771392561793_1785563276087_20d58b9b-c6c2-44fd-a3ff-94671db933ca.jpg",
-                "url": "https://www.livehindustan.com/business/stock-market-timings-change-from-monday-3-aug-investors-and-traders-need-to-know-detail-here-201785562883430.html",
-                "source": "Hindustan",
-                "date": "2026-08-01T05:48:41Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "देश की सबसे सस्ती 7-सीटर का विदेशों में बुरा हाल, 3 महीनों में मिले मात्र 1,608 खरीदार; 36% घट गई बिक्री",
-                "desc": "मारुति सुजुकी ईको (Maruti Suzuki Eeco) भारतीय मार्केट में खूब पसंद की जाती रही है। हालांकि, एक्सपोर्ट के लिहाज से देखें तो अप्रैल से जून 2026 के बीच इसके निर्यात में 35.37 पर्सेंट की गिरावट देखी गई।, Auto Hindi News - Hindustan",
-                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/08/01/1600x900/logo/maruti_ecoo_car__1738831634146_1785562783681_df2000a2-9728-4142-a353-e1034d54f24b.jpg",
-                "url": "https://www.livehindustan.com/auto/maruti-suzuki-eeco-exports-1608-units-between-april-june-q2-2026-201785562605980.html",
-                "source": "Hindustan",
-                "date": "2026-08-01T05:41:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "89,748 रुपये में आती है Honda SP125 STD, खरीदने से पहले जान लें क्या-क्या मिलता है",
-                "desc": "Honda SP125 का STD वेरिएंट उन लोगों के लिए बेहतर ऑप्शन है, जो कम कीमत में फ्यूल-एफिशिएंट और डेली यूज के लिए बाइक चाहते हैं. इसमें 123.94cc इंजन, 65kmpl तक का माइलेज, LED लाइटिंग, USB Type-C चार्जर जैसे फीचर्स मिलते हैं.",
-                "image": "https://wpmedia.prabhatkhabar.com/uploads/2026/08/01/1785561439866/sizes/honda-sp125-std-variant-b41ef0-hero.webp",
-                "url": "https://www.prabhatkhabar.com/automobile/honda-sp125-std-variant-price-features-and-engine-details",
-                "source": "Prabhat Khabar",
-                "date": "2026-08-01T05:20:36Z",
-                "priority": "STANDARD"
             }
         ],
         "entertainment": [
+            {
+                "title": "बिकिनी में बोल्ड हुई हसीना, दीवार पकड़कर टशन में दिए पोज, टोंड फिगर पर टिकी निगाहें",
+                "desc": "बंदगी ने बिकिनी में अपनी कुछ सुपर सिजलिंग तस्वीरें शेयर की हैं. प्रिंटेड ब्लू बिकिनी पहने वो अदाएं बिखेरती हुई दिखाई दे रही हैं.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/photo_gallery/202608/6a6f0a8ac7690-bandgee-kallra-bold-bikini-photos-021445343-16x9.jpg",
+                "url": "https://www.aajtak.in/entertainment/news/photo/bigg-boss-fame-bandgee-kallra-bold-bikini-photos-pose-with-swag-tmovf-2613617-2026-08-02",
+                "source": "AajTak",
+                "date": "2026-08-02T09:16:46Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Sholay के 'गब्बर सिंह' का था छोटा भाई, फिर भी नहीं बन पाया स्टार, फ्लॉप रहा था करियर",
+                "desc": "शोले फिल्म के डाकू गब्बर सिंह यानी अभिनेता अमजद खान के भाई सुपरस्टार बनने के लिए तरसते रहे थे।",
+                "image": "https://www.jagranimages.com/images/2026/08/02/article/image/amjad-khan-Imtiaz-Khan-1785661010144_m.webp",
+                "url": "https://www.jagran.com/entertainment/bollywood-sholay-gabbar-singh-amjad-khan-brother-imtiaz-khan-never-became-superstar-in-cinema-40327070.html",
+                "source": "Jagran",
+                "date": "2026-08-02T09:16:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "OTT Watch: हॉटस्टार पर ये सीरीज कर रही धमाल, 7.7 है IMDb रेटिंग",
+                "desc": "जियो हॉटस्टार पर पिछले कुछ दिनों से एक तमिल सीरीज टॉप 10 में कब्जा जमाए हुए है। इस सीरीज का नाम रिजॉर्ट है। आइए जानते हैं कैसी है ये सीरीज और कितनी है सीरीज की आईएमडीबी रेटिंग।, Web-series Hindi News - Hindustan",
+                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/08/02/1600x900/logo/hotstar_series_resort_1785661040122_1785661054475_9b66d606-cefa-43b0-bce3-6807685b1b29.png",
+                "url": "https://www.livehindustan.com/entertainment/web-series/hotstar-trending-series-resort-review-hindi-84-episodes-7-7-imdb-rating-201785657999492.html",
+                "source": "Hindustan",
+                "date": "2026-08-02T08:59:28Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "ग्लैमरस शूर्पणखा, घुंघराले बालों वाली सीता... इतने बदले-बदले क्यों हैं नई 'रामायण' के किरदार",
+                "desc": "रामानंद सागर की रामायण में अरुण गोविल ने भगवान राम की भूमिका निभाई थी. नितेश तिवारी की रामायण में रणबीर कपूर, राम बने हैं. दोनों का पहनावा और चेहरे की सौम्यता लगभग एक सी है.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/photo_gallery/202608/6a6efa0ce40da-ramayan-020423240-16x9.jpg",
+                "url": "https://www.aajtak.in/entertainment/television/photo/ramayana-yash-ravan-ranbir-kapoor-sai-pallavi-rakul-preet-singh-surpanakha-lara-dutta-kaikeyi-tmovb-2613587-2026-08-02",
+                "source": "AajTak",
+                "date": "2026-08-02T08:46:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "रामायण: 'दशरथ की दाढ़ी और हवनकुंड नकली', भारतीय यूजर ने लिखा, पाकिस्तानी बोले-राम से ज्यादा रावण प्रभावशाली, ये तो ट्रेलर है",
+                "desc": "Ramayana Trailer: नितेश तिवारी की रामायण का ट्रेलर रिलीज होने के साथ ही इसकी चर्चा भी शुरू हो गई है। इसे लेकर भारत के साथ-साथ पाकिस्तानी यू-ट्यूबर और कंटेंट क्रिएटर खूब रिएक्शन दे रहे हैं।",
+                "image": "https://static.langimg.com/nbt/thumb/132803291/ramayana-trailer.jpg?imgsize=841086&width=1600&height=900&resizemode=75",
+                "url": "https://navbharattimes.indiatimes.com/entertainment/news-from-bollywood/ramayana-trailer-indian-fans-disappointed-dasrath-fake-beard-vfx-havan-kund-while-pakistanis-praise-yash-ranbir-kapoor-sai-pallavi/articleshow/132803143.cms",
+                "source": "Navbharat Times",
+                "date": "2026-08-02T08:28:32Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "रवि किशन के गरीबी वाले डायलॉग पर भारी पड़ी घड़ियां, ढाई करोड़ से भी ज्यादा कीमत की घड़ी का वीडियो हो रहा वायरल",
                 "desc": "रवि किशन हर बार सोशल मीडिया पर सुर्खियां बटोरते हैं। गरीबी के स्ट्रगल वाले बयान को लेकर ट्रोलिंग का शिकार होने के बाद अब लोग उनकी महंगी घड़ियों के वीडियो वायरल हो रहे हैं, इसमे वो ढाई करोड़ से भी ज्यादा कीमत की घड़ी को पहने दिख रहे।, फैशन Hindustan",
@@ -1579,54 +1624,81 @@
                 "source": "AajTak",
                 "date": "2026-08-01T07:32:10Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Ramayana: कौन थे विद्युत्जिह्व? जिसका विवेक ओबेरॉय रामायण में निभा रहे हैं रोल",
-                "desc": "Ramayana: नितेश तिवारी की फिल्म रामायण का ट्रेलर रिलीज होते ही सुर्खियों में है. इस फिल्म में अभिनेता विवेक ओबेरॉय शूर्पणखा के पति विद्युत जीवा (विद्युत्जिह्व) की भूमिका में नजर आ रहे हैं. तो आइए जानते हैं कि कौन था विद्युत्जिह्व, जिसको लेकर इतनी चर्चा हो रही है.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a6c3b7b7b02b-ramayan-character-vidyutjiva-31064696-16x9.jpg",
-                "url": "https://www.aajtak.in/religion/news/story/who-is-vidyutjiva-whose-role-vivek-oberoi-is-playing-in-ramayana-movie-tvisg-dskc-2612392-2026-08-01",
-                "source": "AajTak",
-                "date": "2026-08-01T07:30:06Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "सीता के रोल में इन्हें लेना था..., 'रामायण' में साई पल्लवी पर भारी पड़ी ये एक्ट्रेस, निभा रही उनकी बहन का किरदार",
-                "desc": "'रामायण' का ट्रेलर के बीच फिल्म के बाकी किरदारों की पर भी चर्चाएं शुरू हो गई हैं। ऐसे में एक एक्ट्रेस ने तो हल्की सी झलक मात्र से लोगों का ध्यान खींच लिया।, Bollywood Hindi News - Hindustan",
-                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/08/01/1600x900/logo/sai_pallavi_as_mata_sita__1785568143770_1785568148408_09efcaf2-0eaf-4148-aee2-9a87984157f3.jpg",
-                "url": "https://www.livehindustan.com/entertainment/bollywood/who-is-surabhi-das-she-is-playing-sai-pallavi-aka-sita-sister-shrutakirti-in-ramayan-know-about-her-201785567146346.html",
-                "source": "Hindustan",
-                "date": "2026-08-01T07:15:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'गंदी नाली के कीड़े बन गए, मेरी चेतावनी है...', 'कॉकरोचों' पर भड़के शक्तिमान, बोले- इन्हें बाहर फेंको",
-                "desc": "कंगना रनौत के बाद मुकेश खन्ना ने कॉकरोच जनता पार्टी को फटकार लगाई है. एक्टर ने उन छात्रों को भी चेतावनी दी है, जिन्होंने विरोध प्रदर्शन में गलत भाषा का इस्तेमाल किया.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202608/6a6d94f4b0106-mukesh-khanna-182734784-16x9.jpg",
-                "url": "https://www.aajtak.in/entertainment/bollywood-news/story/mukesh-khanna-aka-shaktiman-warned-cjp-protest-students-abusing-pm-narendra-modi-said-throw-them-tmovf-dskc-2613094-2026-08-01",
-                "source": "AajTak",
-                "date": "2026-08-01T07:01:47Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'इतनी गरीबी कि 7 स्टार में खिचड़ी खाता हूं', रवि किशन की तंगहाली की बात सुन लोग बोले- ऐसी कंगाली सबको मिले",
-                "desc": "रवि किशन ने हाल ही एक इंटरव्यू में अपनी गरीबी के दिन याद किए और कंगाली की कहानी सुनाई। रवि किशन ने कहा कि गरीबी उनकी नस-नस में अभी भी इतनी भरी है कि 7 स्टार होटल में जाते हैं तो महंगा खाना ऑर्डर नहीं करते, बल्कि खिचड़ी ही खाते हैं। इस पर लोगों ने मजे लेने शुरू कर दिए और कहा कि हमें भी भगवान ऐसी ही गरीबी दे।",
-                "image": "https://static.langimg.com/nbt/thumb/132783663/ravi-kishan-on-poverty-7-star-khichdi.jpg?imgsize=277879&width=1600&height=900&resizemode=75",
-                "url": "https://navbharattimes.indiatimes.com/entertainment/bhojpuri-cinema/ravi-kishan-on-his-poverty-struggle-says-still-order-khichdi-at-7-star-hotels-netizens-say-bhagwan-aisi-gareebi-sabko-de/articleshow/132783271.cms",
-                "source": "Navbharat Times",
-                "date": "2026-08-01T06:49:07Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "पिता के निधन के दर्द में 'तारक मेहता का उल्टा चश्मा' के 'बाघा', पूरी नहीं कर पाए आखिरी इच्छा, हुए भावुक",
-                "desc": "'तारक मेहता का उल्टा चश्मा' के बाघा ने अपना दर्द बयां किया है. दरअसल, कुछ समय पहले उन्होंने अपने पिता को खो दिया. पिता के निधन से वो टूट गए हैं. अब उन्होंने पिता की आखिरी इच्छा बताई है, जो अधूरी रह गई है.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202608/6a6d68564625e-bagha-aka-tanmay-vekaria-01302046-16x9.jpg",
-                "url": "https://www.aajtak.in/entertainment/television/story/taarak-mehta-ka-ooltah-chashmah-bagha-aka-tanmay-vekaria-cried-father-death-last-wish-tmovf-dskc-2612946-2026-08-01",
-                "source": "AajTak",
-                "date": "2026-08-01T06:02:40Z",
-                "priority": "STANDARD"
             }
         ],
         "sports": [
+            {
+                "title": "युवराज सिंह के साथ ऐसा हो तो सख्ती से निपटो, हाईकोर्ट का पर्सनैलिटी राइट्स मामले में आदेश",
+                "desc": "दिल्ली हाईकोर्ट ने पूर्व दिग्गज ऑलराउंडर युवराज सिंह पर्सनैलिटी राइट्स मामले में अंतरिम आदेश पारित किया है। अदालत ने मेटा और अन्य ऑनलाइन मंचों को आपत्तिजनक सामग्री हटाने का निर्देश दिया।, Cricket Hindi News - Hindustan",
+                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/08/02/1600x900/logo/Yuvraj_Singh_Personality_Rights_1785663316323_1785663327769_29595168-34b3-485a-a85a-7b0e07b744ae.jpg",
+                "url": "https://www.livehindustan.com/cricket/yuvraj-singh-personality-rights-protects-by-delhi-high-court-needed-to-be-dealt-with-a-heavy-hand-201785661741173.html",
+                "source": "Hindustan",
+                "date": "2026-08-02T09:36:04Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "25 छक्के, 15 चौके और 233 रन... अभिषेक शर्मा ने बल्ले से उड़ाया गर्दा, विपक्षी गेंदबाज हुए बेबस",
+                "desc": "टीम इंडिया के सलामी बल्लेबाज अभिषेक शर्मा ने घरेलू क्रिकेट में ऐसा तूफान मचाया कि हर कोई हैरान रह गया. अमृतसर मेन सीनियर की ओर से खेलते हुए उन्होंने 91 गेंदों पर 233 रन बना दिए. इस दौरान अभिषेक ने चौके-छक्कों की बरसात कर डाली.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202608/6a6f0e3ee0ed8-abhishek-sharma-02303384-16x9.jpg",
+                "url": "https://www.aajtak.in/sports/cricket/story/abhishek-sharma-smashes-233-runs-with-25-sixes-district-one-day-match-team-india-opener-tspoa-dskc-2613627-2026-08-02",
+                "source": "AajTak",
+                "date": "2026-08-02T09:32:28Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "क्रिकेट को अलविदा कहने वाले अजिंक्य रहाणे पर BCCI मेहरबान, रिटायरमेंट के बाद हर महीने इतनी पेंशन मिलेगी",
+                "desc": "विदेशी मैदानों पर भारत के लिए एक सच्चे योद्धा की तरह खेलने वाले अजिंक्य रहाणे ने 30 जुलाई को अपने क्रिकेट करियर को अलविदा कह दिया।",
+                "image": "https://www.jagranimages.com/images/2026/08/02/article/image/ajinkya-rahane-(7)-1785661980118_m.webp",
+                "url": "https://www.jagran.com/cricket/headlines-ajinkya-rahane-retirement-bcci-pension-amount-per-month-40327084.html",
+                "source": "Jagran",
+                "date": "2026-08-02T09:17:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "टीम इंडिया से लगातार नजरअंदाज किए जाने पर भुवनेश्वर कुमार ने तोड़ी चुप्पी, बताया क्या है प्राथमिकता",
+                "desc": "तेज गेंदबाज भुवनेश्वर कुमार को लगातार भारतीय टीम से नजरअंदाज किया जा रहा है। इसे लेकर अब उन्होंने अपनी चुप्पी तोड़ी है।",
+                "image": "https://www.jagranimages.com/images/2026/08/02/article/image/Bhuvneshwar-Kumar--1785661370182_m.webp",
+                "url": "https://www.jagran.com/cricket/headlines-bhuvneshwar-kumar-comment-on-india-team-recall-rcb-podcast-40327075.html",
+                "source": "Jagran",
+                "date": "2026-08-02T09:09:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'बेटी घर में घुसने नहीं देती...', रवि शास्त्री भी निकले जूड बेलिंगहैम के जबरा फैन, स्टार फुटबॉलर से मिला स्पेशल गिफ्ट",
+                "desc": "भारतीय क्रिकेट टीम के पूर्व कोच रवि शास्त्री का इंग्लैंड में एक अलग अंदाज देखने को मिला. द हंड्रेड के मुकाबले के दौरान उन्होंने इंग्लिश फुटबॉल टीम और रियल मैड्रिड के स्टार जूड बेलिंगहैम का शानदार अंदाज में स्वागत किया. बेलिंगहैम ने हालिया फीफा वर्ल्ड कप में शानदार प्रदर्शन किया था.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202608/6a6f04df87275-ravi-shastri--jude-bellingham-02503439-16x9.jpg",
+                "url": "https://www.aajtak.in/sports/cricket/story/ravi-shastri-footballer-jude-bellingham-autograph-for-daughter-the-hundred-2026-tspoa-dskc-2613610-2026-08-02",
+                "source": "AajTak",
+                "date": "2026-08-02T08:58:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'उम्र नहीं, रन और फिटनेस देखो!' रोहित-विराट के वर्ल्ड कप खेलने के सपोर्ट में उतरा ये पाकिस्तानी दिग्गज",
+                "desc": "रोहित शर्मा 2007 और विराट कोहली 2008 से भारतीय वनडे टीम की रीढ़ बने हुए हैं. कोहली 2011 वर्ल्ड कप जीतने वाली टीम का हिस्सा थे, जबकि रोहित उस स्क्वॉड से चूक गए थे. 2023 वर्ल्ड कप फाइनल की हार का दर्द दोनों दिग्गजों के दिलों में आज भी ताजा है.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202608/6a6ef6545db07-rohit-sharma-and-virat-kohli-024830924-16x9.jpg",
+                "url": "https://www.aajtak.in/sports/cricket/story/pakistan-legend-backs-rohit-sharma-and-virat-kohli-for-odi-world-cup-2027-aksp-dskc-2613588-2026-08-02",
+                "source": "aajtak.in",
+                "date": "2026-08-02T08:46:44Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "India vs Pakistan: भारत-पाकिस्तान के बीच आज होगा महामुकाबला, जानिए कब, कहां और कैसे देखें LIVE",
+                "desc": "क्रिकेट प्रेमियों के लिए रविवार का दिन बेहद खास रहने वाला है। एशियन लीजेंड्स लीग 2026 में आज यानी 2 अगस्त को भारत और पाकिस्तान के बीच हाईवोल्टेज मुकाबला खेला जाएगा।",
+                "image": "https://static.langimg.com/nbt/thumb/132802711/ind-vs-pak.jpg?imgsize=163696&width=1600&height=900&resizemode=75",
+                "url": "https://navbharattimes.indiatimes.com/sports/cricket/cricket-news/india-vs-pakistan-legends-match-live-streaming-today-suresh-raina-shikhar-dhawan/articleshow/132802656.cms",
+                "source": "Navbharat Times",
+                "date": "2026-08-02T08:41:49Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "जसप्रीत बुमराह श्रीलंका टेस्ट सीरीज से हुए बाहर, टीम इंडिया को लगा 440 वोल्ट का झटका",
+                "desc": "स्टार पेसर जसप्रीत बुमराह श्रीलंका में टेस्ट सीरीज नहीं खेलेंगे। वह पूरी तरह फिट नहीं हो पाए हैं। भारत को श्रीलंका की सरजमीं पर दो मैचों की टेस्ट सीरीज खेलनी है। यह वर्ल्ड टेस्ट चैंपियनशिप का हिस्सा है।, Cricket Hindi News - Hindustan",
+                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/08/02/1600x900/logo/Jasprit_Bumrah_Ruled_out_of_Sri_Lanka_Test_Series_1785657298291_1785657306985_9026ebe7-4699-4e83-ae8e-4956268208c8.jpg",
+                "url": "https://www.livehindustan.com/cricket/jasprit-bumrah-ruled-out-of-sri-lanka-test-series-massive-setback-for-team-india-201785657059658.html",
+                "source": "Hindustan",
+                "date": "2026-08-02T08:07:53Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "टीम इंडिया को लगा तगड़ा झटका, जसप्रीत बुमराह श्रीलंका दौरे से बाहर, इस गेंदबाज की हो सकती है एंट्री",
                 "desc": "श्रीलंक दौरे से पहले टीम इंडिया की टेंशन बढ़ गई है. स्टार तेज गेंदबाज जसप्रीत बुमराह की फिटनेस को लेकर अच्छी खबर नहीं आई है. बुमराह बाएं घुटने में तकलीफ महसूस होने के कारण दो मैचों की टेस्ट सीरीज से बाहर हो गए हैं. बीसीसीआई की मेडिकल टीम बुमराह को लेकर कोई जोखिम लेने के मूड में नहीं है.",
@@ -2093,78 +2165,6 @@
                 "url": "https://www.livehindustan.com/career/cricketer-akash-deep-mukesh-kumar-dsp-salary-and-power-explained-201785578739762.html",
                 "source": "livehindustan.com",
                 "date": "2026-08-01T10:12:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "कॉमनवेल्थ गेम्स का सबसे भावुक पल! ब्रॉन्ज जीतते ही 100 साल के दादा के गले लगीं मेगन कीथ, VIDEO",
-                "desc": "कॉमनवेल्थ गेम्स 2026 में स्कॉटलैंड की मेगन कीथ ने 5000 मीटर में कांस्य पदक जीतने के बाद अपने 100 वर्षीय दादा को गले लगाकर भावुक कर दिया. यह पल सोशल मीडिया पर तेजी से वायरल हो गया.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202608/6a6db6526d932-megan-keith-01493535-16x9.jpg",
-                "url": "https://www.aajtak.in/sports/news/story/megan-keith-bronze-medal-grandfather-emotional-celebration-commonwealth-games-2026-tspok-dskc-2613222-2026-08-01",
-                "source": "AajTak",
-                "date": "2026-08-01T09:36:24Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "बेन स्टोक्स की होगी टेस्ट क्रिकेट में वापसी, खेलेंगे अगली एशेज सीरीज!",
-                "desc": "बेन स्टोक्स ने हाल ही में इंटरनेशनल क्रिकेट को अलविदा कह दिया था, लेकिन इंग्लैंड में उनकी वापसी को लेकर चर्चा तेज हो गई है।",
-                "image": "https://www.jagranimages.com/images/2026/08/01/article/image/Ben-Stokes-(3)-1785575465826_m.webp",
-                "url": "https://www.jagran.com/cricket/headlines-ben-stokes-possibility-to-return-test-cricket-rob-key-england-cricket-team-stephen-fleming-40326032.html",
-                "source": "jagran.com",
-                "date": "2026-08-01T09:20:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "श्रीलंका दौरे के लिए टीम इंडिया के शेड्यूल में फेरबदल, अब सिर्फ 3 दिन का होगा प्रैक्टिस मैच, साई सुदर्शन पर भी आया अपडेट",
-                "desc": "शुभमन गिल की अगुवाई वाली भारतीय टीम 4 अगस्त को कोलंबो के लिए रवाना होगी. तीन दिवसीय प्रैक्टिस मैच के बाद भारतीय टीम गॉल जाएगी, जहां टेस्ट सीरीज का पहला मुकाबला 15 अगस्त से खेला जाएगा. दूसरा टेस्ट मैच 23 अगस्त से कोलंबो के सिंहलीज स्पोर्ट्स क्लब में खेला जाना है.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202608/6a6db8a2a37d4-mohammed-siraj-l--captain-shubman-gill-c-and-jasprit-bumrah-01130156-16x9.jpg",
-                "url": "https://www.aajtak.in/sports/cricket/story/india-vs-sri-lanka-test-series-2026-warm-up-match-reduced-to-three-days-sai-sudharsan-tspoa-dskc-2613227-2026-08-01",
-                "source": "AajTak",
-                "date": "2026-08-01T09:19:26Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "मां की दुआ, पिता का भरोसा और हर्ष की मेहनत, दिल्ली के लाल ने भारत को दिलाया जूडो का पहला गोल्ड",
-                "desc": "कॉमनवेल्थ गेम्स में जूडो में गोल्ड मेडल जीतकर दिल्ली के द्वारका मोड़ निवासी हर्ष सिंह ने देश का नाम रोशन किया है। जिसके बाद उनके घर में जश्न का माहौल है।",
-                "image": "https://static.langimg.com/nbt/thumb/132785840/harsh-singh.jpg?imgsize=148615&width=1600&height=900&resizemode=75",
-                "url": "https://navbharattimes.indiatimes.com/sports/commonwealth-games/news/harsh-singh-wins-india-first-judo-gold-commonwealth-games-2026-celebration-in-delhi/articleshow/132785732.cms",
-                "source": "Navbharat Times",
-                "date": "2026-08-01T09:05:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'वेस्टइंडीज के लिए खेलता हूं, डैरेन सैमी के लिए नहीं...', स्टार गेंदबाज ने अपनी टीम के कोच पर साधा निशाना",
-                "desc": "वेस्टइंडीज के तेज गेंदबाज अल्जारी जोसेफ ने पाकिस्तान टेस्ट सीरीज से बाहर रहने को लेकर कोच डैरेन सैमी के बयान पर तीखा पलटवार किया है. जोसेफ ने कहा कि उनका फैसला फिटनेस और वर्कलोड मैनेजमेंट से जुड़ा था, लेकिन इसे गलत तरीके से पेश किया गया है.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202608/6a6daaca5a792-alzarri-joseph-011356507-16x9.jpeg",
-                "url": "https://www.aajtak.in/sports/cricket/story/alzarri-joseph-slams-daren-sammy-over-west-indies-test-series-comments-tspoa-dskc-2613187-2026-08-01",
-                "source": "aajtak.in",
-                "date": "2026-08-01T08:40:11Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "संकट की घड़ी में एमएस धोनी की शरण में पहुंचे ऋषभ पंत, रांची में की माही से मतवाली मुलाकात",
-                "desc": "भारतीय टेस्ट टीम का हिस्सा ऋषभ पंत ने श्रीलंका दौरे के लिए तैयारी शुरू कर दी है और इसके लिए वह एमएस धोनी के पास रांची पहुंचे हैं।",
-                "image": "https://www.jagranimages.com/images/2026/08/01/article/image/MS-Dhoni-and-Rishabh-Pant-1785571788901_m.webp",
-                "url": "https://www.jagran.com/cricket/headlines-rishabh-pant-start-training-of-sri-lanka-test-series-with-ms-dhoni-40325969.html",
-                "source": "Jagran",
-                "date": "2026-08-01T08:23:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "वर्ल्ड कप 2027 से पहले इस क्रिकेटर का चौंकाने वाला फैसला... टीम की कप्तानी छोड़ी, ऑलराउंडर बास डी लीडे को कमान",
-                "desc": "वर्ल्ड कप में साउथ अफ्रीका और बांग्लादेश जैसी टीमों को हराकर सुर्खियां बटोरने वाले डच कप्तान स्कॉट एडवर्ड्स ने कप्तानी छोड़ दी है. करीब तीन साल तक टीम का नेतृत्व करने वाले स्कॉट एडवर्ड्स ने कहा कि अब वह बिना दबाव के बतौर प्लेयर टीम के लिए ज्यादा योगदान देना चाहते हैं.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202608/6a6da8d0648a5-scott-edwards-010530847-16x9.jpg",
-                "url": "https://www.aajtak.in/sports/cricket/story/scott-edwards-steps-down-netherlands-captain-bas-de-leede-odi-cricket-world-cup-2027-tspoa-dskc-2613189-2026-08-01",
-                "source": "AajTak",
-                "date": "2026-08-01T08:20:41Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Watch: भारतीय क्रिकेटर ने पाकिस्तानी खिलाड़ी को लगाया गले, वीडियो पर मचा बवाल",
-                "desc": "Jemimah Rodrigues Handshake Fatima Sana Video: भारतीय क्रिकेटर जेमिमा रोड्रीग्स ने द हंड्रेड लीग में पाकिस्तानी खिलाड़ी के साथ हाथ मिलाया और उसे गले भी लगाया.",
-                "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/08/01/253206a10d1473f9cedacf1e2cff2a1c1785572156638975_original.jpg?impolicy=abp_cdn&imwidth=1200",
-                "url": "https://www.abplive.com/sports/cricket/jemimah-rodrigues-hugs-handshake-fatima-sana-video-viral-india-pakistan-no-handshake-policy-3168868",
-                "source": "ABP News",
-                "date": "2026-08-01T08:18:39Z",
                 "priority": "STANDARD"
             }
         ]
@@ -4339,5 +4339,5 @@
             }
         ]
     },
-    "lastGlobalSync": "2026-08-02T20:07:38.329516Z"
+    "lastGlobalSync": "2026-08-02T21:45:14.909975Z"
 }
