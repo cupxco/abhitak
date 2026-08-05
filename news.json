@@ -2,6 +2,96 @@
     "hi": {
         "general": [
             {
+                "title": "ममता बनर्जी की TMC का बागी सांसदों पर चौंकाने वाला बयान, '7 से 8 सांसद...'",
+                "desc": "टीएमसी छोड़कर एनसीपीआई में गए बागी सांसदों का क्या मूड बदल रहा है? बागी सांसद अबू ताहेर खान के बयान के बाद अब टीएमसी नेता कीर्ति आजाद ने बड़ा दावा किया है.",
+                "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/08/05/73bb16a421af736617a6526136e2c7d817859242771691368_original.png?impolicy=abp_cdn&imwidth=1200",
+                "url": "https://www.abplive.com/news/india/mamata-banerjee-tmc-on-rebel-mps-speculation-to-return-in-trinamool-congress-kirti-azad-statement-3170890",
+                "source": "ABP News",
+                "date": "2026-08-05T10:09:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "पाकिस्तान ने भारत की तरफ मोड़ दिए चीन से लाए 250 तोपों के मुंह, डिफेंस एक्सपर्ट बोले-PLA की लैब बनी मुनीर फौज, टू-फ्रंट वॉर की तैयारी",
+                "desc": "India vs Pakistan: पाकिस्तान ने भारत की सीमा पर तैनात करीब 250 चीन से लाई गई तोपों की तैनाती की है। डिफेंस एनालिस्ट ने ये भारत के लिए बड़ा खतरा बताया है। उनका कहना है कि पाकिस्तान की ये तैनाती युद्ध की तैयारियों का बड़ा हिस्सा है, जो चीन के साथ मिलकर की जा रही है।",
+                "image": "https://static.langimg.com/nbt/thumb/132912842/comp-68-0000000.jpg?imgsize=661733&width=1600&height=900&resizemode=75",
+                "url": "https://navbharattimes.indiatimes.com/india/pakistan-deploys-chinese-250-sh-15-artillery-guns-near-india-border-as-defence-analyst-js-sodhi-said-preparation-for-a-two-front-war/articleshow/132911523.cms",
+                "source": "Navbharat Times",
+                "date": "2026-08-05T09:52:44Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "ई20 पेट्रोल से जुड़े किस मामले पर नितिन गडकरी के पक्ष में बॉम्बे हाई कोर्ट ने सुनाया फ़ैसला",
+                "desc": "केंद्रीय मंत्री नितिन गडकरी ने केंद्र सरकार के ई20 इथेनॉल-ब्लेंडिंग प्रोग्राम से जुड़े सोशल मीडिया पर मानहानिकारक और डीपफ़ेक कंटेंट को हटाने की मांग की थी.",
+                "image": "https://ichef.bbci.co.uk/news/1200/branded_hindi/cb97/live/219e8d90-90b7-11f1-b8f3-bf6a2c059a9b.jpg",
+                "url": "https://www.bbc.com/hindi/articles/c2dkzlkyd8po",
+                "source": "BBC",
+                "date": "2026-08-05T09:51:50Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "राज्य न्यायिक अधिकारियों की रिटायरमेंट आयु बढ़ाने का वित्तीय बोझ का बहाना नहीं बना सकते: सुप्रीम कोर्ट",
+                "desc": "सुप्रीम कोर्ट ने बुधवार को कहा कि राज्य सरकारें न्यायिक अधिकारियों की रिटायरमेंट आयु 60 वर्ष से बढ़ाकर 62 वर्ष करने का विरोध केवल अतिरिक्त वित्तीय बोझ या सरकारी कर्मचारियों की रिटायरमेंट आयु अलग होने...",
+                "image": "https://hindi.livelaw.in/h-upload/2026/07/17/687511-750x450675947-supreme-court-of-india-03-1.jpg",
+                "url": "https://hindi.livelaw.in/category/news-updates/cji-surya-kant-justice-joymalya-bagchi-justice-v-mohana-544434",
+                "source": "Live Law Hindi",
+                "date": "2026-08-05T09:46:10Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "अंतरिक्ष में तैर रहे स्पेस-एक्स रॉकेट का एक टुकड़ा आज चंद्रमा से टकराया, 4 हजार किलो है वजन",
+                "desc": "अंतरिक्ष में आज एक ऐसी हलचल हुई है, जिसकी चर्चा हर तरफ हो रही है। अंतरिक्ष में तैर रहे स्पेस-एक्स रॉकेट का एक टुकड़ा आज चंद्रमा से टकरा गया है।",
+                "image": "https://resize.indiatv.in/resize/newbucket/1200_-/2026/08/chand-1785924457.jpg",
+                "url": "https://www.indiatv.in/world/around-the-world/an-out-of-control-spacex-rocket-will-crash-into-moon-today-explosion-and-kick-up-dust-2026-08-05-1235473",
+                "source": "India TV Hindi",
+                "date": "2026-08-05T09:36:16Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "नीतीश के हटने से BJP हारी? अनंत सिंह के बयान पर JDU का रिएक्शन आया",
+                "desc": "Bankipur By-Election Result: जेडीयू कोटे के मंत्री दामोदर रावत ने कहा कि अनंत सिंह अपने मन की बात करते हैं. उनका बयान उनकी निजी राय है.",
+                "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/08/05/c05522249c0e15bcd1ce111476ab8c831785921768346169_original.jpg?impolicy=abp_cdn&imwidth=1200",
+                "url": "https://www.abplive.com/states/bihar/bjp-lose-bankipur-due-to-nitish-kumar-jdu-reacts-on-anant-singh-statement-ann-3170853",
+                "source": "abplive.com",
+                "date": "2026-08-05T09:32:13Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "UAE से भारत लाई गई रेड कॉर्नर नोटिस की आरोपी विशाखा राठौड़, करोड़ों की ठगी के मामले में गिरफ्तार",
+                "desc": "सीबीआई ने विदेश मंत्रालय और गृह मंत्रालय के सहयोग से बड़ी कामयाबी हासिल की है, जिसके चलते UAE से रेड कॉर्नर नोटिस की आरोपी विशाखा राठौड़ को भारत डिपोर्ट कराया गया है. निवेशकों से करोड़ों की ठगी और फर्जी निवेश योजनाओं के मामले में उसे गिरफ्तार कर लिया गया. पढ़ें पूरी कहानी.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202608/6a73002f469d1-vishakha-rathod-deportation-051936872-16x9.jpg",
+                "url": "https://www.aajtak.in/crime/news/story/cbi-brings-vishakha-rathod-from-uae-red-corner-notice-financial-fraud-pvzs-rpti-2615893-2026-08-05",
+                "source": "Aaj Tak News",
+                "date": "2026-08-05T09:27:09Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "सीजफायर मांग रहा था पाकिस्तान, भारत ने कराया इंतजार... ऑपरेशन सिंदूर पर नया खुलासा",
+                "desc": "रिटायर्ड CDS जनरल अनिल चौहान ने बताया कि ऑपरेशन सिंदूर के दौरान 10 मई 2025 को पाकिस्तान ने सुबह युद्धविराम मांगा, लेकिन भारत ने जानबूझकर दोपहर तक इंतजार कराया क्योंकि कार्रवाई बाकी थी. लक्ष्य निर्णायक जीत हासिल करना था.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202608/6a72ffad4adfe-pakistan-wants-ceasefire-operation-sindoor-051727315-16x9.jpg",
+                "url": "https://www.aajtak.in/defence-news/story/pakistan-wants-ceasefire-operation-sindoor-cds-anil-chauhan-dskc-2615889-2026-08-05",
+                "source": "Aaj Tak News",
+                "date": "2026-08-05T09:26:05Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "होर्मुज बंद फिर भी अरामको को बंपर मुनाफा, सऊदी को ये टैक्टिक्स आया काम",
+                "desc": "होर्मुज जलडमरूमध्य में सप्लाई संकट और ईरान जंग के बीच सऊदी अरामको ने दूसरी तिमाही में मजबूत प्रदर्शन किया है. कंपनी की एडजस्टेड नेट इनकम सालाना आधार पर 33% बढ़कर 33.4 अरब डॉलर पहुंच गई. ईस्ट-वेस्ट पाइपलाइन ने होर्मुज की दिक्कत के बीच तेल निर्यात जारी रखने में अहम भूमिका निभाई.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202608/6a72ff04d62ba-saudi-aramco-051439428-16x9.jpg",
+                "url": "https://www.aajtak.in/world/story/saudi-aramco-profit-amid-hormuz-crisis-and-iran-war-ntc-mnrd-smsr-dskc-2615880-2026-08-05",
+                "source": "Aaj Tak News",
+                "date": "2026-08-05T09:18:23Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "आखिर किसने वैभव सूर्यवंशी को डेब्यू के लिए तरसाया? दिग्गज खिलाड़ी का बड़ा दावा, टीम मैनेजमेंट पर उठाए सवाल!",
+                "desc": "जिम्बाब्वे सीरीज में प्लेयर ऑफ द सीरीज का खिताब जीतने वाले वैभव सूर्यवंशी को लेकर पूर्व भारतीय क्रिकेटर मोहम्मद कैफ ने कुछ जरूरी बातों का जिक्र किया है. कैफ ने सवाल उठाया कि आखिर क्यों वैभव को इंटरनेशनल क्रिकेट में इतनी देर से डेब्यू करने का मौका दिया गया.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202608/6a72fb0c41940-vaibhav-sooryavanshi-055742551-16x9.jpg",
+                "url": "https://www.aajtak.in/sports/cricket/story/team-india-grilled-over-vaibhav-sooryavanshi-delayed-debut-mohammad-kaif-angry-reaction-aksp-dskc-2615872-2026-08-05",
+                "source": "Aaj Tak News",
+                "date": "2026-08-05T09:16:05Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "जम्मू-कश्मीर से अनुच्छेद 370 खत्म हो गया, लेकिन PM मोदी-शाह ने क्यों इस कानून को छुआ तक नहीं!",
                 "desc": "कश्मीर के लोकजीवन में यह किस्सा आज भी उतना ही जीवंत है. जितना हर पतझड़ में लाल हो उठने वाला चिनार का पेड़. वही चिनार जो सदियों से कश्मीर को शीतलता दे रहा है और जिसकी छांव सदियों से प्रकृति प्रेमियों कवियों, सूफ़ियों-संतों और कलाकारों का रोमांटिक एड्रेस रहा है.",
                 "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202608/6a72f9a93b37a-sri-nagar-news-05514738-16x9.jpg",
@@ -450,99 +540,99 @@
                 "source": "Aaj Tak News",
                 "date": "2026-08-04T17:56:42Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "लाल सागर में भारतीय जहाज पर हमला, बचाए गए सभी नाविक; भारत ने जताया विरोध",
-                "desc": "यमन के पास लाल सागर में एक भारतीय जहाज पर हमला हुआ है। यह हमला इतना खतरनाक था कि जहाज समुद्र में डूब गया। हालांकि राहत की बात यह है कि इस पर सवार सभी नाविकों को सुरक्षित बचा लिया गया है।, India News in Hindi - Hindustan",
-                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/08/04/1600x900/logo/Ship_Attack_1785873194406_1785873202384_51320a70-7b2d-4165-8873-aa690cb86115.jpg",
-                "url": "https://www.livehindustan.com/national/indian-ship-attacked-in-red-sea-india-slams-all-crew-members-rescued-201785864746565.html",
-                "source": "Hindustan",
-                "date": "2026-08-04T17:34:57Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "हूती विद्रोहियों का अटैक, यमन तट के पास लाल सागर में डूबा भारतीय जहाज",
-                "desc": "यमन के समुद्री इलाके में मंगलवार को एक भारतीय जहाज पर प्रोजेक्टाइल से हमला हुआ. इससे वह पलटकर डूब गया. यमन के कोस्ट गार्ट ने सभी 13 भारतीय नाविकों को सुरक्षित बचा लिया है.",
-                "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/08/04/a2589aa5b609c0493926ec6a449b637917858654042161324_original.jpg?impolicy=abp_cdn&imwidth=1200",
-                "url": "https://www.abplive.com/news/houthi-rebel-attack-indian-ship-sinks-red-sea-off-the-coast-of-yemen-3170548",
-                "source": "ABP News",
-                "date": "2026-08-04T17:12:49Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Udhayanidhi Stalin: मुझे आतंकवादी की तरह घसीटकर ले गए, रिहाई के बाद उदयनिधि स्टालिन का बड़ा बयान, तमिलनाडु पुलिस को घेरा",
-                "desc": "तमिलनाडु विधानसभा में नेता प्रतिपक्ष उदयनिधि स्टालिन को मंगलवार को पुलिस पूछताछ के बाद स्टेशन से ही रिहा कर दिया गया। रिहाई के बाद उदयनिधि स्टालिन ने त्रिची में पत्रकारों से बात करते हुए कहा कि पुलिस ने उन्हें घसीटा और उनके साथ किसी आतंकवादी जैसा बर्ताव किया।",
-                "image": "https://static.langimg.com/nbt/thumb/132867337/udhayanidhi-stalin-2.jpg?imgsize=101821&width=1600&height=900&resizemode=75",
-                "url": "https://navbharattimes.indiatimes.com/state/tamil-nadu/chennai/udhayanidhi-stalin-slams-tamil-nadu-cm-thalapathy-vijay-govt-treated-me-like-a-terrorist-during-investigation/articleshow/132867337.cms",
-                "source": "Navbharat Times",
-                "date": "2026-08-04T16:52:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Stocks to Watch: 5 अगस्त को फोकस में रहेंगे ये 19 स्टॉक्स, दिख सकती है बड़ी हलचल",
-                "desc": "Stocks to Watch: बुधवार, 5 अगस्त को कई बड़े शेयरों में हलचल दिख सकती है। इसकी वजह कंपनियों के तिमाही नतीजे और उनसे जुड़े अहम अपडेट हैं। आइए जानते हैं कि कौन से 19 स्टॉक्स निवेशकों और ट्रेडर्स के रडार पर रहेंगे। - stocks to watch on 5 august hdfc bank airtel ongc lic nykaa marico bse and other likely to remain in focus",
-                "image": "https://images.moneycontrol.com/static-hindinews/2026/08/Stocks-to-Watch-1.jpg",
-                "url": "https://hindi.moneycontrol.com/news/markets/stocks-to-watch-on-5-august-hdfc-bank-airtel-ongc-lic-nykaa-marico-bse-and-other-likely-to-remain-in-focus-2426797.html",
-                "source": "Moneycontrol Hindi",
-                "date": "2026-08-04T16:50:55Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "अब भारत के नजदीक सेना उतारने की तैयारी में ट्रंप! चीन के करीब ऐसी हिमाकत क्यों? क्या प्लान",
-                "desc": "माना जाता है कि अमेरिका ने बांग्लादेश को एफ/ए-18 सुपर हॉर्नेट लड़ाकू विमान और एएच-64ई अपाचे आक्रमण हेलीकॉप्टर, साथ ही लॉकहीड निर्मित टीपीवाई-4 भूमि-आधारित वायु रक्षा रडार और NASAMS वायु रक्षा मिसाइल देने का प्रस्ताव दिया है।, International Hindi News - Hindustan",
-                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/08/04/1600x900/logo/Trump_Jinping_1748615040376_1785861279137_42e2dc64-f011-4d35-9611-2279e043229b.jpg",
-                "url": "https://www.livehindustan.com/international/now-us-will-soon-launch-military-in-bay-of-bengal-plan-to-harm-china-loom-to-bangladesh-and-india-201785860683601.html",
-                "source": "Hindustan",
-                "date": "2026-08-04T16:40:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "बिना इंश्योरेंस के अब नहीं मिलेगा पेट्रोल-डीजल? जानें सुप्रीम कोर्ट ने IRDAI को दिए क्या निर्देश",
-                "desc": "जल्द ऐसा हो सकता है कि अगर आपकी गाड़ी का इंश्योरेंस नहीं है तो आपको पेट्रोल पंप पर पेट्रोल या डीजल न मिले। ऐसा इसलिए क्योंकि सुप्रीम कोर्ट ने IRDAI के साथ-साथ सड़क परिवहन और राजमार्ग मंत्रालय को निर्देश दिया है कि वह ऐसा फ्रेमवर्क तैयार करें, जिससे इंश्योरेंस और फ्यूल भरवाने की प्रक्रिया को लिंक किया जा सके।",
-                "image": "https://static.langimg.com/nbt/thumb/132867259/petrol-deasel-new-rules-of-supreme-court.jpg?imgsize=1830733&width=1600&height=900&resizemode=75",
-                "url": "https://navbharattimes.indiatimes.com/india/no-insurance-no-fuel-supreme-court-asks-irdai-road-transport-ministry-to-develop-pilot-linking-petrol-pumps/articleshow/132867134.cms",
-                "source": "Navbharat Times",
-                "date": "2026-08-04T16:39:48Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "लाल सागर में भारतीय जहाज पर हमला, यमन के नजदीक डूबा 'फैज नूरे औलिया', 14 नाविक बचाए गए",
-                "desc": "लाल सागर में यमन के नजदीक एक भारतीय कार्गो जहाज पर ड्रोन बोट से हमला किया गया है। इस हमले के कारण फैज नूरे औलिया जहाज डूब गया है। यमन की सरकारी सेना ने बताया है कि उसने जहाज पर सवार 14 क्रू सदस्यों का रेस्क्यू किया है, जिनमें से 13 भारतीय और एक यमनी है।",
-                "image": "https://static.langimg.com/nbt/thumb/132867041/cargo-vessel-sink.jpg?imgsize=170330&width=1600&height=900&resizemode=75",
-                "url": "https://navbharattimes.indiatimes.com/world/uae/indian-vessel-sinks-after-red-sea-attack-off-yemen-14-crew-rescued/articleshow/132867041.cms",
-                "source": "Navbharat Times",
-                "date": "2026-08-04T16:34:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "प्रदीप रावत की वजह से आमिर खान को मिली गजनी, डायरेक्टर से हुई थी सिफारिश",
-                "desc": "आमिर खान की फिल्म गजनी सुपरहिट हुई थी. इसके विलेन की भी तब बड़ी चर्चा हुई थी, जिसे एक्टर प्रदीप रावत ने प्ले किया था. लेकिन क्या आप जानते हैं कि अगर प्रदीप रावत ना होते, तो शायद आमिर की जगह गजनी में सलमान खान होते. आखिर हमने ऐसा क्यों कहा? आइए, आपको बताते हैं...",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202608/6a7211f493aae-aamir-khan--pradeep-rawat-04231157-16x9.jpg",
-                "url": "https://www.aajtak.in/entertainment/bollywood-news/story/actor-pradeep-rawat-dies-blood-cancer-how-aamir-khan-got-ghajini-ar-murugados-movie-tmovj-dskc-2615499-2026-08-04",
-                "source": "Aaj Tak News",
-                "date": "2026-08-04T16:32:16Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "देवेंद्रनाथ महतो: झारखंड में आमरण अनशन पर बैठे स्टूडेंट लीडर कौन हैं और क्या हैं उनकी मांगे",
-                "desc": "झारखंड की राजधानी रांची में कथित पेपर लीक के विरोध में आंदोलन तेज़ हो गया है और देवेंद्रनाथ महतो आमरण अनशन पर बैठ गए हैं.",
-                "image": "https://ichef.bbci.co.uk/news/1200/branded_hindi/203c/live/164ec3b0-8fd6-11f1-a999-eb18d79411a9.jpg",
-                "url": "https://www.bbc.com/hindi/articles/c5y6ll311rdo",
-                "source": "BBC",
-                "date": "2026-08-04T16:26:43Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Pradeep Rawat Death: 'गजनी' के विलन प्रदीप रावत की मौत, 74 की उम्र में ब्‍लड कैंसर ने ली जान",
-                "desc": "'लगान' और 'गजनी'फिल्मों में नजर आ चुके एक्टर प्रदीप रावत अब इस दुनिया में नहीं रहे। बी.आर. चोपड़ा के मशहूर धारावाहिक 'महाभारत में अश्वत्थामा का किरदार निभाकर लोगों का दिल जीतने वाले प्रदीप रावत लंबे समय से कैंसर से जूझ रहे थे। 'गजनी' ने उन्हें मशहूर विलन की लिस्ट में जोड़ दिया।",
-                "image": "https://static.langimg.com/nbt/thumb/132866883/pradeep-rawat-passes-away.jpg?imgsize=130473&width=1600&height=900&resizemode=75",
-                "url": "https://navbharattimes.indiatimes.com/entertainment/news-from-bollywood/veteran-ghajini-and-lagaan-actor-pradeep-rawat-passes-away-at-74-after-battle-with-blood-cancer/articleshow/132866883.cms",
-                "source": "Navbharat Times",
-                "date": "2026-08-04T16:18:48Z",
-                "priority": "STANDARD"
             }
         ],
         "business": [
+            {
+                "title": "Q1 Results: बाजार बंद होने से पहले इन 3 कंपनियों ने जारी किए जून तिमाही नतीजे, तीनों के मुनाफे में जबरदस्त गिरावट, कमाई में गिरी",
+                "desc": "Q1 Results: Gateway Distriparks के नतीजे कमजोर रहे, जहां मुनाफा, EBITDA और मार्जिन तीनों में हल्की गिरावट दर्ज की गई. वहीं Monte Carlo के लिए यह तिमाही चुनौतीपूर्ण रही, क्योंकि बिक्री बढ़ने के बावजूद घाटा और ऑपरेटिंग नुकसान दोनों बढ़ गए हैं.",
+                "image": "https://images.cnbctv18.com/hindicnbctv18/2026/05/1778564361_G1CoFVUusH-Stock-market-down-image-3jpg-pcxLqGfo5V.jpg?im=FitAndFill,width=1200,height=675",
+                "url": "https://hindi.cnbctv18.com/share-market/q1-results-loss-making-company-kirloskar-ferrous-gateway-distriparks-monte-carlo-profit-widen-and-down-details-in-hindi-188988.htm",
+                "source": "CNBC TV18",
+                "date": "2026-08-05T10:10:57Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "सेविंग्स अकाउंट बैलेंस पर 7% तक का ब्याज, यह बैंक अपने ग्राहकों काे करा रहा बंपर मुनाफा",
+                "desc": "Savings Account Interest Rate: बैंक ने सेविंग्स अकाउंट पर ब्याज दर को बढ़ाकर 7% कर दिया है और फिक्स्ड डिपॉजिट (FD) पर भी इंटरेस्ट रेट को बढ़ाकर 8% कर दिया है. इससे ग्राहकों को खूब मुनाफा होगा.",
+                "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/08/05/90b91328ad9b280b30ba0abc439c303917859207106811379_original.jpg?impolicy=abp_cdn&imwidth=1200",
+                "url": "https://www.abplive.com/business/unity-small-finance-bank-savings-account-interest-rate-up-to-7-percent-came-into-effect-on-august-1-2026-3170840",
+                "source": "ABP News",
+                "date": "2026-08-05T09:54:51Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "NPS Investment: NPS में पेंशन फंड मैनेजर कब बदलना चाहिए? इन 5 बातों को देखकर फैसला करें",
+                "desc": "NPS Investment: नेशनल पेंशन सिस्टम NPS में पेंशन फंड मैनेजर बदलने का फैसला जल्दबाजी में नहीं लेना चाहिए। जानिए किन 5 बातों पर गौर करके सही फैसला लिया जा सकता है। - nps investment when should you change your pension fund manager 5 things every investor should check before switching",
+                "image": "https://images.moneycontrol.com/static-hindinews/2026/08/NPS-Fund-Manager.jpg",
+                "url": "https://hindi.moneycontrol.com/news/your-money/nps-investment-when-should-you-change-your-pension-fund-manager-5-things-every-investor-should-check-before-switching-2427196.html",
+                "source": "hindi.moneycontrol.com",
+                "date": "2026-08-05T09:34:58Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "SC का एक फैसला और पलट गई वोडाफोन आइडिया की किस्मत, घाटे से सीधा ₹34552 करोड़ का भारी मुनाफा; अब उड़ेंगे शेयर?",
+                "desc": "वोडाफोन आइडिया ने वित्त वर्ष 2025-26 में ₹34,552 करोड़ का शुद्ध लाभ दर्ज किया है, जो पिछले वर्ष के भारी घाटे के बाद एक महत्वपूर्ण बदलाव है।",
+                "image": "https://www.jagranimages.com/images/2026/08/05/article/image/Vodafone-Idea-1785922069883_m.webp",
+                "url": "https://www.jagran.com/business/share-market-vodafone-idea-releases-annual-report-posts-rs34552-cr-profit-in-fy26-after-agr-relief-40330336.html",
+                "source": "Jagran",
+                "date": "2026-08-05T09:31:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "दिल्ली में EV का सुपरचार्ज! 3 महीने में बिकी करीब 30 हजार इलेक्ट्रिक गाड़ियां",
+                "desc": "Electric Vehicle Sales: दिल्ली में हाल ही में नई इलेक्ट्रिक व्हीकल पॉलिसी (EV Policy) लागू हुई है. जिसके बाद इलेक्ट्रिक वाहनों की बिक्री में तगड़ी रफ्तार देखने को मिली है. ताजा आंकड़ों के अनुसार पिछले 3 महीनों में करीब 30,000 इलेक्ट्रिक वाहनों की बिक्री हुई है.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202608/6a72fd97efad8-delhi-electric-vehicle-sales-050833928-16x9.jpg",
+                "url": "https://www.aajtak.in/auto/news/story/delhi-electric-vehicle-sales-around-30000-ev-sold-in-three-months-auaw-dskc-2615883-2026-08-05",
+                "source": "Aaj Tak News",
+                "date": "2026-08-05T09:16:33Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Apple ने भारत में ₹87 हजार करोड़ से ज्यादा की बिक्री कर रचा इतिहास, iPhone का बढ़ा क्रेज",
+                "desc": "ऐपल ने भारत में रिकॉर्ड तोड़ कमाई की है. दरअसल FY 2026 में ऐपल ने भारत में रिकॉर्ड 10 बिलियन डॉलर का बिजनेस किया है. ये सिर्फ आईफोन से नहीं, बल्कि ऐपल के सभी प्रोडक्ट्स मिल कर है.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202608/6a72fdd27aef3-iphone-18-pro-0235142-16x9.png",
+                "url": "https://www.aajtak.in/technology/tech-news/story/apple-india-87000-crore-sales-record-iphone-demand-tim-cook-india-ttecm-dskc-2615875-2026-08-05",
+                "source": "Aaj Tak News",
+                "date": "2026-08-05T09:12:46Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Apple VS OpenAI Explained: चांग लियू और तांग तान, कैसे दो कर्मचारी बन गए ऐपल और OpenAI के झगड़े का कारण?",
+                "desc": "Apple और OpenAI के बीच चल रहे झगड़े के केंद्र में दो नाम- चांग लियू और तांग तान सुर्खियां बने हुए हैं। दाेनों पहले ऐपल में थे और फिर ओपनएआई चले गए। इसके बाद कुछ ऐसा हुआ कि ऐपल और ओपनएआई आमने-सामने आ गईं। ऐपल के आरोपों पर ओपनएआई ने बहुत तीखी प्रतिक्रिया दी है।",
+                "image": "https://static.langimg.com/nbt/thumb/132901042/openai-vs-apple.jpg?imgsize=2532405&width=1600&height=900&resizemode=75",
+                "url": "https://navbharattimes.indiatimes.com/tech/ai-news/apple-vs-openai-controversy-two-employees-chang-liu-and-tang-tan-become-the-cause-of-the-conflict/articleshow/132901042.cms",
+                "source": "Navbharat Times",
+                "date": "2026-08-05T09:12:38Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "₹1.6 लाख सैलरी पर ₹1.85 लाख EMI! F&O ट्रेडिंग के चक्कर में लगा ₹60 लाख का चूना, चौंका देगी आईटी प्रोफेशनल की ये स्टोरी",
+                "desc": "F&O Trading Loss: मुंबई के एक 35 वर्षीय आईटी प्रोफेशनल की आपबीती सोशल मीडिया प्लेटफॉर्म रेडिट पर तेजी से वायरल हो रही है। MNC में मैनेजर के पद पर कार्यरत इस शख्स ने ट्रेडिंग में लगभग ₹80 लाख गंवा दिए हैं और अब वह ₹60 लाख के भारी-भरकम कर्ज के तले दब चुका है -",
+                "image": "https://images.moneycontrol.com/static-hindinews/2026/08/debt-management-mumbai-it-professional-60-lakh-fo-trading-.jpg",
+                "url": "https://hindi.moneycontrol.com/news/markets/debt-management-mumbai-it-professional-60-lakh-fo-trading-debt-reddit-viral-story-2427180.html",
+                "source": "Moneycontrol Hindi",
+                "date": "2026-08-05T09:12:13Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "शानदार नतीजे और ऑर्डर… लगातार 5वें दिन इस शेयर में लगा अपर सर्किट",
+                "desc": "MTAR टेक्नोलॉजीज के शेयरों में अपर सर्किट लगा है। कंपनी ने जून तिमाही के शानदार नतीजे घोषित किए। इसके अलावा, कंपनी के ऑर्डर बुक को भी बूस्ट मिलने से निवेशकों का भरोसा बढ़ा है।, Business Hindi News - Hindustan",
+                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/08/05/1600x900/logo/PTI02-01-2026-000274B-0_1771392549514_1771392561793_1785920436503_4a91189d-8b5d-4687-8e26-510e63c35cb3.jpg",
+                "url": "https://www.livehindustan.com/business/mtar-tech-share-hit-upper-circuit-for-5th-session-post-q1-results-order-and-other-detail-here-201785920274480.html",
+                "source": "livehindustan.com",
+                "date": "2026-08-05T09:01:58Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'कल की आई' इस SUV की इंडिया बुक ऑफ रिकॉर्ड्स में एंट्री; ये मारुति, टाटा, हुंडई, महिंद्रा, किआ का मॉडल नहीं",
+                "desc": "यात्रा चंडीगढ़ से शुरू होकर मनाली से जांस्कर घाटी और फिर लेह शहर में खत्म हुई। सभी 60 निसान टेक्टॉन SUV ने विभिन्न ऊंचाइयों पर इस शानदार यात्रा में कुल 700 किमी से अधिक की दूरी तय की। चंडीगढ़ में 1,053 फीट की ऊंचाई से शुरू होकर 16,703 फीट की ऊंचाई पर शिंकू ला दर्रे को छुआ।, Auto Hindi News - Hindustan",
+                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/08/05/1600x900/logo/Nissan_Tekton_1785920279959_1785920286214_d6c16116-2724-46ec-9ca3-89439065b903.jpg",
+                "url": "https://www.livehindustan.com/auto/nissan-tekton-enters-india-book-of-records-201785919690799.html",
+                "source": "Hindustan",
+                "date": "2026-08-05T09:00:13Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "रात में फ्रिज से आती है आवाज? जानिए ऐसे में क्या करना चाहिए",
                 "desc": "क्या रात में आपके फ्रिज से टिक-टिक की आवाज़ आती है? जानिए इसके पीछे की असली वजह, कब यह सामान्य होती है और किन संकेतों पर आपको तुरंत टेक्नीशियन को दिखाना चाहिए.",
@@ -992,99 +1082,54 @@
                 "source": "Aaj Tak News",
                 "date": "2026-08-04T13:44:59Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Q1 Results company become profitable: 3 साल में 204% का रिटर्न देने वाली कंपनी ड्रेजिंग कॉर्प घाटे से मुनाफे में लौटी, कमाई में ₹113 करोड़ की उछाल",
-                "desc": "Q1 Results company become profitable: पहली तिमाही में चारों कंपनियों ने सकारात्मक प्रदर्शन दर्ज किया है. ड्रेजिंग कॉर्पोरेशन की घाटे से मुनाफे में वापसी सबसे प्रमुख रही. BSE ने मुनाफे में बढ़ोतरी के साथ रणनीतिक निवेश बढ़ाने का फैसला किया, जबकि मेट्रोपोलिस हेल्थकेयर ने मजबूत मार्जिन विस्तार और प्रॉफिट ग्रोथ दर्ज की है.",
-                "image": "https://images.cnbctv18.com/hindicnbctv18/2026/08/results-5-2026-08-5f7810c079989443d55d9919a3420478.jpg?im=FitAndFill,width=1200,height=675",
-                "url": "https://hindi.cnbctv18.com/share-market/q1-results-dredging-corp-returns-to-profit-bse-metropolis-and-pnb-housing-post-strong-performance-188808.htm",
-                "source": "CNBC TV18",
-                "date": "2026-08-04T13:40:07Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Stock Split News: ₹50 का शेयर 200 के पार, अब 1 शेयर के 10 टुकड़े करने जा रही कंपनी",
-                "desc": "ओसियाजी टेक्सफैब 13 अगस्त 2026 को बोर्ड बैठक में स्टॉक स्प्लिट और पहली तिमाही के वित्तीय नतीजों पर विचार करेगी। कंपनी ₹10 फेस वैल्यू वाले शेयर को ₹1 फेस वैल्यू के 10 शेयरों में बांटने का प्रस्ताव कर रही है, जिससे तरलता बढ़ेगी।",
-                "image": "https://www.jagranimages.com/images/2026/08/04/article/image/Stock-Split-News-1785849170569_m.webp",
-                "url": "https://www.jagran.com/business/share-market-stock-split-news-share-price-surges-past-rs-200-from-rs-50-company-set-to-split-1-share-into-10-40329493.html",
-                "source": "Jagran",
-                "date": "2026-08-04T13:15:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "26KM का माइलेज, 5.69 लाख कीमत, 8 लाख ने खरीदी TATA PUNCH",
-                "desc": "सड़कों पर सबसे ज्यादा दिखने वाली गाड़ियों की लिस्ट में टाटा की पंच और नेक्सन भी हैं. इन दिनों पंच कुछ ज्यादा ही दिखने लगी है. कंपनी ने इस कार की 8 लाख से ज्यादा यूनिट्स को बेच दिया है. वहीं पिछले एक साल में ही कार की 2.18 यूनिट्स बिकी हैं. आइए समझते हैं पंच की सेल टाटा मोटर्स पैसेंजर व्हीकल के लिए क्या मायने रखती है.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202608/6a71ccae72135-tata-punch-launched-04273729-16x9.jpg",
-                "url": "https://www.aajtak.in/auto/news/story/tata-punch-8-lakh-sales-milestone-price-specifications-features-auam-dskc-2615335-2026-08-04",
-                "source": "Aaj Tak News",
-                "date": "2026-08-04T13:04:51Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "HDFC Bank AGM: नए चेयरमैन, डिविडेंड से लेकर फंड जुटाने तक, 5 अगस्त की AGM में कई बड़े फैसले होंगे",
-                "desc": "HDFC Bank AGM: HDFC Bank की 5 अगस्त को AGM होगी। नए नॉन-एग्जीक्यूटिव चेयरमैन पर मुहर लग सकती है। फंड जुटाने और डिविडेंड को मंजूरी मिल सकती है। नए CEO की नियुक्ति पर भी बाजार की नजर रहेगी। जानिए डिटेल। - hdfc bank agm 5 august key agenda new chairman appointment ceo succession fund raising bonds dividend approval",
-                "image": "https://images.moneycontrol.com/static-hindinews/2026/08/HDFC-Bank-News.jpg",
-                "url": "https://hindi.moneycontrol.com/news/markets/hdfc-bank-agm-5-august-key-agenda-new-chairman-appointment-ceo-succession-fund-raising-bonds-dividend-approval-2426753.html",
-                "source": "Moneycontrol Hindi",
-                "date": "2026-08-04T12:50:34Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Stocks to Watch: बाजार बंद होने के बाद आई इन 15 से ज्यादा कंपनियों से जुड़ी खबरें, बुधवार को स्टॉक्स पर होगा सीधा असर",
-                "desc": "Stocks to Watch: शेयर बाजार बंद होने के बाद कई कंपनियों से जुड़ी खबरे आई हैं. कई कंपनियों ने अपने तिमाही नतीजों का एलान किया है. इसमें भारती एयरटेल, नायका, भारती हेक्साकॉम शामिल हैं. खबरों का असर बुधवार को बाजार पर दिखेगा.",
-                "image": "https://images.cnbctv18.com/hindicnbctv18/2026/08/stocks-to-watch-1-2026-08-477eaaabb49d00268a9e44a012543343.jpg?im=FitAndFill,width=1200,height=675",
-                "url": "https://hindi.cnbctv18.com/photos/share-market/stocks-to-watch-bharti-airtel-nykaa-bharti-hexacom-castrol-india-stocks-in-news-business-news-in-hindi-188788.htm",
-                "source": "CNBC TV18",
-                "date": "2026-08-04T12:39:40Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "TRAI ने लॉन्च किया नया ऐप MyCall, अब खत्म होगी कॉल ड्रॉप की समस्या?",
-                "desc": "भारतीय टेलीकॉम रेगुलेटर TRAI ने लोगों की सुविधा के लिए एक नया ऐप लॉन्च किया है, जिसका नाम Mycall App है. ट्राई ने बताया है कि यह ऐप कॉल एक्सपीरिंयस को बेहतर करेगा और कॉल ड्रॉप की परेशानी को कम करने की कोशिश करेगा. आइए इसके बारे में डिटेल्स में जानते हैं.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202608/6a718bc9a7a73-mycall-app-045044195-16x9.jpg",
-                "url": "https://www.aajtak.in/technology/tech-news/story/trai-launch-mycall-app-to-stop-call-drop-ttecr-dskc-2615028-2026-08-04",
-                "source": "Aaj Tak News",
-                "date": "2026-08-04T12:28:10Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Anil Agarwal Vedanta Demerger: अनिल अग्रवाल का बड़ा धमाका, फिर नई कंपनी बनाएगी वेदांता, 2200 एकड़ जमीन वाला रियल एस्टेट बिजनेस होगा अलग",
-                "desc": "वेदांता रियल एस्टेट कारोबार को अलग कर नई कंपनी बनाएगी। शेयरधारकों को हर 20 शेयर पर एक नया शेयर मिलेगा। कंपनी BSE और NSE पर लिस्ट होगी, रिकॉर्ड डेट जल्द घोषित होगी।",
-                "image": "https://static.langimg.com/nbt/thumb/132859710/anil-agarwal-vedanta-demerger.jpg?imgsize=228223&width=1600&height=900&resizemode=75",
-                "url": "https://navbharattimes.indiatimes.com/business/business-news/anil-agarwal-vedanta-demerger-real-estate-business-shareholders-new-company/articleshow/132859710.cms",
-                "source": "navbharattimes.indiatimes.com",
-                "date": "2026-08-04T11:57:29Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Gold Rate: सोने का दाम 1.30 लाख रुपये पर, 4 अगस्त को ये रहा 22 और 24 कैरेट गोल्ड",
-                "desc": "Gold Price Today: मंगलवार 4 अगस्त को सर्राफा बाजार में सोने की कीमतों में हल्की बढ़त दर्ज की गई है। पिछले कारोबारी दिन की तुलना में गोल्ड थोड़ा महंगा हुआ है, जिससे खरीदारी की योजना बना रहे लोगों की नजरें नए रेट पर टिकी हैं।, Business Hindi News - Hindustan",
-                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/08/04/1600x900/logo/gold_rate_1785843961324_1785843971819_cc6077cc-c4a8-4b01-bb14-496da78abcb8.jpeg",
-                "url": "https://www.livehindustan.com/business/gold-rate-today-4-august-2026-tuesday-sone-ka-bhav-sarafa-bazar-up-bihar-delhi-201785843510080.html",
-                "source": "livehindustan.com",
-                "date": "2026-08-04T11:47:43Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "7 महीने में 3 लाख... TVS के इलेक्ट्रिक स्कूटर्स के दीवाने हुए लोग",
-                "desc": "इलेक्ट्रिक टू-व्हीलर मार्केट में टीवीएस फिलहाल लीडर है. जिस रफ्तार से कंपनी आगे बढ़ रही है ऐसा लग रहा है टीवीएस इस साल कई रिकॉर्ड तोड़ देगी.",
-                "image": "https://cf-img-a-in.tosshub.com/sites/visualstory/wp/2026/05/TVS-iQube-S-3ITG-1779104300161.jpg?size=*:675",
-                "url": "https://www.aajtak.in/visualstories/auto/tvs-sells-7-lakh-electric-scooters-2026-expected-growth-auam-284198-04-08-2026",
-                "source": "Aaj Tak News",
-                "date": "2026-08-04T11:32:21Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "पंच से छिन गया नंबर-1 का ताज, 6.26 लाख की इस कार ने मारी बाजी; 33 km+ है माइलेज, 5-स्टार सेफ्टी भी",
-                "desc": "मारुति सुजुकी डिजायर को भारतीय ग्राहकों के बीच खूब पसंद किया जाता है। इसका अंदाजा इस बात से लगाया जा सकता है कि एक बार फिर Maruti Suzuki Dzire देश की बेस्ट-सेलिंग कार बन गई।, Auto Hindi News - Hindustan",
-                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/08/04/1600x900/logo/Maruti_Dzire_1783577045057_1783577056118_5b47fda9-6c8e-4ec1-b503-89dac6b2f955_1785842574935_9975b1de-0175-4e2d-ab58-7fb5c2845605.jpg",
-                "url": "https://www.livehindustan.com/auto/top10-best-selling-cars-july-2026-dzire-wagonr-ertiga-punch-swift-baleno-201785842225066.html",
-                "source": "Hindustan",
-                "date": "2026-08-04T11:23:46Z",
-                "priority": "STANDARD"
             }
         ],
         "entertainment": [
+            {
+                "title": "Kroll Brand Value 2025: शाहरुख खान बने नंबर-1 सेलेब्रिटी ब्रांड, विराट को पछाड़ दूसरे नंबर पर पहुंचे रणवीर सिंह",
+                "desc": "Kroll Brand Value 2025: सेलेब्रिटी ब्रांड्स की लिस्ट आ चुकी है और इसमें बॉलीवुड के किंग शाहरुख खान नंबर वन पर हैं. वहीं, धुरंधर एक्टर रणवीर सिंह ने क्रिकेटर विराट कोहली को पछाड़ते हुए दूसरे नंबर पर अपना कब्जा किया है.",
+                "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/08/05/820e882540530caf94b7d468403c9e151785926369269119_original.jpeg?impolicy=abp_cdn&imwidth=1200",
+                "url": "https://www.abplive.com/entertainment/bollywood/shah-rukh-khan-tops-kroll-india-celebrity-brand-rankings-2025-ranveer-singh-ranks-second-brand-value-details-3170884",
+                "source": "ABP News",
+                "date": "2026-08-05T10:07:53Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "जब Amitabh Bachchan को देखने आए 1 लाख लोग, पुलिस के छूटे थे पसीने; लोकल दादाओं की लेनी पड़ी थी मदद",
+                "desc": "साल 1983 में फिल्म 'कुली' के सेट पर हुए हादसे में अमिताभ बच्चन को गंभीर चोट लगी थी, जिसके बाद उन्हें 'क्लीनिकली डेड' घोषित किया गया था।",
+                "image": "https://www.jagranimages.com/images/2026/08/05/article/image/Amitabh-(68)-1785924011558_m.webp",
+                "url": "https://www.jagran.com/entertainment/bollywood-after-coolie-incident-1-lakh-people-came-to-see-amitabh-bachchan-situation-got-out-of-control-for-police-40330383.html",
+                "source": "Jagran",
+                "date": "2026-08-05T10:05:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "आम्रपाली दुबे बनना चाहती हैं बिन ब्याही मां, बेटी लेंगी गोद, निरहुआ से बोलीं- शादी बाद में भी हो सकती है",
+                "desc": "भोजपुरी फिल्म स्टार आम्रपाली दुबे ने निरहुआ से कहा है कि वह एक बेटी गोद लेना चाहती हैं। निरहुआ सुनकर चौंक जाते हैं। जब पूछते हैं कि वह शादी क्यों नहीं कर लेतीं, तो आम्रपाली कहती हैं कि वो बाद में भी हो सकती है। पहली प्राथमिकता बच्चा है।",
+                "image": "https://static.langimg.com/nbt/thumb/132913625/aamrapali-dubey-on-marriage-and-child.jpg?imgsize=229781&width=1600&height=900&resizemode=75",
+                "url": "https://navbharattimes.indiatimes.com/entertainment/bhojpuri-cinema/aamrapali-dubey-wants-to-adopt-a-daughter-says-to-nirahua-marriage-can-happen-later-bhojpuri-bawaal/articleshow/132912870.cms",
+                "source": "navbharattimes.indiatimes.com",
+                "date": "2026-08-05T10:01:22Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "एक्ट्रेस ने चलाया 'बायकॉट रणबीर कपूर' ट्रेंड, बोलीं- 'रामायण' में भगवान राम का किरदार...",
+                "desc": "नितेश तिवारी की रामायण में रणबीर कपूर भगवान राम का किरदार निभा रहे हैं। रणबीर के राम का किरदार निभाने पर अब एक्ट्रेस निकिता रावल ने गुस्सा जाहिर किया है और कहा कि ये इंसल्ट है भगवान राम की।, Bollywood Hindi News - Hindustan",
+                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/08/05/1600x900/logo/niklr_1785921104241_1785921112345_27d2f168-7750-42b0-9366-50fabd5b031a.jpg",
+                "url": "https://www.livehindustan.com/entertainment/bollywood/nikita-rawal-on-ranbir-kapoor-playing-ram-in-ramayana-says-it-is-an-insult-to-lord-ram-201785918601550.html",
+                "source": "Hindustan",
+                "date": "2026-08-05T09:12:57Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Lock Upp Finale: 'भाभीजी' या श्रेया कालरा...कौन जीतेगा लॉकअप की ट्रॉफी, राम कपूर-शिवांगी करेंगे सरप्राइज?",
+                "desc": "लॉकअप 2 के फिनाले में राम कपूर, श्रेया कालरा, शिवांगी जोशी, शिल्पा शिंदे और योगेश रावत टॉप 5 फाइनलिस्ट हैं. शो कौन जीतेगा, इसे लेकर फैंस के बीच हलचल मची हुई है.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202608/6a72fa909296f-lock-upp-finale-055539191-16x9.jpg",
+                "url": "https://www.aajtak.in/entertainment/ott/story/lock-upp-finale-who-will-be-winner-top-5-finalists-game-shilpa-shinde-shreya-kalra-tmovh-dskc-2615816-2026-08-05",
+                "source": "Aaj Tak News",
+                "date": "2026-08-05T09:00:04Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Meme का सिस्टम हिला डाला... कैसे नए मीम किंग बने रवि किशन!",
                 "desc": "अभिनेता से नेता बने रवि किशन सोशल मीडिया पर अपने मजेदार और फिसली जुबान वाले वीडियो के कारण खूब वायरल हो रहे हैं. उनके कई बयान जैसे 'मौन वर्त', 'होम फ्रॉम वर्क' और 'नीट अखबार लीक' ने मीमबाजों को नया कंटेंट दिया है.",
@@ -1579,54 +1624,36 @@
                 "source": "Hindustan",
                 "date": "2026-08-04T09:01:36Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "'मुझे बच्चा चाहिए', शादी से पहले मां बनना चाहती हैं आम्रपाली दुबे, सुनकर चौंके निरहुआ, बोले- पहले शादी तो...",
-                "desc": "आम्रपाली दुबे 39 साल की हैं, लेकिन उन्होंने अब तक शादी नहीं रचाई है. शादी से पहले आम्रपाली मां बनना चाहती हैं. उन्होंने कहा कि वो एक बेटी को गोद लेंगी. आम्रपाली की बात सुन निरहुआ के होश उड़ गए और फिर...",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202608/6a719ca68af54-amrapali-dubey-motherhood-ivf-040241174-16x9.jpg",
-                "url": "https://www.aajtak.in/entertainment/ott/story/amrapali-dubey-kids-to-become-mother-at-39-without-marriage-dinesh-lal-yadav-nirahua-shocked-bhojpuri-bawal-tmovf-dskc-2614944-2026-08-04",
-                "source": "Aaj Tak News",
-                "date": "2026-08-04T08:03:32Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "क‍िशोर दा ने टेबल मंगवाया, उस पर लेट गए और गाने लगे! मजाक-मजाक में रिकॉर्ड हुआ 80 के दशक का ब्‍लॉकबस्‍टर गाना",
-                "desc": "क‍िशोर दा और उनके गीतों के मुरीद तो हम सभी हैं, लेकिन आज उनकी जयंती पर एक मजेदार क‍िस्‍सा उनके एक ब्‍लॉकबस्‍टर गाने के बनने की। 80 का वो दशक और जब मजाक-मजाक में रिकॉर्डिंग रूम में टेबल पर लेटकर गाया ऐसा गाना, आज भी गुनगुनाए ब‍िना नहीं रह पाती है दुनिया।",
-                "image": "https://static.langimg.com/nbt/thumb/132850783/kishore-kumar-intaha-ho-gai-intezar-ki-song-recording.jpg?imgsize=680508&width=1600&height=900&resizemode=75",
-                "url": "https://navbharattimes.indiatimes.com/entertainment/news-from-bollywood/kishore-da-brought-a-table-lay-down-and-started-singing-behind-the-story-of-80s-blockbuster-song-intaha-ho-gai-intezar-ki/articleshow/132850783.cms",
-                "source": "Navbharat Times",
-                "date": "2026-08-04T07:16:41Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'मिर्जापुर द मूवी' का हरियाणवी गाना 'बंदे एक नंबर धंधे दो नंबरी' रिलीज, रैपर ढांडा ने चटका गुड्डू भईया का स्वैग",
-                "desc": "'मिर्जापुर: द मूवी' की पहली झलक आने के बाद से ही फैंस इसके ट्रेलर की रिलीज का इंतजार कर रहे हैं। इस बीच, मेकर्स ने मजेदार हरियाणवी गाना 'दो नंबरी' रिलीज कर दिया है, जिसे रैपर ढांडा न्योलीवाला ने गाया है। फैंस इस पर जमकर रिएक्ट कर रहे हैं।",
-                "image": "https://static.langimg.com/nbt/thumb/132850387/mirzapur-the-movie-song-do-numbari.jpg?imgsize=125515&width=1600&height=900&resizemode=75",
-                "url": "https://navbharattimes.indiatimes.com/entertainment/news-from-bollywood/mirzapur-the-movie-song-do-numbari-by-dhanda-nyoliwala-release-fans-reaction/articleshow/132850387.cms",
-                "source": "Navbharat Times",
-                "date": "2026-08-04T07:15:22Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "22 साल की दोस्ती...पर्दे पर हिट है विजय-तृषा की जोड़ी, फिल्में करती हैं ताबड़तोड़ कमाई",
-                "desc": "थलापति विजय और तृषा कृष्णन ने कई सुपरहिट फिल्मों में साथ काम किया है. उनकी साथ में पहली फिल्म 22 साल पहले रिलीज हुई थी, जो ब्लॉकबस्टर साबित हुई थी. तब से अब तक दोनों की ऑनस्क्रीन जोड़ी हिट है.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202608/6a718bcb87b7a-trisha-krishnan--vijay-24322743-16x9.jpg",
-                "url": "https://www.aajtak.in/entertainment/south-movies/story/thalapathy-vijay-trisha-krishnan-22-years-of-friendship-blockbuster-films-together-udhayanidhi-stalin-tmovf-dskc-2615026-2026-08-04",
-                "source": "Aaj Tak News",
-                "date": "2026-08-04T07:07:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Bigg Boss 2026 Date: आया गया ‘बिग बॉस 20’ का प्रोमो, इस दिन से शुरू होगा सलमान खान का शो",
-                "desc": "Bigg Boss 20 Date Announcement: सलमान खान के रिएलिटी शो ‘बिग बॉस’ का 20वा सीजन शुरू होने जा रहा है। इसका प्रोमो आ गया है और इसकी ऑफिशियल डेट भी अनाउंस हो गई है।, Tv Hindi News - Hindustan",
-                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/08/04/1600x900/logo/2_Dec_bb19_1764673326221_1764673332143_1785826595766_ebf3ca8f-f802-4c19-a37f-ffaa29f0d02b.jpg",
-                "url": "https://www.livehindustan.com/entertainment/tv/bigg-boss-20-date-official-announcement-salman-khan-reality-show-will-start-from-6-september-201785826366978.html",
-                "source": "Hindustan",
-                "date": "2026-08-04T07:04:34Z",
-                "priority": "STANDARD"
             }
         ],
         "sports": [
+            {
+                "title": "IPL 2027 में खेलेंगे पाकिस्तान के मोहम्मद आमिर? ब्रिटिश नागरिक बनने के बाद दिया बयान",
+                "desc": "पाकिस्तान के पूर्व तेज गेंदबाज मोहम्मद आमिर को ब्रिटिश की नागरिकता मिल गई है, जिसके बाद लोगों के मन में सवाल है कि क्या वह IPL में भी खेलेंगे. इस पर अब उन्होंने खुद बड़ा बयान दिया है.",
+                "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/08/05/0ddd59ab39a083285e775dc4103eaaf217859214509971212_original.jpg?impolicy=abp_cdn&imwidth=1200",
+                "url": "https://www.abplive.com/sports/cricket/will-pakistan-former-player-mohammad-amir-play-ipl-2027-his-first-statement-after-gets-british-citizenship-3170852",
+                "source": "ABP News",
+                "date": "2026-08-05T09:46:10Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "ICC वनडे रैंकिंग में नीदरलैंड प्लेयर्स की बल्ले-बल्ले, टॉप 10 में शुभमन गिल समेत तीन भारतीय",
+                "desc": "Latest ICC ODI Rankings: नीदलैंड और नेपाल के तीन-तीन खिलाड़ियों को आईसीसी की ताजा वनडे रैंकिंग में फायदा हुआ है। कप्तान शुभमन गिल समेत तीन भारतीय टॉप 10 बल्लेबाजों की लिस्ट में शामिल हैं।, Cricket Hindi News - Hindustan",
+                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/08/05/1600x900/logo/Latest_ICC_ODI_Rankings_1785919809718_1785919816714_8e9ca25f-ead7-4eaf-9195-f79f52268013.jpg",
+                "url": "https://www.livehindustan.com/cricket/latest-icc-odi-rankings-netherlands-players-shine-three-indians-including-shubman-gill-in-top-10-odi-batters-201785919633412.html",
+                "source": "Hindustan",
+                "date": "2026-08-05T09:17:16Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "आखिर किसने वैभव सूर्यवंशी को डेब्यू के लिए तरसाया? दिग्गज खिलाड़ी का बड़ा दावा, टीम मैनेजमेंट पर उठाए सवाल!",
+                "desc": "जिम्बाब्वे सीरीज में प्लेयर ऑफ द सीरीज का खिताब जीतने वाले वैभव सूर्यवंशी को लेकर पूर्व भारतीय क्रिकेटर मोहम्मद कैफ ने कुछ जरूरी बातों का जिक्र किया है. कैफ ने सवाल उठाया कि आखिर क्यों वैभव को इंटरनेशनल क्रिकेट में इतनी देर से डेब्यू करने का मौका दिया गया.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202608/6a72fb0c41940-vaibhav-sooryavanshi-055742551-16x9.jpg",
+                "url": "https://www.aajtak.in/sports/cricket/story/team-india-grilled-over-vaibhav-sooryavanshi-delayed-debut-mohammad-kaif-angry-reaction-aksp-dskc-2615872-2026-08-05",
+                "source": "Aaj Tak News",
+                "date": "2026-08-05T09:16:05Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "बिना मंजूरी लीग खेलने वाले पाकिस्तानी क्रिकेटरों पर बैन की तैयारी, PCB लेगा एक्शन",
                 "desc": "गाम्ब‍िया में आयोजित एशियन लेजेंड्स लीग में बिना आधिकारिक मंजूरी हिस्सा लेने वाले पाकिस्तान के कई पूर्व क्रिकेटरों पर PCB कार्रवाई की तैयारी में है. मोहम्मद हफीज, शोएब मलिक और उमर अकमल समेत एक दर्जन से ज्यादा खिलाड़ी जांच के दायरे में हैं. दोषी पाए जाने पर उन्हें दो साल के बैन के साथ PCB और PSL से जुड़े सभी असाइनमेंट से भी बाहर किया जा सकता है.",
@@ -2139,38 +2166,101 @@
                 "source": "Jagran",
                 "date": "2026-08-04T11:07:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "महिला एशिया कप में आएगा मंधाना-शेफाली का तूफान! वेन्यू और शेड्यूल को लेकर सामने आई बड़ी अपडेट",
-                "desc": "भारतीय महिला क्रिकेट टीम एशिया कप में अपना दमखम दिखाने के लिए तैयार है. इस बार टी20 फॉर्मेट में यह टूर्नामेंट खेला जाना है. लिहाजा मैदान पर चौके-छक्कों की बारिश देखने को मिल सकती है.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202608/6a71b76cbea7e-womens-asia-cup-045655154-16x9.jpg",
-                "url": "https://www.aajtak.in/sports/cricket/story/womens-asia-cup-venue-and-schedule-update-tournament-likely-before-asian-games-aksp-dskc-2615259-2026-08-04",
-                "source": "Aaj Tak News",
-                "date": "2026-08-04T10:29:17Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "संन्यास के बाद नया मिशन, कोचिंग रोल में उतरेंगे बेन स्टोक्स, किया बड़ा खुलासा",
-                "desc": "इंग्लैंड के पूर्व टेस्ट कप्तान बेन स्टोक्स ने खुलासा किया है कि वह भविष्य में इंग्लैंड क्रिकेट टीम के हेड कोच बनना चाहते हैं. इसके लिए वह अभी से लेवल-3 कोचिंग क्वालिफिकेशन पूरा कर रहे हैं. स्टोक्स ने पॉडकास्ट में अपने द‍िल से जुड़ी बातें शेयर कीं.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202608/6a71b6b67024b-ben-stokes-045352944-16x9.jpg",
-                "url": "https://www.aajtak.in/sports/cricket/story/ben-stokes-wants-to-be-england-head-coach-level-3-coaching-after-retirement-tspok-dskc-2615250-2026-08-04",
-                "source": "Aaj Tak News",
-                "date": "2026-08-04T10:21:53Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "AC में अभी तक यूज नहीं किया ये फीचर, बिना पैसों के होगी सर्विस",
-                "desc": "लोग अपनी बिजी लाइफ में AC क्लीनिंग आदि पर ध्यान नहीं दे पाते हैं. ऐसे में गंदे फिल्टर्स ना सिर्फ बीमार बना सकते हैं बल्कि बिजली बिल भी ज्यादा आता है.",
-                "image": "https://cf-img-a-in.tosshub.com/sites/visualstory/wp/2026/08/AC-self-cleaningITG-1785835065605.jpg?size=*:675",
-                "url": "https://www.aajtak.in/visualstories/technology/ac-self-cleaning-feature-increase-ac-life-reduce-electricity-bill-ttecr-284192-04-08-2026",
-                "source": "Aaj Tak News",
-                "date": "2026-08-04T09:33:45Z",
-                "priority": "STANDARD"
             }
         ]
     },
     "en": {
         "general": [
+            {
+                "title": "White House declassifies info on secret FBI probe into whether Trump fired Comey at Russia's behest, official says",
+                "desc": "The White House has declassified information claiming the FBI probed whether President Trump acted as a Russian asset when he fired James Comey, a theory an administration official said wasn't backed up by evidence.",
+                "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/09/26/1876b8f9-375e-40a4-82bc-6bac0c196cf6/thumbnail/1200x630/e1e184ae6c88574c1203fb5cdf94144c/cbsn-fusion-comey-indicted-following-trump-pressure-on-doj-thumbnail.jpg",
+                "url": "https://www.cbsnews.com/news/trump-comey-russia-fbi-probe-white-house-declassify-oxferd-comma/",
+                "source": "CBS News",
+                "date": "2026-08-05T10:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Virginia resident has state’s 1st locally acquired case of dengue fever",
+                "desc": "Virginia health officials have confirmed the state’s first known case of locally acquired dengue, a viral disease usually associated with international travel.",
+                "image": "https://wtop.com/wp-content/uploads/2024/06/Dengue_Warning_15385-scaled.jpg",
+                "url": "https://wtop.com/virginia/2026/08/virginia-resident-has-states-1st-locally-acquired-case-of-dengue-fever/",
+                "source": "WTOP",
+                "date": "2026-08-05T09:49:54Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Michigan Election Results Live Updates: El-Sayed Holds Narrow Lead Over Stevens in Senate Primary",
+                "desc": "Dr. Abdul El-Sayed, a progressive, holds a narrow lead over Representative Haley Stevens, a centrist, as counting continues. Kansas, Missouri, Virginia and Washington also voted.",
+                "image": "https://static01.nyt.com/images/2026/08/05/multimedia/05midterms-promo-gwqb/05midterms-promo-gwqb-facebookJumbo.jpg",
+                "url": "https://www.nytimes.com/live/2026/08/05/us/michigan-election-results-primary",
+                "source": "The New York Times",
+                "date": "2026-08-05T09:46:55Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Rep. Chuck Edwards drops re-election bid after censure recommendation over harassment claims",
+                "desc": "Rep. Chuck Edwards is withdrawing from his re-election campaign in Western North Carolina.",
+                "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-08/260805-chuck-edwards-mb-1018-5a37b7.jpg",
+                "url": "https://www.nbcnews.com/politics/politics-news/rep-chuck-edwards-drops-re-election-bid-censure-sexual-harassment-rcna590919",
+                "source": "NBC News",
+                "date": "2026-08-05T09:36:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Kansas Mom Told She Had Days to Live After Mysterious Spider Bites at Family Campfire, GoFundMe Launched",
+                "desc": "A family campfire at a Kansas lake turned into a months-long fight for survival after a swarm of spiders left one mother with injuries no one saw coming. KCRA reported on Monday, August 3, that Britag...",
+                "image": "https://s.yimg.com/lo/mysterio/api/7cb32c9e4301944808f081568fa9bdb9f4b9715d4d43244d16fdc4f79fc894fc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnational_enquirer_328%2Fbbff8ad53d9e454300f0fce2872ff78f",
+                "url": "https://www.yahoo.com/news/us/articles/kansas-mom-told-she-had-093011482.html",
+                "source": "Yahoo",
+                "date": "2026-08-05T09:30:11Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "How Being Cool Is Making The Hague a Vacation Hot Spot",
+                "desc": "Looking for respite from European heat waves, summer tourists are flocking to the diplomatic hub. But city leaders are wary of overcrowding.",
+                "image": "https://static01.nyt.com/images/2026/07/30/01int-hague-vacation-dispatch-85932-cover/01int-hague-vacation-dispatch-85932-cover-facebookJumbo.jpg",
+                "url": "https://www.nytimes.com/2026/08/05/world/europe/hague-heat-coolcation.html",
+                "source": "nytimes.com",
+                "date": "2026-08-05T09:20:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Leaked Galaxy S26 FE firmware shows wallpapers, hints at One UI 9.5",
+                "desc": "Leaked firmware for the Galaxy S26 FE revealed new wallpapers and gives us a hint at what the One UI 9.5 update banner will look like.",
+                "image": "https://www.sammobile.com/wp-content/uploads/2025/09/Galaxy-S25-FE-design-2-1.jpg",
+                "url": "https://www.sammobile.com/news/leaked-galaxy-s26-fe-firmware-wallpapers-one-ui-9-5/",
+                "source": "SamMobile",
+                "date": "2026-08-05T09:15:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Aaron Rodgers, Sophie Cunningham speak out. Caitlin Clark doesn’t. Either way, they lose",
+                "desc": "These days, we dissect athletes' every utterance in search of hidden meanings and innuendo. The hypocrisy is both comical and frightening.",
+                "image": "https://static01.nyt.com/athletic/uploads/wp/2026/08/04204102/GettyImages-2288087506-scaled.jpg?width=1200&height=630&fit=cover",
+                "url": "https://www.nytimes.com/athletic/7493015/2026/08/05/cunningham-rodgers-clark-fauci-social-media-politics/",
+                "source": "The New York Times",
+                "date": "2026-08-05T09:00:46Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "How to start the Bubbly Basin DLC",
+                "desc": "How to start the Bubbly Basin DLC in Pokémon Pokopia, with all Bubbly Basin requirements explained.",
+                "image": "https://images.nintendolife.com/f85c81e13ce34/large.jpg",
+                "url": "https://www.nintendolife.com/guides/pokemon-pokopia-how-to-start-bubbly-basin-dlc-requirements",
+                "source": "Nintendo Life",
+                "date": "2026-08-05T08:59:24Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "North Korean missile unit deploys in Russia for Ukraine war, Kyiv says",
+                "desc": "Russia has fired scores of North Korean ballistic missiles at Ukraine for years, but the deployment of North Korean missile forces would be an expansion of the two’s cooperation.",
+                "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/08/05/555585.JPG?v=3.1",
+                "url": "https://www.japantimes.co.jp/news/2026/08/05/asia-pacific/north-korean-missile-russia-ukraine/",
+                "source": "The Japan Times",
+                "date": "2026-08-05T08:59:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Russia launches drones, missiles on Kyiv as Ukraine hits Wildberries",
                 "desc": "The bombardment comes as each side ramps up air attacks on critical infrastructure and logistics hubs.",
@@ -2620,99 +2710,63 @@
                 "source": "AP News",
                 "date": "2026-08-04T21:45:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "What is ‘rabbit fever?’ Health officials report 3 probable cases",
-                "desc": "What is “rabbit fever?” Health officials report several probable causes of the rare but serious disease.",
-                "image": "https://kubrick.htvapps.com/htv-prod/images/ff746a3f-96c5-4ff7-ba21-d635f0b34c57.jpg?crop=1.00xw%3A1.00xh%3B0%2C0&resize=1200%3A*",
-                "url": "https://www.wcvb.com/article/rabbit-fever-new-york-what-is-tularemia/73348028",
-                "source": "WCVB",
-                "date": "2026-08-04T21:44:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Polls begin closing in Michigan with eyes on high-stakes Democratic primary for US Senate seat - live updates",
-                "desc": "Voters in Michigan are choosing between Abdul El-Sayed, a progressive former public health official, and representative Haley Stevens, a centrist backed by Democratic leaders, for a key US Senate seat",
-                "image": "https://i.guim.co.uk/img/media/a6db86417733a59b3160630e75f359eb3212ec35/200_0_4061_3248/master/4061.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=2f16dfee16bd7fdcae69cee4876885ea",
-                "url": "https://www.theguardian.com/us-news/live/2026/aug/04/midterm-primary-elections-updates-michigan-senate",
-                "source": "The Guardian",
-                "date": "2026-08-04T21:38:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Rihanna wears revealing and fearless jewel-encrusted costume at Barbados carnival parade",
-                "desc": "Rihanna returned to Barbados for Grand Kadooment Day, dazzling in a jewel-encrusted carnival costume as she celebrated Crop Over with her brother's Aura band",
-                "image": "https://www.hola.com/us/horizon/landscape/af6de76a38e5-xporaar260804012.jpg?im=Resize=(1200)",
-                "url": "https://www.hola.com/us/celebrities/20260804916436/rihanna-revealing-jewel-encrusted-costume-barbados-carnival-parade/",
-                "source": "HOLA",
-                "date": "2026-08-04T21:29:38Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Lil Wayne Tried to Fly Out 'Teen Mom' Star Rachel Beaver, Read Their Alleged Texts",
-                "desc": "Lil Wayne looks like he may have been making plans to meet up with former \"Teen Mom: Young + Pregnant\" star Rachel Beaver ... at least according to a series of messages and text conversations we're told he exchanged with her.",
-                "image": "https://imagez.tmz.com/image/d9/16by9/2026/08/04/d9273b88c08a4a89b4f53a076c6e447c_xl.jpg",
-                "url": "https://www.tmz.com/2026/08/04/lil-wayne-tried-to-fly-out-teen-mom-star/",
-                "source": "TMZ",
-                "date": "2026-08-04T21:23:25Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "As the Danube River dries up, World War II shipwrecks and mammoth bones come into view",
-                "desc": "Water levels on the Danube River have dropped so low that dozens of World War II German battleships – and even the remains of an ancient woolly mammoth — are emerging into view.",
-                "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/04/06471fd1-9c81-43fc-a758-f324c83c251f/thumbnail/1200x630/603c87ca40643b566dc03e9ff0067257/2026-07-30t164304z-480324851-rc2doma9sn1b-rtrmadp-3-europe-weather-drought-serbia.jpg",
-                "url": "https://www.cbsnews.com/news/danube-river-wwii-shipwrecks-mammoth-bones/",
-                "source": "CBS News",
-                "date": "2026-08-04T19:23:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "A piece of a SpaceX rocket is about to hit the moon",
-                "desc": "A discarded Falcon 9 rocket will collide with the moon at 5,400 miles per hour.",
-                "image": "https://i.abcnewsfe.com/a/7ad5af81-0f23-4804-ae78-c39e9457c477/spacex-gty-jef-260730_1785419951654_hpMain_16x9.jpg?w=1600",
-                "url": "https://abcnews.com/US/piece-spacex-rocket-hit-moon/story?id=135225250",
-                "source": "ABC News - Breaking News, Latest News and Videos",
-                "date": "2026-08-04T19:16:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Paine selected as Tory candidate",
-                "desc": "Joshua Bonehill-Paine was jailed in 2015 after posting antisemitic remarks ahead of a protest.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/51ea/live/def2ce50-8ff5-11f1-a10e-47119dd4425c.jpg",
-                "url": "https://www.bbc.com/news/articles/c70g9rw58q2o",
-                "source": "BBC",
-                "date": "2026-08-04T19:15:51Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Jalon Walker carted off at Falcons practice",
-                "desc": "The Falcons will be hoping for some positive news about linebacker Jalon Walker's condition on Tuesday afternoon.",
-                "image": "https://nbcsports.brightspotcdn.com/dims4/default/703ae9e/2147483647/strip/true/crop/5917x3328+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F80%2Fdd%2F752c4a5b4ead8791956604d867bb%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2251240933",
-                "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jalon-walker-carted-off-at-falcons-practice",
-                "source": "NBC Sports",
-                "date": "2026-08-04T19:14:29Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Pixel Watch 5 Specs Tell Us the Upgrades to Expect",
-                "desc": "Are there any unanswered questions surrounding the launch of the Pixel 11 series and Pixel Watch 5? Not many. A new specs list leak for the Pixel Watch 5 may have just about cleared up any remaining confusion. According to a supposed specs list for Google's new watch, there are a couple of...",
-                "image": "https://www.droid-life.com/wp-content/uploads/2026/07/Google-Pixel-Watch-5-Official-2-1200x628.jpg",
-                "url": "https://www.droid-life.com/2026/08/04/pixel-watch-5-specs-tell-us-the-upgrades-to-expect/",
-                "source": "Droid Life",
-                "date": "2026-08-04T18:54:10Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Eaton Fire was caused by SoCal Edison electrical tower, LA County Fire Department says",
-                "desc": "The deadly 2025 Eaton Fire in Los Angeles was caused by Southern California Edison equipment, fire officials say.",
-                "image": "https://cdn.abcotvs.com/dip/images/18432055_011926-kfsn-eaton-fire-ap-img.jpg?w=1600",
-                "url": "https://abc7.com/post/socal-edison-equipment-blamed-2025-eaton-fire-investigation-la-county-department-says/19625172/",
-                "source": "ABC7 Los Angeles",
-                "date": "2026-08-04T18:53:43Z",
-                "priority": "STANDARD"
             }
         ],
         "business": [
+            {
+                "title": "Jetstar to charge for use of overhead lockers for carry-on bags",
+                "desc": "Jetstar plans to charge passengers for using overhead compartments starting February 2027. The airline says this change aims to reduce stress at boarding gates by eliminating the need to weigh bags and find space in overhead lockers.",
+                "image": "https://dims.apnews.com/dims4/default/558bde6/2147483647/strip/true/crop/3871x2579+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff8%2F94%2F00717d7ab4c7e97d11e28634dc20%2Fb9c750a8e7034f6dbc880a58e623892b",
+                "url": "https://apnews.com/article/jetstar-charge-overhead-locker-carryon-bags-australia-flight-ba309871feb22102beb94e701fc07d35",
+                "source": "AP News",
+                "date": "2026-08-05T09:46:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "John Oliver's Buc-ee's vendetta renews interest in Georgia lawsuit",
+                "desc": "Last Week Tonight host John Oliver used Canton small business’ legal fight with the Texas convenience giant to illustrate how the “trademark bully” operates.",
+                "image": "https://images.ajc.com/resizer/v2/SMUSFIED7ZCSNP6M6MK2Y7J544.jpg?auth=1c94473a8fc3dac2ea88e5080504dd3118f4c89d897ead4a849ada2aebe35f96&width=1200&height=630&focal=4695,70",
+                "url": "https://www.ajc.com/news/2026/08/john-olivers-buc-ees-vendetta-renews-interest-in-georgia-lawsuit/",
+                "source": "AJC.com",
+                "date": "2026-08-05T09:31:58Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Here's why Social Security can't be your retirement plan",
+                "desc": "Nearly half of older workers plan to rely on Social Security in retirement, two recent surveys say. Retirement researchers are worried.",
+                "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/08/04/USAT/91169931007-retirement-7.jpg?crop=1023,576,x0,y133&width=1023&height=576&format=pjpg&auto=webp",
+                "url": "https://www.usatoday.com/story/money/personalfinance/2026/08/05/social-security-retirement-plan-savings-magic-number/91163507007/",
+                "source": "USA Today",
+                "date": "2026-08-05T09:07:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "\"Mass layoffs\" expected at EA, as $55bn buyout by Saudi Arabia's PIF and Donald Trump's son-in-law officially goes through",
+                "desc": "Affinity Partners, Silver Lake, and the Saudi Public Investment Fund now own one of the largest video game publishers in the world.",
+                "image": "https://assetsio.gnwcdn.com/kushner-ea-bf.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "url": "https://www.eurogamer.net/ea-aquisition-55-complete-saudi-arabia-jared-kushner-private",
+                "source": "Eurogamer.net",
+                "date": "2026-08-05T09:06:53Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Corporate America got billions of dollars in tariff refunds. Where’s your cut?",
+                "desc": "Apple got an estimated $2.2 billion tariff refund last quarter. Amazon got $600 million. Nike got $300 million. But American consumers who paid higher prices as President Donald Trump’s tariffs filtered through the economy are getting almost nothing back.",
+                "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2235703869.jpg?c=16x9&q=w_800,c_fill",
+                "url": "https://www.cnn.com/2026/08/05/economy/companies-got-tariff-refunds-wheres-your-cut",
+                "source": "CNN",
+                "date": "2026-08-05T09:00:25Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "FDA allows labeling nicotine pouches 'lower risk' than cigarettes : NPR",
+                "desc": "The FDA allowed some Zyn nicotine pouches to be marketed as \"lower risk\" than cigarettes. Public health experts agree they can help current smokers, but worry young people may become addicted.",
+                "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4959x2789+0+76/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff2%2F3b%2F47e2ef4d4eed9df82375f6a416b7%2Fgettyimages-1970322451.jpg",
+                "url": "https://www.npr.org/2026/08/05/nx-s1-5919626/smoking-fda-nicotine-cigarettes-tobacco",
+                "source": "NPR",
+                "date": "2026-08-05T09:00:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Austin's Real Estate Bust: Home Values, Rents, Sale Prices Are Tanking",
                 "desc": "Homeowners who bought at the peak of Austin's real estate frenzy are eating huge losses or crossing their fingers for a comeback.",
@@ -3198,63 +3252,18 @@
                 "source": "NPR",
                 "date": "2026-08-04T09:00:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Wall Street is about to get SpaceX’s first-ever earnings report",
-                "desc": "SpaceX reports its first-ever quarterly earnings as a public company after the closing bell Tuesday, giving investors a detailed look at Elon Musk’s rocket, satellite and AI company after a rocky start to trading.",
-                "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-07-24t232826z-274198321-rc2nkmaphgn7-rtrmadp-3-space-spacex-starship.JPG?c=16x9&q=w_800,c_fill",
-                "url": "https://www.cnn.com/2026/08/04/business/spacex-earnings-elon-musk",
-                "source": "CNN",
-                "date": "2026-08-04T08:00:26Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Musk to face tough questions during SpaceX's first earnings call as a public company",
-                "desc": "Investors in Elon Musk’s space company get a chance to question him Tuesday in his first quarterly earnings call since an initial public offering",
-                "image": "https://i.abcnewsfe.com/a/d7f6bc42-91a1-4a74-8ce5-833f72eec3ed/wirestory_3b7b66a3e522e51d75caebc40af7e09e_16x9.jpg?w=1600",
-                "url": "https://abcnews.com/Business/wireStory/musk-face-tough-questions-spacexs-earnings-call-public-135343999",
-                "source": "ABC News - Breaking News, Latest News and Videos",
-                "date": "2026-08-04T06:50:14Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "OpenAI Hosted Creators at a Luxe Retreat. the Internet Isn't Charmed.",
-                "desc": "Over the weekend, influencers posted optimistic videos of AI after attending an OpenAI-led content creator retreat.",
-                "image": "https://i.insider.com/6a70ed63a62e6e00bc539f34?width=1200&format=jpeg",
-                "url": "https://www.businessinsider.com/openai-creators-retreat-upstate-new-york-backlash-2026-8",
-                "source": "businessinsider.com",
-                "date": "2026-08-04T06:11:20Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Over 20 planes diverted to Colorado Springs after Denver severe weather, prompt medical response",
-                "desc": "UPDATE: The Colorado Springs Airport confirmed 22 flights were diverted from Denver International Airport Monday night. Original reports said 29 flights",
-                "image": "https://krdo.b-cdn.net/2023/10/092723-Colorado-Springs-Airport-web-1.png",
-                "url": "https://krdo.com/news/2026/08/03/denver-flights-diverted-colorado-springs/",
-                "source": "KRDO",
-                "date": "2026-08-04T04:46:11Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Amazon Stock Rally Cools After Hours as Jeff Bezos Plans Sale",
-                "desc": "Jeff Bezos plans to sell $4.07 billion in Amazon stock, prompting Jim Cramer to call the move a “buzzkill.”",
-                "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/08/04/Jeff-Bezos--The-Founder-Of-Amazon--Speak.jpg",
-                "url": "https://www.benzinga.com/markets/tech/26/08/60894961/jeff-bezos-amazon-stock-sale-earnings-rally",
-                "source": "Benzinga",
-                "date": "2026-08-04T04:04:42Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "How to Lose $35 Billion",
-                "desc": "Almost overnight, Leopold Aschenbrenner went from lauded wunderkind to Wall Street punching bag. Will that be the end of his story? Joe Nocera weighs the case.",
-                "image": "https://substackcdn.com/image/fetch/$s_!OWbE!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4b8c2180-872e-4895-9bd3-d77e30cad654_1536x2048.jpeg",
-                "url": "https://www.thefp.com/p/how-to-lose-35-billion",
-                "source": "The Free Press",
-                "date": "2026-08-04T04:02:32Z",
-                "priority": "STANDARD"
             }
         ],
         "entertainment": [
+            {
+                "title": "Ariana Grande’s body sparks debate: genuine concern or public shaming?",
+                "desc": "Debate over Ariana Grande’s appearance has divided millions online between concern and criticism bordering on abuse, reviving questions about body scrutiny, toxic social media culture and who may be harmed by amateur commentary",
+                "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/04/SyH2l71Izl/SyH2l71Izl_1_0_596_336_0_large.jpg",
+                "url": "https://www.ynetnews.com/culture/article/bja7frkuzg",
+                "source": "Ynetnews",
+                "date": "2026-08-05T09:11:29Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Beyoncé Drops \"Morning Dew\" Remix With Jay-Z",
                 "desc": "Jigga Man hops on his wife's latest track to finally end his rap sabbatical.",
@@ -3785,18 +3794,27 @@
                 "source": "The New York Times",
                 "date": "2026-08-04T09:03:06Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Their Forefather Was a Grocer and Mozart’s Most Important Librettist",
-                "desc": "Generations on, Lorenzo Da Ponte’s family keeps alive the memory of this poet and libertine, who ended up in the middle of Pennsylvania after being booted from Venice and Vienna.",
-                "image": "https://static01.nyt.com/images/2026/08/09/multimedia/09CUL-DAPOINTE-03-jkpv/09CUL-DAPOINTE-03-jkpv-facebookJumbo.jpg",
-                "url": "https://www.nytimes.com/2026/08/04/arts/music/mozart-librettist-da-ponte-american-descendant.html",
-                "source": "The New York Times",
-                "date": "2026-08-04T09:01:01Z",
-                "priority": "STANDARD"
             }
         ],
         "sports": [
+            {
+                "title": "5 supreme standouts from Commanders 2026 training camp Day 6",
+                "desc": "Who were the big standouts from Day 6 of what's been a fascinating Washington Commanders 2026 training camp so far?",
+                "image": "https://images2.minutemediacdn.com/image/upload/c_crop,x_1576,y_110,w_2382,h_1339/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/61/01kz8kh4tbeemf0m80j6.jpg",
+                "url": "https://riggosrag.com/5-supreme-standouts-washington-commanders-2026-training-camp-day-6",
+                "source": "Riggo's Rag",
+                "date": "2026-08-05T10:00:04Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Drew Brees' greatness, as seen through eyes of teammates, coaches",
+                "desc": "The former Saints and Chargers QB will be enshrined in the Pro Football Hall of Fame on Saturday, and those who know him share tales of what makes him \"the GOAT.\"",
+                "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0804%2Fr1697624_1296x729_16%2D9.jpg",
+                "url": "https://www.espn.com/nfl/story/_/id/49528574/drew-brees-new-orleans-saints-chargers-pro-football-hall-fame-greatness-eyes-teammates-coaches",
+                "source": "ESPN",
+                "date": "2026-08-05T10:00:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "In his Dodgers debut, Tarik Skubal inherits baseball's bullseye",
                 "desc": "The potential presented by Tarik Skubal’s pitching power and the perils of being a World Series favorite were on display in his debut vs. the Cubs.",
@@ -4318,26 +4336,8 @@
                 "source": "NFL.com",
                 "date": "2026-08-04T16:22:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Everything I Saw at Day 6 of Jaguars Training Camp: Anthony Campanile's Unit Dominates",
-                "desc": "Day 6 of Jacksonville Jaguars training camp is in the books, and this day certainly belong to the defense.",
-                "image": "https://images2.minutemediacdn.com/image/upload/c_crop,x_204,y_0,w_2650,h_1490/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/jaguar_report/01kz6mxnh7g8bk6zdymd.jpg",
-                "url": "https://www.si.com/nfl/jaguars/onsi/jacksonville-everything-i-saw-at-day-6-of-training-camp-anthony-campanile-s-unit-dominates",
-                "source": "Sports Illustrated",
-                "date": "2026-08-04T16:14:35Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "College football rankings release has Ohio State atop preseason Top 25",
-                "desc": "The US LBM Coaches Poll is out and Ohio State starts at No. 1 for the first time since 2015 with the Big Ten and SEC dominating other top positions.",
-                "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/08/04/USAT/91161204007-20260102-t-223105-z-319203395-mt-1-usatoday-27920269-rtrmadp-3-ncaafootballcottonbowlmiamiatohiostate.JPG?crop=2859,1608,x362,y103&width=2859&height=1608&format=pjpg&auto=webp",
-                "url": "https://www.usatoday.com/story/sports/ncaaf/2026/08/04/college-football-rankings-preseason-top-25-poll-coaches/91067654007/",
-                "source": "USA Today",
-                "date": "2026-08-04T16:12:00Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-08-05T20:57:56.719670Z"
+    "lastGlobalSync": "2026-08-05T22:11:21.937238Z"
 }
