@@ -2,6 +2,51 @@
     "hi": {
         "general": [
             {
+                "title": "No फ्यूल: सुप्रीम कोर्ट ने केंद्र सरकार को दिया पायलट प्रोजेक्ट तैयार करने का निर्देश",
+                "desc": "सुप्रीम कोर्ट ने केंद्र सरकार को निर्देश दिया है कि बिना वैध थर्ड-पार्टी इंश्योरेंस वाले वाहनों को पेट्रोल पंपों पर तब तक तेल न दिया जाए, जब तक वे अनिवार्य बीमा कवर प्राप्त न कर लें।\nयह पायलट प्रोजेक्ट भारतीय सड़कों पर 56 बिना बीमा वाले वाहनों की समस्या से निपटने और सड़क दुर्घटना पीड़ितों को समय पर मुआवजा सुनिश्चित करने के लिए है।",
+                "image": "https://www.jagranimages.com/images/2026/08/04/article/image/no-insurance-no-fuel-1785863571715_m.webp",
+                "url": "https://www.jagran.com/news/national-sc-directs-no-fuel-for-uninsured-vehicles-pilot-project-40329762.html",
+                "source": "jagran.com",
+                "date": "2026-08-04T18:27:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "होर्मुज संकट के बीच क्या ईरान परमाणु हथियार बनाएगा? अमेरिका, इजरायल और सऊदी अरब टेंशन में",
+                "desc": "होर्मुज जलडमरूमध्य संकट के बीच ईरान के परमाणु कार्यक्रमों की चर्चा जारी है। ऐसी खबरें हैं कि ईरान ने अपने परमाणु प्रतिष्ठानों की तेजी से मरम्मत की है, जिन्हें अमेरिकी और इजरायली हमले में नुकसान पहुंचा था। ऐसे में सवाल उठता है कि क्या ऐसे संकट के वक्त ईरान परमाणु हथियार बनाएगा।",
+                "image": "https://static.langimg.com/nbt/thumb/132868961/iran-nuclear-weapons.jpg?imgsize=144512&width=1600&height=900&resizemode=75",
+                "url": "https://navbharattimes.indiatimes.com/world/uae/will-iran-get-nuclear-weapons-amid-hormuz-crisis-us-israel-saudi-arabia-concerned/articleshow/132868961.cms",
+                "source": "Navbharat Times",
+                "date": "2026-08-04T17:57:46Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "अब होर्मुज में बनेगा जहाजों का हाई-वे! ईरान-ओमान के बीच वार्ता जारी",
+                "desc": "होर्मुज में सुरक्षित आवाजाही को लेकर ईरान और ओमान के बीच जारी बातचीत को सकारात्मक बताया गया है. ईरानी विदेश मंत्रालय के अनुसार, दोनों देश तकनीकी और राजनीतिक स्तर पर सुरक्षित मार्ग तय करने और अपनी राष्ट्रीय सुरक्षा व संप्रभुता के अधिकारों की रक्षा के लिए निरंतर चर्चा कर रहे हैं.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202608/6a72276a9b843-iran-and-oman-hormuz-045445156-16x9.jpg",
+                "url": "https://www.aajtak.in/world/story/iran-oman-hormuz-strait-safe-maritime-transit-talks-national-security-ntc-ntyv-rpti-2615522-2026-08-04",
+                "source": "Aaj Tak News",
+                "date": "2026-08-04T17:56:42Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "लाल सागर में भारतीय जहाज पर हमला, बचाए गए सभी नाविक; भारत ने जताया विरोध",
+                "desc": "यमन के पास लाल सागर में एक भारतीय जहाज पर हमला हुआ है। यह हमला इतना खतरनाक था कि जहाज समुद्र में डूब गया। हालांकि राहत की बात यह है कि इस पर सवार सभी नाविकों को सुरक्षित बचा लिया गया है।, India News in Hindi - Hindustan",
+                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/08/04/1600x900/logo/Ship_Attack_1785873194406_1785873202384_51320a70-7b2d-4165-8873-aa690cb86115.jpg",
+                "url": "https://www.livehindustan.com/national/indian-ship-attacked-in-red-sea-india-slams-all-crew-members-rescued-201785864746565.html",
+                "source": "Hindustan",
+                "date": "2026-08-04T17:34:57Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "हूती विद्रोहियों का अटैक, यमन तट के पास लाल सागर में डूबा भारतीय जहाज",
+                "desc": "यमन के समुद्री इलाके में मंगलवार को एक भारतीय जहाज पर प्रोजेक्टाइल से हमला हुआ. इससे वह पलटकर डूब गया. यमन के कोस्ट गार्ट ने सभी 13 भारतीय नाविकों को सुरक्षित बचा लिया है.",
+                "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/08/04/a2589aa5b609c0493926ec6a449b637917858654042161324_original.jpg?impolicy=abp_cdn&imwidth=1200",
+                "url": "https://www.abplive.com/news/houthi-rebel-attack-indian-ship-sinks-red-sea-off-the-coast-of-yemen-3170548",
+                "source": "ABP News",
+                "date": "2026-08-04T17:12:49Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Stocks to Watch: 5 अगस्त को फोकस में रहेंगे ये 19 स्टॉक्स, दिख सकती है बड़ी हलचल",
                 "desc": "Stocks to Watch: बुधवार, 5 अगस्त को कई बड़े शेयरों में हलचल दिख सकती है। इसकी वजह कंपनियों के तिमाही नतीजे और उनसे जुड़े अहम अपडेट हैं। आइए जानते हैं कि कौन से 19 स्टॉक्स निवेशकों और ट्रेडर्स के रडार पर रहेंगे। - stocks to watch on 5 august hdfc bank airtel ongc lic nykaa marico bse and other likely to remain in focus",
                 "image": "https://images.moneycontrol.com/static-hindinews/2026/08/Stocks-to-Watch-1.jpg",
@@ -495,51 +540,6 @@
                 "source": "Navbharat Times",
                 "date": "2026-08-04T05:44:58Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "LIC Stock Crash: सिर्फ एक खबर... फिर LIC का शेयर देखते ही देखते क्रैश, 9% की गिरावट",
-                "desc": "LIC Stock Crash Today: शेयर बाजार में उतार-चढ़ाव के बीच एलआईसी के शेयर का बुरा हाल नजर आ रहा है और निवेशकों में हड़कंप मचा है. मार्केट ओपन होने के साथ ही LIC Share देखते ही देखते करीब 9 फीसदी फिसल गया.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202608/6a717aae43ea1-lic-share-crash-043744957-16x9.jpg",
-                "url": "https://www.aajtak.in/business/news/story/lic-stock-crash-today-after-govt-stake-sell-ofs-for-non-retail-investors-kick-off-check-price-tutc-dskc-2614957-2026-08-04",
-                "source": "Aaj Tak News",
-                "date": "2026-08-04T05:39:43Z",
-                "priority": "CRITICAL_ALERT"
-            },
-            {
-                "title": "2028 से लागू होगा नया नियम: गाड़ी में V2V सिस्टम होगा अनिवार्य; सड़क पर दौड़ रही हर गाड़ी की डिटेल मिलेगी",
-                "desc": "सड़क परिवहन और राजमार्ग मंत्रालय (MoRTH) ने मोटर वाहनों में V2V कम्युनिकेशन सिस्टम को चरणबद्ध तरीके से लागू करने के लिए 'केंद्रीय मोटर वाहन नियम, 1989' में संशोधन का प्रस्ताव करते हुए एक ड्राफ्ट नोटिफिकेशन जारी किया है।, Auto Hindi News - Hindustan",
-                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/08/04/1600x900/logo/Govt_proposes_mandatory_V2V_systems_1785821359297_1785821364353_c3016e52-ea9c-4078-add7-18fdb6c96a80.jpg",
-                "url": "https://www.livehindustan.com/auto/govt-proposes-mandatory-v2v-systems-for-vehicles-from-2028-201785821283339.html",
-                "source": "Hindustan",
-                "date": "2026-08-04T05:30:53Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "बुमराह को पहले फिट माना गया, फिर OUT! आखिर चंद दिनों में क्या बदल गया?",
-                "desc": "जसप्रीत बुमराह के श्रीलंका टेस्ट सीरीज से बाहर होने के बाद बीसीसीआई के सेंटर ऑफ एक्सीलेंस और फिटनेस मैनेजमेंट सिस्टम पर सवाल उठने लगे हैं. चयनकर्ताओं को पहले मिले फिटनेस अपडेट और बाद में बदली तस्वीर ने चोट प्रबंधन और मेडिकल समन्वय को बहस के केंद्र में ला दिया है.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202608/6a7177e1bea9b-jasprit-bumrah-042548341-16x9.jpg",
-                "url": "https://www.aajtak.in/sports/cricket/story/bumrah-injury-bcci-centre-of-excellence-fitness-system-questions-sri-lanka-test-series-bmsp-dskc-2614949-2026-08-04",
-                "source": "Aaj Tak News",
-                "date": "2026-08-04T05:30:21Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "सुहागरात सीन में बिजी थे निरहुआ, आम्रपाली को देख छूटे पसीने, हीरोइन बोली- मुझे पकड़ेंगे, खीचेंगे तो फीलिंग्स...",
-                "desc": "भोजपुरी इंडस्ट्री की काजल राघवानी ने दिनेश लाल यादव उर्फ निरहुआ और आम्रपाली को लेकर बड़ा खुलासा किया है.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/photo_gallery/202608/6a71651dc668d-kajal-raghwani-suhagrat-song-dinesh-lal-yadav-040544626-16x9.jpg",
-                "url": "https://www.aajtak.in/entertainment/bollywood-news/photo/bhojpuri-kajal-raghwani-suhagrat-song-dinesh-lal-yadav-nirahua-felt-uncomfortable-amrapali-dubey-reacts-tmovf-2614840-2026-08-04",
-                "source": "Aaj Tak News",
-                "date": "2026-08-04T05:25:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "गौतम गंभीर पर गिरेगी गाज? जानिए क्यों संकट में पड़ी टीम इंडिया के हेड कोच की नौकरी?",
-                "desc": "गौतम गंभीर पर अब दबाव बढ़ गया है। जब वे हेड कोच बने थे तो अपने साथ पूरे सपोर्ट स्टाफ को लाए थे। उन्हें सब कुछ मिला है, लेकिन नतीजे के मामले में भारतीय टीम ने अच्छा प्रदर्शन नहीं किया है। , Cricket Hindi News - Hindustan",
-                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/08/04/1600x900/logo/Gautam_Gambhir_1785819165391_1785819165575_4d23d3ec-72cf-4cdd-820a-37ef8b5ad0f2.jpg",
-                "url": "https://www.livehindustan.com/cricket/is-gautam-gambhir-team-india-head-coach-job-at-risk-report-makes-big-bcci-claim-201785819169505.html",
-                "source": "livehindustan.com",
-                "date": "2026-08-04T05:14:48Z",
-                "priority": "STANDARD"
             }
         ],
         "business": [
@@ -622,6 +622,15 @@
                 "url": "https://www.abplive.com/business/small-finance-banks-are-giving-fd-rate-up-to-8-percent-for-senior-citizens-3170465",
                 "source": "ABP News",
                 "date": "2026-08-04T15:18:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "देश की सबसे चहेती 7-सीटर, जुलाई में इसे 21,606 लोगों ने खरीदा; बिक्री में बनी नंबर-1; 26 km है माइलेज",
+                "desc": "भारतीय मार्केट में 7-सीटर कार सुनते ही मारुति सुजुकी अर्टिगा का नाम सबसे पहले आता है। बता दें कि मारुति सुजुकी अर्टिगा (Maruti Suzuki Ertiga) एक बार फिर देश की सबसे ज्यादा बिकने वाली 7-सीटर कार बन गई है।, Auto Hindi News - Hindustan",
+                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/08/04/1600x900/logo/maruti_ertiga_car_1768233758378_1768233763102_1785856434780_138d7b33-ea5e-4b41-ad42-b4cddaf4c2ef.jpg",
+                "url": "https://www.livehindustan.com/auto/maruti-suzuki-ertiga-best-selling-7-seater-july-2026-with-21606-units-sales-201785856159302.html",
+                "source": "Hindustan",
+                "date": "2026-08-04T15:14:23Z",
                 "priority": "STANDARD"
             },
             {
@@ -1073,18 +1082,18 @@
                 "source": "CNBC TV18",
                 "date": "2026-08-04T03:02:19Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Petrol Diesel Price Today: पेट्रोल-डीजल की ताजा कीमतें जारी, चेक करें आज का लेटेस्ट रेट",
-                "desc": "आज सुबह 6 बजे पेट्रोल और डीजल के नए दाम जारी किए गए। अंतरराष्ट्रीय बाजार में कच्चे तेल की कीमतों और डॉलर के मुकाबले रुपये की स्थिति के आधार पर ईंधन दरें तय की गईं। अधिकांश शहरों में कीमतें स्थिर रहीं, जबकि राज्यों के अलग-अलग वैट और टैक्स के कारण कुछ स्थानों पर मामूली बदलाव देखने को मिला। -",
-                "image": "https://images.moneycontrol.com/static-hindinews/2026/05/Govt-Cuts-Export-Tax-On-Petrol-Diesel-ATF.jpg",
-                "url": "https://hindi.moneycontrol.com/news/commodity/petrol-diesel-prices/petrol-diesel-price-today-4-august-2026-latest-fuel-rates-india-2426345.html",
-                "source": "Moneycontrol Hindi",
-                "date": "2026-08-04T02:23:20Z",
-                "priority": "STANDARD"
             }
         ],
         "entertainment": [
+            {
+                "title": "आर माधवन: मेरे बेटे से बेहतर स्विमर्स इंडिया में हैं, लोग वेदांत के बारे में बात करते हैं, स्टारडम खतरनाक है",
+                "desc": "माधवन ने कोरोना के दौरान बेटे की स्विमिंग ट्रेनिंग के लिए बड़ा फैसला लिया और उन्होंने कहा- वेदांत के साथ-साथ भारत में कई ऐसे स्विमर हैं जो उनसे भी बेहतर हैं। लेकिन क्योंकि वे मेरे बेटे नहीं हैं, इसलिए उन्हें उतनी पॉप्युलैरिटी नहीं मिलती।",
+                "image": "https://static.langimg.com/nbt/thumb/132868963/r-madhavan-says-there-are-better-swimmers.jpg?imgsize=151175&width=1600&height=900&resizemode=75",
+                "url": "https://navbharattimes.indiatimes.com/entertainment/news-from-bollywood/r-madhavan-says-there-are-better-swimmers-in-india-than-vedaant-people-talk-about-him-stardom-is-a-very-dangerous/articleshow/132868963.cms",
+                "source": "Navbharat Times",
+                "date": "2026-08-04T17:56:11Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "'गजनी' फेम एक्टर प्रदीप रावत का ब्लड कैंसर से निधन, 74 की उम्र में ली अंतिम सांस",
                 "desc": "'गजनी' और 'लगान' जैसी फिल्मों में दमदार किरदार निभाने वाले एक्टर प्रदीप रावत का निधन हो गया. उनके जाने से फिल्म इंडस्ट्री में शोक की लहर है. सोनू सूद और अन्य सितारों ने सोशल मीडिया पर उन्हें भावभीनी श्रद्धांजलि दी.",
@@ -1615,18 +1624,18 @@
                 "source": "AajTak",
                 "date": "2026-08-03T15:58:08Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "सोमवार को बदला Dhamaal 4 की कमाई का गणित, अजय देवगन की कॉमेडी फिल्म की कमाई कर देगी हैरान",
-                "desc": "10 जुलाई को थिएटर्स में दस्तक देने वाली 'धमाल 4' ने सिनेमाघरों में 25 दिन पूरे कर लिए हैं।",
-                "image": "https://www.jagranimages.com/images/2026/08/03/article/image/dhamaal-4-(2)-1785772454987_m.webp",
-                "url": "https://www.jagran.com/entertainment/box-office-dhamaal-4-box-office-collection-day-25-ajay-devgn-starrer-comedy-film-earned-41-lakh-on-monday-40328551.html",
-                "source": "Jagran",
-                "date": "2026-08-03T15:58:00Z",
-                "priority": "STANDARD"
             }
         ],
         "sports": [
+            {
+                "title": "वंदे मातरम् पर मोहम्मद शमी का बड़ा बयान, जो कहा वो हर मुस्लिम को जानना चाहिए",
+                "desc": "Mohammed Shami on Vande Mataram: मोहम्मद शमी ने 'वंदे मातरम्' को लेकर बड़ा बयान दिया. उन्होंने कहा कि इसको गाने से उनका कुछ नहीं होगा. इसके अलावा उन्होंने 'भारत माता की जय' पर भी बात की.",
+                "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/08/04/9a94c342030c1458aa5f244421b793df17858635769341364_original.jpg?impolicy=abp_cdn&imwidth=1200",
+                "url": "https://www.abplive.com/sports/cricket/mohammed-shami-on-vande-mataram-and-bharat-mata-ki-jai-debate-says-no-problem-by-singing-it-no-fear-indian-team-3170544",
+                "source": "ABP News",
+                "date": "2026-08-04T17:17:26Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "पाकिस्तान क्रिकेट बोर्ड क्या छिपा रहा है? क्यों नहीं दे रहा जानकारी... सूचना आयोग के आदेश के बाद कोर्ट पहुंचा मामला",
                 "desc": "पाकिस्तान क्रिकेट बोर्ड (PCB) ने पाकिस्तान सूचना आयोग (PIC) के उस आदेश को इस्लामाबाद हाईकोर्ट में चुनौती दी है, जिसमें 2023-26 के बजट, खिलाड़ियों और कर्मचारियों के कॉन्ट्रैक्ट, सैलरी, T20 वर्ल्ड कप खर्च और अन्य वित्तीय जानकारी सार्वजनिक करने को कहा गया था. PCB का कहना है कि इससे उसके व्यावसायिक हित, गोपनीय समझौते और तीसरे पक्ष की निजता प्रभावित होगी.",
@@ -1670,6 +1679,15 @@
                 "url": "https://www.jagran.com/cricket/apni-baat-virender-sehwag-reveals-why-he-did-not-take-the-head-coach-role-of-india-cricket-team-40329624.html",
                 "source": "Jagran",
                 "date": "2026-08-04T14:52:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "यश दयाल से जयंत यादव तक, नए सीजन से पहले 4 स्टार खिलाड़ियों की बदली टीम",
+                "desc": "तेज गेंदबाज यश दयाल अब छत्तीसगढ़ के लिए खेलेंगे, वह अपनी पूर्व घरेलू टीम (यूपी क्रिकेट) से एनओसी का इंतजार कर रहे हैं. उनके आलावा 3 और क्रिकेटर ने अपनी घरेलू टीम बदल ली है.",
+                "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/08/04/0b337166287661bb366bc3cfc227742217858520746161212_original.jpg?impolicy=abp_cdn&imwidth=1200",
+                "url": "https://www.abplive.com/sports/cricket/yash-dayal-to-jayant-yadav-cricketers-those-changed-team-in-upcoming-domestic-season-3170485",
+                "source": "ABP News",
+                "date": "2026-08-04T14:47:21Z",
                 "priority": "STANDARD"
             },
             {
@@ -2148,29 +2166,101 @@
                 "source": "Navbharat Times",
                 "date": "2026-08-03T16:37:09Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "पंजाब किंग्स के प्लेयर शशांक सिंह ने अचानक बदली अपनी टीम, कहा- वहां मुझे सिर्फ IPL खिलाड़ी समझा गया",
-                "desc": "पंजाब किंग्स (PBKS) के ऑलराउंडर शशांक सिंह ने छत्तीसगढ़ क्रिकेट संघ पर गंभीर आरोप लगाकर अपनी घरेलू टीम छोड़ दी है। अब वे 2026-27 के सीजन में पुडुचेरी की तरफ से खेलेंगे।",
-                "image": "https://resize.indiatv.in/resize/newbucket/1200_-/2026/08/india-tv-2026-08-03t205005-1785770447.jpg",
-                "url": "https://www.indiatv.in/sports/cricket/shashank-singh-part-ways-with-chhattisgarh-will-represent-puducherry-in-the-upcoming-domestic-season-2026-08-03-1235115",
-                "source": "India TV Hindi",
-                "date": "2026-08-03T16:02:21Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "फूल बरसाये, 30 लाख का चेक दिया और प्रमोशन देकर बनाया DSP, कॉमनवेल्थ गेम की विजेता का सीएम ने ऐसे किया स्वागत",
-                "desc": "Gyaneshwari Yadav: ज्ञानेश्वरी यादव छत्तीसगढ़ के राजनांदगांव की रहने वाली हैं। सीएम विष्णुदेव साय ने सोमवार को उनका स्वागत किया। ज्ञानेश्वरी यादव को सरकार ने आउट ऑफ टर्म प्रमोशन देकर DSP बनाया है।",
-                "image": "https://static.langimg.com/nbt/thumb/132835875/gyaneshwari-yadav.jpg?imgsize=228954&width=1600&height=900&resizemode=75",
-                "url": "https://navbharattimes.indiatimes.com/state/chhattisgarh/raipur/flowers-showered-cheque-for-30-lakh-and-promoted-to-dsp-cm-sai-welcomes-commonwealth-games-medalist-gyaneshwari-yadav/articleshow/132835875.cms",
-                "source": "navbharattimes.indiatimes.com",
-                "date": "2026-08-03T15:44:46Z",
-                "priority": "STANDARD"
             }
         ]
     },
     "en": {
         "general": [
+            {
+                "title": "As the Danube River dries up, World War II shipwrecks and mammoth bones come into view",
+                "desc": "Water levels on the Danube River have dropped so low that dozens of World War II German battleships – and even the remains of an ancient woolly mammoth — are emerging into view.",
+                "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/04/06471fd1-9c81-43fc-a758-f324c83c251f/thumbnail/1200x630/603c87ca40643b566dc03e9ff0067257/2026-07-30t164304z-480324851-rc2doma9sn1b-rtrmadp-3-europe-weather-drought-serbia.jpg",
+                "url": "https://www.cbsnews.com/news/danube-river-wwii-shipwrecks-mammoth-bones/",
+                "source": "CBS News",
+                "date": "2026-08-04T19:23:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "A piece of a SpaceX rocket is about to hit the moon",
+                "desc": "A discarded Falcon 9 rocket will collide with the moon at 5,400 miles per hour.",
+                "image": "https://i.abcnewsfe.com/a/7ad5af81-0f23-4804-ae78-c39e9457c477/spacex-gty-jef-260730_1785419951654_hpMain_16x9.jpg?w=1600",
+                "url": "https://abcnews.com/US/piece-spacex-rocket-hit-moon/story?id=135225250",
+                "source": "ABC News - Breaking News, Latest News and Videos",
+                "date": "2026-08-04T19:16:30Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Paine selected as Tory candidate",
+                "desc": "Joshua Bonehill-Paine was jailed in 2015 after posting antisemitic remarks ahead of a protest.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/51ea/live/def2ce50-8ff5-11f1-a10e-47119dd4425c.jpg",
+                "url": "https://www.bbc.com/news/articles/c70g9rw58q2o",
+                "source": "BBC",
+                "date": "2026-08-04T19:15:51Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Jalon Walker carted off at Falcons practice",
+                "desc": "The Falcons will be hoping for some positive news about linebacker Jalon Walker's condition on Tuesday afternoon.",
+                "image": "https://nbcsports.brightspotcdn.com/dims4/default/703ae9e/2147483647/strip/true/crop/5917x3328+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F80%2Fdd%2F752c4a5b4ead8791956604d867bb%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2251240933",
+                "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jalon-walker-carted-off-at-falcons-practice",
+                "source": "NBC Sports",
+                "date": "2026-08-04T19:14:29Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Pixel Watch 5 Specs Tell Us the Upgrades to Expect",
+                "desc": "Are there any unanswered questions surrounding the launch of the Pixel 11 series and Pixel Watch 5? Not many. A new specs list leak for the Pixel Watch 5 may have just about cleared up any remaining confusion. According to a supposed specs list for Google's new watch, there are a couple of...",
+                "image": "https://www.droid-life.com/wp-content/uploads/2026/07/Google-Pixel-Watch-5-Official-2-1200x628.jpg",
+                "url": "https://www.droid-life.com/2026/08/04/pixel-watch-5-specs-tell-us-the-upgrades-to-expect/",
+                "source": "Droid Life",
+                "date": "2026-08-04T18:54:10Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Eaton Fire was caused by SoCal Edison electrical tower, LA County Fire Department says",
+                "desc": "The deadly 2025 Eaton Fire in Los Angeles was caused by Southern California Edison equipment, fire officials say.",
+                "image": "https://cdn.abcotvs.com/dip/images/18432055_011926-kfsn-eaton-fire-ap-img.jpg?w=1600",
+                "url": "https://abc7.com/post/socal-edison-equipment-blamed-2025-eaton-fire-investigation-la-county-department-says/19625172/",
+                "source": "ABC7 Los Angeles",
+                "date": "2026-08-04T18:53:43Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "VDH investigating dengue virus in Northern Virginia, first-ever documented case of virus being acquired locally",
+                "desc": "The Virginia Department of Health announced they are investigating a confirmed case of dengue virus that occurred in a resident in Northern Virginia.",
+                "image": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/CYV6GKLHIBCIPGTFWPKALROE6Q.jpg?_a=DATAg1kSZAA0",
+                "url": "https://www.wsls.com/news/local/2026/08/04/vdh-investigating-dengue-virus-in-northern-virginia-first-ever-documented-case-of-virus-being-acquired-locally/",
+                "source": "wsls.com",
+                "date": "2026-08-04T18:47:16Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Brock Lesnar announces retirement from WWE",
+                "desc": "SummerSlam 2026 was the end of the line for Brock Lesnar.",
+                "image": "https://www.f4wonline.com/wp-content/uploads/2026/08/brockpaul.jpg",
+                "url": "https://www.f4wonline.com/news/wwe/brock-lesnar-announces-retirement-from-wwe/",
+                "source": "F4W/WON",
+                "date": "2026-08-04T18:33:19Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "‘Dissatisfied’ Trump Orders Changes To White House Helipad",
+                "desc": "Construction quietly began on the helipad—one of many concurrent construction projects at the White House—in June.",
+                "image": "https://imageio.forbes.com/specials-images/imageserve/6a722de41ddcbb76d7724d57/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+                "url": "https://www.forbes.com/sites/conormurray/2026/08/04/trump-orders-work-redone-on-white-house-helipad-report-says/",
+                "source": "Forbes",
+                "date": "2026-08-04T18:23:18Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Demand soars for U.S. Patriot missiles, from Mideast to Ukraine : NPR",
+                "desc": "The U.S. and its partners depend on Patriot interceptors to shoot down incoming ballistic missiles. But Russia and Iran are firing their weapons at rates far higher than Patriots can be produced.",
+                "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4187x2354+0+257/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4d%2F63%2F9413b60f4ea997ccc13fd36777af%2Fap26190449857953.jpg",
+                "url": "https://www.npr.org/2026/08/04/g-s1-137287/us-patriot-missiles-ukraine-middle-east-iran-war",
+                "source": "NPR",
+                "date": "2026-08-04T18:01:04Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Senate committee advances Blanche's attorney general nomination",
                 "desc": "Acting Attorney General Todd Blanche has a cleared critical hurdle in his bid to be confirmed to the post after swaying Republican holdouts on a Senate committee to advance his nomination for a floor vote.",
@@ -2620,99 +2710,45 @@
                 "source": "AP News",
                 "date": "2026-08-04T04:03:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Trump raises concerns over campaign in call with Rep. Max Miller amid abuse allegations",
-                "desc": "Ohio Rep. Max Miller's reelection campaign has been upended by allegations that Miller assaulted his ex-wife, Emily Moreno, and their 2-year-old daughter.",
-                "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/04/7b763e5f-ef09-4788-b7cb-10bf235e4e60/thumbnail/1200x630/668d959e76a9921f177612b6ee1f0f46/gettyimages-2279933527.jpg",
-                "url": "https://www.cbsnews.com/news/trump-max-miller-call-abuse-allegations/",
-                "source": "CBS News",
-                "date": "2026-08-04T04:01:44Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Runaway online rumors sparked frantic rush by migrants to Ceuta",
-                "desc": "Social media rumors sparked a migration surge from Morocco to Spain's Ceuta enclave. Posts on Instagram, Facebook, and TikTok convinced thousands of migrants that the border was open.",
-                "image": "https://dims.apnews.com/dims4/default/34c9294/2147483647/strip/true/crop/4214x2808+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F12%2Fa3%2F2368dafa5322eef4050ae692582a%2Fb339df960ce847569f5f0c3fa294abd5",
-                "url": "https://apnews.com/article/ceuta-spain-morocco-migration-f3a7f514a7792c39d8b8d5d814fa5158",
-                "source": "AP News",
-                "date": "2026-08-04T04:01:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "JPMorgan Again Entangled in a Soccer Fiasco",
-                "desc": "After promising to learn from its role in a failed “Super League” that fueled fan anger, the Wall Street bank is involved in FIFA’s latest meltdown.",
-                "image": "https://static01.nyt.com/images/2026/08/05/multimedia/Biz-Fifa-JPMorgan-01-cpqt/Biz-Fifa-JPMorgan-01-cpqt-facebookJumbo.jpg",
-                "url": "https://www.nytimes.com/2026/08/04/world/europe/fifa-jpmorgan.html",
-                "source": "The New York Times",
-                "date": "2026-08-04T04:00:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "MLB trade deadline 2026: Grading every team's deadline results, from an A+ for the Dodgers to an F+ for the Reds",
-                "desc": "The Rays, Padres, Pirates and Cubs also earned high marks for their dealing ahead of this deadline.",
-                "image": "https://s.yimg.com/lo/mysterio/api/e73ff3f7c9c7f66b65675306de4f98daa40376626ca957a1651ed6449a8933c8/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fed-080326-gradingmlbdeadline_3014.jpg",
-                "url": "https://sports.yahoo.com/mlb/article/mlb-trade-deadline-2026-grading-every-teams-deadline-results-from-an-a-for-the-dodgers-to-an-f-for-the-reds-035645133.html",
-                "source": "Yahoo Sports",
-                "date": "2026-08-04T03:56:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Android's Windows superpower is finally coming to the iPhone",
-                "desc": "Apple plans to let iPhone users copy and paste seamlessly with Windows PCs, years after Android users got similar functionality.",
-                "image": "https://www.androidauthority.com/wp-content/uploads/2025/07/microsoft-phone-link-to-windows-on-Android-scaled.jpg",
-                "url": "https://www.androidauthority.com/apple-iphone-clipboard-access-windows-pc-android-3694110/",
-                "source": "Android Authority",
-                "date": "2026-08-04T03:55:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Nauru, the world’s 3rd-smallest country, changes its name to Naoero",
-                "desc": "The move returns the remote South Pacific island nation to its traditional name, officials said, rather than a name that was easier for foreigners to pronounce.",
-                "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-08/260803-NauraNaoero-vsb-2342-1eef79.jpg",
-                "url": "https://www.nbcnews.com/world/asia/nauru-worlds-3rd-smallest-country-changes-name-naoero-rcna590689",
-                "source": "NBC News",
-                "date": "2026-08-04T03:54:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Child among 2 being treated for measles in Lehigh County, health officials say",
-                "desc": "Lehigh County confirmed its first two measles cases, including a pediatric patient, amid a statewide surge in Pennsylvania.",
-                "image": "https://cdn.abcotvs.com/dip/images/19623920_080426-wpvi-2-lehigh-measles-cases-530a-vo-video-vid.jpg?w=1600",
-                "url": "https://6abc.com/post/pediatric-measles-case-reported-st-lukes-hospital-lehigh-valley/19621753/",
-                "source": "6abc Philadelphia",
-                "date": "2026-08-04T03:45:24Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Phillies land Luis Arraez in five-player trade",
-                "desc": "Phillies acquired 2B Luis Arraez and RHP Caleb Kilian from the Giants for Ramon Marquez and RHP Marty Gair.",
-                "image": "https://nbcsports.brightspotcdn.com/dims4/default/155326f/2147483647/strip/true/crop/800x450+0+315/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F8a%2Fe1%2F06679a49490ab094a72303d8aced%2Farraez-luis-copy.jpg",
-                "url": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-03/phillies-land-luis-arraez-in-five-player-trade",
-                "source": "nbcsports.com",
-                "date": "2026-08-04T03:36:50Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Luis Arráez is ‘a great fit’ for Philadelphia, say Phillies who played with him before trade: ‘He’s going to bring a lot of energy’",
-                "desc": "PHILADELPHIA — Jesús Luzardo reached out to his longtime friend and old teammate Luis Arráez as soon as the news broke. On Monday morning, ahead of Major League Baseball’s 6 p.m. trade deadline, the Phillies swung a deal with the San Francisco Giants for Arráez, a three-time batting champion and four-time All Star. The extremely […]",
-                "image": "https://philliesnation.com/wp-content/uploads/2026/08/320FC74E-5C11-4667-A738-0AC1A3F1DEB3-1000x600.jpeg",
-                "url": "https://philliesnation.com/2026/08/philadelphia-phillies-luis-arraez-trade-deadline-move-former-teammates-great-fit-hitter-batting-title-jesus-luzardo-bryan-de-la-cruz-don-mattingly-feature-update/",
-                "source": "Phillies Nation",
-                "date": "2026-08-04T01:24:27Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Powerball jackpot hits $748M. Check Monday's winning numbers",
-                "desc": "Powerball's jackpot has climbed to $748 million after months without a winning ticket. Check the latest numbers and your luck.",
-                "image": "https://s.yimg.com/lo/mysterio/api/522e5100c30b84b582e3214f0f30b4ae2511f7fb025d5951161fb0fec73f83f0/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_money_325%2F6422f021586651a86c8a29c6290f13ed",
-                "url": "https://www.yahoo.com/news/us/articles/powerball-hits-748m-winning-numbers-010152888.html",
-                "source": "Yahoo",
-                "date": "2026-08-04T01:01:00Z",
-                "priority": "STANDARD"
             }
         ],
         "business": [
+            {
+                "title": "Beef prices surge nearly 12% as the US cattle herd hits 70-year low",
+                "desc": "Tyson Foods reported a $138 million loss in its beef business amid the ongoing cattle cycle shortage. CEO Donnie King says beef hasn't performed as expected.",
+                "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/06/0/0/us-beef-cattle.png?ve=1&tl=1",
+                "url": "https://www.foxbusiness.com/economy/high-beef-prices-hitting-consumers-meatpacking-giant-warns-supply-struggles",
+                "source": "Fox Business",
+                "date": "2026-08-04T19:07:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "3 La Panadería locations in San Antonio accused of child labor, wage violations",
+                "desc": "A federal investigation revealed the operators of three La Panadería Bakery Café locations in San Antonio violated child labor provisions as well as minimum wage and overtime pay requirements.",
+                "image": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/video/ksat/b4784b12-05ee-4472-ac17-3ba360480b6d/image.jpg?_a=DATAg1kSZAA0",
+                "url": "https://www.ksat.com/news/local/2026/08/04/feds-uncover-child-labor-minimum-wage-violations-at-3-la-panaderia-locations-in-san-antonio/",
+                "source": "KSAT",
+                "date": "2026-08-04T18:52:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Strait of Hormuz Deal With Iran Possible Soon, Bessent Says",
+                "desc": "Qatar said that draft language of a deal was being circulated, while Secretary of State Marco Rubio expressed optimism about the talks but added that nothing was final yet.",
+                "image": "https://static01.nyt.com/images/2026/09/03/multimedia/03int-iran-talks-A-hzfw/03int-iran-talks-A-hzfw-facebookJumbo.jpg",
+                "url": "https://www.nytimes.com/2026/08/04/world/middleeast/strait-of-hormuz-deal-progress.html",
+                "source": "nytimes.com",
+                "date": "2026-08-04T17:57:27Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Chipotle stock falls on link to salmonella outbreak in Minnesota",
+                "desc": "Chipotle has pulled the affected supply from restaurants and replaced them with peppers from different growers, according to the company.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108341316-17852662632026-07-17t021421z_1931100169_rc27fma3vwa3_rtrmadp_0_mexico-chipotle-alsea.jpeg?v=1785868116&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/08/04/chipotle-stock-falls-salmonella-outbreak-minnesota.html",
+                "source": "CNBC",
+                "date": "2026-08-04T17:54:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Palantir stock jumps nearly 30% after 'otherworldly' quarter as US commercial business booms",
                 "desc": "Palantir stock jumped after the company smashed earnings estimates and raised its full-year guidance.",
@@ -2720,6 +2756,15 @@
                 "url": "https://finance.yahoo.com/markets/stocks/article/palantir-stock-jumps-nearly-30-after-otherworldly-quarter-as-us-commercial-business-booms-122817775.html",
                 "source": "Yahoo Finance",
                 "date": "2026-08-04T16:55:42Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "OpenAI Is Trying to Shame Apple Into Backing Down From Its Lawsuit",
+                "desc": "Weeks after a bombshell lawsuit, OpenAI is publishing its own receipts.",
+                "image": "https://gizmodo.com/app/uploads/2026/08/tim-cook-openAI-lawsuit-1200x675.jpg",
+                "url": "https://gizmodo.com/openai-is-trying-to-shame-apple-into-backing-down-from-its-lawsuit-2000794427",
+                "source": "Gizmodo",
+                "date": "2026-08-04T16:45:39Z",
                 "priority": "STANDARD"
             },
             {
@@ -3207,54 +3252,99 @@
                 "source": "Seeking Alpha",
                 "date": "2026-08-03T17:37:34Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "What's Different in the North American Tesla Model Y L",
-                "desc": "As production ramps up at Gigafactory Texas, fresh details highlight how the North American Model Y L differs from builds manufactured overseas",
-                "image": "https://www.notateslaapp.com/img/containers/article_images/model-y-2025/model-y-l/model-y-l-north-america-differences-1.webp/14c3762230db72b779b089069770ca36/model-y-l-north-america-differences-1.jpg",
-                "url": "https://www.notateslaapp.com/news/4530/whats-different-in-the-north-american-tesla-model-y-l",
-                "source": "Not a Tesla App",
-                "date": "2026-08-03T17:26:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "SpaceX set to release its first earnings report as a public company. Here's what to look for.",
-                "desc": "SpaceX will release its first earnings report as a public company on Tuesday in a key test for the company's stuttering stock price.",
-                "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/06/12/2de6bd2b-27d4-43c5-b469-681f2d6b074a/thumbnail/1200x630/4538915cb2629777820ab44248101a06/cbsn-fusion-elon-musk-becomes-worlds-first-trillionaire-at-record-setting-spacex-ipo-launch-thumbnail.jpg",
-                "url": "https://www.cbsnews.com/news/spacex-first-earnings-report-ai-starlink/",
-                "source": "CBS News",
-                "date": "2026-08-03T17:23:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Anthropic Says the House Is on Fire. China Says AI Will Set You Free",
-                "desc": "To get a feel for just how different the public moods are towards AI between the U.S. and China, just look at the marketing.",
-                "image": "https://gizmodo.com/app/uploads/2026/08/Alibababa-v-China-1200x675.png",
-                "url": "https://gizmodo.com/anthropic-says-the-house-is-on-fire-china-says-ai-will-set-you-free-2000794003",
-                "source": "Gizmodo",
-                "date": "2026-08-03T17:20:51Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Talarico warns cartels could benefit",
-                "desc": "Talarico says the state's crackdown on certain THC products will benefit drug cartels by pushing consumers back to the black market.",
-                "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/08/03/PTX1/91152326007-getty-images-2287220546.jpg?crop=5917,3330,x0,y307&width=3200&height=1801&format=pjpg&auto=webp",
-                "url": "https://www.usatoday.com/story/news/state/texas/2026/08/03/texas-ban-on-thc-talarico-warns-cartels-could-benefit/91150766007/",
-                "source": "USA Today",
-                "date": "2026-08-03T17:03:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Oil slides as Trump delays Iran strikes, signals peace talks",
-                "desc": "Oil prices fell sharply Monday as President Donald Trump signaled a potential deal to end the Iran war and reopen the Strait of Hormuz for oil shipments.",
-                "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/03/0/0/straight-of-hormuz-2.jpg?ve=1&tl=1",
-                "url": "https://www.foxbusiness.com/markets/oil-slides-trump-delays-iran-strikes-signals-peace-talks",
-                "source": "Fox Business",
-                "date": "2026-08-03T16:57:00Z",
-                "priority": "STANDARD"
             }
         ],
         "entertainment": [
+            {
+                "title": "MAGA Made a Nicole Kidman AMC Ad Parody, for Some Reason",
+                "desc": "Yesterday, to little fanfare, the White House released an untimely Nicole Kidman AMC ad parody video made with AI.",
+                "image": "https://pyxis.nymag.com/v1/imgs/e4b/d43/3c57c5151fe8e788a36e94e928d68603af-whitehouse-amc-spoof-3.1x.rsocial.w1200.png",
+                "url": "https://www.vulture.com/article/maga-amc-nicole-kidman-parody-ai.html",
+                "source": "Vulture",
+                "date": "2026-08-04T19:22:34Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Influencer Shamar McCoy Arrested Over Alleged Beatdown",
+                "desc": "Reality star Shamar McCoy was arrested for misdemeanor battery after he and his boyfriend allegedly beat up a man ... TMZ has learned.According to court docs and online records, Shamar was taken into custody on Monday over an alleged November 2024 incident ... and he was released hours later, after posting $2,000 bond.",
+                "image": "https://imagez.tmz.com/image/b8/16by9/2026/08/04/b8ca8371c2384354b03b14a5cb42ece5_xl.jpg",
+                "url": "https://www.tmz.com/2026/08/04/shamar-mccoy-arrested-for-battery/",
+                "source": "TMZ",
+                "date": "2026-08-04T19:00:17Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Bethenny Frankel Says Doctors Think She’s Been ‘Misdiagnosed’ With ‘Major’ Health Issue, Shares Warning",
+                "desc": "Bethenny Frankel is opening up about a discovery in her health journey. On Monday, August 3, the Real Housewives of New York City alum, 55, posted an Instagram video explaining she was diagnosed with ...",
+                "image": "https://s.yimg.com/lo/mysterio/api/4c4518cde33dd9f578f6bad3b1e1f82a168b1016a7faeb400a3d7f6119705d8d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fin_touch_weekly_articles_766%2F9112731e4e0a281f0a6c0062e5135a1e",
+                "url": "https://www.yahoo.com/entertainment/celebrity/articles/bethenny-frankel-says-doctors-think-184001349.html",
+                "source": "Yahoo",
+                "date": "2026-08-04T18:40:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Brock Lesnar announces retirement from WWE",
+                "desc": "SummerSlam 2026 was the end of the line for Brock Lesnar.",
+                "image": "https://www.f4wonline.com/wp-content/uploads/2026/08/brockpaul.jpg",
+                "url": "https://www.f4wonline.com/news/wwe/brock-lesnar-announces-retirement-from-wwe/",
+                "source": "F4W/WON",
+                "date": "2026-08-04T18:33:19Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Princess Eugenie announces birth of baby girl",
+                "desc": "The birth took place at a hospital in Lisbon, Portugal, on Monday evening, Buckingham Palace said",
+                "image": "https://static.independent.co.uk/2026/08/04/17/11/Princess-Eugenie-baby-girl.png?trim=0,12,0,12&width=1200&height=800&crop=1200:800",
+                "url": "https://www.independent.co.uk/news/uk/home-news/princess-eugenie-birth-baby-girl-b3027415.html",
+                "source": "The Independent",
+                "date": "2026-08-04T18:28:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Tiffany Trump Flaunts Toned Tummy on Vacation in the French Riviera",
+                "desc": "Tiffany Trump is turning heads on a family getaway ... because her flat stomach is turning silly snaps into thirst traps.",
+                "image": "https://imagez.tmz.com/image/33/16by9/2026/08/04/33ae091a656447abbfc548d0d1d79247_xl.jpg",
+                "url": "https://www.tmz.com/2026/08/04/tiffany-trump-flaunts-body-on-vacation/",
+                "source": "TMZ",
+                "date": "2026-08-04T18:24:20Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Donald Trump Jr paid ex Kimberly Guilfoyle $7.6 million to get out of Florida mansion they shared",
+                "desc": "Deed records in Palm Beach County indicate the eldest Trump son paid his ex-fiancée $7.6 million for her share of their Jupiter, Florida, home",
+                "image": "https://static.independent.co.uk/2026/08/04/17/1247680776..?trim=126,0,126,0&width=1200&height=800&crop=1200:800",
+                "url": "https://www.independent.co.uk/news/world/americas/donald-trump-jr-kimberly-guilfoyle-florida-home-b3027373.html",
+                "source": "The Independent",
+                "date": "2026-08-04T18:11:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Buckingham Palace: Princess Eugenie welcomes a baby girl in Portugal",
+                "desc": "Princess Eugenie has given birth to a baby girl, her third child and first daughter. Buckingham Palace announced the news Tuesday.",
+                "image": "https://dims.apnews.com/dims4/default/fde9543/2147483647/strip/true/crop/7001x4665+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe1%2F24%2F75fbde0794f2a2caceb59b70f301%2Ff46d80c40643465eb772af67825849fb",
+                "url": "https://apnews.com/article/princess-eugenie-baby-first-daughter-charles-andrew-cf63a8225cd4e9c14441b591831b6285",
+                "source": "AP News",
+                "date": "2026-08-04T18:04:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "LINKIN PARK Announces 'Unshatter' Documentary, Companion Live Album",
+                "desc": "A new LINKIN PARK documentary, \"Unshatter\", will open in theaters on September 30. The film focuses on LINKIN PARK's 2024 return, seven years after the death of the group's singer Chester Bennington. This movie captures the years that followed Bennington's 2017 death and how the band reformed with D...",
+                "image": "https://assets.blabbermouth.net/media/linkinparkapril2025press_638.jpg",
+                "url": "https://blabbermouth.net/news/linkin-park-announces-unshatter-documentary-companion-live-album",
+                "source": "BLABBERMOUTH.NET",
+                "date": "2026-08-04T18:00:54Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "A great one is gone",
+                "desc": "Talk about a punch to the gut—that’s how I felt when Marti Funk called me today to let me know the legendary Dory Funk Jr. had passed away. Dory, of",
+                "image": "https://www.ocalagazette.com/wp-content/uploads/2026/08/012326_BA_DoryFunkJr1_NWS-1.jpg",
+                "url": "https://www.ocalagazette.com/a-great-one-is-gone/",
+                "source": "Ocala Gazette",
+                "date": "2026-08-04T17:57:05Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Jelly Roll says he's stepping away from touring for 'a year or two' to 'heal'",
                 "desc": "Jelly Roll announced an indefinite tour hiatus after finalizing his divorce from Bunnie Xo. The announcement came during his final show with Post Malone.",
@@ -3704,99 +3794,99 @@
                 "source": "Vulture",
                 "date": "2026-08-03T19:09:21Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "The First Full 'Star Wars' Anime Series Arrives This Week",
-                "desc": "A new trailer is here to remind you that 'Star Wars: Visions Presents - The Ninth Jedi' hits Disney+ on August 5.",
-                "image": "https://gizmodo.com/app/uploads/2026/08/NinthJedi_FinalTrailer-1200x675.jpg",
-                "url": "https://gizmodo.com/the-first-full-star-wars-anime-series-arrives-this-week-2000794076",
-                "source": "Gizmodo",
-                "date": "2026-08-03T19:00:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The 2027 Met Gala Theme Has Been Revealed - Here’s Why It’s Causing Controversy",
-                "desc": "The spring 2027 exhibit will feature the work of designer John Galliano, who was charged with two hate crimes in 2011",
-                "image": "https://hermes.media.static.aol.com/media/2026/08/03/025c6695-c408-3959-bb0c-5c82a4bc488b/e035beef-d8c4-4c21-84fa-8038fcb47ec6.jpg",
-                "url": "https://www.aol.com/articles/2027-met-gala-theme-revealed-151617000.html",
-                "source": "AOL.com",
-                "date": "2026-08-03T18:43:09Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Reality TV's Sidney Starr arrested for child sex assault in Georgia",
-                "desc": "A reality television celebrity faces multiple felony charges after police arrested her Sunday in connection with an alleged sexual assault of a juvenile at a Hapeville hotel.",
-                "image": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/untitled-august-03-2026-at-11.27.30.jpeg?ve=1&tl=1",
-                "url": "https://www.fox5atlanta.com/news/sidney-starr-accused-child-assault-fulton-county-hotel",
-                "source": "FOX 5 Atlanta",
-                "date": "2026-08-03T18:39:14Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Scott Eastwood Details Grief After Girlfriend’s Car Accident Death in 2014",
-                "desc": "Clint Eastwood's son Scott Eastwood shared insight into his “brutal” grief journey after girlfriend Jewel Brangman died in a 2014 car crash when he was on set.",
-                "image": "https://akns-images.eonline.com/eol_images/Entire_Site/20260630/a15d46b3-b9e4-485b-a239-719d65c85951_1782845955.jpg?fit=around%7C1200:1200&output-quality=90&crop=1200:1200;center,top",
-                "url": "https://www.eonline.com/news/1434619/scott-eastwood-details-grief-after-girlfriends-car-accident-death-in-2014",
-                "source": "E! News",
-                "date": "2026-08-03T18:36:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ariana Grande Can’t Win",
-                "desc": "Ariana Grande’s response to a swarm of post-’Wicked’ rumors is an earnest, dark album and a music video that has created only more controversy.",
-                "image": "https://pyxis.nymag.com/v1/imgs/66b/586/527f541a8e98e466be3df54f783db6a9c8-arianagrande-albumreview.1x.rsocial.w1200.png",
-                "url": "https://www.vulture.com/article/review-ariana-grande-petal.html",
-                "source": "Vulture",
-                "date": "2026-08-03T18:33:32Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Scott Eastwood Recalls Fight with Shia LaBeouf on 'Fury' Set",
-                "desc": "Scott Eastwood recalled on the \"Armchair Expert with Dax Shepard\" podcast his fight with Shia LaBeouf on the set of their 2014 film, \"Fury.\"",
-                "image": "https://www.thewrap.com/wp-content/uploads/2026/08/Scott-Eastwood-Armchair-Expert.jpg",
-                "url": "https://www.thewrap.com/culture-lifestyle/culture/scott-eastwood-shia-labeouf-fight-fury-set-armchair-expert-interview-video/",
-                "source": "thewrap.com",
-                "date": "2026-08-03T18:31:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'Sopranos' Star Vincent Pastore Death: Emergency Responders Desperately Tried to Save Actor",
-                "desc": "\"Sopranos\" actor Vincent Pastore was treated by first responders before he was pronounced dead at his New York City home ... TMZ has learned.",
-                "image": "https://imagez.tmz.com/image/53/16by9/2026/08/03/537e16b01cbf4d7f9878b5045db79644_xl.jpg",
-                "url": "https://www.tmz.com/2026/08/03/vincent-pastore-got-treatment-from-first-responders-before-pronounced-dead/",
-                "source": "TMZ",
-                "date": "2026-08-03T17:15:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Nicole Kidman's rumored romance with Michael Reinstein heats up during LA outing",
-                "desc": "Nicole Kidman's rumored romance with Michael Reinstein heats up during a Los Angeles outing, following their Italian getaway. Here's the latest on the pair.",
-                "image": "https://s.yimg.com/lo/mysterio/api/f707ed0e3ba9ccb511c7920d2f6c9c5f40546d97d62e27a2fbe438facdb4dca3/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fhola_americas_340%2F3e68a56e6639d3b05b88dfaa65200c97",
-                "url": "https://www.yahoo.com/entertainment/celebrity/articles/nicole-kidmans-rumored-romance-michael-163425374.html",
-                "source": "Yahoo",
-                "date": "2026-08-03T16:34:25Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Meghan Markle and Prince Harry May Be Headed Toward 'Secret Divorce' as Split Rumors Swirl Following Royal Reunion, Source Claims",
-                "desc": "Meghan Markle and Prince Harry are being hit with breakup rumors after eight years of marriage. The Duke and Duchess of Sussex left the royal family in 2020 and headed to California — a move that is reportedly contributing to their speculated trouble.",
-                "image": "https://hermes.media.static.aol.com/media/2026/08/03/c9112c1c-5c65-315f-9ce0-9cffa16337b2/83d5102d-ac28-45c2-9f80-027b51832b3e.jpg",
-                "url": "https://www.aol.com/articles/meghan-markle-prince-harry-may-155743000.html",
-                "source": "AOL.com",
-                "date": "2026-08-03T16:32:36Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Sid Wilson Brushes Off Question Over His Slipknot Status After Being Spotted Outside A Los Angeles, CA Studio",
-                "desc": "TMZ tracked him down in Los Angeles after his reported firing.",
-                "image": "https://www.theprp.com/app/uploads/2026/07/sidwilsonslipknot-1200x675.webp",
-                "url": "https://www.theprp.com/2026/08/03/news/sid-wilson-brushes-off-question-over-his-slipknot-status-after-being-spotted-outside-a-los-angeles-ca-studio/",
-                "source": "Theprp.com",
-                "date": "2026-08-03T16:27:47Z",
-                "priority": "STANDARD"
             }
         ],
         "sports": [
+            {
+                "title": "Grading the Cubs trade deadline",
+                "desc": "Overall, the Cubs did well… with maybe one exception.",
+                "image": "https://platform.bleedcubbieblue.com/wp-content/uploads/sites/35/2026/08/gettyimages-2287192392.jpg?quality=90&strip=all&crop=20.034977468557%2C10.717936449249%2C66.669888812886%2C48.586311142043&w=1200",
+                "url": "https://www.bleedcubbieblue.com/chicago-cubs-analysis/228128/grading-the-cubs-trade-deadline",
+                "source": "Bleed Cubbie Blue",
+                "date": "2026-08-04T19:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Jalon Walker feared to have torn ACL, carted off field at Falcons training camp",
+                "desc": "A nightmare moment at practice has us hoping for the best.",
+                "image": "https://platform.thefalcoholic.com/wp-content/uploads/sites/161/2026/08/gettyimages-2250642889.jpg?quality=90&strip=all&crop=0%2C1.139495310876%2C100%2C78.52388882916&w=1200",
+                "url": "https://www.thefalcoholic.com/atlanta-falcons-injuries/94809/jalon-walker-injured-carted-off-field-at-falcons-training-camp",
+                "source": "The Falcoholic",
+                "date": "2026-08-04T19:23:36Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Jalon Walker carted off at Falcons practice",
+                "desc": "The Falcons will be hoping for some positive news about linebacker Jalon Walker's condition on Tuesday afternoon.",
+                "image": "https://nbcsports.brightspotcdn.com/dims4/default/703ae9e/2147483647/strip/true/crop/5917x3328+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F80%2Fdd%2F752c4a5b4ead8791956604d867bb%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2251240933",
+                "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jalon-walker-carted-off-at-falcons-practice",
+                "source": "NBC Sports",
+                "date": "2026-08-04T19:14:29Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Lions receiver Dominic Lovett making push for job",
+                "desc": "Dominic Lovett is seizing his chance at Lions camp while the running back competition continues to impress.",
+                "image": "https://www.detroitnews.com/gcdn/authoring/authoring-images/2026/08/04/PDTN/91170248007-20260729-dmsptlionspractice-5176.jpg?crop=2449,1378,x0,y285&width=2449&height=1378&format=pjpg&auto=webp",
+                "url": "https://www.detroitnews.com/story/sports/nfl/lions/2026/08/04/camp-observations-lions-receiver-dominic-lovett-making-push-for-job/91169124007/",
+                "source": "The Detroit News",
+                "date": "2026-08-04T19:05:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "A's Announce Several Roster Moves",
+                "desc": "The A's placed star first baseman Nick Kurtz on the injured list amid a broad-reaching series of transaction. MLB Trade Rumors has the details.",
+                "image": "https://cdn.mlbtraderumors.com/files/2026/08/nick-kurtz-athletics-1024x683.jpg",
+                "url": "https://www.mlbtraderumors.com/2026/08/athletics-nick-kurtz-injured-list-ben-bowden-dfa.html",
+                "source": "MLB Trade Rumors",
+                "date": "2026-08-04T18:59:19Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Phillies’ Bryce Harper Sends Warning On Luis Arraez Move, ‘It’s Gonna Suck’",
+                "desc": "The Philadelphia Phillies’ franchise slugger is not looking forward to at least one significant change brought by his new teammate.",
+                "image": "https://imageio.forbes.com/specials-images/imageserve/6a72353cd133a295d26c7d9b/0x0.jpg?format=jpg&crop=1775,998,x639,y93,safe&height=900&width=1600&fit=bounds",
+                "url": "https://www.forbes.com/sites/peterchawaga/2026/08/04/phillies-bryce-harper-sends-warning-on-luis-arraez-move-its-gonna-suck/",
+                "source": "Forbes",
+                "date": "2026-08-04T18:54:48Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Detroit Lions training camp observations: Starting DL making an impact",
+                "desc": "Breaking down the biggest takeaways from Day 6 of Detroit Lions training camp.",
+                "image": "https://platform.prideofdetroit.com/wp-content/uploads/sites/127/2026/08/reuters-tagreuters.com2026newsml_MT1USATODAY290859222092481874.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C78.526076989282&w=1200",
+                "url": "https://www.prideofdetroit.com/detroit-lions-training-camp/168356/detroit-lions-2026-training-camp-observations-day-6-starting-dl-making-an-impact",
+                "source": "Pride Of Detroit",
+                "date": "2026-08-04T18:54:38Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ohio State, Oregon lead most wide-open preseason Coaches Poll top 25 since 2008",
+                "desc": "The SEC led all conferences with nine teams in the top 25, while the Big Ten claimed the first two spots in the preseason coaches poll",
+                "image": "https://sportshub.cbsistatic.com/i/r/2026/08/04/62f5f975-83de-4ba6-a904-7c1a4d71cc7d/thumbnail/1200x675/e43c8b6a99a391517f7ce92554b6d4c2/ohio-state-1.jpg",
+                "url": "https://www.cbssports.com/college-football/news/ohio-state-oregon-preseason-coaches-poll-top-25/",
+                "source": "CBS Sports",
+                "date": "2026-08-04T18:31:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Braves fans react to the 2026 trade deadline for Atlanta",
+                "desc": "Let’s take the pulse of the fanbase for a moment, shall we?",
+                "image": "https://platform.batterypower.com/wp-content/uploads/sites/22/2025/12/gettyimages-2228597126.jpg?quality=90&strip=all&crop=0%2C10.729574810194%2C100%2C78.540850379612&w=1200",
+                "url": "https://www.batterypower.com/atlanta-braves-discussion/137462/braves-fans-react-to-the-2026-trade-deadline-for-atlanta",
+                "source": "Battery Power",
+                "date": "2026-08-04T18:30:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "6 standouts from Day 6 of Detroit Lions training camp",
+                "desc": "Breaking down the 6 biggest standouts from Tuesday’s Detroit Lions training camp practice.",
+                "image": "https://platform.prideofdetroit.com/wp-content/uploads/sites/127/2026/07/reuters-tagreuters.com2026newsml_MT1USATODAY29470791791827785.jpg?quality=90&strip=all&crop=0%2C1.384791352679%2C100%2C78.534031413613&w=1200",
+                "url": "https://www.prideofdetroit.com/detroit-lions-analysis/168364/6-standouts-day-6-detroit-lions-training-camp",
+                "source": "Pride Of Detroit",
+                "date": "2026-08-04T18:18:07Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "McDaniel: Herbert has 'exceeded expectation'",
                 "desc": "Chargers offensive coordinator Mike McDaniel said Justin Herbert has \"exceeded expectations\" in adapting to McDaniel's offense.",
@@ -4246,98 +4336,8 @@
                 "source": "The Boston Globe",
                 "date": "2026-08-04T01:25:23Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Luis Arráez is ‘a great fit’ for Philadelphia, say Phillies who played with him before trade: ‘He’s going to bring a lot of energy’",
-                "desc": "PHILADELPHIA — Jesús Luzardo reached out to his longtime friend and old teammate Luis Arráez as soon as the news broke. On Monday morning, ahead of Major League Baseball’s 6 p.m. trade deadline, the Phillies swung a deal with the San Francisco Giants for Arráez, a three-time batting champion and four-time All Star. The extremely […]",
-                "image": "https://philliesnation.com/wp-content/uploads/2026/08/320FC74E-5C11-4667-A738-0AC1A3F1DEB3-1000x600.jpeg",
-                "url": "https://philliesnation.com/2026/08/philadelphia-phillies-luis-arraez-trade-deadline-move-former-teammates-great-fit-hitter-batting-title-jesus-luzardo-bryan-de-la-cruz-don-mattingly-feature-update/",
-                "source": "Phillies Nation",
-                "date": "2026-08-04T01:24:27Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "UCLA basketball roster: What the Five-In-Five rulings mean for Mick Cronin's final roster spot",
-                "desc": "The eligibility rulings gave a lot of players a fifth season. Most of them can only go back to the school they just left.",
-                "image": "https://s3media.247sports.com/Uploads/Assets/563/197/14197563.jpg?width=1200&height=628&crop=1.91:1&fit=cover",
-                "url": "https://247sports.com/college/ucla/article/ucla-basketball-roster-what-the-five-in-five-rulings-mean-for-mick-cronins-final-roster-spot-288682435/",
-                "source": "247Sports",
-                "date": "2026-08-04T01:16:12Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "How did teams fare in Foster Griffin, Casey Mize, Heliot Ramos and Lars Nootbaar deals?",
-                "desc": "A breakdown of four trades in which the Guardians and Padres landed starting pitchers and the Yankees and Diamondbacks got outfield help.",
-                "image": "https://static01.nyt.com/athletic/uploads/wp/2026/08/03202242/2026-08-01T003503Z_1816301765_MT1USATODAY29490750_RTRMADP_3_MLB-WASHINGTON-NATIONALS-AT-ATLANTA-BRAVES-scaled.jpg?width=1200&height=630&fit=cover",
-                "url": "https://www.nytimes.com/athletic/7490496/2026/08/03/mlb-trades-foster-griffin-casey-mize-heliot-ramos-lars-nootbaar-analysis/",
-                "source": "The New York Times",
-                "date": "2026-08-04T00:54:35Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "UFC flyweight Allan Nascimento dies aged 34 after apparent heart attack",
-                "desc": "Brazilian flyweight Allan Nascimento has died at the age of 34 after suffering an apparent heart attack in his sleep, the UFC announced on Monday",
-                "image": "https://i.guim.co.uk/img/media/90f5e7da7cb9995698784ba9cf6135151552cb10/0_0_6638_5310/master/6638.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d319084b816b723a72fdb1f22ee426b3",
-                "url": "https://www.theguardian.com/sport/2026/aug/03/allan-nascimento-dies-aged-34-ufc-flyweight-apparent-heart-attack",
-                "source": "The Guardian",
-                "date": "2026-08-04T00:54:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Guardians To Acquire Nathaniel Lowe",
-                "desc": "The Guards add a bat for the stretch run.",
-                "image": "https://cdn.mlbtraderumors.com/files/2026/08/Nathaniel_Lowe_Reds-1024x683.jpg",
-                "url": "https://www.mlbtraderumors.com/2026/08/guardians-to-acquire-nathaniel-lowe.html",
-                "source": "MLB Trade Rumors",
-                "date": "2026-08-04T00:41:37Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Grading the trade deadline: What did the Red Sox get?",
-                "desc": "Your best source for quality Boston Red Sox news, rumors, analysis, stats and scores from the fan perspective.",
-                "image": "https://platform.overthemonster.com/wp-content/uploads/sites/120/2026/08/gettyimages-2286146008.jpg?quality=90&strip=all&crop=0%2C10.738486186946%2C100%2C78.523027626109&w=1200",
-                "url": "https://www.overthemonster.com/general/105798/grading-the-trade-deadline-what-did-the-red-sox-get",
-                "source": "Over the Monster",
-                "date": "2026-08-04T00:41:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Tarik Skubal doesn't 'sympathize' with those blaming Dodgers for ruining baseball after trading for him",
-                "desc": "Tarik Skubal is set to make his Dodgers debut on Tuesday in Chicago.",
-                "image": "https://s.yimg.com/lo/mysterio/api/16d508d733e26746819639b18ee562186b408873b91b0a0d38601a5e0108f7f8/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-08%2Fccc9e323-4d6d-4345-a3ff-7bd5b973e576",
-                "url": "https://sports.yahoo.com/mlb/article/tarik-skubal-doesnt-sympathize-with-those-blaming-dodgers-for-ruining-baseball-after-trading-for-him-004056313.html",
-                "source": "Yahoo Sports",
-                "date": "2026-08-04T00:40:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Complete Red Sox trade deadline grades following massive top prospect purge",
-                "desc": "Craig Breslow had his first successful trade deadline with the Boston Red Sox, including trades for Curtis Mead, Erik Miller and Adley Rutschman.",
-                "image": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_28,w_8252,h_4641/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/14/01kz4wn45hnsr1fsx8gm.jpg",
-                "url": "https://bosoxinjection.com/complete-red-sox-trade-deadline-grades-following-massive-top-prospect-purge",
-                "source": "BoSox Injection",
-                "date": "2026-08-03T23:59:58Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Chargers training camp: What I’ll be watching when the pads come on",
-                "desc": "The Chargers will travel south to the University of San Diego for their first two days in pads on Tuesday and Wednesday.",
-                "image": "https://static01.nyt.com/athletic/uploads/wp/2026/08/03180152/2026-07-31T060002Z_162691915_MT1USATODAY29485833_RTRMADP_3_NFL-LOS-ANGELES-CHARGERS-TRAINING-CAMP-scaled.jpg?width=1200&height=630&fit=cover",
-                "url": "https://www.nytimes.com/athletic/7489889/2026/08/03/chargers-training-camp-what-to-watch-pads/",
-                "source": "The New York Times",
-                "date": "2026-08-03T23:09:25Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Andrew Marchand: CBS ‘wants to get out of the Romo business’",
-                "desc": "The Athletic's Andrew Marchand believes CBS Sports is eager to move on from Tony Romo even as it considers his sizable remaining salary.",
-                "image": "https://cdn1.thecomeback.com/wp-content/uploads/sites/94/2026/08/aaromomarchand.png",
-                "url": "https://awfulannouncing.com/cbs/andrew-marchand-out-tony-romo-business.html",
-                "source": "awfulannouncing.com",
-                "date": "2026-08-03T23:03:14Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-08-05T04:57:03.759638Z"
+    "lastGlobalSync": "2026-08-05T07:35:34.289546Z"
 }
