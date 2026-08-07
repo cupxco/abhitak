@@ -544,6 +544,15 @@
         ],
         "business": [
             {
+                "title": "Rakesh Jhunjhunwala Success Quotes: 'मौसम, मृत्यु, शेयर बाजार और महिलाओं के बारे में कोई भविष्यवाणी नहीं कर सकता'",
+                "desc": "Success Quotes by Rakesh Jhunjhunwala: राकेश झुनझुनवाला ने 5,000 रुपये से निवेश शुरू कर अरबों की संपत्ति बनाई। उनकी सफलता का आधार लंबी अवधि का निवेश, सही मौके पहचानना, जोखिम संभालना और बाजार का सम्मान करना था। जानें उनकी सफलता के 10 मंत्रों के बारे में:",
+                "image": "https://static.langimg.com/nbt/thumb/133012313/rakesh-jhunjhunwala-business-quotes.jpg?imgsize=127258&width=1600&height=900&resizemode=75",
+                "url": "https://navbharattimes.indiatimes.com/business/business-news/rakesh-jhunjhunwala-success-quotes-10-investment-mantra-share-market/articleshow/133012313.cms",
+                "source": "Navbharat Times",
+                "date": "2026-08-06T23:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Q1 Results: बाजार बंद होने के बाद आए ये 4 नतीजे, 2 के मुनाफे में दिखी तेज बढ़त, स्टॉक पर रखें नजर",
                 "desc": "विजया डायग्नोस्टिक और फिनोलेक्स इंडस्ट्रीज ने मुनाफे और परिचालन स्तर पर मजबूत प्रदर्शन किया, जबकि किर्लोस्कर ऑयल के मुनाफे और मार्जिन पर दबाव दिखा वहीं सोनाटा सॉफ्टवेयर की आय में बढ़ोतरी के बावजूद मुनाफे में कमजोरी रही.",
                 "image": "https://images.cnbctv18.com/hindicnbctv18/2026/08/results-3-2026-08-719dd7c20e2b06d2790e2bb7dfe89a13.jpg?im=FitAndFill,width=1200,height=675",
@@ -1072,15 +1081,6 @@
                 "url": "https://hindi.cnbctv18.com/share-market/biocon-q1-results-fy27-net-profit-jumps-355-percent-revenue-up-10-percent-biopharma-growth-explain-in-hindi-189029.htm",
                 "source": "CNBC TV18",
                 "date": "2026-08-05T12:38:09Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Range Rover SV Ultra: मसाज वाली सीट्स, 261Kmph की स्पीड, भारत में लॉन्च हुई खास कार",
-                "desc": "Range Rover SV Ultra Launch: रेंज रोवर एसवी अल्ट्रा भारत में लॉन्च हो चुकी है. ये कार मसाज वाली सीट्स के साथ आती है. कार में 4.4 लीटर का ट्विन टर्बो पेट्रोल इंजन मिलता है. ये कार सिर्फ 4.9 सेकंड में 100 किलोमीटर प्रति घंटे की रफ्तार पकड़ लेती है. इसकी टॉप स्पीड 261Kmph है. आइए जानते हैं इस कार की खास बातें.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202608/6a73242b2560d-range-rover-sv-ultra-055309717-16x9.jpg",
-                "url": "https://www.aajtak.in/auto/news/story/land-rover-range-rover-sv-ultra-launch-price-features-auam-dskc-2616054-2026-08-05",
-                "source": "Aaj Tak News",
-                "date": "2026-08-05T12:00:47Z",
                 "priority": "STANDARD"
             }
         ],
@@ -2172,6 +2172,60 @@
     "en": {
         "general": [
             {
+                "title": "Trump insists Iran deal could be inked soon, after previous forecasts don't pan out",
+                "desc": "Chief Iranian negotiator mocks US president for repeatedly walking back threats, while Trump denies reports that he's mad at Hegseth for depleted interceptor stockpile",
+                "image": "https://static-cdn.toi-media.com/www/uploads/2026/08/AP26218729542918.jpg",
+                "url": "https://www.timesofisrael.com/trump-insists-iran-deal-could-be-inked-soon-after-previous-forecasts-dont-pan-out/",
+                "source": "The Times of Israel",
+                "date": "2026-08-06T23:34:20Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Meta told to pay another $567m in New Mexico child safety lawsuit",
+                "desc": "A New Mexico judge ordered the Instagram, Facebook and Whatsapp parent company to pay another $567m for the way it has harmed children.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/d2d2/live/d094fb50-91ec-11f1-a12f-8b7b5ef58f56.jpg",
+                "url": "https://www.bbc.com/news/articles/cd7lz3wr2rlo",
+                "source": "BBC",
+                "date": "2026-08-06T23:34:17Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "SJC ruling in similar case puts spotlight on judge",
+                "desc": "The state Supreme Judicial Court ruling puts a spotlight on the judge overseeing Lindsay Clancy's trial as she prepares to start presenting her defense.",
+                "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/MOEAFP7VKR2KTMPQSTPB2GTLCU.JPG?auth=fdb742e52626dac062283f811c54714da94376fad0023698430223502bd336e9&width=1440",
+                "url": "https://www.bostonglobe.com/2026/08/06/metro/lindsay-clancy-latarsha-sanders/",
+                "source": "The Boston Globe",
+                "date": "2026-08-06T23:34:09Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Samsung Galaxy Z Fold8 vs. Samsung Galaxy Z Fold8 Ultra",
+                "desc": "We compare Samsung's new form factor foldable to the already established one. Which one is a better fit for you? Now that Samsung has a new form factor in...",
+                "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-galaxy-z-fold8-vs-z-fold8-ultra/-952x498w6/gsmarena_001.jpg",
+                "url": "https://www.gsmarena.com/samsung_galaxy_z_fold8_vs_samsung_galaxy_z_fold8_ultra-news-73985.php",
+                "source": "GSMArena.com",
+                "date": "2026-08-06T23:31:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "2026 NFL Hall of Fame Game: Who's playing, live updates, more as Panthers and Cardinals face off in preseason opener",
+                "desc": "The Panthers and Cardinals will open up the preseason in the 2026 Hall of Fame Game.",
+                "image": "https://s.yimg.com/lo/mysterio/api/558cf58ee3f8a1eb6086801b340df6d0b9fda951542edd4ff19c5ff85e40bd54/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-08%2F11cf47cc-1f92-4749-abf4-5502fada9749",
+                "url": "https://sports.yahoo.com/nfl/live/2026-nfl-hall-of-fame-game-whos-playing-live-updates-more-as-panthers-and-cardinals-face-off-in-preseason-opener-230000800.html",
+                "source": "Yahoo Sports",
+                "date": "2026-08-06T23:30:11Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "A look at the major changes Head Start faces under Trump proposal",
+                "desc": "The Trump administration is proposing new guidelines that would overhaul Head Start and could change how it’s run across the country. Launched in 1965 as part of President Johnson’s War on Poverty, Head Start serves 700,000 children ages three to five and 160,000 infants and toddlers through Early Head Start. Amna Nawaz discussed the proposed changes with Coral Davenport of The New York Times.",
+                "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/08/headstart-1024x570.jpg",
+                "url": "https://www.pbs.org/newshour/show/a-look-at-the-major-changes-head-start-faces-under-trump-proposal",
+                "source": "PBS",
+                "date": "2026-08-06T22:55:09Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Stevens says of El-Sayed: \"Differences were aired out\" and \"we did the unity deal\"",
                 "desc": "Though Rep. Haley Stevens stressed a unified front moving forward, she was evasive on whether she would appear with El-Sayed on the campaign trail.",
                 "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/06/cbfe4140-5da1-4a6c-a353-7da960af88d6/thumbnail/1200x630/f86a53d3c7e30b16e4477ea326d1eb43/gettyimages-2288319609.jpg",
@@ -2656,63 +2710,18 @@
                 "source": "The Verge",
                 "date": "2026-08-06T13:26:42Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "The Trump administration has filed 31 lawsuits seeking states' voter data. Here's where they stand.",
-                "desc": "The Justice Department has filed lawsuits against 30 states and the District of Columbia in an effort to force them to hand over their unredacted voter rolls containing voters' sensitive information.",
-                "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/06/466cfa70-4afe-4630-8c28-32c7a6256855/thumbnail/1200x630g2/b8b9579f7601d2a6b9cfeb35725fa309/screenshot-2026-08-06-at-9-08-17-am.png",
-                "url": "https://www.cbsnews.com/news/trump-lawsuits-state-voter-rolls-justice-department/",
-                "source": "CBS News",
-                "date": "2026-08-06T13:21:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Why doctors and hospitals fail to treat patients with addiction : NPR",
-                "desc": "Addiction treatments are safe, effective — and rarely offered to patients. That's because many doctors and nurses still view people with alcohol or drug addiction with suspicion and hostility.",
-                "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1892x1064+0+259/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc9%2F50%2F656f7951468e9e923ff831f2ea7b%2Fmilwaukie-1.jpg",
-                "url": "https://www.npr.org/2026/08/06/nx-s1-5845162/addiction-treatment-overdose-deaths",
-                "source": "NPR",
-                "date": "2026-08-06T13:15:37Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ukraine hits two oil refineries deep in Russian territory",
-                "desc": "Ukraine's president says the strikes aim to limit revenues Russia \"used to finance\" its war.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/4e4c/live/d37c5f10-9184-11f1-9587-294e25c71c14.png",
-                "url": "https://www.bbc.com/news/articles/cwymv212xrxo",
-                "source": "BBC",
-                "date": "2026-08-06T11:35:40Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Why Gen Z is trading phones for hobbies with analog bags",
-                "desc": "\"Analog bags\" have become the latest symbol of Gen Z's movement to spend less time online.",
-                "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/08/05/USAT/91177759007-img-8807.jpeg?crop=3999,2250,x0,y900&width=3200&height=1801&format=pjpg&auto=webp",
-                "url": "https://www.usatoday.com/story/life/health-wellness/2026/08/06/gen-z-analog-bags/90995558007/",
-                "source": "usatoday.com",
-                "date": "2026-08-06T11:31:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Anthony Fauci; Abdul El-Sayed; Trump's economy : NPR",
-                "desc": "Abdul El-Sayed has won Michigan's Democratic Senate primary and will face Republican Congressman Mike Rogers in the midterms. And, today, Dr. Anthony Fauci faces a contempt of Congress vote.",
-                "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x2250+0+209/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa2%2F81%2F185262a147908a14a348935275e1%2Fgettyimages-2288319588.jpg",
-                "url": "https://www.npr.org/2026/08/06/g-s1-137574/up-first-newsletter-anthony-fauci-erica-schwartz-abdul-el-sayed-las-vegas-economy-stewart-rhodes",
-                "source": "NPR",
-                "date": "2026-08-06T11:30:59Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Explosive drone: Why Leipzig/Halle airport keeps becoming a target for sabotage",
-                "desc": "Leipzig/Halle is one of Europe’s most important cargo airports and a key hub for military transport. After the latest incident, the question arises again: why does this site repeatedly become a focus of suspected sabotage?",
-                "image": "https://images.euronews.com/articles/stories/09/86/46/96/1200x675_cmsv2_bbd47d97-5c62-57dd-b11d-937de96c9940-9864696.jpg",
-                "url": "https://www.euronews.com/my-europe/2026/08/06/explosive-drone-why-leipzighalle-airport-keeps-becoming-a-target-for-sabotage",
-                "source": "Euronews",
-                "date": "2026-08-06T11:30:42Z",
-                "priority": "STANDARD"
             }
         ],
         "business": [
+            {
+                "title": "Minnesota woman hospitalized with sepsis sues Chipotle over salmonella outbreak tied to jalapeño peppers",
+                "desc": "A Minnesota woman says she fainted, spiked a 102-degree fever, and was hospitalized with sepsis three days after eating a chicken burrito bowl at a Chipotle in Roseville, and genetic testing connected her case to a multistate outbreak, according to a lawsuit filed Tuesday.",
+                "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/06/6709b56d-73b5-4afc-9cbe-bcb4b23fbba3/thumbnail/1200x630/256a10dd1237ebec82db838cbba04992/cbsn-fusion-us-hit-with-more-foodborne-illnesses-as-chipotle-qdoba-remove-salmonella-linked-jalapeos-thumbnail.jpg",
+                "url": "https://www.cbsnews.com/minnesota/news/chipotle-salmonella-lawsuit-minnesota-jalapeno-outbreak/",
+                "source": "CBS News",
+                "date": "2026-08-06T23:33:51Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Beaver's Mini Mart faces costly Buc-ee's copyright lawsuit",
                 "desc": "Buc-ee's sued Beaver's Mini Mart over alleged trademark infringement, sparking local backlash and a fundraiser.",
@@ -3243,18 +3252,18 @@
                 "source": "nbcnews.com",
                 "date": "2026-08-05T22:21:28Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "KFC responds to man who said his popcorn chicken bucket was shorted",
-                "desc": "A customer decided to put KFC to the test, and it apparently failed to deliver by what he said was at least a 25-popcorn chicken bite margin.",
-                "image": "https://s.yimg.com/lo/mysterio/api/efc71cf801f3f27bf83a720e13045a042f87685525ad83bf4ca78f0c4fb9d3e9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_money_325%2F7da27fea01cc33b47c27ef57afc8c450",
-                "url": "https://www.yahoo.com/lifestyle/articles/kfc-responds-man-said-popcorn-212810213.html",
-                "source": "Yahoo",
-                "date": "2026-08-05T21:28:10Z",
-                "priority": "STANDARD"
             }
         ],
         "entertainment": [
+            {
+                "title": "Match & Segments Revealed for August 7 WWE SmackDown",
+                "desc": "WWE has added a major match and several key segments to the August 7 episode of SmackDown, with Kevin Owens, CM Punk and Chelsea Green all set for the",
+                "image": "https://www.ringsidenews.com/wp-content/uploads/2026/02/last-minute-match-confirmed-for-february-27-wwe-smackdown-06.jpg",
+                "url": "https://www.ringsidenews.com/match-segments-revealed-august-7-wwe-smackdown/",
+                "source": "ringsidenews.com",
+                "date": "2026-08-06T23:01:32Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Tom Holland and Zendaya Are Wearing Wedding Bands",
                 "desc": "Tom Holland and Zendaya stepped out with their dogs and some new jewelry days after a rumored wedding celebration in England.",
@@ -3785,18 +3794,54 @@
                 "source": "A.V. Club",
                 "date": "2026-08-05T16:09:17Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Animatronic Tiki Room Bird, Fuzzball from Captain EO, and Pirates of the Caribbean Redd Doll Announced",
-                "desc": "Famous Disney Parks characters like Captain Redd and Fuzzball come to life with new collectible figures and plush.",
-                "image": "https://r2-media.wdwnt.com/2026/08/2026-DCP-D23-Collector-Must-Haves-14.jpg",
-                "url": "https://wdwnt.com/2026/08/animatronic-tiki-room-bird-fuzzball-from-captain-eo-and-pirates-of-the-caribbean-redd-doll-announced/",
-                "source": "WDW News Today",
-                "date": "2026-08-05T16:00:58Z",
-                "priority": "STANDARD"
             }
         ],
         "sports": [
+            {
+                "title": "2026 NFL Hall of Fame Game: Who's playing, live updates, more as Panthers and Cardinals face off in preseason opener",
+                "desc": "The Panthers and Cardinals will open up the preseason in the 2026 Hall of Fame Game.",
+                "image": "https://s.yimg.com/lo/mysterio/api/558cf58ee3f8a1eb6086801b340df6d0b9fda951542edd4ff19c5ff85e40bd54/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-08%2F11cf47cc-1f92-4749-abf4-5502fada9749",
+                "url": "https://sports.yahoo.com/nfl/live/2026-nfl-hall-of-fame-game-whos-playing-live-updates-more-as-panthers-and-cardinals-face-off-in-preseason-opener-230000800.html",
+                "source": "Yahoo Sports",
+                "date": "2026-08-06T23:30:11Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Georgia top performers - Day Two",
+                "desc": "Georgia's second preseason practice is in the books and several players stood out. UGASports has a list of top performers.",
+                "image": "https://on3static.com/uploads/dev/assets/cms/2026/08/06180851/260805_AJW_FB_PRAC_0572.jpg",
+                "url": "https://www.on3.com/teams/georgia-bulldogs/news/georgia-preseason-camp-top-performers-from-day-two/",
+                "source": "On3",
+                "date": "2026-08-06T23:15:20Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "5 performances of note from the Patriots’ 11th training camp practice",
+                "desc": "Who caught our eye during the Patriots’ practice on Thursday, for better or worse.",
+                "image": "https://platform.patspulpit.com/wp-content/uploads/sites/121/2026/08/gettyimages-2288497501.jpg?quality=90&strip=all&crop=0.871337890625%2C0%2C99.128662109375%2C77.85712657391&w=1200",
+                "url": "https://www.patspulpit.com/new-england-patriots-training-camp/132717/winners-losers-patriots-training-camp-practice-thursday",
+                "source": "Pats Pulpit",
+                "date": "2026-08-06T22:52:21Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Postgame Pontifications: This is depressing",
+                "desc": "The Sounders were so thoroughly outplayed by Toluca that their only hope was to beg for a miracle.",
+                "image": "https://storage.ghost.io/c/3b/1b/3b1bf1ed-99b4-491a-8ed0-5ce99bdabf77/content/images/size/w1200/2026/08/USATSI_29525179.jpg",
+                "url": "https://www.sounderatheart.com/2026/08/postgame-pontifications-this-is-depressing/",
+                "source": "sounderatheart.com",
+                "date": "2026-08-06T22:51:48Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Day 6 News and Notes from Broncos Camp",
+                "desc": "Your best source for quality Denver Broncos news, rumors, analysis, stats and scores from the fan perspective.",
+                "image": "https://platform.milehighreport.com/wp-content/uploads/sites/108/2026/08/gettyimages-2289370343.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+                "url": "https://www.milehighreport.com/denver-broncos-training-camp/180716/2026-denver-broncos-training-camp-day-6-news-and-notes-courtland-sutton-pat-bryant-jahdae-barron-hall-of-fame-game",
+                "source": "Mile High Report",
+                "date": "2026-08-06T22:45:10Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "2026 NFL training camp: Early takeaways for all 32 teams",
                 "desc": "Is Matthew Golden poised to break out in Year 2? How does Patrick Mahomes look in his return from knee surgery? Are DJ Moore and Josh Allen jelling? With training camps in full swing across the NFL, Kevin Patra spotlights the most interesting developments for all 32 teams.",
@@ -4291,53 +4336,8 @@
                 "source": "Sports Illustrated",
                 "date": "2026-08-06T11:00:04Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "The Top Five Biggest Pro Football Hall of Fame Snubs, Including Two Elite Coaches",
-                "desc": "As a new Bill Belichick-less class is enshrined in Canton, Ohio, let’s recognize the biggest omissions, a group picked by voters.",
-                "image": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_2000,h_2000/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/si/01kyn5yqj2rp7h4phmqc.jpg",
-                "url": "https://www.si.com/nfl/the-top-five-biggest-pro-football-hall-of-fame-snubs-2026-digital-cover",
-                "source": "Sports Illustrated",
-                "date": "2026-08-06T11:00:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Eagles stock up, stock down after 6 practices of training camp",
-                "desc": "Here's our first Eagles stock up, stock down of training camp in 2026.",
-                "image": "https://media.nbcsportsphiladelphia.com/2026/08/Hunt-J-Getty-2287540538.jpg?quality=85&strip=all&resize=1200%2C675",
-                "url": "https://www.nbcsportsphiladelphia.com/nfl/philadelphia-eagles/eagles-stock-up-stock-down-after-6-practices-of-2026-training-camp/745611/",
-                "source": "NBC Sports Philadelphia",
-                "date": "2026-08-06T11:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "MLB Power Rankings Week 19: Post-trade deadline edition",
-                "desc": "There was a lot of action across baseball ahead of Monday's trade deadline. How did the moves impact each club's ranking?",
-                "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0805%2Fmlb_powerrankings_16x9.png",
-                "url": "https://www.espn.com/mlb/story/_/id/49540457/mlb-2026-power-rankings-week-19-post-trade-deadline-standings",
-                "source": "ESPN",
-                "date": "2026-08-06T11:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Chiefs News: Chiefs drop ‘GEHA’ from Arrowhead Stadium name",
-                "desc": "The latest Kansas City Chiefs news, brought fresh to you every morning!",
-                "image": "https://platform.arrowheadpride.com/wp-content/uploads/sites/12/2026/08/gettyimages-2230957535.jpg?quality=90&strip=all&crop=4.833984375%2C25.15696535587%2C91.3251953125%2C71.677958811138&w=1200",
-                "url": "https://www.arrowheadpride.com/kansas-city-chiefs-news/206989/chiefs-news-drop-geha-arrowhead-stadium-name",
-                "source": "Arrowhead Pride",
-                "date": "2026-08-06T10:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Jahmyr Gibbs hold-in: How concerned should Detroit Lions fans be?",
-                "desc": "How concerned should Detroit Lions fans be about Jahmyr Gibbs’ contract sit-in?",
-                "image": "https://platform.prideofdetroit.com/wp-content/uploads/sites/127/2026/08/reuters-tagreuters.com2026newsml_MT1USATODAY295097692057678790.jpg?quality=90&strip=all&crop=0%2C10.728170389098%2C100%2C78.543659221804&w=1200",
-                "url": "https://www.prideofdetroit.com/detroit-lions-discussion/168496/jahmyr-gibbs-concern-level-negotiations-detroit-lions",
-                "source": "Pride Of Detroit",
-                "date": "2026-08-06T10:22:39Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-08-07T10:43:09.108100Z"
+    "lastGlobalSync": "2026-08-07T11:38:47.278345Z"
 }
