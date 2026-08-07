@@ -1167,6 +1167,15 @@
                 "priority": "STANDARD"
             },
             {
+                "title": "Bhojpuri Bawaal: 'असल में मुझे वो सब याद आ गया', भोजपुरी बवाल में छलके निरहुआ के आंसू",
+                "desc": "Bhojpuri Bawaal Dinesh Lal Yadav: दिनेश लाल यादव भोजपुरी बवाल रियलिटी शो में आए दिन अपनी जिंदगी के राज खोल रहे हैं। नए प्रोमो वीडियो में दिखाया गया है कि वह अपने स्ट्रगल के दिनों को याद करके भावुक हो गए।, Bhojpuri Hindi News - Hindustan",
+                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/08/06/1600x900/logo/Nirhua_1786028623336_1786028631471_8771da3e-3818-4d0f-a818-8190e4b76dc6.jpg",
+                "url": "https://www.livehindustan.com/entertainment/bhojpuri/bhojpuri-bawaal-dinesh-lal-yadav-aka-nirahua-got-emotional-holding-rikshaw-201786028258258.html",
+                "source": "Hindustan",
+                "date": "2026-08-06T15:09:39Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "51 की उम्र में सिंगल अमीषा पटेल, कब करेंगी शादी? एक्ट्रेस ने दिया जवाब",
                 "desc": "'कहो ना... प्यार है' और 'गदर' जैसी ब्लॉकबस्टर फिल्मों से दर्शकों के दिलों पर राज करने वाली बॉलीवुड एक्ट्रेस अमीषा पटेल इन दिनों अपने मैरिज स्टेटस को लेकर काफी चर्चा में हैं. 51 साल की हो चुकीं अमीषा ने अब तक शादी नहीं की है और अक्सर उनसे इस फैसले को लेकर सवाल पूछे जाते रहते हैं.",
                 "image": "https://akm-img-a-in.tosshub.com/aajtak/images/photo_gallery/202608/6a74a1d458e06-ameesha-patel-on-marriage-060134724-16x9.jpg",
@@ -1614,15 +1623,6 @@
                 "url": "https://www.livehindustan.com/entertainment/bollywood/ramayana-mandodari-actress-kajal-agrawal-says-ram-is-in-our-blood-right-time-to-globally-talk-about-ram-story-201785931514625.html",
                 "source": "Hindustan",
                 "date": "2026-08-05T12:16:06Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "मल्लिका संग दिखे तेजू भैया... केमिस्ट्री देख फैंस हैरान, वीडियो वायरल",
-                "desc": "लालू यादव के बेटे और नेता तेज प्रताप यादव ने बॉलीवुड एक्ट्रेस मल्लिका शेरावत के साथ सोशल मीडिया पर एक वीडियो शेयर किया है. वहीं कई लोगों का कहना है कि दोनों किसी नए प्रोजेक्ट में नजर आ सकते हैं.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202608/6a73220c2c120-tej-pratap-yadav-mallika-sherawat-054400252-16x9.jpg",
-                "url": "https://www.aajtak.in/entertainment/bollywood-news/story/tej-pratap-yadav-spotted-with-mallika-sherawat-fans-amazed-chemistry-video-viral-tmovg-dskc-2616050-2026-08-05",
-                "source": "Aaj Tak News",
-                "date": "2026-08-05T12:16:02Z",
                 "priority": "STANDARD"
             }
         ],
@@ -2172,12 +2172,66 @@
     "en": {
         "general": [
             {
+                "title": "Stevens says of El-Sayed: \"Differences were aired out\" and \"we did the unity deal\"",
+                "desc": "Though Rep. Haley Stevens stressed a unified front moving forward, she was evasive on whether she would appear with El-Sayed on the campaign trail.",
+                "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/06/cbfe4140-5da1-4a6c-a353-7da960af88d6/thumbnail/1200x630/f86a53d3c7e30b16e4477ea326d1eb43/gettyimages-2288319609.jpg",
+                "url": "https://www.cbsnews.com/news/haley-stevens-abdul-el-sayed-michigan-senate-primary-unity/",
+                "source": "CBS News",
+                "date": "2026-08-06T22:22:40Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Houthi attacks wound 11 in Saudi Arabia after deadly strike on Yemen troops",
+                "desc": "RIYADH: The Saudi-led Coalition to Restore Legitimacy in Yemen said Friday that 11 civilians were wounded in a Houthi attack on the southern border region of Najran, a day after the Iran-backed group launched its deadliest assault on government forces in Yemen since 2022. The Joint Forces Command of the coalition said the civilians were injured late Thursday when projectiles",
+                "image": "https://www.arabnews.com/sites/default/files/styles/watermark_670x423/public/main-image/2026/08/07/4738480-829438207.jpg?itok=R5YAQI1o",
+                "url": "https://www.arabnews.com/node/2653706/saudi-arabia",
+                "source": "Arab News",
+                "date": "2026-08-06T22:21:04Z",
+                "priority": "CRITICAL_ALERT"
+            },
+            {
+                "title": "Senate committee votes to hold Fauci in contempt of Congress",
+                "desc": "A Senate committee voted to hold Dr. Anthony Fauci in contempt of Congress and refer him to the Justice Department for potential prosecution over his refusal to answer questions at a hearing last week focused on his handling of the COVID-19 pandemic.",
+                "image": "https://dims.apnews.com/dims4/default/83740b3/2147483647/strip/true/crop/3701x2466+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F6c%2Fd2%2Fbc44e18cc90ebca9181cd42040aa%2Fd2ce50e7983a4dc4bbc5bcb424b99bb9",
+                "url": "https://apnews.com/article/fauci-congress-justice-department-c068561f3d2adddd0a659e099c212c49",
+                "source": "AP News",
+                "date": "2026-08-06T22:14:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Saudi Arabia braces for attacks on ports and airports by Iraqi militias working with Iran-backed Houthis",
+                "desc": "Saudi Arabia is bracing for a “multiple coordinated attacks” by Iraqi militias factions and Iran-backed Houthis, a Saudi official told CNN, as the broader Middle East conflict threatens to widen.",
+                "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2269014008.jpg?c=16x9&q=w_800,c_fill",
+                "url": "https://www.cnn.com/2026/08/06/middleeast/saudi-houthi-iran-iraq-attack-latam-intl",
+                "source": "CNN",
+                "date": "2026-08-06T22:09:49Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Flesh-eating bacteria has killed 5 in Louisiana this year, officials say",
+                "desc": "A flesh-eating bacteria found in warm coastal waters is responsible for at least five deaths so far this year in Louisiana, state health officials reported Thursday.",
+                "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/06/a5f9ac57-7a89-4010-8e4c-93cb4844aa4e/thumbnail/1200x630/33bcfa33ad210e5076c4be0082232725/gettyimages-179795898.jpg",
+                "url": "https://www.cbsnews.com/news/vibrio-vulnificus-flesh-eating-bacteria-5-dead-louisiana-2026/",
+                "source": "CBS News",
+                "date": "2026-08-06T22:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Liberty surprisingly release Betnijah Laney-Hamilton after benching",
                 "desc": "Betnijah Laney-Hamilton's time with the New York Liberty is over.",
                 "image": "https://s.yimg.com/lo/mysterio/api/330f25afd56a3bfa122f447385d7f05b0ef360a6b40ee888bec5819bd2639ed0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-08%2Ffca783fe-c44a-4c15-bf91-e879934846b6",
                 "url": "https://sports.yahoo.com/wnba/article/liberty-surprisingly-release-betnijah-laney-hamilton-after-benching-211142013.html",
                 "source": "Yahoo Sports",
                 "date": "2026-08-06T21:37:27Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "NFL Network: Lions signing RB Jahmyr Gibbs to three-year contract worth up to $75.75 million",
+                "desc": "The Lions are signing running back Jahmyr Gibbs to a three-year, $75.75 million extension that makes him the highest-paid running back in the league, NFL Network Insider Ian Rapoport reported Thursday.",
+                "image": "https://static.www.nfl.com/image/upload/v1554321393/league/nvfr7ogywskqrfaiu38m.png",
+                "url": "https://www.nfl.com/news/jahmyr-gibbs-lions-contract-extension",
+                "source": "NFL.com",
+                "date": "2026-08-06T21:33:24Z",
                 "priority": "STANDARD"
             },
             {
@@ -2656,63 +2710,27 @@
                 "source": "Euronews",
                 "date": "2026-08-06T11:30:42Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Italy on red alert, Hungary turns off the lights as Europe's heatwave takes toll",
-                "desc": "ROME/BUDAPEST, Aug 6 (Reuters) - Italy took the unprecedented step of placing all its major cities on the highest level of health alert due to high temperatures on Thursday while Hungary turned ‌off t...",
-                "image": "https://s.yimg.com/lo/mysterio/api/8549d17ccef08bdf1ea0c06667a3b46a1847e8b5cd1886f2f63071e31d18071a/lightyear_networkapi/resizefill_w800_h533%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fe7e0a0fec803cdbd0440eea54c9a3f20",
-                "url": "https://www.yahoo.com/news/weather-news/articles/italy-red-alert-hungary-turns-111919101.html",
-                "source": "Yahoo",
-                "date": "2026-08-06T11:19:19Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Italy issues highest heat advisory as Europe faces record temperatures",
-                "desc": "Italy has placed all major cities under the highest heat alert as Europe faces a severe heat wave. This extreme weather has set a national temperature record in Austria, fueled wildfires in France, and disrupted energy and transport systems across the continent.",
-                "image": "https://dims.apnews.com/dims4/default/fcd9af8/2147483647/strip/true/crop/7000x4664+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F5c%2F0a%2Fa4c88f6de14f90a23f7952798866%2Ff18f062baf2c4f62a0d5ef47134e7a1c",
-                "url": "https://apnews.com/article/italy-europe-heat-wave-temperatures-austria-france-57b6b4c67fd40b24fe578e71edaa519b",
-                "source": "AP News",
-                "date": "2026-08-06T11:19:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Why Sandisk (SNDK) and Western Digital (WDC) crashed 10% and what it means for bitcoin",
-                "desc": "Strong earnings from Sandisk and Western Digital were not enough to satisfy investors, raising questions about whether capital is beginning to rotate from AI winners into crypto.",
-                "image": "https://cdn.sanity.io/images/s3y3vcno/production/c2a4789a8ed7a8a55ccf74e856006ffc90555a80-3068x1938.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-                "url": "https://www.coindesk.com/markets/2026/08/06/why-sandisk-and-western-digital-crashed-10-and-what-it-means-for-bitcoin",
-                "source": "CoinDesk",
-                "date": "2026-08-06T11:16:19Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "New Jersey's Mikie Sherrill enters national political fray with first set of midterm endorsements, aimed at veterans",
-                "desc": "New Jersey Gov. Mikie Sherrill is taking her first major step onto the national stage, endorsing 13 Democrats — as the moderate signals she may jump into the debate over her party's future.",
-                "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/04/03/28eec147-7d8a-4c6c-a1a1-d9daac0af3f0/thumbnail/1200x630/be74273aee2f790fea4378ed556abefe/gettyimages-2256705556.jpg",
-                "url": "https://www.cbsnews.com/news/new-jersey-mikie-sherrill-midterm-pac-endorsements-veterans-democrats/",
-                "source": "CBS News",
-                "date": "2026-08-06T11:07:54Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "John Carpenter releases 'Cathedral' graphic novel and companion album with family",
-                "desc": "John Carpenter has teamed up with his family for a new project, “Cathedral,” a graphic novel with an original album.",
-                "image": "https://dims.apnews.com/dims4/default/4f2dd5e/2147483647/strip/true/crop/5186x3456+0+146/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe2%2Ffe%2F0b2196aaeb3919ad78b4be4f5ccb%2F504e8acdf3e045ba8a4d34100dba8dbe",
-                "url": "https://apnews.com/article/john-carpenter-cathedral-novel-album-family-b209aeef95e9ec4b20089bb9e05201a0",
-                "source": "AP News",
-                "date": "2026-08-06T11:05:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Abdul El-Sayed’s path to victory and FDA approves first mRNA flu shot: Morning Rundown",
-                "desc": "A younger and higher-educated base were pivotal to Abdul El Sayed’s Senate Primary win, an analysis shows.",
-                "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-08/260805-abdul-el-sayed-mn-1200-480f76.jpg",
-                "url": "https://www.nbcnews.com/news/us-news/abdul-el-sayed-salmonella-outbreak-morning-rundown-rcna591101",
-                "source": "NBC News",
-                "date": "2026-08-06T11:01:12Z",
-                "priority": "STANDARD"
             }
         ],
         "business": [
+            {
+                "title": "Beaver's Mini Mart faces costly Buc-ee's copyright lawsuit",
+                "desc": "Buc-ee's sued Beaver's Mini Mart over alleged trademark infringement, sparking local backlash and a fundraiser.",
+                "image": "https://cmg-cmg-tv-10040-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2F6JE43PLXHBGKVMF6ZZBFI3ERZ4.jpg?auth=6c338cf0410db94e160d968ff3e0165c30351be3b22fcf4ef2f8405a71fc6150&width=1200&height=630&smart=true",
+                "url": "https://www.whio.com/news/local/law-expert-says-buc-ees-faces-uphill-battle-beavers-mini-mart-suit/M33DXXU5LBFLPJ6LYWV4ZA3LVU/",
+                "source": "WHIO TV",
+                "date": "2026-08-06T22:16:30Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump Issues Tariffs on Key Ingredient for Electronics and Solar Panels",
+                "desc": "The administration will impose a minimum import price for polysilicon, a key component for semiconductors and solar panels, as well as tariffs for products made with the material.",
+                "image": "https://static01.nyt.com/images/2026/08/06/multimedia/06dc-silicon-tariffs-gjvm/06dc-silicon-tariffs-gjvm-facebookJumbo.jpg",
+                "url": "https://www.nytimes.com/2026/08/06/us/politics/trump-tariffs-solar-panels.html",
+                "source": "The New York Times",
+                "date": "2026-08-06T21:53:18Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Flights grounded throughout Midwest after temporary outage at Minnesota air traffic control facility: FAA",
                 "desc": "Flights were diverted and others grounded throughout the Midwest after a temporary outage at a Minnesota air traffic control facility caused issues, the FAA said.",
@@ -3234,27 +3252,18 @@
                 "source": "Yahoo",
                 "date": "2026-08-05T21:28:10Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Point72, Citadel among hedge funds hit by AI vishing attacks",
-                "desc": "Hackers used AI voice cloning to target Point72, Citadel, Millennium and other major money managers on Wall Street.",
-                "image": "https://cdn-res.keymedia.com/cms/images/in/andr_639215608819554789.png",
-                "url": "https://www.investmentnews.com/fintech/point72-citadel-among-hedge-funds-hit-by-ai-vishing-attacks/267708",
-                "source": "InvestmentNews",
-                "date": "2026-08-05T21:13:56Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Figma Stock Falls Despite Beat-and-Raise Quarter",
-                "desc": "Figma Inc (NYSE:FIG) shares are falling in extended trading Wednesday after the company reports financial results for the second quarter.",
-                "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/08/05/ARKWs-Figmas-Swoop.jpg",
-                "url": "https://www.benzinga.com/markets/earnings/26/08/60977211/figma-stock-falls-despite-beat-and-raise-quarter",
-                "source": "Benzinga",
-                "date": "2026-08-05T21:10:31Z",
-                "priority": "STANDARD"
             }
         ],
         "entertainment": [
+            {
+                "title": "Tom Holland and Zendaya Are Wearing Wedding Bands",
+                "desc": "Tom Holland and Zendaya stepped out with their dogs and some new jewelry days after a rumored wedding celebration in England.",
+                "image": "https://pyxis.nymag.com/v1/imgs/a44/d1a/a27dbc1b357ee2e38c646b45bec53bb1df-tomdaya.1x.rsocial.w1200.jpg",
+                "url": "https://www.thecut.com/article/tom-holland-zendaya-wearing-wedding-bands.html",
+                "source": "The Cut",
+                "date": "2026-08-06T22:12:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Miss North Carolina USA 2026 stripped of title as organization condemns 'racism, homophobia'",
                 "desc": "Brittany Boltinhouse, Miss North Carolina USA 2026, was stripped of her title, the Miss USA organization announced on Wednesday.",
@@ -3271,6 +3280,15 @@
                 "url": "https://www.foxnews.com/entertainment/boyhood-child-actor-lives-in-middle-nowhere-after-leaving-hollywood-behind",
                 "source": "Fox News",
                 "date": "2026-08-06T20:47:42Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Travis Barker Reveals Why He and Wife Kourtney Kardashian Decided to Talk About Their Miscarriage in His New Documentary",
+                "desc": "The married couple share 2-year-old son Rocky Thirteen, whom they welcomed together in November 2023",
+                "image": "https://s.yimg.com/lo/mysterio/api/dbe982be43a98827797cdfd752ead0a980a95dd9992011f993813085cfb91d79/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F9aeaa42c411ab5374ef350130a9f070c",
+                "url": "https://www.yahoo.com/entertainment/celebrity/articles/travis-barker-reveals-why-wife-201646636.html",
+                "source": "Yahoo",
+                "date": "2026-08-06T20:16:46Z",
                 "priority": "STANDARD"
             },
             {
@@ -3776,27 +3794,36 @@
                 "source": "WDW News Today",
                 "date": "2026-08-05T16:00:58Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Do NYC restaurant workers have their knives out for the Anthony Bourdain movie?",
-                "desc": "Kitchen staff share their thoughts after an industry screening of \"Tony.\"",
-                "image": "https://api-prod.gothamist.com/images/358489/fill-1200x650|format-webp|webpquality-85/",
-                "url": "https://gothamist.com/arts-entertainment/do-nyc-restaurant-workers-have-their-knives-out-for-the-anthony-bourdain-movie",
-                "source": "Gothamist",
-                "date": "2026-08-05T15:52:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Disney Iconics Introduces Plush Versions of Favorite Disney Parks Rides & Treats",
-                "desc": "If you've ever wanted to bring home a plush version of a Disney trash can or your favorite Disney Parks ride or treat, now is your chance.",
-                "image": "https://r2-media.wdwnt.com/2026/08/disney-iconics-plush-collage.png",
-                "url": "https://wdwnt.com/2026/08/disney-iconics-introduces-plush-versions-of-favorite-disney-parks-rides-treats/",
-                "source": "WDW News Today",
-                "date": "2026-08-05T15:49:19Z",
-                "priority": "STANDARD"
             }
         ],
         "sports": [
+            {
+                "title": "2026 NFL training camp: Early takeaways for all 32 teams",
+                "desc": "Is Matthew Golden poised to break out in Year 2? How does Patrick Mahomes look in his return from knee surgery? Are DJ Moore and Josh Allen jelling? With training camps in full swing across the NFL, Kevin Patra spotlights the most interesting developments for all 32 teams.",
+                "image": "https://static.www.nfl.com/image/upload/v1554321393/league/nvfr7ogywskqrfaiu38m.png",
+                "url": "https://www.nfl.com/news/2026-nfl-training-camp-early-takeaways-for-all-32-teams",
+                "source": "NFL.com",
+                "date": "2026-08-06T22:32:50Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "NFL suspends Saints WR Brock Rechsteiner for the first six games",
+                "desc": "The NFL has suspended Saints wide receiver Brock Rechsteiner for the first six games of the 2026 season.",
+                "image": "https://nbcsports.brightspotcdn.com/dims4/default/b8d0772/2147483647/strip/true/crop/4000x2250+0+600/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F02%2F51%2F6e250b6246838951208b7a65931b%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2282083139",
+                "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-suspends-saints-wr-brock-rechsteiner-for-the-first-six-games",
+                "source": "nbcsports.com",
+                "date": "2026-08-06T22:13:09Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "After 'crazy transition,' Jaylen Brown ready to win with Sixers: 'I want to earn everybody's respect and trust'",
+                "desc": "At his introductory press conference on Thursday, Jaylen Brown discussed being traded to the Sixers, playing alongside LeBron James and much more.",
+                "image": "https://media.phillyvoice.com/media/images/080626_JaylenBrownPresser_Coll.d2af692a.fill-1200x630-c0.jpg",
+                "url": "https://www.phillyvoice.com/sixers-news-analysis-jaylen-brown-press-conference-interview-trade-reaction-celtics-lebron-james-joel-embiid-nba/",
+                "source": "PhillyVoice",
+                "date": "2026-08-06T21:37:35Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Liberty surprisingly release Betnijah Laney-Hamilton after benching",
                 "desc": "Betnijah Laney-Hamilton's time with the New York Liberty is over.",
@@ -4309,35 +4336,8 @@
                 "source": "Pride Of Detroit",
                 "date": "2026-08-06T10:22:39Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "4 Bears players dominating training camp and 3 who are fading quickly",
-                "desc": "The Chicago Bears have four players that are dominating training camp early on, but three might be in trouble of being forgotten about.",
-                "image": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_1614,h_907/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/shape/cover/sport/Austin-bfa8914a759d8a247cd8aa617c653458.jpg",
-                "url": "https://beargoggleson.com/4-chicago-bears-players-dominating-training-camp-and-3-who-are-fading-quickly",
-                "source": "Bear Goggles On",
-                "date": "2026-08-06T10:00:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Andrew Painter optimistic after early exit in Phillies loss",
-                "desc": "Andrew Painter left early with left hamstring tightness, but said he felt good about moving forward after the Phillies’ extra-inning loss.",
-                "image": "https://media.nbcsportsphiladelphia.com/2026/08/USATSI_29523639.jpg?quality=85&strip=all&crop=369px%2C170px%2C3971px%2C2233px&resize=1200%2C675",
-                "url": "https://www.nbcsportsphiladelphia.com/mlb/philadelphia-phillies/andrew-painter-hamstring-injury-derek-hill/745618/",
-                "source": "NBC Sports Philadelphia",
-                "date": "2026-08-06T02:38:39Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "5 observations from Day 9 of practice",
-                "desc": "The offense looked off without Matthew Stafford and Davante Adams, while the defense continues to impress.",
-                "image": "https://theramswire.usatoday.com/gcdn/authoring/authoring-images/2026/07/28/SRAM/91075020007-20260728-t-060034-z-102489467-mt-1-usatoday-29462959-rtrmadp-3-nfllosangelesramstrainingcamp.JPG?crop=8639,4861,x0,y449&width=3200&height=1801&format=pjpg&auto=webp",
-                "url": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/08/05/rams-training-camp-observations-day-9-practice/91191936007/",
-                "source": "Rams Wire",
-                "date": "2026-08-06T02:18:00Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-08-07T09:52:11.621778Z"
+    "lastGlobalSync": "2026-08-07T10:43:09.108100Z"
 }
