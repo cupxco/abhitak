@@ -2,6 +2,51 @@
     "hi": {
         "general": [
             {
+                "title": "अमेरिका: रूस पर प्रतिबंध वाला विधेयक मंज़ूर, भारत समेत पांच देशों पर 100% टैरिफ़ का प्रावधान",
+                "desc": "अमेरिकी सांसदों का दावा है कि रूस के साथ इस तरह का व्यापार यूक्रेन युद्ध को बढ़ावा देने में मदद करता है.",
+                "image": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/4665/live/99e00200-92d5-11f1-ae01-839b1282b4bb.jpg",
+                "url": "https://www.bbc.com/hindi/live/cq3d3ml15pvet",
+                "source": "BBC",
+                "date": "2026-08-08T01:37:40Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "लखनऊ में 'बंटवारा 1947' के प्रमोशन के दौरान हादसा, एक युवक घायल, CM योगी से मिले सनी और प्रीति",
+                "desc": "सनी देओल और प्रीति जिंटा इन दिनों फिल्म 'बंटवारा 1947' को लेकर चर्चा में बने हुए हैं. काफी लंबे समय बाद दोनों सितारों की जोड़ी एक बार फिर बड़े पर्दे पर देखने को मिलेगी.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202608/6a761b0856532-sunny-deol-yogi-adityanath-preity-zinta-075058294-16x9.jpg",
+                "url": "https://www.aajtak.in/entertainment/bollywood-news/story/batwara-1947-sunny-deol-promotion-lucknow-one-man-injured-cm-yogi-meet-actors-tmovg-dskc-2617760-2026-08-08",
+                "source": "aajtak.in",
+                "date": "2026-08-08T01:30:09Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "सलमान खान के घर के बाहर पुलिसकर्मी की मौत, लॉरेंस बिश्नोई गैंग से एक्टर की सुरक्षा में थे तैनात: रिपोर्ट",
+                "desc": "बॉलीवुड स्टार सलमान खान के घर के बाहर तैनात पुलिसकर्मी की मौत हो गई है। कारण हार्टअटैक बताया जा रहा है और रिपोर्ट में कहा जा रहा है कि ये उन्हीं पुलिसकर्मियों में से एक हैं, जो उनकी लॉरेंस बिश्नोई से सुरक्षा में तैनात थे।",
+                "image": "https://static.langimg.com/nbt/thumb/133044808/police-dies-outside-salman-khan-home.jpg?imgsize=84520&width=1600&height=900&resizemode=75",
+                "url": "https://navbharattimes.indiatimes.com/entertainment/news-from-bollywood/police-dies-outside-salman-khan-house-deployed-for-security-against-lawrence-bishnoi-gang/articleshow/133044789.cms",
+                "source": "Navbharat Times",
+                "date": "2026-08-08T01:15:43Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "अमित शाह पेश करने वाले हैं FCRA बिल? कांग्रेस ने जारी की व्हिप, लोकसभा में 3 दिन बेहद अहम!",
+                "desc": "FCRA संशोधन बिल 2026 पर संसद में घमासान तय है। कांग्रेस ने अपने लोकसभा सांसदों को 10 से 12 अगस्त तक उपस्थित रहने के लिए 3-लाइन का व्हिप जारी किया है। जानिए क्या है विपक्ष की पूरी रणनीति।, India News in Hindi - Hindustan",
+                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/08/08/1600x900/logo/congress_issues_whip_1786149697592_1786149697803_7b540027-5ac5-454a-a10f-f72ee99dab84.jpg",
+                "url": "https://www.livehindustan.com/national/amit-shah-fcra-bill-2026-congress-issues-whip-lok-sabha-monsoon-session-sp-india-block-201786149405171.html",
+                "source": "livehindustan.com",
+                "date": "2026-08-08T00:57:14Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "अरुणाचल प्रदेश के ऊपरी हिस्से सुबनसिरी में चीन की आर्मी PLA का कब्जा? पेमा खांडू ने किया इनकार, कहा- अफवाह",
+                "desc": "अरुणाचल प्रदेश के मुख्यमंत्री पेमा खांडू ने कहा कि उनकी सरकार ऊपरी सुबनसिरी जिले के तकसिंग क्षेत्र में कथित चीनी घुसपैठ की खबरों का सत्यापन भारतीय सेना और स्थानीय लोगों के साथ करेगा तथा उसके बाद ही कोई निष्कर्ष निकालेगा। हालांकि उन्होंने चीन की घुसपैठ से इनकार किया है।",
+                "image": "https://static.langimg.com/nbt/thumb/133044773/pema-khandu-on-china-infiltration-in-arunachal-pradesh.jpg?imgsize=1582485&width=1600&height=900&resizemode=75",
+                "url": "https://navbharattimes.indiatimes.com/state/arunachal-pradesh/itanagar/cm-pema-khandu-denies-chinese-pla-incursion-in-upper-subansiri-in-arunachal-pradesh/articleshow/133044733.cms",
+                "source": "Navbharat Times",
+                "date": "2026-08-08T00:50:31Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "अतीक के 'जमींदोज' हो चुके घर जाएगा अबान का शव! आज बाहुबली के बगल में दफन होगा बेटा",
                 "desc": "अतीक अहमद के सबसे छोटे बेटे अबान अहमद को शनिवार को प्रयागराज के कसारी-मसारी कब्रिस्तान में सुपुर्द-ए-खाक किया जाएगा. अंतिम संस्कार में शामिल होने के लिए जेल में बंद उसके भाइयों अली और उमर को इलाहाबाद हाई कोर्ट ने पैरोल दी है. अबान का शव फिलहाल हटवा गांव में बुआ प्रवीन कुरैशी के घर पर है, जहां शुक्रवार को लोगों ने मय्यत के आखिरी दीदार किए.",
                 "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202608/6a766294aab77-atiq-ahmed-son-aban-ahmed-075615261-16x9.png",
@@ -495,54 +540,18 @@
                 "source": "Navbharat Times",
                 "date": "2026-08-07T06:14:32Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "डानुबे का पानी घटा, परमाणु बिजली पर लगा ब्रेक... हंगरी में मचा एनर्जी क्राइसिस",
-                "desc": "एक नदी सूखी तो पूरे देश पर बिजली संकट का खतरा मंडराने लगा. हंगरी में डानुबे नदी का जलस्तर गिरने से न्यूक्लियर पावर प्लांट प्रभावित हुआ और सरकार को लोगों से बिजली बचाने की अपील करनी पड़ी.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202608/6a757593503ab-hungary-power-crisis-danube-river-070501774-16x9.jpg",
-                "url": "https://www.aajtak.in/science/story/hungary-power-crisis-danube-river-water-level-nuclear-plant-climate-change-dskc-2617214-2026-08-07",
-                "source": "Aaj Tak News",
-                "date": "2026-08-07T06:11:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'यह सस्ती लोकप्रियता का जरिया', पूर्व जस्टिस यशवंत वर्मा मामले में स्वतंत्र जांच और FIR की जनहित याचिका सुप्रीम कोर्ट ने की खारिज",
-                "desc": "सुप्रीम कोर्ट ने पूर्व दिल्ली हाई कोर्ट जज जस्टिस यशवंत वर्मा के कथित ‘बर्न्ट कैश’ मामले में FIR और कोर्ट मॉनिटर SIT जांच की मांग वाली जनहित याचिका को ‘पब्लिसिटी लिटिगेशन’ बताते हुए खारिज कर दिया.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202608/6a7579293665f-yashwant-sharma-case-072019461-16x9.png",
-                "url": "https://www.aajtak.in/india/news/story/supreme-court-dismisses-pil-on-justice-yashwant-varma-burnt-cash-case-fir-sit-probe-ntc-agkp-dskc-2617222-2026-08-07",
-                "source": "Aaj Tak News",
-                "date": "2026-08-07T06:10:43Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "आम्रपाली दुबे ने बर्बाद की निरहुआ की शादी? काजल राघवानी ने उठाए सवाल, बोलीं- पत्नी पर तरस आता है",
-                "desc": "भोजपुरी फिल्म इंडस्ट्री में आम्रपाली दुबे और काजल राघवानी के बीच विवाद ने तूल पकड़ लिया है. काजल ने निरहुआ की नेतागिरी और चुनाव हारने पर भी तंज कसा है.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202608/6a7570779c996-kajal-raghwani-slams-nirhua-074313972-16x9.jpg",
-                "url": "https://www.aajtak.in/entertainment/bhojpuri/story/kajal-raghwani-slams-amrapali-dubey-nirhua-questions-relationhip-bhojpuri-bawaal-tmovh-dskc-2617192-2026-08-07",
-                "source": "Aaj Tak News",
-                "date": "2026-08-07T05:56:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Stock Market Fall: निफ्टी 24570 से नीचे, सेंसेक्स 503 अंक तक फिसला; बाजार 6 कारणों से लाल",
-                "desc": "Stock Market Fall: ग्लोबल ऑयल बेंचमार्क, ब्रेंट क्रूड की कीमत में तेजी है। कच्चे तेल की महंगाई भारत के लिए एक नेगेटिव फैक्टर है। मार्केट में अस्थिरता का पैमाना India VIX 3 प्रतिशत बढ़कर 12.46 पर पहुंच गया। फाइनेंशियल स्टॉक्स ​दबाव में हैं - stock market fall nifty below 24570 sensex falls upto 503 points here are the reasons crude price rise fii selling",
-                "image": "https://images.moneycontrol.com/static-hindinews/2026/08/stock-down5.jpg",
-                "url": "https://hindi.moneycontrol.com/news/markets/stock-market-fall-nifty-below-24570-sensex-falls-upto-503-points-here-are-the-reasons-crude-price-rise-fii-selling-2428005.html",
-                "source": "Moneycontrol Hindi",
-                "date": "2026-08-07T05:39:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "5 बच्चों का पिता है यूट्यूबर, पत्नियों को धोख देकर रचाई तीसरी शादी? हुआ ट्रोल",
-                "desc": "इंस्टाग्राम पर पोस्ट किए वीडियो में मंडप में दुल्हन संग सात फेरे लेते दिख रहे हैं. अरमान शेरवानी पहने हुए हैं और दुल्हन लाल रंग के लहंगे में नजर आ रही है.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/photo_gallery/202608/6a7568afc1ac0-armaan-malik-070927968-16x9.jpg",
-                "url": "https://www.aajtak.in/entertainment/television/photo/youtuber-armaan-malik-third-marriage-video-troll-kritika-malik-payal-malik-5-children-tmovb-2617175-2026-08-07",
-                "source": "Aaj Tak News",
-                "date": "2026-08-07T05:30:05Z",
-                "priority": "STANDARD"
             }
         ],
         "business": [
+            {
+                "title": "Forex watch: विदेशी मुद्रा भंडार के मोर्चे पर बम-बम, एक ही सप्ताह में $10.5 billion की भारी बढ़ोतरी",
+                "desc": "Foreign Exchange Reserves: विदेशी मुद्रा भंडार के मोर्चे पर भारत को भारी राहत मिली है। बीता सप्ताह लगातार 5वां सप्ताह रहा, जबकि अपने विदेशी मुद्रा भंडार में बढ़ोतरी हुई है। रिजर्व बैंक के अनुसार 31 जुलाई को समाप्त सप्ताह के दौरान भारत के विदेशी मुद्रा भंडार में $10.5 billion की भारी बढ़ोतरी दिखी है।",
+                "image": "https://static.langimg.com/nbt/thumb/133044762/indias-forex-reserves-jump-105-billion-dollar.jpg?imgsize=788071&width=1600&height=900&resizemode=75",
+                "url": "https://navbharattimes.indiatimes.com/business/business-news/indias-forex-reserves-jump-more-than-10-billion-dollar-to-over-two-month-high/articleshow/133044754.cms",
+                "source": "Navbharat Times",
+                "date": "2026-08-08T00:46:42Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "पैसे का कर लीजिए इंतजाम, सेबी ने एक बार में नौ IPO को दी मंजूरी",
                 "desc": "सेबी ने इंजीनियरिंग, ट्रैवल टेक्नोलॉजी, गेमिंग, ड्रोन, पेपर, रिन्यूएबल एनर्जी और डिजिटल प्लेटफॉर्म जैसे सेक्टर की नौ कंपनियों को आईपीओ के लिए मंजूरी दी है।, Business Hindi News - Hindustan",
@@ -1073,18 +1082,45 @@
                 "source": "Aaj Tak News",
                 "date": "2026-08-06T13:57:54Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Stocks to Watch for August 7: शुक्रवार को इन 15 से ज्यादा स्टॉक्स में दिखेगा एक्शन, बाजार बंद होने के बाद आई हैं खबरें",
-                "desc": "गुरुवार को बाजार बंद होने के बाद कई कंपनियों ने अपने तिमाही नतीजों का एलान किया है इसमें एलआईसी, अपोलो टायर्स, एचसीसी, प्रीमियर एनर्जीस शामिल हैं,",
-                "image": "https://images.cnbctv18.com/hindicnbctv18/2026/08/stocks-to-watch-1-2026-08-0a487ce700b6fb595720926c7d3030dc.jpg?im=FitAndFill,width=1200,height=675",
-                "url": "https://hindi.cnbctv18.com/photos/share-market/stocks-to-watch-for-august-7-stocks-in-news-lic-apollo-tyres-hcc-itc-stocks-stock-market-189228.htm",
-                "source": "CNBC TV18",
-                "date": "2026-08-06T13:17:58Z",
-                "priority": "STANDARD"
             }
         ],
         "entertainment": [
+            {
+                "title": "लखनऊ में 'बंटवारा 1947' के प्रमोशन के दौरान हादसा, एक युवक घायल, CM योगी से मिले सनी और प्रीति",
+                "desc": "सनी देओल और प्रीति जिंटा इन दिनों फिल्म 'बंटवारा 1947' को लेकर चर्चा में बने हुए हैं. काफी लंबे समय बाद दोनों सितारों की जोड़ी एक बार फिर बड़े पर्दे पर देखने को मिलेगी.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202608/6a761b0856532-sunny-deol-yogi-adityanath-preity-zinta-075058294-16x9.jpg",
+                "url": "https://www.aajtak.in/entertainment/bollywood-news/story/batwara-1947-sunny-deol-promotion-lucknow-one-man-injured-cm-yogi-meet-actors-tmovg-dskc-2617760-2026-08-08",
+                "source": "AajTak",
+                "date": "2026-08-08T01:30:09Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Friday Box Office: 'स्पाइडर मैन' के आगे पहले ही दिन पिटी 'ओह माय डॉग', 'धमाल' 4 का भी निकला दम, जानें-फ्राइडे का कलेक्शन",
+                "desc": "Friday Box Office Collection 7 August: फ्राइडे को एक बार फिर सिनेमाघरों में नई और कुछ हफ्ते पुरानी फिल्मों के बीच जबरदस्त टक्कर होती नजर आई. हाालंकि स्पाइडर मैन ने फिर बाजी मार ली.",
+                "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/08/07/60e839427343bfee3d1bcb5dd38065111786119732681209_original.jpg?impolicy=abp_cdn&imwidth=1200",
+                "url": "https://www.abplive.com/entertainment/bollywood/friday-box-office-collection-7-august-spider-man-brand-new-day-ohh-my-dog-jana-nayagan-dhamaal-4-the-odyssey-3172077",
+                "source": "abplive.com",
+                "date": "2026-08-08T01:20:35Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "सलमान खान के घर के बाहर पुलिसकर्मी की मौत, लॉरेंस बिश्नोई गैंग से एक्टर की सुरक्षा में थे तैनात: रिपोर्ट",
+                "desc": "बॉलीवुड स्टार सलमान खान के घर के बाहर तैनात पुलिसकर्मी की मौत हो गई है। कारण हार्टअटैक बताया जा रहा है और रिपोर्ट में कहा जा रहा है कि ये उन्हीं पुलिसकर्मियों में से एक हैं, जो उनकी लॉरेंस बिश्नोई से सुरक्षा में तैनात थे।",
+                "image": "https://static.langimg.com/nbt/thumb/133044808/police-dies-outside-salman-khan-home.jpg?imgsize=84520&width=1600&height=900&resizemode=75",
+                "url": "https://navbharattimes.indiatimes.com/entertainment/news-from-bollywood/police-dies-outside-salman-khan-house-deployed-for-security-against-lawrence-bishnoi-gang/articleshow/133044789.cms",
+                "source": "Navbharat Times",
+                "date": "2026-08-08T01:15:43Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "दूसरे हफ्ते भी नहीं थमी Spider Man की रफ्तार, नौ दिनों में छापे 12 हजार करोड़ रुपये",
+                "desc": "स्पाइडर मैन ब्रैंड न्यू डे फिल्म इंडिया में तो रिकॉर्ड तोड़ कमाई कर ही रही है, बाकी दुनिया में भी इसका दबदबा नजर आ रहा है. 9 दिनों में फिल्म ने 12000 हजार करोड़ रुपये कमा लिए हैं, जो अब एक नया रिकॉर्ड है.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202608/6a7615f6507c7-spider-man-brand-new-day-box-office-collection-day-9-072920690-16x9.jpg",
+                "url": "https://www.aajtak.in/entertainment/hollywood/story/spider-man-brand-new-day-worldwide-box-office-collection-film-grosses-12000-crore-9th-day-tmovj-dskc-2617753-2026-08-08",
+                "source": "Aaj Tak News",
+                "date": "2026-08-08T01:07:54Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Ohh My dog का पहले दिन का आ गया रिजल्ट, पंकज त्रिपाठी की मूवी बॉक्स ऑफिस की परीक्षा में हुई पास या फेल?",
                 "desc": "पंकज त्रिपाठी की फिल्म 'ओह माय डॉग' को समीक्षकों से तो बहुत ही अच्छा रिस्पांस मिला था, लेकिन अब फिल्म के पहले दिन के कमाई के आंकड़े भी सामने आ गए हैं।",
@@ -1588,45 +1624,36 @@
                 "source": "aajtak.in",
                 "date": "2026-08-06T15:26:02Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Bhojpuri Bawaal: 'असल में मुझे वो सब याद आ गया', भोजपुरी बवाल में छलके निरहुआ के आंसू",
-                "desc": "Bhojpuri Bawaal Dinesh Lal Yadav: दिनेश लाल यादव भोजपुरी बवाल रियलिटी शो में आए दिन अपनी जिंदगी के राज खोल रहे हैं। नए प्रोमो वीडियो में दिखाया गया है कि वह अपने स्ट्रगल के दिनों को याद करके भावुक हो गए।, Bhojpuri Hindi News - Hindustan",
-                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/08/06/1600x900/logo/Nirhua_1786028623336_1786028631471_8771da3e-3818-4d0f-a818-8190e4b76dc6.jpg",
-                "url": "https://www.livehindustan.com/entertainment/bhojpuri/bhojpuri-bawaal-dinesh-lal-yadav-aka-nirahua-got-emotional-holding-rikshaw-201786028258258.html",
-                "source": "Hindustan",
-                "date": "2026-08-06T15:09:39Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "51 की उम्र में सिंगल अमीषा पटेल, कब करेंगी शादी? एक्ट्रेस ने दिया जवाब",
-                "desc": "'कहो ना... प्यार है' और 'गदर' जैसी ब्लॉकबस्टर फिल्मों से दर्शकों के दिलों पर राज करने वाली बॉलीवुड एक्ट्रेस अमीषा पटेल इन दिनों अपने मैरिज स्टेटस को लेकर काफी चर्चा में हैं. 51 साल की हो चुकीं अमीषा ने अब तक शादी नहीं की है और अक्सर उनसे इस फैसले को लेकर सवाल पूछे जाते रहते हैं.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/photo_gallery/202608/6a74a1d458e06-ameesha-patel-on-marriage-060134724-16x9.jpg",
-                "url": "https://www.aajtak.in/entertainment/bollywood-news/photo/ameesha-patel-single-at-age-51-when-she-get-married-the-actress-answers-tmovg-2616898-2026-08-06",
-                "source": "Aaj Tak News",
-                "date": "2026-08-06T15:03:27Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "रवि किशन का ट्रांसफॉर्मेशन देख फैंस हैरान, 57 की उम्र में घटाया 18 किलो वजन, बताया- कैसे किया ये कमाल",
-                "desc": "रवि किशन इन दिनों अपनी फिटनेस को लेकर खूब चर्चा में हैं। इसी बीच रवि किशन की कुछ तस्वीरें सोशल मीडिया पर सामने आई हैं, जिसमें उनका ट्रांसफॉर्मेशन देख फैंस हैरान नजर आ रहे हैं।, Bhojpuri Hindi News - Hindustan",
-                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/08/06/1600x900/logo/RAVI_KISHAN_25_07_1784918436599_1784918441306_abac5dcf-7d95-4dfe-ba9a-6e703f5579ee_1786027401416_7774cd49-e034-4413-b398-6577642887a9.png",
-                "url": "https://www.livehindustan.com/entertainment/bhojpuri/bhojpuri-actor-ravi-kishan-shocking-transformation-he-loss-18-kg-in-57-age-share-his-diet-fitness-secret-201786026639385.html",
-                "source": "Hindustan",
-                "date": "2026-08-06T14:45:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "कर्ज में डूबी एक्ट्रेस C ग्रेड फिल्में करने पर हुई मजबूर, घर चलाने को किए समझौते, बोली- आत्मा बेच दी",
-                "desc": "सुष्मिता मुखर्जी ने खुलासा किया है कि 1 करोड़ रुपये के कर्ज और आर्थिक तंगी के चलते उन्हें मजबूरी में C-ग्रेड और खराब फिल्में करनी पड़ीं. क्यों उन्होंने कहा- 'मैंने अपनी आत्मा बेच दी थी.'",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/photo_gallery/202608/6a7496b1608c1-golmaal-fame-actress-sold-soul-to-clear-debt-did-c-grade-films-061359436-16x9.jpg",
-                "url": "https://www.aajtak.in/entertainment/bollywood-news/photo/golmaal-actress-susmita-mukherjee-sold-her-soul-did-c-grade-films-due-to-financial-crisis-reveals-tmova-2616867-2026-08-06",
-                "source": "aajtak.in",
-                "date": "2026-08-06T14:30:09Z",
-                "priority": "STANDARD"
             }
         ],
         "sports": [
+            {
+                "title": "चाहे विराट हों या रोहित…2027 वर्ल्ड कप खेलने पर शिखर धवन ने दिया बड़ा बयान",
+                "desc": "शिखर धवन ने रोहित शर्मा और विराट कोहली के वर्ल्ड कप 2027 में खेलने पर बड़ा बयान दिया है। उनका कहना है कि यह दोनों वर्ल्ड कप में बहुत वैल्यू ऐड करेंगे और टीम को जिताने में मदद करेंगे।, Cricket Hindi News - Hindustan",
+                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/08/08/1600x900/logo/rohit_sharma_virat_kohli_1786151737550_1786151737661_48f176be-8916-4cab-9644-0814711c2cab.jpeg",
+                "url": "https://www.livehindustan.com/cricket/shikhar-dhawan-made-a-big-statement-on-rohit-sharma-virat-kohli-playing-in-the-2027-world-cup-201786150634759.html",
+                "source": "Hindustan",
+                "date": "2026-08-08T01:16:58Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "रवींद्र जड़ेजा, ध्रुव जुरेल या…; शुभमन गिल हुए पहले टेस्ट से बाहर तो ये 3 खिलाड़ी कर सकते हैं रिप्लेस",
+                "desc": "शुभमन गिल का चोटिल होना IND vs SL टेस्ट सीरीज से पहले भारतीय टीम के लिए बड़ी समस्या है। अगर वह 15 अगस्त तक रिकवर नहीं हो पाते तो भारतीय मिडिल ऑर्डर काफी कमजोर पड़ सकता है।, Cricket Hindi News - Hindustan",
+                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/08/08/1600x900/logo/Shubman_Gill__1786149372141_1786149372289_b3548925-3116-4db5-aa76-2745848e3fa5.jpg",
+                "url": "https://www.livehindustan.com/cricket/ravindra-jadeja-dhruv-jurel-if-shubman-gill-is-ruled-out-of-the-ind-vs-sl-1st-test-these-3-players-could-replace-him-201786148619491.html",
+                "source": "Hindustan",
+                "date": "2026-08-08T00:36:40Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "गुरु गंभीर का श्रीलंका में र‍िकॉर्ड प्रचंड, टेस्ट में गरजे... वनडे में किया व‍िस्फोट, पर यहां चूक गए",
+                "desc": "Gautam Gambhir Sri Lanka Record in Tests, ODIs and T20Is: भारतीय टीम का श्रीलंका दौरा शुरू हो चुका है. 15 अगस्त से पहला टेस्ट गॉल में होना है फ‍िलहाल टीम इंड‍िया अभ्यास मैच खेल रही है. लेकिन इस खबर में हम यह जानेंगे कि गौतम गंभीर का श्रीलंका की धरती र‍िकॉर्ड कैसा रहा है. क्योंकि बतौर ख‍िलाड़ी वो कई मौकों पर श्रीलंका जा चुके हैं",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202608/6a7583f8bba3e-gautam-gambhir-070627394-16x9.png",
+                "url": "https://www.aajtak.in/sports/cricket/story/gautam-gambhir-sri-lanka-record-test-odi-t20-as-player-ind-vs-sl-series-tspok-dskc-2617247-2026-08-08",
+                "source": "AajTak",
+                "date": "2026-08-08T00:30:06Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "ऋषभ पंत टेस्ट में 100 छक्के लगाने के करीब, ऐसा करने वाले बनेंगे पहले भारतीय",
                 "desc": "स्टार विकेटकीपर बल्लेबाज ऋषभ पंत टेस्ट क्रिकेट में 100 छक्के लगाने वाले पहले भारतीय बनने के काफी करीब हैं। उन्होंने अब तक 97 छक्के जड़े हैं।, Cricket Hindi News - Hindustan",
@@ -2139,38 +2166,56 @@
                 "source": "Jagran",
                 "date": "2026-08-06T16:46:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "2024 में डेब्यू, 25 साल का खिलाड़ी अब इंटरनेशनल क्रिकेट से रिटायर",
-                "desc": "25 साल के खिलाड़ी ने अंतर्राष्ट्रीय क्रिकेट से संन्यास लेकर दुनिया को हैरान कर दिया. खिलाड़ी ने सिर्फ 2 साल पहले ही अंतर्राष्ट्रीय डेब्यू किया था.",
-                "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/08/06/8fd12e00a4dec340f3b68d02401c52a317860330558761364_original.jpg?impolicy=abp_cdn&imwidth=1200",
-                "url": "https://www.abplive.com/sports/cricket/john-turner-england-cricketer-retires-from-international-and-professional-cricket-at-age-of-25-due-to-injuries-3171588",
-                "source": "ABP News",
-                "date": "2026-08-06T16:20:25Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "पप्पू यादव के बेटे ने 95 रन बनाकर क्यों किया खास सेलिब्रेशन, दुनिया के सबसे महान खिलाड़ी का है बड़ा फैन",
-                "desc": "DPL 2026 में 172 रनों के लक्ष्य का पीछा करते हुए नॉर्थ दिल्ली स्ट्राइकर्स ने ईस्ट दिल्ली राइडर्स को 6 विकेट से हराया। कप्तान सार्थक रंजन ने 50 गेंदों में 95 रन बनाए।",
-                "image": "https://static.langimg.com/nbt/thumb/133010182/pappu-yadav-son-sarthak-ranjan.jpg?imgsize=569167&width=1600&height=900&resizemode=75",
-                "url": "https://navbharattimes.indiatimes.com/sports/cricket/cricket-news/pappu-yadav-son-sarthak-ranjan-fan-of-novak-djokovic-played-95-runs-inning-in-delhi-premier-league/articleshow/133010013.cms",
-                "source": "Navbharat Times",
-                "date": "2026-08-06T15:40:48Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "रोहित शर्मा की फटकार आज भी नहीं भूले यशस्वी जायसवाल, श्रीलंका दौरे पर आई अपने भैया की याद",
-                "desc": "यशस्वी जायसवास श्रीलंका में टेस्ट सीरीज की तैयारी कर रहे हैं। उन्होंने सोशल मीडिया पर एक पोस्ट डाला और कैप्शन में रोहित शर्मा की डांट के दौरान कही गई लाइन लिख दी।",
-                "image": "https://static.langimg.com/nbt/thumb/133009110/yashasvi-jaiswal.jpg?imgsize=82362&width=1600&height=900&resizemode=75",
-                "url": "https://navbharattimes.indiatimes.com/sports/cricket/cricket-news/yashasvi-jaiswal-recalled-scolding-from-rohit-sharma-before-sri-lanka-test-series/articleshow/133009110.cms",
-                "source": "Navbharat Times",
-                "date": "2026-08-06T15:04:58Z",
-                "priority": "STANDARD"
             }
         ]
     },
     "en": {
         "general": [
+            {
+                "title": "What could the Mecca defence pact mean for the US role in the Middle East?",
+                "desc": "Analysts say regional partners are seeking alternatives to supplement their security without discarding US support.",
+                "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a765c00a54e-1786141696.jpg?resize=1920%2C1440",
+                "url": "https://www.aljazeera.com/news/2026/8/8/what-could-the-mecca-defence-pact-mean-for-the-us-role-in-the-middle-east",
+                "source": "Al Jazeera",
+                "date": "2026-08-08T01:31:35Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "John Goodman Unrecognizable After 200-Pound Weight Loss: Photo",
+                "desc": "John Goodman was nearly unrecognizable in a new picture with Wizards of Waverly Place actor David DeLuise due to the 200-pound weight loss transformation he’s undergone since the aughts.",
+                "image": "https://akns-images.eonline.com/eol_images/Entire_Site/20260807/20ce6cc2-bc93-4c6c-b415-92d1fdda8693_1786149340.jpg?fit=around%7C1200:1200&output-quality=90&crop=1200:1200;center,top",
+                "url": "https://www.eonline.com/news/1434821/john-goodman-unrecognizable-after-200-pound-weight-loss-photo",
+                "source": "E! News",
+                "date": "2026-08-08T01:02:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "De la Espriella sworn in as Colombia’s leader, vows armed group crackdown",
+                "desc": "The new president, who replaces leftist Gustavo Petro, continues the rightward political shift in Latin America.",
+                "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/AP26219776301431-1786147020.jpg?resize=1920%2C1440",
+                "url": "https://www.aljazeera.com/news/2026/8/8/de-la-espriella-sworn-in-as-colombia-leader-vows-crackdown-on-armed-groups",
+                "source": "Al Jazeera",
+                "date": "2026-08-08T00:40:16Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The new mRNA flu shot mFlusiva is more effective. Why doctors worry Long Islanders may not get it.",
+                "desc": "Although experts estimate COVID vaccines saved more than three million American lives, a survey found only 56% of Americans believe it is safe.",
+                "image": "https://cdn.newsday.com/ace/c:Y2EyYzI5YzctZmY4Ny00:MjY4ZDk1YWEtNWJjYS00/landscape/1280",
+                "url": "https://www.newsday.com/news/health/flu-mrna-vaccine-bhlbboox",
+                "source": "Newsday",
+                "date": "2026-08-08T00:31:39Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Remains of 56 people found decomposing at Chicago funeral home",
+                "desc": "Officials describe ‘deplorable conditions’ at home run by pair linked to crematory closed due to mishandled remains",
+                "image": "https://i.guim.co.uk/img/media/18d1311bcf0eb8bec85dec2f478c9a6fba775392/135_0_1350_1080/master/1350.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=163a9cfda233be3e6bb30ed26017eada",
+                "url": "https://www.theguardian.com/us-news/2026/aug/07/chicago-funeral-home-bodies",
+                "source": "The Guardian",
+                "date": "2026-08-08T00:31:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Another overnight Russian attack on Kyiv and Kyiv Oblast kills 3, injures 7",
                 "desc": "The overnight attack killed three people and injured three others in Kyiv Oblast's Brovary district on Aug. 8, regional governor Tymur Tkachenko reported.",
@@ -2665,54 +2710,18 @@
                 "source": "CNBC",
                 "date": "2026-08-07T17:45:55Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "US Senate passes Russia sanctions bill championed by Lindsey Graham",
-                "desc": "Late senator spent final days of his life working to advance bill that will now head to the House after 86-11 Senate vote",
-                "image": "https://i.guim.co.uk/img/media/b07ebe52f4de74ae6efbbe234e88b72d2a0fc65c/250_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c815b5ac7a7964063ce2e0b2a6cccbff",
-                "url": "https://www.theguardian.com/us-news/2026/aug/07/russia-sanctions-senate-passed-petroleum",
-                "source": "The Guardian",
-                "date": "2026-08-07T17:39:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Senate passes Russia sanctions bill that was long championed by Lindsey Graham",
-                "desc": "The bill is meant to stifle Russia's economy by allowing for tough new tariffs against major importers of Russian energy. The legislation was led by Lindsey Graham before his unexpected death in July.",
-                "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5172x2909+0+269/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffe%2Fc4%2F857e681f42f088ec816beff45747%2Fgettyimages-2273442190.jpg",
-                "url": "https://www.npr.org/2026/08/07/nx-s1-5924914/senate-passes-russia-sanctions-bill-that-was-long-championed-by-lindsey-graham",
-                "source": "NPR",
-                "date": "2026-08-07T17:33:40Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Senate passes sanctions bill on Russia and Iran named for late Sen. Lindsey Graham",
-                "desc": "WASHINGTON — The Senate voted overwhelmingly to pass legislation to impose sanctions against Russia and Iran after months of fits and starts, with the death of Republican Sen.",
-                "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-07/260729-ukraine-russia-conflict-vsb-2100-183de3.jpg",
-                "url": "https://www.nbcnews.com/politics/congress/senate-passes-sanctions-bill-russia-iran-named-late-sen-lindsey-graham-rcna589949",
-                "source": "NBC News",
-                "date": "2026-08-07T17:25:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "A deal with Iran over the Strait of Hormuz may require a compromise from Trump",
-                "desc": "To reach a deal with Iran that reopens the economically vital Strait of Hormuz, President Donald Trump may need to do something out of character — compromise.",
-                "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/08/2026-08-06T132145Z_335753292_RC2YSMATHMCD_RTRMADP_3_IRAN-CRISIS-OMAN-HORMUZ-1024x576.jpg",
-                "url": "https://www.pbs.org/newshour/world/a-deal-with-iran-over-the-strait-of-hormuz-may-require-a-compromise-from-trump",
-                "source": "PBS",
-                "date": "2026-08-07T16:39:59Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Stanford AI virus study raises specter of bioweapon risk",
-                "desc": "A new Stanford University study created AI-generated viruses capable of infecting bacteria.",
-                "image": "https://s.hdnux.com/photos/01/67/01/04/31199507/3/rawImage.jpg",
-                "url": "https://www.sfgate.com/tech/article/ai-virus-stanford-22378325.php",
-                "source": "SFGATE",
-                "date": "2026-08-07T16:35:21Z",
-                "priority": "STANDARD"
             }
         ],
         "business": [
+            {
+                "title": "Elon Musk plans 100 million-square-foot terafab semiconductor plant near Houston",
+                "desc": "SpaceX and Tesla plan to build Terafab Texas, a semiconductor plant Elon Musk says will be the largest building on Earth, producing AI chips for edge computing and inference.",
+                "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/08/0/0/elon-musk-looking-into-distance.jpg?ve=1&tl=1",
+                "url": "https://www.foxbusiness.com/technology/spacex-tesla-choose-texas-ai-chip-manufacturing-plant-worlds-largest-building",
+                "source": "Fox Business",
+                "date": "2026-08-08T00:52:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Health department investigating after seeing more than 5x increase in cyclosporiasis cases in McHenry County",
                 "desc": "The health department issued a warning as they investigate a more than five times increase in cyclosporiasis cases in McHenry County recently, with no identifiable source so far.",
@@ -3243,18 +3252,27 @@
                 "source": "CBS News",
                 "date": "2026-08-06T20:01:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "American Airlines will stop upgrading some flyers on long flights",
-                "desc": "American Airlines will no longer give elite frequent flyers free upgrades from economy class to business on some of its longest domestic routes",
-                "image": "https://image.cnbcfm.com/api/v1/image/108025032-1724437349260-gettyimages-2167250314-AFP_36EN87H.jpeg?v=1724437432&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/08/06/american-airlines-flight-upgrades-become-harder-to-get.html",
-                "source": "CNBC",
-                "date": "2026-08-06T19:55:20Z",
-                "priority": "STANDARD"
             }
         ],
         "entertainment": [
+            {
+                "title": "What’s next for Chelsea Green, Tiffany Stratton",
+                "desc": "We found the new direction for the women’s champion and the United States champion on SmackDown in Philly.",
+                "image": "https://platform.cagesideseats.com/wp-content/uploads/sites/54/2026/08/LashNia.png?quality=90&strip=all&crop=0%2C3.201100310008%2C100%2C93.597799379984&w=1200",
+                "url": "https://www.cagesideseats.com/wwe/467102/whats-next-chelsea-green-tiffany-stratton-wwe-smackdown-womens-united-states-championship-jacy-jayne-nia-jax",
+                "source": "Cageside Seats",
+                "date": "2026-08-08T01:15:24Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "John Goodman Unrecognizable After 200-Pound Weight Loss: Photo",
+                "desc": "John Goodman was nearly unrecognizable in a new picture with Wizards of Waverly Place actor David DeLuise due to the 200-pound weight loss transformation he’s undergone since the aughts.",
+                "image": "https://akns-images.eonline.com/eol_images/Entire_Site/20260807/20ce6cc2-bc93-4c6c-b415-92d1fdda8693_1786149340.jpg?fit=around%7C1200:1200&output-quality=90&crop=1200:1200;center,top",
+                "url": "https://www.eonline.com/news/1434821/john-goodman-unrecognizable-after-200-pound-weight-loss-photo",
+                "source": "E! News",
+                "date": "2026-08-08T01:02:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Spoiler on WWE Main Roster Debut Revealed for August 7 SmackDown",
                 "desc": "WWE is set to bring another NXT name to the main roster during the August 7 episode of SmackDown. Fightful Select reports that Tatum Paxley is scheduled",
@@ -3776,24 +3794,6 @@
                 "source": "AP News",
                 "date": "2026-08-06T23:55:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Minnie Driver Is ‘Grateful to Be Alive’ After Car Crash",
-                "desc": "Minnie Driver sprained her neck after her car got T-boned in France and says she’s ‘grateful to be alive.’ The ‘Emily in Paris’ star is recovering in London.",
-                "image": "https://pyxis.nymag.com/v1/imgs/86c/be6/dc78370b28d62fa9873da3749463b10add-minnie-driver.1x.rsocial.w1200.jpg",
-                "url": "https://www.vulture.com/article/minnie-driver-car-crash-france.html",
-                "source": "Vulture",
-                "date": "2026-08-06T23:42:53Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Match & Segments Revealed for August 7 WWE SmackDown",
-                "desc": "WWE has added a major match and several key segments to the August 7 episode of SmackDown, with Kevin Owens, CM Punk and Chelsea Green all set for the",
-                "image": "https://www.ringsidenews.com/wp-content/uploads/2026/02/last-minute-match-confirmed-for-february-27-wwe-smackdown-06.jpg",
-                "url": "https://www.ringsidenews.com/match-segments-revealed-august-7-wwe-smackdown/",
-                "source": "ringsidenews.com",
-                "date": "2026-08-06T23:01:32Z",
-                "priority": "STANDARD"
             }
         ],
         "sports": [
@@ -3876,6 +3876,15 @@
                 "url": "https://www.jsonline.com/story/sports/nfl/packers/2026/08/07/packers-family-night-lambeau-field-training-camp-highlights--live/91218969007/",
                 "source": "Milwaukee Journal Sentinel",
                 "date": "2026-08-07T22:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Giardi: Brown sees a different side of Gonzalez, and it's beneficial for all involved",
+                "desc": "What’s also been evident - at least to me - is that the cornerback’s been saving that little extra something for the Patriots’ newest number one receiver, A.J. Brown. Guess what? Brown has observed the same.",
+                "image": "https://www.bostonsportsjournal.com/img/random/usatsi_29467343_168404151_lowres-1600x900.jpg",
+                "url": "https://www.bostonsportsjournal.com/2026/08/07/giardi-brown-sees-a-different-side-of-gonzalez-and-its-beneficial-for-all-involved",
+                "source": "Boston Sports Journal",
+                "date": "2026-08-07T22:19:09Z",
                 "priority": "STANDARD"
             },
             {
@@ -4327,17 +4336,8 @@
                 "source": "NBC Sports Boston",
                 "date": "2026-08-07T15:06:03Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "4 overreactions from the Panthers-Cardinals Hall of Fame banger",
-                "desc": "What a game.",
-                "image": "https://platform.sbnation.com/wp-content/uploads/sites/2/2026/08/gettyimages-2288576895.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-                "url": "https://www.sbnation.com/nfl/1124209/4-overreactions-from-the-panthers-cardinals-hall-of-fame-banger",
-                "source": "SB Nation",
-                "date": "2026-08-07T15:05:22Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-08-08T12:28:11.259013Z"
+    "lastGlobalSync": "2026-08-08T13:38:35.689810Z"
 }
