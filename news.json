@@ -2,6 +2,15 @@
     "hi": {
         "general": [
             {
+                "title": "ईरान पर सऊदी को गच्चा दे गया तुर्की! PAK के 'इस्लामिक NATO' में आया बड़ा ट्विस्ट",
+                "desc": "सऊदी अरब, पाकिस्तान और तुर्की के बीच हुए ‘मक्का संयुक्त रक्षा समझौते’ को लेकर नई तस्वीर सामने आई है. तुर्की के विदेश मंत्री हाकान फिदान ने साफ किया कि यह समझौता ईरान या किसी खास देश के खिलाफ नहीं है. उनके मुताबिक, किसी सदस्य पर हमला तभी साझा खतरा माना जाएगा, जब वह देश औपचारिक रूप से मदद मांगे.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202608/6a77b38bbe80c-mecca-joint-defense-agreement-085358316-16x9.png",
+                "url": "https://www.aajtak.in/world/story/turkiye-defence-pact-saudi-arabia-and-pakistan-not-aimed-iran-or-any-other-country-ntc-vhrw-dskc-2618308-2026-08-09",
+                "source": "AajTak",
+                "date": "2026-08-08T23:03:37Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "'शिक्षा मंत्री पद से इस्तीफा दिया क्योंकि...', धर्मेंद्र प्रधान ने आखिरकार तोड़ी चुप्पी",
                 "desc": "धर्मेंद्र प्रधान ने शिक्षा मंत्री पद से इस्तीफे के बाद पहली बार सार्वजनिक तौर पर अपनी चुप्पी तोड़ी. उन्होंने कहा कि NEET पेपर लीक विवाद के दौरान Gen Z को गुमराह करने की कोशिश हुई, लेकिन पद उनके लिए कभी महत्वपूर्ण नहीं रहा. वहीं ओडिशा में प्रधान ने नवीन पटनायक पर युवाओं को अपने खिलाफ प्रदर्शन के लिए उकसाने का आरोप लगाया.",
                 "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202608/6a77921fb06ef-dharmendra-pradhan-on-resign-083122402-16x9.8jwgjg7wxa2xlw5rhv40e_-trv2esfopqcymnuuj8zs",
@@ -531,15 +540,6 @@
                 "source": "Aaj Tak News",
                 "date": "2026-08-07T19:07:33Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "शेर की दहाड़ है प्यारे... सायोनी घोष ने शेयर की पीएम मोदी के साथ फोटो, क्या लिखा",
-                "desc": "तृणमूल कांग्रेस छोड़कर नेशनलिस्ट सिटिजन्स पार्टी ऑफ इंडिया (एनसीपीआई) में शामिल हुए सांसदों के एक समूह ने पहली बार, मंगलवार को एनडीए की संसदीय दल की बैठक में हिस्सा लिया। सायोनी घोष ने इसका वीडियो एक्स पर पोस्ट किया है।, India News in Hindi - Hindustan",
-                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/08/07/1600x900/logo/Saayoni_1786127332587_1786127364588_228a8f02-186b-43ef-9327-3db60b74351d.jpg",
-                "url": "https://www.livehindustan.com/national/saayoni-ghosh-shares-first-meeting-with-pm-modi-ncpi-mps-nda-201786126666667.html",
-                "source": "Hindustan",
-                "date": "2026-08-07T18:32:28Z",
-                "priority": "STANDARD"
             }
         ],
         "business": [
@@ -577,6 +577,15 @@
                 "url": "https://www.money9live.com/share-market/ai-stocks-down-50-percent-kellton-tech-zensar-technologies-article-110247.html",
                 "source": "Money9live",
                 "date": "2026-08-08T14:33:12Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Stocks to Buy: इस हफ्ते इन स्टॉक्स के लिए आई खरीद की सलाह, 53% तक की तेजी का है अनुमान",
+                "desc": "तिमाही नतीजों के साथ कंपनियों और उनके स्टॉक्स के प्रदर्शन की समीक्षाएं भी जारी हैं, नतीजों के साथ ब्रोकरेज हाउस अपनी कवरेज में आने वाले स्टॉक के लिए सलाहें और समीक्षाएं जारी कर रहे हैं",
+                "image": "https://images.cnbctv18.com/hindicnbctv18/2026/08/stocks-to-buy-2026-08-4fe1e82fee8dfa18a393c66c0d6c76f4.jpg?im=FitAndFill,width=1200,height=675",
+                "url": "https://hindi.cnbctv18.com/share-market/3-stocks-in-focus-ongc-hindalco-and-campus-activewear-get-buy-calls-with-up-to-53-percent-upside-189549.htm",
+                "source": "CNBC TV18",
+                "date": "2026-08-08T14:04:41Z",
                 "priority": "STANDARD"
             },
             {
@@ -1072,15 +1081,6 @@
                 "url": "https://www.livehindustan.com/business/share-market/leap-india-ipo-raises-743-60-crore-rupee-check-price-band-gmp-here-201786071754583.html",
                 "source": "Hindustan",
                 "date": "2026-08-07T03:11:56Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "कम सैलरी में नई कार खरीदने का सपना होगा पूरा ! 5 लाख रुपये से कम में मिल रही हैं ये 3 कारें",
-                "desc": "Udaipur Times, Best Choices for a Monthly salary of ₹30,000 : अगर आपकी महीने की सैलरी 30,000 रुपये है और आप नई कार खरीदने का सपना देख रहे हैं, तो अब इसके लिए ज्यादा चिंता करने की जरूरत नहीं है। भारतीय बाजार में कई ऐसी बजट कारें उपलब्ध हैं,",
-                "image": "https://udaipurtimes.com/static/c1e/client/74416/uploaded_original/887e7114ab781f4c03ca57f1c851a6a5.jpg",
-                "url": "https://udaipurtimes.com/hindi/the-dream-of-buying-a-new-car-at-a-low-salary-will-come/cid19093715.htm",
-                "source": "UdaipurTimes.com",
-                "date": "2026-08-07T03:10:07Z",
                 "priority": "STANDARD"
             }
         ],
@@ -1628,6 +1628,15 @@
         ],
         "sports": [
             {
+                "title": "वनडे वर्ल्ड कप 2027 के लिए 9 टीमें हुईं तय, अब वेस्टइंडीज का डायरेक्ट क्वालिफाई करना हुआ मुश्किल",
+                "desc": "साल 2027 में होने वाले वनडे वर्ल्ड कप के लिए अफगानिस्तान की टीम के रैंकिंग के आधार पर डायरेक्ट क्वालिफाई कर लिया है तो वहीं अब वेस्टइंडीज के लिए मुश्किलें बढ़ गई हैं।",
+                "image": "https://resize.indiatv.in/resize/newbucket/1200_-/2026/08/afghanistan-cricket-team-3-1786212964.jpg",
+                "url": "https://www.indiatv.in/sports/cricket/afghanistan-qualify-for-odi-world-cup-2027-with-direct-qualification-now-difficult-for-west-indies-2026-08-08-1236181",
+                "source": "India TV Hindi",
+                "date": "2026-08-08T18:22:04Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "अजिंक्य रहाणे ने 4 साल बाद चुप्पी तोड़ी, यशस्वी जायसवाल को बाहर भेजने पर कहा- बैन की चिट्ठी तैयार थी",
                 "desc": "अजिंक्य रहाणे ने 2022 दलीप ट्रॉफी के फाइनल में यशस्वी जायसवाल को फील्डिंग के दौरान मैदान से बाहर भेज दिया था। रहाणे ने खुलासा किया है कि वह ऐसा नहीं करते तो यशस्वी पर बैन लग जाता।",
                 "image": "https://static.langimg.com/nbt/thumb/133055401/ajinkya-rahane.jpg?imgsize=88346&width=1600&height=900&resizemode=75",
@@ -2157,20 +2166,38 @@
                 "source": "Aaj Tak News",
                 "date": "2026-08-07T04:53:28Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "वैभव सूर्यवंशी को मिचेल मार्श ने छोड़ा पीछे, किसने लगाए हैं इस साल टी20 में सबसे ज्यादा छक्के?",
-                "desc": "ऑस्ट्रेलिया के अनुभवी ऑलराउंडर मिचेल मार्श ने साल 2026 में सबसे ज्यादा सिक्स लगाने वाले बल्लेबाजों की लिस्ट में वैभव सूर्यवंशी को पीछे छोड़ दिया है। इस साल उन्होंने टी20 में 86 सिक्स लगाए हैं।",
-                "image": "https://resize.indiatv.in/resize/newbucket/1200_-/2026/08/india-tv-2026-08-07t090546-1786073771.jpg",
-                "url": "https://www.indiatv.in/sports/cricket/mitchell-marsh-overtakes-vaibhav-suryavanshi-who-has-hit-the-most-sixes-in-t20s-this-year-2026-08-07-1235826",
-                "source": "India TV Hindi",
-                "date": "2026-08-07T04:26:44Z",
-                "priority": "STANDARD"
             }
         ]
     },
     "en": {
         "general": [
+            {
+                "title": "CDC tracks 2 Salmonella outbreaks tied to eggs, restaurant-chain jalapenos in 30 states",
+                "desc": "The highest case counts are in Minnesota and Colorado, with 110 cases each.",
+                "image": "https://s.yimg.com/lo/mysterio/api/cc8d059707493de249df6b2572c8df0b898d45a5eef0f4b464f711711ced7b33/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2F133778e41e8c57bd38a3d0e0cc1330de",
+                "url": "https://www.yahoo.com/news/us/articles/cdc-tracks-2-salmonella-outbreaks-230800787.html",
+                "source": "Yahoo",
+                "date": "2026-08-08T23:08:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Sky’s DiJonai Carrington posts ‘white privilege’ after ejection for hard foul on Sophie Cunningham",
+                "desc": "Chicago’s DiJonai Carrington tagged Indiana in a post saying ‘WHITE PRIVILEGE’ after she was tossed for a hard foul on Sophie Cunningham",
+                "image": "https://i.guim.co.uk/img/media/a9ae1e12d0bfc9ccf7c5822ff6230ea11e9847fa/114_0_2500_2001/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dc207edbdb7059924e7c6ffc2e4ddfc7",
+                "url": "https://www.theguardian.com/sport/2026/aug/08/sophie-cunningham-foul-dijonai-carrington-ejected-wnba",
+                "source": "The Guardian",
+                "date": "2026-08-08T22:53:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Two Killed in Firefighting Helicopter Crash Near Utah Wildfire",
+                "desc": "The aircraft was responding to the Widemouth 2 fire, which has burned more than 100,000 acres since starting last month.",
+                "image": "https://static01.nyt.com/images/2026/08/08/multimedia/08nat-utah-fire-crash-swap-vtjq/08nat-utah-fire-crash-swap-vtjq-facebookJumbo.jpg",
+                "url": "https://www.nytimes.com/2026/08/08/us/two-killed-wildfire-helicopter-crash.html",
+                "source": "The New York Times",
+                "date": "2026-08-08T22:47:04Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Hunter Biden Says His Father’s Cancer Is Worsening",
                 "desc": "In an interview with the BBC, Mr. Biden said that former President Joseph R. ⁠Biden Jr.’s prostate cancer had spread into his bones and was causing pain.",
@@ -2683,36 +2710,27 @@
                 "source": "Al Jazeera",
                 "date": "2026-08-08T00:40:16Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "The new mRNA flu shot mFlusiva is more effective. Why doctors worry Long Islanders may not get it.",
-                "desc": "Although experts estimate COVID vaccines saved more than three million American lives, a survey found only 56% of Americans believe it is safe.",
-                "image": "https://cdn.newsday.com/ace/c:Y2EyYzI5YzctZmY4Ny00:MjY4ZDk1YWEtNWJjYS00/landscape/1280",
-                "url": "https://www.newsday.com/news/health/flu-mrna-vaccine-bhlbboox",
-                "source": "Newsday",
-                "date": "2026-08-08T00:31:39Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Remains of 56 people found decomposing at Chicago funeral home",
-                "desc": "Officials describe ‘deplorable conditions’ at home run by pair linked to crematory closed due to mishandled remains",
-                "image": "https://i.guim.co.uk/img/media/18d1311bcf0eb8bec85dec2f478c9a6fba775392/135_0_1350_1080/master/1350.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=163a9cfda233be3e6bb30ed26017eada",
-                "url": "https://www.theguardian.com/us-news/2026/aug/07/chicago-funeral-home-bodies",
-                "source": "The Guardian",
-                "date": "2026-08-08T00:31:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Another overnight Russian attack on Kyiv and Kyiv Oblast kills 3, injures 7",
-                "desc": "The overnight attack killed three people and injured three others in Kyiv Oblast's Brovary district on Aug. 8, regional governor Tymur Tkachenko reported.",
-                "image": "https://assets.kyivindependent.com/content/images/2026/08/photo_2026-08-07-23_50_19_20260808-035106.jpeg",
-                "url": "https://kyivindependent.com/deadly-russian-attack-in-kyiv-oblast-kills-3-including-child/",
-                "source": "The Kyiv Independent",
-                "date": "2026-08-08T00:03:16Z",
-                "priority": "STANDARD"
             }
         ],
         "business": [
+            {
+                "title": "Verizon mobile service down for thousands of customers: Downdetector",
+                "desc": "Verizon recommended that customers who are still impacted by the outage restart their devices. The company did not provide ⁠a reason for ⁠the outage.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108225675-1763063273944-gettyimages-2246554747-_73a9943_rypsalje.jpeg?v=1763063392&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/08/08/verizon-mobile-outage-downdetector.html",
+                "source": "cnbc.com",
+                "date": "2026-08-08T23:14:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "CDC tracks 2 Salmonella outbreaks tied to eggs, restaurant-chain jalapenos in 30 states",
+                "desc": "The highest case counts are in Minnesota and Colorado, with 110 cases each.",
+                "image": "https://s.yimg.com/lo/mysterio/api/cc8d059707493de249df6b2572c8df0b898d45a5eef0f4b464f711711ced7b33/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2F133778e41e8c57bd38a3d0e0cc1330de",
+                "url": "https://www.yahoo.com/news/us/articles/cdc-tracks-2-salmonella-outbreaks-230800787.html",
+                "source": "Yahoo",
+                "date": "2026-08-08T23:08:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Canadian airline cancels flight after toddler refuses to buckle up",
                 "desc": "A Porter Airlines flight was canceled after a toddler refused to buckle their seatbelt, forcing all passengers to disembark and stay overnight.",
@@ -3234,27 +3252,27 @@
                 "source": "USA Today",
                 "date": "2026-08-07T13:05:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Stock Market Today: Dow Jones Rises On Surprise Jobs Report; AI Stock Cloudflare Soars",
-                "desc": "Stock Market Today: The Dow Jones index rises Friday on a surprise July jobs report. AI name Cloudflare stock soars on earnings.",
-                "image": "https://www.investors.com/wp-content/uploads/2017/03/stock-wallstreet-031317-shutter.jpg",
-                "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-july-jobs-report-cloudflare-stock/",
-                "source": "Investor's Business Daily",
-                "date": "2026-08-07T12:49:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Europe Finalizes Plans For Its 'Sovereign' Starlink Competitor",
-                "desc": "The EU’s sovereign satellite broadband service is now moving towards full-scale deployment.",
-                "image": "https://www.engadget.com/img/gallery/europe-finalizes-plans-for-its-sovereign-starlink-competitor/l-intro-1786103980.jpg",
-                "url": "https://www.engadget.com/2232264/europe-finalizes-plans-for-iris2-satellite-network/",
-                "source": "Engadget",
-                "date": "2026-08-07T12:01:07Z",
-                "priority": "STANDARD"
             }
         ],
         "entertainment": [
+            {
+                "title": "Who Played The Gremlin In William Shatner's Classic Twilight Zone Episode",
+                "desc": "Find out which actor donned the costume of the gremlin that terrorized William Shatner in the iconic Twilight Zone episode \"Nightmare at 20,000 Feet.\"",
+                "image": "https://www.tvline.com/img/gallery/who-played-the-gremlin-in-william-shatners-classic-twilight-zone-episode/l-intro-1785341409.jpg",
+                "url": "https://www.tvline.com/2228932/who-played-gremlin-william-shatner-classic-twilight-zone-episode/",
+                "source": "TVLine",
+                "date": "2026-08-08T23:12:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Britney Spears Says She ‘Failed as a Mother’ After Son Told Her He Believes in Science, Not God",
+                "desc": "Britney Spears says a recent conversation with one of her sons left her feeling that she had “failed as a mother,” prompting an emotional apology ... Read More",
+                "image": "https://s.yimg.com/lo/mysterio/api/642661cc7b7fd56cbeeda05dd8facdd49b4e625a4fc049d6e053ff13f00bb57e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwealth_of_geeks_188%2F02fd8c55df9574d3c3722ce2f390b92b",
+                "url": "https://www.yahoo.com/entertainment/celebrity/articles/britney-spears-says-she-failed-223045395.html",
+                "source": "Yahoo",
+                "date": "2026-08-08T22:30:45Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Molly Sims rocks mismatched black bikini top and blue bottoms at beach",
                 "desc": "Molly Sims showed off her toned abs in a black bikini top and blue bikini bottoms during a beach day with her kids and some friends, later going to dinner.",
@@ -3776,27 +3794,36 @@
                 "source": "Fox Business",
                 "date": "2026-08-07T15:07:21Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Karol G Sings Entirely in English on Bruno Mars Duet ‘Still’",
-                "desc": "Karol G has joined Bruno Mars for “Still,” an emotional duet that finds the Colombian superstar singing entirely in English. The collaboration appears on Karol ... Read More",
-                "image": "https://s.yimg.com/lo/mysterio/api/22014ccc8d54e263ce52182999f5e289f8ccc6126b4e0d6bdc0fc173f3869295/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwealth_of_geeks_188%2F26790e7df3f313c633e46096fcb455e4",
-                "url": "https://www.yahoo.com/entertainment/music/articles/karol-g-sings-entirely-english-150032609.html",
-                "source": "Yahoo",
-                "date": "2026-08-07T15:00:32Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Carrie Underwood Faces NFL Fan Backlash as MAGA Association Sparks Calls for NBC to Find a Replacement",
-                "desc": "Carrie Underwood faces backlash from NFL fans as calls for a new Sunday Night Football performer grow. Despite political scrutiny and viewer fatigue, NBC plans to retain Underwood for the season.",
-                "image": "https://d.ibtimes.co.uk/en/full/1824603/carrie-underwood.jpg",
-                "url": "https://www.ibtimes.co.uk/carrie-underwood-nfl-fan-backlash-calls-change-1813076",
-                "source": "International Business Times UK",
-                "date": "2026-08-07T14:54:04Z",
-                "priority": "STANDARD"
             }
         ],
         "sports": [
+            {
+                "title": "NASCAR Cup Iowa starting lineup: Ryan Blaney earns pole over Kyle Larson",
+                "desc": "It's a Penske-Hendrick front row in an unusual qualifying session at Iowa Speedway",
+                "image": "https://cdn-7.motorsport.com/images/amp/0qgKAQyY/s6/ryan-blaney-no-12-team-penske-.jpg",
+                "url": "https://www.motorsport.com/nascar-cup/news/nascar-cup-iowa-starting-lineup-blaney-pole-over-larson/10845104/",
+                "source": "Motorsport.com",
+                "date": "2026-08-08T23:05:52Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Three talking points from Barcelona 1-0 Nottingham Forest and Barcelona 0-1 Udinese",
+                "desc": "Another pre-season run-out",
+                "image": "https://platform.barcablaugranes.com/wp-content/uploads/sites/21/2026/08/gettyimages-2289629148.jpg?quality=90&strip=all&crop=0%2C10.75579185314%2C100%2C78.488416293721&w=1200",
+                "url": "https://www.barcablaugranes.com/fc-barcelona-preseason/128507/three-talking-points-from-barcelona-1-0-nottingham-forest-and-barcelona-0-1-udinese",
+                "source": "Barca Blaugranes",
+                "date": "2026-08-08T23:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Adley Rutschman doubles in first Triple-A rehab start for Red Sox",
+                "desc": "BOSTON – Adley Rutschman’s debut in the Red Sox organization took place on Saturday, as he kicked off a Minor League rehab assignment for Triple-A Worcester five days after the three-time All-Star catcher was acquired in a blockbuster trade with the Orioles.",
+                "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/v1786227561/mlb/fbsl5uqqyrfcus9onuxp.jpg",
+                "url": "https://www.mlb.com/news/adley-rutschman-doubles-in-first-triple-a-rehab-start-for-red-sox",
+                "source": "MLB.com",
+                "date": "2026-08-08T22:49:56Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "2026 Denver Broncos Training Camp: Day 8 News and Notes",
                 "desc": "News and notes from Day 8 of Broncos Camp",
@@ -4309,35 +4336,8 @@
                 "source": "AP News",
                 "date": "2026-08-08T14:28:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Bill Maher calls out the lunacy over Sophie Cunningham's trans comments being twisted",
-                "desc": "Bill Maher defended Sophie Cunningham on his show, saying her comments about protecting girls in locker rooms and sports from biological men reflect where 80% of the country is.",
-                "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/sophie-cunningham-portland-fire.jpg",
-                "url": "https://www.foxnews.com/outkick-sports/bill-maher-calls-lunacy-sophie-cunningham-trans-comments-twisted",
-                "source": "Fox News",
-                "date": "2026-08-08T14:03:18Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Raiders News: Maxx Crosby, Kirk Cousins have training camp fight",
-                "desc": "The Las Vegas Raiders training camp practice on Friday got heated with a couple of fights, including one between Kirk Cousins and Maxx Crosby.",
-                "image": "https://platform.silverandblackpride.com/wp-content/uploads/sites/143/2026/06/gettyimages-2280814374.jpg?quality=90&strip=all&crop=0%2C10.729241369192%2C100%2C78.541517261617&w=1200",
-                "url": "https://www.silverandblackpride.com/las-vegas-raiders-news/136322/las-vegas-raiders-news-training-camp-maxx-crosby-kirk-cousins",
-                "source": "Silver And Black Pride",
-                "date": "2026-08-08T14:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Mike Vrabel recalls his favorite Adam Vinatieri story",
-                "desc": "The former Patriots kicker will enter the Pro Football Hall of Fame on Saturday.",
-                "image": "https://platform.patspulpit.com/wp-content/uploads/sites/121/2026/08/gettyimages-81358980.jpg?quality=90&strip=all&crop=19.488717651367%2C19.79608551391%2C80.511282348633%2C63.498690329351&w=1200",
-                "url": "https://www.patspulpit.com/new-england-patriots-news/24480984/pro-football-hall-of-fame-mike-vrabel-favorite-adam-vinatieri-story",
-                "source": "Pats Pulpit",
-                "date": "2026-08-08T14:00:00Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-08-09T10:23:24.862591Z"
+    "lastGlobalSync": "2026-08-09T11:20:59.885344Z"
 }
