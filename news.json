@@ -2,6 +2,42 @@
     "hi": {
         "general": [
             {
+                "title": "क्या आप नहीं चाहते कि लोग सेहतमंद रहें? सुप्रीम कोर्ट ने FSSAI को लगाई फटकार, पैक्ड फूड लेबल का मामला",
+                "desc": "FSSAI सुप्रीम कोर्ट की तरफ से कड़ी फटकार लगाई गई है। यह मामला पैक्ड फूड लेबल को लेकर है। कोर्ट ने कहा है कि हम दबाव के बारे में जानते हैं।",
+                "image": "https://static.langimg.com/nbt/thumb/133222015/fssai.jpg?imgsize=96370&width=1600&height=900&resizemode=75",
+                "url": "https://navbharattimes.indiatimes.com/india/supreme-court-raps-fssai-over-packaged-food-labels/articleshow/133221982.cms",
+                "source": "Navbharat Times",
+                "date": "2026-08-13T18:26:20Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "पाकिस्तान के ग्वादर में बवाल, बलूचों ने दौड़ाया तो भाग खड़ी हुई पाकिस्तानी सेना",
+                "desc": "पाकिस्तान के ग्वादर में पाकिस्तानी सेना को बलूच प्रदर्शनकारियों के डर से पीछे हटना पड़ा है। इस घटना का एक वीडियो सोशल मीडिया पर शेयर किया जा रहा है। इस वीडियो में पाकिस्तानी सैनिकों को ट्रकों पर चढ़कर भागते हुए देखा जा सकता है।",
+                "image": "https://static.langimg.com/nbt/thumb/133221656/baloch-protests-pakistan-army-troops.jpg?imgsize=119228&width=1600&height=900&resizemode=75",
+                "url": "https://navbharattimes.indiatimes.com/world/pakistan/pakistan-army-fled-gwadar-fearing-baloch-protesters/articleshow/133221520.cms",
+                "source": "Navbharat Times",
+                "date": "2026-08-13T18:12:21Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Instagram ने 10 साल बाद बदला Logo, यूजर्स बोले- ये क्या बना दिया",
+                "desc": "Instagram ने 10 साल बाद अपने वर्डमार्क लोगो को नया रूप दिया है, जो पहले से ज्यादा साफ और मॉडर्न है. हालांकि, सोशल मीडिया पर यूजर्स ने इस बदलाव को लेकर मिली-जुली प्रतिक्रिया दी है.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202608/6a7e0addbfe9a-instagram-132008556-16x9.jpg",
+                "url": "https://www.aajtak.in/technology/tech-news/story/nstagram-new-logo-wordmark-redesign-2026-ttecm-dskc-2621565-2026-08-13",
+                "source": "AajTak",
+                "date": "2026-08-13T18:01:31Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'दूसरी आजादी के लिए आपकी मदद चाहिए...', 15 अगस्त से पहले सोनम वांचुक की लोगों से अपील",
+                "desc": "सोनम वांगचुक ने सोशल मीडिया पर वीडियो मैसेज पोस्ट कर कहा कि वह पिछले कुछ दिनों से बीमार थे और इस दौरान देश और उसके भविष्य के बारे में सोचते रहे. वांगचुक ने कहा कि भारत से पीछे या बराबरी पर रहने वाले कई देश आज उससे काफी आगे निकल चुके हैं. उन्होंने थाईलैंड, मलेशिया, इंडोनेशिया, श्रीलंका और बांग्लादेश का उदाहरण देते हुए प्रति व्यक्ति जीडीपी का जिक्र किया.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202608/6a7e03e238d61-sonam-wangchuk-135020816-16x9.jpg",
+                "url": "https://www.aajtak.in/india/news/story/sonam-wangchuk-independence-day-peaceful-revolution-second-independence-ntc-rlch-dskc-2621563-2026-08-13",
+                "source": "AajTak",
+                "date": "2026-08-13T17:52:45Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "'इनको हम पागल कर देंगे, पीएम मोदी रात को सोते नहीं हैं': राहुल गांधी का बीजेपी और आरएसएस पर तीखा हमला",
                 "desc": "राहुल गांधी ने बीजेपी और आरएसएस पर तीखा हमला बोलते हुए प्रधानमंत्री नरेंद्र मोदी और गृह मंत्री अमित शाह को लेकर कई दावे किए. उन्होंने आरएसएस पर भारत की समझ नहीं होने और सरमायादारों का हथियार बन जाने का आरोप लगाया.",
                 "image": "https://ichef.bbci.co.uk/news/1200/branded_hindi/d484/live/cd4589f0-9715-11f1-bb91-6bb44c42ed47.jpg",
@@ -504,45 +540,18 @@
                 "source": "Navbharat Times",
                 "date": "2026-08-13T02:49:19Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "अभिजीत दीपके को लोगों ने पार्क से भगाया, बोले- यह जंतर-मंतर नहीं; यहां नौटंकी नहीं चलेगी",
-                "desc": "कॉकरोच जनता पार्टी के फाउंडर अभिजीत दीपके और उनके टीम के मेंबरों को लोगों ने दिल्ली के एक पार्क से भगा दिया। वे यहां अपने कुछ समर्थकों के साथ जंतर-मंतर सीजन 2 की योजना बनाने के लिए इकट्ठा हुए थे। इससे पहले दीपके ने कहा कि वह किसी इनडोर हॉल की तलाश में थे, लेकिन नहीं मिली।, Ncr Hindi News - Hindustan",
-                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/08/13/1600x900/logo/cjp_park_1786587883268_1786587883461_ebbeac96-7198-4aa1-b9f6-d891399b36f9.jpg",
-                "url": "https://www.livehindustan.com/ncr/people-chased-abhijit-deepke-away-from-the-park-saying-no-theatrics-allowed-here-201786587777947.html",
-                "source": "Hindustan",
-                "date": "2026-08-13T02:32:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "India Russia Relations: ट्रंप की टैरिफ की धमकी के बीच भारत को लेकर पुतिन ने दिया बड़ा बयान, अब अमेरिका के रूख पर नजर",
-                "desc": "India Russia Relations: अमेरिका लगातार रूसी तेल की खरीद को लेकर भारत पर दबाव बढ़ाता रहा है. हाल ही में अमेरिकी सरकार ने रूस से तेल खरीदने वाले देशों पर 100% टैरिफ लगाने का प्रस्ताव पास किया है.",
-                "image": "https://images.cnbctv18.com/hindicnbctv18/2024/04/putin-new.jpg?im=FitAndFill,width=1200,height=675",
-                "url": "https://hindi.cnbctv18.com/economy/trump-pressure-fails-to-slow-india-russia-ties-putin-says-india-keen-to-expand-cooperation-on-northern-sea-route-190242.htm",
-                "source": "hindi.cnbctv18.com",
-                "date": "2026-08-13T02:11:19Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "IPS ने 500 रुपये की रिश्वत को बताया था बुरा, अब 1 करोड़ की घूस लेने के आरोप लगे",
-                "desc": "IPS यानी भारतीय पुलिस सेवा के ट्रेनी अधिकारी राहुल बंसल 1 करोड़ रुपये की रिश्वत मामले में फंसे हैं। उनके साथ 2 और लोगों का नाम भी शामिल है। खास बात है कि इसी बीच उनका रिश्वत के मुद्दे पर चर्चा करते हुए पुराना वीडियो वायरल हुआ है।, India News in Hindi - Hindustan",
-                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/08/13/1600x900/logo/IPS_Rahul_Bansal_1786438988933_1786438995113_afe7d3b7-ab99-4b4a-8aa3-2dbf5dcf74f0_1786586233757_4562b9bd-ddca-4a4e-b348-49e2e13fbbde.png",
-                "url": "https://www.livehindustan.com/national/ips-rahul-bansal-case-of-allegations-on-1-crore-rupees-bribe-old-video-resurface-201786586096882.html",
-                "source": "livehindustan.com",
-                "date": "2026-08-13T01:58:25Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'अभी भी वक्त है, माफी मांगो', सलमान को एक्स-GF सोमी अली का मैसेज, बिश्नोई मंदिर का किया जिक्र",
-                "desc": "बॉलीवुड के दबंग सुपरस्टार सलमान खान की एक्स गर्लफ्रेंड सोमी अली ने दावा किया है कि उन्होंने एक्टर को बिश्नोई समाज से माफी मांगने की सलाह दी थी. जानिए उन्होंने क्या कहा.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202608/6a7cb47e31d32-salman-khan-somy-ali-125924231-16x9.jpg",
-                "url": "https://www.aajtak.in/entertainment/bollywood-news/story/salman-khan-ex-girlfriend-somy-ali-message-mentions-bishnoi-temple-demand-apologize-tmovg-dskc-2620958-2026-08-13",
-                "source": "AajTak",
-                "date": "2026-08-13T01:40:03Z",
-                "priority": "STANDARD"
             }
         ],
         "business": [
+            {
+                "title": "Instagram ने 10 साल बाद बदला Logo, यूजर्स बोले- ये क्या बना दिया",
+                "desc": "Instagram ने 10 साल बाद अपने वर्डमार्क लोगो को नया रूप दिया है, जो पहले से ज्यादा साफ और मॉडर्न है. हालांकि, सोशल मीडिया पर यूजर्स ने इस बदलाव को लेकर मिली-जुली प्रतिक्रिया दी है.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202608/6a7e0addbfe9a-instagram-132008556-16x9.jpg",
+                "url": "https://www.aajtak.in/technology/tech-news/story/nstagram-new-logo-wordmark-redesign-2026-ttecm-dskc-2621565-2026-08-13",
+                "source": "aajtak.in",
+                "date": "2026-08-13T18:01:31Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Q1 Results: इन 2 कंपनियों की इनकम बढ़ी, फिर भी नहीं बढ़ा मुनाफा! एक का घाटा हुआ कम",
                 "desc": "Q1 Results: गुरुवार को शेयर बाजार बंद होने के बाद दो कंपनियों Brainbees Solutions और Supriya Lifescience ने अपने जून तिमाही के नतीजे जारी किए.दोनों कंपनियों ने पिछले साल के मुकाबले ज्यादा इनकम में ग्रोथ दर्ज की. लेकिन इसका फायदा कंपनी के मुनाफे में नहीं दिखा. दोनों कंपनियों के प्रॉफिट में गिरावट आई है.",
@@ -1073,18 +1082,18 @@
                 "source": "AajTak",
                 "date": "2026-08-12T11:53:50Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "देश में लागू हो एक देश, एक रिटायरमेंट अकाउंट और बंद हो जाए EPF! एक्सिस पेंशन फंड के CEO ने समझाया पूरा गणित",
-                "desc": "EPF-NPS Merger Proposal: एक्सिस पेंशन फंड के मैनेजिंग डायरेक्टर और CEO)सुमित शुक्ला ने कहा कि EPF और NPS का विलय एक ऐसा सुधार है 'जिसका होना तय है और यह सिर्फ समय की बात है।' उनका मानना है कि दो अलग-अलग खातों के बजाय नौकरीपेशा कर्मचारियों के लिए सिर्फ एक ही यूनिवर्सल रिटायरमेंट अकाउंट होना चाहिए, जिसमें दोनों योजनाओं के बीच फंड ट्रांसफर करने की पूरी आजादी हो -",
-                "image": "https://images.moneycontrol.com/static-hindinews/2026/08/EPF-NPS-Merger-Proposal.jpg",
-                "url": "https://hindi.moneycontrol.com/news/your-money/epf-nps-merger-axis-pension-fund-ceo-proposal-portability-tax-benefits-2429963.html",
-                "source": "Moneycontrol Hindi",
-                "date": "2026-08-12T11:44:27Z",
-                "priority": "STANDARD"
             }
         ],
         "entertainment": [
+            {
+                "title": "Kiara Advani से तुलना पर Batwara 1947 एक्ट्रेस का चढ़ा पारा, बोलीं-'पहली मुलाकात में मैं उनसे...'",
+                "desc": "बंटवारा 1947 एक्ट्रेस कनिका कपूर का कियारा आडवाणी से लगातार तुलना करने पर अब सब्र का बांध टूट गया है और सनी देओल की को-स्टार ने इस पर रिएक्ट किया है।",
+                "image": "https://www.jagranimages.com/images/2026/08/13/template/image/_---2026-08-13T224516.794-1786641321980_m.webp",
+                "url": "https://www.jagran.com/entertainment/bollywood-batwara-1947-actress-kanikka-kapur-reacts-on-comparison-with-kiara-advani-says-i-am-tired-of-this-question-40339929.html",
+                "source": "Jagran",
+                "date": "2026-08-13T17:23:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "कभी सर्कस से आया 5 लाख का ऑफर, आज बने दुनिया के सबसे छोटे डॉक्टर, KBC 18 में छाए 3 फीट के गणेश बरैया",
                 "desc": "अमिताभ बच्चन के शो 'कौन बनेगा करोड़पति 18' (KBC 18) में 'दुनिया के सबसे छोटे डॉक्टर' गणेश बरैया हॉट सीट पर पहुंचे. गुजरात के गोरखी गांव के रहने वाले गणेश ने शो के हालिया एपिसोड में न सिर्फ अपने गेमप्ले से, बल्कि अपनी प्रेरणादायक और इमोशनल कर देने वाली जिंदगी की कहानी से भी लोगों का दिल जीत लिया.",
@@ -1615,18 +1624,45 @@
                 "source": "AajTak",
                 "date": "2026-08-12T11:27:10Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "13 साल की शादी-1 बेटे का पिता, हीरोइन के प्यार में पड़ा एक्टर? एक्स्ट्रा मैरिटल पर बोला- रोमांटिक...",
-                "desc": "एक्टर अर्जुन बिजलानी का नाम बीते दिनों एक्ट्रेस मौनी रॉय संग जोड़ा गया था. अर्जुन ने अब अपनी डेटिंग पर चुप्पी तोड़ी है. एक्टर ने कहा कि मौनी सिर्फ उनकी अच्छी दोस्त हैं.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202608/6a7bf55b84079-arjun-bijlani-mouni-roy-161521186-16x9.jpg",
-                "url": "https://www.aajtak.in/entertainment/television/story/arjun-bijlani-reacts-dating-mouni-roy-father-1-kid-denied-romance-says-meri-family-hai-tmovf-dskc-2620403-2026-08-12",
-                "source": "AajTak",
-                "date": "2026-08-12T10:15:33Z",
-                "priority": "STANDARD"
             }
         ],
         "sports": [
+            {
+                "title": "स्टीव स्मिथ को भी लगा वे आउट थे, DRS ने कैसे पलट दिया पूरा खेल, ऑस्ट्रेलिया की इज्जत बची",
+                "desc": "डार्विन टेस्ट के पहले दिन बांग्लादेशी गेंदबाज हसन महमूद के आगे ऑस्ट्रेलिया की पहली पारी 198 रनों पर सिमट गई। स्टीव स्मिथ को छोड़कर कोई बल्लेबाज टिक न सका।",
+                "image": "https://static.langimg.com/nbt/thumb/133221974/steve-smith.jpg?imgsize=382361&width=1600&height=900&resizemode=75",
+                "url": "https://navbharattimes.indiatimes.com/sports/cricket/cricket-news/steve-smith-statement-on-drs-technology-australia-vs-bangladesh-test/articleshow/133221895.cms",
+                "source": "Navbharat Times",
+                "date": "2026-08-13T18:23:13Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "यूपी टी20 लीग 2026 का 14 अगस्त से आगाज, ये है पूरा शेड्यूल; एक्शन में होंगे रिंकू सिंह और भुवनेश्वर कुमार",
+                "desc": "यूपी टी20 लीग के चौथे सीजन का आगाज 14 अगस्त से होगा और इस सीजन में भी 6 टीमें हिस्सा लेंगी। टूर्नामेंट का मुख्य आकर्षण रिंकू सिंह, भुवनेश्वर कुमार और समीर रिजवी जैसे खिलाड़ी होंगे।",
+                "image": "https://images.jansatta.com/2026/08/UPT20League2026.jpg",
+                "url": "https://www.jansatta.com/khel/up-t20-league-2026-full-schedule-rinku-singh-bhuvneshwar-sameer-rizvi-will-be-in-action/4660575/",
+                "source": "jansatta.com",
+                "date": "2026-08-13T18:19:46Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "2027 वर्ल्ड कप को लेकर क्यों हो रहा विवाद? जानें एसोसिएट देशों के नाखुश होने की वजह",
+                "desc": "ODI World Cup 2027 Controversy: आईसीसी ने वर्ल्ड कप 2027 के लिए नया फॉर्मेट बनाया है. सेमीफाइनल से पहले टूर्नामेंट को 3 राउंड्स में बांटा गया है. इसको लेकर 2 क्रिकेट बोर्ड ने इसका विरोध किया है.",
+                "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/08/13/a2bea50823391db877a6e78dd0701e4017866422495531212_original.jpg?impolicy=abp_cdn&imwidth=1200",
+                "url": "https://www.abplive.com/sports/cricket/odi-world-cup-2027-controversy-for-format-associate-nations-are-unhappy-check-out-why-3174759",
+                "source": "ABP News",
+                "date": "2026-08-13T17:57:22Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "श्रीलंकाई दिग्गज कोच की मैच के दौरान हुई झड़प के बाद गई जान, 17 साल का क्रिकेटर गिरफ्तार",
+                "desc": "श्रीलंका के अनुभवी क्रिकेट कोच सुमिथ फर्नांडो की मैच के दौरान पानी को लेकर हुए विवाद में घायल होने के बाद इलाज के दौरान मौत हो गई।\nइस मामले में एक 17 वर्षीय खिलाड़ी को गिरफ्तार किया गया है, जिन्होंने कुसल मेंडिस जैसे कई खिलाड़ियों को प्रशिक्षित किया था।",
+                "image": "https://www.jagranimages.com/images/2026/08/13/template/image/Cricket-1786643405853_m.webp",
+                "url": "https://www.jagran.com/cricket/headlines-kusal-mendis-former-mentor-sumith-fernando-passes-away-following-on-field-clash-in-sri-lanka-40339964.html",
+                "source": "Jagran",
+                "date": "2026-08-13T17:54:00Z",
+                "priority": "CRITICAL_ALERT"
+            },
             {
                 "title": "क्या रोहित शर्मा बनेंगे MI कोच? विराट कोहली करेंगे ऐसा, आर अश्विन ने की बड़ी भविष्यावाणी",
                 "desc": "रोहित शर्मा इंडियन प्रीमियर लीग (IPL) में मुंबई इंडियंस (एमआई) का हिस्सा हैं। विराट कोहली रॉयल चैलेंजर्स बेंगलुरु (आरसीबी) की ओर से खेलते हैं। रोहित और विराट कोहली को लेकर आर अश्विन ने बड़ी बात कही।, Cricket Hindi News - Hindustan",
@@ -2130,47 +2166,101 @@
                 "source": "AajTak",
                 "date": "2026-08-12T13:34:39Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "WTC फाइनल में पहुंचने के लिए भारत को जीतने होंगे इतने मैच, ऐसा है पूरा गणित",
-                "desc": "Indian Team Scenario For WTC 2025-27 Final: वर्ल्ड टेस्ट चैंपियनशिप के फाइनल में पहुंचने के लिए टीम इंडिया को कितने मैच जीतने होंगे? यहां आपको पूरा गणित जानने को मिलेगा.",
-                "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/08/12/ac86c7a67d96d0bd6a0565140e191e7d17865399028961364_original.jpg?impolicy=abp_cdn&imwidth=1200",
-                "url": "https://www.abplive.com/sports/cricket/indian-team-qualification-scenario-for-2025-27-world-test-championship-wtc-final-know-all-equation-3174225",
-                "source": "ABP News",
-                "date": "2026-08-12T13:10:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "IND vs PAK: इस दिन आमने-सामने होंगे भारत और पाकिस्तान, जानें कहां देख पाएंगे हॉकी का ये मुकाबला",
-                "desc": "IND vs PAK: FIH हॉकी वर्ल्ड कप 2026 15 से 30 अगस्त तक बेल्जियम और नीदरलैंड्स में खेला जाएगा। फैंस को भारत और पाकिस्तान के बीच होने वाले मुकाबले का बेसब्री से इंतजारा है। दोनों टीमों को एक ही ग्रुप में रखा गया है। जानें कब और कहां पर देख पाएंगे ये मुकाबला -",
-                "image": "https://images.moneycontrol.com/static-hindinews/2025/08/Asia-Cup-Hockey-1.jpg",
-                "url": "https://hindi.moneycontrol.com/sports/india-vs-pakistan-on-august-19-men-hockey-world-cup-2026-timings-article-2429981.html",
-                "source": "Moneycontrol Hindi",
-                "date": "2026-08-12T12:56:35Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "इंग्लैंड टेस्ट से पहले अख्तर की बाबर सेना को चेतावनी, बोले- 'अंग्रेज तुम्हारे सामने...'",
-                "desc": "Shoaib Akhtar: शोएब अख्तर ने इंग्लैंड दौरे पर खेली जाने वाली 3 मैचों की टेस्ट सीरीज से पहले पाकिस्तान टीम को बडी चेतावनी दी. उन्होंने कहा कि इंग्लैंड वो गलती नहीं करेगा, जो वेस्टइंडीज ने की थी.",
-                "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/08/12/daec81b3e6b87c9d22213aebb0ccfce017865377844471364_original.jpg?impolicy=abp_cdn&imwidth=1200",
-                "url": "https://www.abplive.com/sports/cricket/shoaib-akhtar-warn-babar-azam-pakistan-team-for-england-tour-eng-vs-pak-2026-test-3174198",
-                "source": "abplive.com",
-                "date": "2026-08-12T12:31:23Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'इंग्लैंड वेस्टइंडीज नहीं है...', शोएब अख्तर ने बाबर आजम की टीम को चेताया",
-                "desc": "शोएब अख्तर ने बाबर आजम की कप्तानी वाली पाकिस्तान टीम को इंग्लैंड टेस्ट सीरीज से पहले चेतावनी दी है. अख्तर ने कहा कि इंग्लैंड वेस्टइंडीज जैसी गलती नहीं करेगा और सीम गेंदबाजों के अनुकूल पिचों पर पाकिस्तान के लिए हालात संभालना बेहद मुश्किल होगा.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202608/6a7c03de7b538-pakistans-babar-azam-plays-a-shot-during-the-final-day-of-the-second-cricket-test-match-between-sri-050538830-16x9.jpg",
-                "url": "https://www.aajtak.in/sports/cricket/story/shoaib-akhtar-warning-to-babar-azam-pakistan-team-before-england-test-series-tspok-dskc-2617341-2026-08-12",
-                "source": "AajTak",
-                "date": "2026-08-12T12:24:46Z",
-                "priority": "STANDARD"
             }
         ]
     },
     "en": {
         "general": [
+            {
+                "title": "Ticks that cause Lyme and other diseases have migrated south. Are doctors ready?",
+                "desc": "Ticks that carry Lyme and other diseases have gained a foothold in unexpected areas and should be considered a major threat farther south, a new CDC report finds.",
+                "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-08/260813-deer-tick-blacklegged-Ixodes-scapularis-vl-1236p-ec4aee.jpg",
+                "url": "https://www.nbcnews.com/health/health-news/ticks-lyme-fever-diseases-north-carolina-threat-south-cdc-rcna592307",
+                "source": "NBC News",
+                "date": "2026-08-13T19:06:59Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "2026-27 NBA Schedule Released for Official Regular-Season Slate",
+                "desc": "The New York Knicks will tip off their title defense as part of opening night of the 2026-27 NBA season, and now they know their entire schedule.",
+                "image": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2026-08/2280850987_large_cropped.jpg?w=1120&h=630",
+                "url": "https://bleacherreport.com/articles/25461486-2026-27-nba-schedule-released-official-regular-season-slate",
+                "source": "Bleacher Report",
+                "date": "2026-08-13T19:02:17Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Karoline Leavitt and the trap of MAGA womanhood",
+                "desc": "Karoline Leavitt became a symbol of conservative motherhood and ambition. Her resignation shows the limits of female power in MAGA politics.",
+                "image": "https://platform.vox.com/wp-content/uploads/sites/2/2026/08/gettyimages-2286569759.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+                "url": "https://www.vox.com/today-explained-newsletter/499263/karoline-leavitt-steps-down",
+                "source": "vox.com",
+                "date": "2026-08-13T19:00:24Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "J.D. Vance Is Learning an Important Foreign Policy Lesson the Hard Way",
+                "desc": "This must have been an embarrassing moment for the vice president.",
+                "image": "https://compote.slate.com/images/76275da9-50cb-487b-bd50-89c2f79ea43d.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
+                "url": "https://slate.com/news-and-politics/2026/08/ukraine-iran-trump-jd-vance-oil-gas-prices.html",
+                "source": "Slate",
+                "date": "2026-08-13T19:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Apple TV's Biggest Launch Ever",
+                "desc": "'Ted Lasso' Season 4 was Apple TV's biggest launch ever, hitting 296.6 million minutes watched in two days.",
+                "image": "https://variety.com/wp-content/uploads/2026/08/TedLasso_Photo_040102.jpg?w=1000&h=563&crop=1",
+                "url": "https://variety.com/2026/tv/news/ted-lasso-season-4-ratings-apple-tv-1236834053/",
+                "source": "Variety",
+                "date": "2026-08-13T19:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'Ted Lasso' Season 4 Enters The Pitch With Record Premiere Audience",
+                "desc": "The Ted Lasso Season 4 premiere drew 296.6 million viewing minutes in the U.S. across its August 4 and 5 launch window",
+                "image": "https://deadline.com/wp-content/uploads/2026/08/ted-lasso-season-4-jason-sudeikis-ratings.jpg?w=1024",
+                "url": "https://deadline.com/2026/08/ted-lasso-season-4-premiere-us-viewership-nielsen-apple-tv-1237033025/",
+                "source": "Deadline",
+                "date": "2026-08-13T19:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ian Machado Garry reveals ‘there is only one’ person deserving of the next title shot after he beats Islam Makhachev",
+                "desc": "Ian Machado Garry has his sights set on one particular opponent for his first title defense after facing Islam Makhachev at UFC 330.",
+                "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/08/gettyimages-2188810819.jpg?quality=90&strip=all&crop=0%2C2.7539028008145%2C100%2C78.544026835709&w=1200",
+                "url": "https://www.mmafighting.com/ufc/504532/ian-machado-garry-reveals-there-is-only-one-person-deserving-of-the-next-title-shot-after-he-beats-islam-makhachev",
+                "source": "MMA Fighting",
+                "date": "2026-08-13T19:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump-aligned Kennedy Center board again votes to shut down the arts complex : NPR",
+                "desc": "The board voted to close the Washington, D.C., arts complex's main campus for a $250 million renovation — three months after a federal judge temporarily blocked a similar closure.",
+                "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5704x3210+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F6f%2F03%2F94edea4c4a52acc3dc8acbe9d918%2Fgettyimages-2280720581.jpg",
+                "url": "https://www.npr.org/2026/08/13/nx-s1-5930349/kennedy-center-shut-down-board-vote-trump",
+                "source": "NPR",
+                "date": "2026-08-13T18:55:30Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump's antisemitism lawsuit against Harvard is dismissed",
+                "desc": "A judge in Boston has dismissed a Trump administration lawsuit that accused Harvard University of ignoring harassment of Jewish students. Thursday's decision by U.S.",
+                "image": "https://dims.apnews.com/dims4/default/112f099/2147483647/strip/true/crop/4000x2665+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F48%2F7c%2F1037df3080228d51ba221a9e03a6%2F15f57abd54ff4f48855bf6aa7387c506",
+                "url": "https://apnews.com/article/harvard-trump-antisemitism-lawsuit-dismissed-civil-rights-4fd6ce6eb8ce040940efd78560a6c4f5",
+                "source": "AP News",
+                "date": "2026-08-13T18:53:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Lindsay Clancy searched 'can you treat a sociopath' prior to killing children: Investigator",
+                "desc": "Lindsay Clancy searched \"can you treat a sociopath\" days before killing her children, according to testimony on Thursday.",
+                "image": "https://i.abcnewsfe.com/a/fd72d8e6-57c7-4037-9f9c-2af2a700a814/clancy-ap-er-260813_1786638690758_hpMain_16x9.jpg?w=1600",
+                "url": "https://abcnews.com/GMA/News/lindsay-clancy-searched-treat-sociopath-prior-killing-children/story?id=135617187",
+                "source": "ABC News - Breaking News, Latest News and Videos",
+                "date": "2026-08-13T18:52:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Judge dismisses Trump administration lawsuit alleging Harvard failed to protect Jewish students",
                 "desc": "A federal judge dismissed a lawsuit Thursday by the Trump administration ‌that alleged that Harvard University failed to protect Jewish and Israeli students from harassment.",
@@ -2620,99 +2710,99 @@
                 "source": "CBS News",
                 "date": "2026-08-13T00:22:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "DGA and IATSE Urge Rob Bonta to Settle With Paramount",
-                "desc": "The Directors Guild of America and IATSE urged California Attorney General Rob Bonta to settle its antitrust case with Paramount.",
-                "image": "https://variety.com/wp-content/uploads/2026/02/Paramount-Warner-Bros-Water-Towers.jpg?crop=0px%2C0px%2C1000px%2C562px&resize=1000%2C563",
-                "url": "https://variety.com/2026/film/news/dga-iatse-rob-bonta-paramount-settle-warner-bros-merger-1236833456/",
-                "source": "variety.com",
-                "date": "2026-08-13T00:14:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Taylor Swift Removes Another Song From White House TikTok Video",
-                "desc": "Taylor Swift has removed \"I Bet You Think About Me\" from a social video posted by Trump's White House",
-                "image": "https://www.rollingstone.com/wp-content/uploads/2026/08/taylor-swift-trump-music.jpg?w=1600&h=900&crop=1",
-                "url": "https://www.rollingstone.com/music/music-news/taylor-swift-removes-song-trump-white-house-tiktok-1235607884/",
-                "source": "Rolling Stone",
-                "date": "2026-08-13T00:05:58Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The Perseid meteor shower peaks overnight on Wednesday. Where to watch in Northern California",
-                "desc": "The Perseid meteor shower will be visible Wednesday night and before dawn on Thursday. There will be scattered clouds on Wednesday that could obscure viewing at times in Northern California, according to our weather team.",
-                "image": "https://kubrick.htvapps.com/vidthumb/a477caa5-c7d5-4fac-a127-3f4ce7dcfb85/7998a9b2-3960-4095-9baf-977622e10060.jpg?crop=0.778xw%3A0.777xh%3B0.0995xw%2C0&resize=1200%3A*",
-                "url": "https://www.kcra.com/article/perseid-meteor-shower-northern-california-2026/73417566",
-                "source": "KCRA",
-                "date": "2026-08-12T23:54:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Diddy Out of Solitary Confinement After Prison Fight",
-                "desc": "Diddy is out of solitary confinement following his alleged prison brawl ... TMZ has learned.",
-                "image": "https://imagez.tmz.com/image/b5/16by9/2026/08/12/b5d68ca0223a49afb33566ed5447ffb8_xl.jpg",
-                "url": "https://www.tmz.com/2026/08/12/diddy-released-from-special-housing-unit-after-prison-fight/",
-                "source": "TMZ",
-                "date": "2026-08-12T23:26:54Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Russell Westbrook retires from the NBA with a farewell video narrated by Michael B. Jordan",
-                "desc": "Russell Westbrook, the NBA’s career leader in triple-doubles and the 2017 MVP, announced Wednesday he’s retiring after 18 seasons during which he was selected to the league’s 75th anniversary team.",
-                "image": "https://dims.apnews.com/dims4/default/1ed255b/2147483647/strip/true/crop/3240x2159+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fff%2F45%2Fb326cf53260d6fe900d44efd9957%2F1dd64d4de06a45e68296b0134809c3fc",
-                "url": "https://apnews.com/article/nba-kings-russell-westbrook-retires-4c86c3c003efd958dd57883f2223c12a",
-                "source": "AP News",
-                "date": "2026-08-12T23:24:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "See Stunning Images of the 2026 Total Solar Eclipse From Nat Geo Photographers",
-                "desc": "National Geographic photographers were stationed from Iceland to Spain to document one of the year’s most anticipated celestial events.",
-                "image": "https://i.natgeofe.com/n/cef0a677-12fd-4a83-ad5e-30945e276804/DSC_0070_16x9.jpg?w=1200",
-                "url": "https://www.nationalgeographic.com/photography/article/total-solar-eclipse-europe-2026-photos",
-                "source": "National Geographic",
-                "date": "2026-08-12T23:20:07Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "J.J. McCarthy believes he's a starter in the NFL",
-                "desc": "After losing the competition to Kyler Murray, McCarthy says all the right things.",
-                "image": "https://nbcsports.brightspotcdn.com/dims4/default/b5989eb/2147483647/strip/true/crop/3134x1763+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F53%2F74%2F81091df846a9b6c03229cd87f1e0%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2288645830",
-                "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/j-j-mccarthy-believes-hes-a-starter-in-the-nfl",
-                "source": "NBC Sports",
-                "date": "2026-08-12T23:12:39Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "All the Characters in the Action Series",
-                "desc": "See all the new characters in 'Reacher' Season 4, which premieres on Amazon Prime Aug. 12.",
-                "image": "https://variety.com/wp-content/uploads/2026/08/RCHR_S4_FG_00273900_Still261_3000.jpg?w=1000&h=563&crop=1",
-                "url": "https://variety.com/lists/reacher-season-4-cast-characters/",
-                "source": "variety.com",
-                "date": "2026-08-12T23:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Vanessa Bryant reveals Disney coincidence as Bob Iger joins Lakers",
-                "desc": "Lakers fans are wondering if Bob Iger and Josh Kushner can restore the team’s glory, while Vanessa Bryant remains a lifelong fan honoring Kobe Bryant’s legacy.",
-                "image": "https://nypost.com/wp-content/uploads/sites/2/2026/08/newspress-collage-ro686tnsw-1786574363472.jpg?quality=75&strip=all&1786559982&w=1200",
-                "url": "https://nypost.com/2026/08/12/sports/vanessa-bryant-reveals-disney-coincidence-as-bob-iger-joins-lakers/",
-                "source": "New York Post",
-                "date": "2026-08-12T23:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Browns name Deshaun Watson starter for preseason opener, Shedeur Sanders to start second game",
-                "desc": "Watson will get the first crack at starting for Cleveland in the preseason as the QB competition with Sanders rolls on.",
-                "image": "https://static01.nyt.com/athletic/uploads/wp/2026/08/10100943/2026-08-01T000915Z_862630823_MT1USATODAY29490612_RTRMADP_3_CLEVELAND-BROWNS-QUARTERBACK-DESHAUN-WATSON-CALLS-A-PLAY-e1786371037335.jpg?width=1200&height=630&fit=cover",
-                "url": "https://www.nytimes.com/athletic/7503740/2026/08/12/browns-deshaun-watson-shedeur-sanders-preseason/",
-                "source": "The New York Times",
-                "date": "2026-08-12T22:57:35Z",
-                "priority": "STANDARD"
             }
         ],
         "business": [
+            {
+                "title": "NTSB says broken engine part shattered the Ryanair flight window that a man's head got sucked into",
+                "desc": "Investigators say broken engine parts shattered a window on a Ryanair plane shortly after takeoff in Greece last month, causing a man’s head to be sucked into the hole in the fuselage before his fellow passengers pulled him to safety.",
+                "image": "https://dims.apnews.com/dims4/default/b58f4a6/2147483647/strip/true/crop/3000x1999+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff9%2Fb5%2F570604094b3796786e810fc6a866%2Ff16c4a94be744c0e8dfdcab9ba4568ed",
+                "url": "https://apnews.com/article/ryanair-ntsb-passenger-sucked-out-window-5a1fa51fef28f6a8d27fec5a036808c3",
+                "source": "apnews.com",
+                "date": "2026-08-13T19:01:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Workday shares post best day in 10 years on Silver Lake takeover report",
+                "desc": "Workday investors have been on edge over the prospect of AI disrupting its business model",
+                "image": "https://image.cnbcfm.com/api/v1/image/108227783-1763501615805-gettyimages-2198026756-dji_20250206102222_0737_d_t1iaatsy.jpeg?v=1763501663&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/08/13/workday-skyrockets-25percent-before-trading-halted-on-report-of-silver-lake-takeover.html",
+                "source": "CNBC",
+                "date": "2026-08-13T18:47:17Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Broken engine parts shattered the Ryanair plane window that a passenger's head got sucked into: NTSB",
+                "desc": "Investigators say broken engine parts shattered a window on a Ryanair plane shortly after takeoff in Greece last month, causing a man’s head to be sucked into the hole in the fuselage before his...",
+                "image": "https://s.hdnux.com/photos/01/67/04/54/31214388/3/rawImage.jpg",
+                "url": "https://www.sfgate.com/business/article/broken-engine-part-shattered-the-ryanair-flight-22387196.php",
+                "source": "SFGATE",
+                "date": "2026-08-13T18:35:33Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Mortgage rates fall to 6.67%: Freddie Mac",
+                "desc": "Mortgage rates fell this week, according to data from Freddie Mac released Thursday. The average rate on the 30-year fixed mortgage is 6.67%, down from 6.69% last week.",
+                "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/04/0/0/home-buying-couple-real-estate-agent.jpg?ve=1&tl=1",
+                "url": "https://www.foxbusiness.com/economy/mortgage-rates-8-13-2026",
+                "source": "Fox Business",
+                "date": "2026-08-13T18:26:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ooh la la, Austin: Delta launches first-ever service to Paris",
+                "desc": "Daily summer-season service will operate between Austin (AUS) and Paris-Charles de Gaulle (CDG) starting March 27, 2027, on Delta's Airbus A330-900. |",
+                "image": "https://news.delta.com/sites/default/files/styles/twitter_share_1200/public/2026-08/anthony-tan-pulwfiqi2au-unsplash.jpg?itok=nT3H8PZ_",
+                "url": "https://news.delta.com/ooh-la-la-austin-delta-launches-first-ever-service-paris",
+                "source": "Delta News Hub",
+                "date": "2026-08-13T18:08:40Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "No Surprise: Delta Launching Austin To Paris A330neo Flights In Summer 2027",
+                "desc": "As of March 2027, Delta will launch daily nonstop flights between Austin (AUS) and Paris (CDG). Here are the full details of this new route.",
+                "image": "https://cdn.onemileatatime.com/wp-content/uploads/2024/09/Delta-Airbus-A330-900neo.jpeg",
+                "url": "https://onemileatatime.com/news/delta-austin-paris-flights/",
+                "source": "One Mile at a Time",
+                "date": "2026-08-13T18:05:30Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Delta to launch Austin's first nonstop flight to Paris in 2027",
+                "desc": "The nonstop flights will begin March 27, 2027, and will run daily through the end of October.",
+                "image": "https://npr.brightspotcdn.com/dims4/default/e3b587e/2147483647/strip/true/crop/4242x2227+0+300/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F6c%2F39%2Ff73c08444643b36833cd6562621b%2Ffrance-0.jpg",
+                "url": "https://www.kut.org/transportation/2026-08-13/austin-tx-delta-airlines-paris-nonstop-direct-flight-2027",
+                "source": "KUT",
+                "date": "2026-08-13T18:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Forbes editor out after reports quote him saying he 'made a mistake'",
+                "desc": "The top editor of Forbes has left his job after reportedly being fired for accepting $6 million from the founder of a firm that works with the magazine.",
+                "image": "https://dims.apnews.com/dims4/default/37fce09/2147483647/strip/true/crop/3000x1999+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F5a%2Fe9%2F93bb80b9c474ae4bb54dc644e7a7%2F8e5d5a91950e4863be60b84b0f38c5e2",
+                "url": "https://apnews.com/article/forbes-randall-lane-editor-810d2c08ed57ec1b703247cc76c92fbe",
+                "source": "AP News",
+                "date": "2026-08-13T17:52:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "FDA inspections questioned after cyclosporiasis outbreak linked to Taylor Farms",
+                "desc": "The farm believed to be the source of the cyclosporiasis outbreak had not been inspected in seven years, according to a new report from CBS News.",
+                "image": "https://gray-kptv-prod.gtv-cdn.com/resizer/v2/WHCY33JYWBHSDOE6UA3KHUGC5E.jpg?auth=3de48770564ff0e67a16cc02e9b0fea693764edaf3282f5aedbf09e3a4da1835&width=1200&height=600&smart=true",
+                "url": "https://www.kptv.com/2026/08/13/farm-linked-diarrhea-lettuce-cyclosporiasis-outbreak-hadnt-been-inspected-7-years-report-says/",
+                "source": "KPTV",
+                "date": "2026-08-13T17:47:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "FDA inspections questioned after cyclosporiasis outbreak linked to Taylor Farms",
+                "desc": "The farm believed to be the source of the cyclosporiasis outbreak had not been inspected in seven years, according to a new report from CBS News.",
+                "image": "https://gray-wowt-prod.gtv-cdn.com/resizer/v2/WHCY33JYWBHSDOE6UA3KHUGC5E.jpg?auth=3de48770564ff0e67a16cc02e9b0fea693764edaf3282f5aedbf09e3a4da1835&width=1200&height=600&smart=true",
+                "url": "https://www.wowt.com/2026/08/13/farm-linked-diarrhea-lettuce-cyclosporiasis-outbreak-hadnt-been-inspected-7-years-report-says/",
+                "source": "WOWT",
+                "date": "2026-08-13T17:47:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "OpenAI hires new CRO as executive shake-up continues",
                 "desc": "Dali Rajic will take over as OpenAI's top salesperson.",
@@ -3162,99 +3252,99 @@
                 "source": "Fox Business",
                 "date": "2026-08-12T20:09:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Definium Therapeutics Scores Another Win For Its LSD-Based Drug; Shares Pop",
-                "desc": "Definium Therapeutics unveiled the second of two positive Phase 3 studies for its LSD-based drug. The biotech stock rose on the results.",
-                "image": "https://www.investors.com/wp-content/uploads/2018/02/Stock-drug-03-shutt.jpg",
-                "url": "https://www.investors.com/news/technology/definium-therapeutics-psychedelics-drug-lsd-anxiety-treatment-biotech-stock/",
-                "source": "Investor's Business Daily",
-                "date": "2026-08-12T20:06:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Paramount Has Considered Creating Oversight Body for CNN",
-                "desc": "Paramount Has Considered Creating Oversight Body for CNN in Warner Deal",
-                "image": "https://variety.com/wp-content/uploads/2025/12/CNN-Headquarters-Atlanta.jpg?w=1000&h=563&crop=1",
-                "url": "https://variety.com/2026/tv/news/paramount-cnn-oversight-committee-warner-deal-1236833271/",
-                "source": "Variety",
-                "date": "2026-08-12T20:05:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "New Grok Model Takes On OpenAI, Anthropic; Musk Holds Companywide Meeting",
-                "desc": "SpaceX released its newest AI model, Grok 4.6, on Wednesday. The stock rose as much as 11% on the day, rising above its IPO price.",
-                "image": "https://www.investors.com/wp-content/uploads/2022/10/Sector-elonmuskgoofy-1020-news.jpg",
-                "url": "https://www.investors.com/news/spacex-stock-grok-openai-anthropic-elon-musk/",
-                "source": "Investor's Business Daily",
-                "date": "2026-08-12T19:16:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Strait of Hormuz traffic remains low as world rapidly burns through oil stockpiles",
-                "desc": "Meanwhile, an Iranian military adviser says Tehran could “prolong” war with the US until Trump is out of office. Follow for the latest news updates.",
-                "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2289908047.jpg?c=16x9&q=w_800,c_fill",
-                "url": "https://www.cnn.com/2026/08/12/world/live-news/iran-war-trump",
-                "source": "CNN",
-                "date": "2026-08-12T19:05:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Powerball jackpot rises to $1B after Monday night's drawing ends without a big winner",
-                "desc": "The Powerball jackpot has risen to $1 billion after Monday night's winning numbers ended without a big winner. The next drawing is Wednesday.",
-                "image": "https://i.abcnewsfe.com/a/1ae351d1-f8d3-4c27-847c-d81dd3a6bb44/powerball-ap-gmh-260806_1786030171109_hpMain_16x9.jpg?w=1600",
-                "url": "https://abcnews.com/US/powerball-jackpot-rises-1b-after-monday-nights-winning/story?id=135586959",
-                "source": "ABC News - Breaking News, Latest News and Videos",
-                "date": "2026-08-12T18:35:32Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Twitch Now Trains Amazon's Generative AI Models on Your Channel By Default",
-                "desc": "Twitch has rolled out a new \"feature\" that trains Amazon's generative AI content models on its users' channels. The setting can be disabled, but it's turned on by default.",
-                "image": "https://assets-prd.ignimgs.com/2026/08/12/twitch-ai-blogroll-1786558302664.jpg?width=1280&format=jpg&auto=webp&quality=80",
-                "url": "https://www.ign.com/articles/twitch-now-trains-amazons-generative-ai-models-on-your-channel-by-default",
-                "source": "ign.com",
-                "date": "2026-08-12T18:23:04Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Up 26% Since July 29, Is It Too Late to Buy Microsoft Stock?",
-                "desc": "The tech giant has been on a roll over the past two weeks.",
-                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F882682%2Finvestor-wathcing-their-stock-rise.jpg&w=1200&op=resize",
-                "url": "https://www.fool.com/investing/2026/08/12/up-26-since-july-29-is-it-too-late-to-buy-microsof/",
-                "source": "The Motley Fool",
-                "date": "2026-08-12T18:18:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Major Food Recall Expands To Trader Joe’s, Walmart, Target & More As 345 People Get Sick",
-                "desc": "A Salmonella outbreak linked to Taylor Farms jalapeños has sickened 345 people, prompting recalls at Trader Joe’s, Walmart, Target, and more.",
-                "image": "https://s.yimg.com/lo/mysterio/api/d2eb2c6d4322d5e517ef21a8f761f5f3267a0b8a9812df76997f7ebd42a13733/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdelish_597%2F96a3fabfa0777c1bb3fba87c93c6068c.jpg",
-                "url": "https://www.yahoo.com/news/us/articles/major-food-recall-expands-trader-180239713.html",
-                "source": "Yahoo",
-                "date": "2026-08-12T18:02:39Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Major Food Recall Expands To Trader Joe’s, Walmart, Target & More As 345 People Get Sick",
-                "desc": "A Salmonella outbreak linked to Taylor Farms jalapeños has sickened 345 people, prompting recalls at Trader Joe’s, Walmart, Target, and more.",
-                "image": "https://hips.hearstapps.com/hmg-prod/images/41e92e6a-b39c-4bf6-b7fb-03de01025789.jpeg?crop=0.741xw:0.556xh;0.148xw,0.196xh&resize=1200:*",
-                "url": "https://www.delish.com/food-news/a73414214/jalapeno-recall-salmonella-stores/",
-                "source": "Delish",
-                "date": "2026-08-12T18:02:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Home Depot CEO takes medical leave of absence",
-                "desc": "Home Depot says CEO Ted Decker expects to return within months as Ann-Marie Campbell and CFO Richard McPhail take on temporary leadership duties.",
-                "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/08/0/0/ted-decker-home-depot-ceo.jpg?ve=1&tl=1",
-                "url": "https://www.foxbusiness.com/retail/home-depot-ceo-takes-medical-leave-absence",
-                "source": "Fox Business",
-                "date": "2026-08-12T17:57:00Z",
-                "priority": "STANDARD"
             }
         ],
         "entertainment": [
+            {
+                "title": "Former Nickelodeon Star Of 'All That' Was 46",
+                "desc": "Christy Knowings, a cast member of '90s hit All That, died August 11 after being removed from life support at a Los Angeles-area hospital. She was 46.",
+                "image": "https://deadline.com/wp-content/uploads/2026/08/chriasty.jpg?w=1024",
+                "url": "https://deadline.com/2026/08/christy-knowings-dead-1237033066/",
+                "source": "Deadline",
+                "date": "2026-08-13T19:01:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'Wrong Girls' review: Kristen Stewart, Alia Shawkat light up the screen",
+                "desc": "The slacker comedy stars Kristen Stewart and Alia Shawkat as baked roommates in trouble. Directed by Dylan Meyer, it doesn't blaze new trails — but who cares?",
+                "image": "https://ca-times.brightspotcdn.com/dims4/default/580a3d5/2147483647/strip/true/crop/4500x2363+0+0/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fe5%2F9c%2Ffae0942d4a258e28525786ced0d9%2Fthewronggirls-still-01.jpg",
+                "url": "https://www.latimes.com/entertainment-arts/movies/story/2026-08-13/wrong-girls-review-kristen-stewart-alia-shawkat-lakeith-stanfield-dylan-meyer",
+                "source": "Los Angeles Times",
+                "date": "2026-08-13T19:00:25Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Apple TV's Biggest Launch Ever",
+                "desc": "'Ted Lasso' Season 4 was Apple TV's biggest launch ever, hitting 296.6 million minutes watched in two days.",
+                "image": "https://variety.com/wp-content/uploads/2026/08/TedLasso_Photo_040102.jpg?w=1000&h=563&crop=1",
+                "url": "https://variety.com/2026/tv/news/ted-lasso-season-4-ratings-apple-tv-1236834053/",
+                "source": "Variety",
+                "date": "2026-08-13T19:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'Ted Lasso' Season 4 Enters The Pitch With Record Premiere Audience",
+                "desc": "The Ted Lasso Season 4 premiere drew 296.6 million viewing minutes in the U.S. across its August 4 and 5 launch window",
+                "image": "https://deadline.com/wp-content/uploads/2026/08/ted-lasso-season-4-jason-sudeikis-ratings.jpg?w=1024",
+                "url": "https://deadline.com/2026/08/ted-lasso-season-4-premiere-us-viewership-nielsen-apple-tv-1237033025/",
+                "source": "Deadline",
+                "date": "2026-08-13T19:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Christy Knowings, former 'All That' star, dies at 46: Report",
+                "desc": "Christy Knowings, best known for Nickelodeon’s “All That,\" has died at 46 after complications from an asthma attack, according to TMZ.",
+                "image": "https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2026/08/1200/630/christy-knowings-getty-scaled.jpg?ve=1&tl=1",
+                "url": "https://www.fox10phoenix.com/news/christy-knowings-all-that-star-dies-46",
+                "source": "fox10phoenix.com",
+                "date": "2026-08-13T18:16:53Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'A Knight of the Seven Kingdoms,' 'Aegon's Conquest' and More",
+                "desc": "As 'A Knight of the Seven Kingdoms' wraps filming, get an update on the Sea Snake spinoff and more.",
+                "image": "https://www.tvinsider.com/wp-content/uploads/2026/08/a-knight-of-the-seven-kingdoms-house-of-the-dragon-sea-snake-game-of-thrones-1420x798.jpg",
+                "url": "https://www.tvinsider.com/1281287/every-game-of-thrones-spinoff-in-the-works/",
+                "source": "TV Insider",
+                "date": "2026-08-13T18:11:55Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "When Are New Ones Streaming?",
+                "desc": "'Lanterns,' from Warner Bros. TV, HBO and DC Studios will have new episodes come out every Sunday night through early October.",
+                "image": "https://deadline.com/wp-content/uploads/2026/08/kelly-macdonald-aaron-pierre-kyle-chandler.jpg?w=1024",
+                "url": "https://deadline.com/2026/08/lanterns-release-schedule-new-episodes-streaming-1237033026/",
+                "source": "Deadline",
+                "date": "2026-08-13T18:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'All That' Star Christy Knowings Dead at 46",
+                "desc": "Former \"All That\" star Christy Knowings is dead after suffering an asthma attack that left her with brain damage ... TMZ has learned.",
+                "image": "https://imagez.tmz.com/image/e8/16by9/2026/08/13/e8acf2e545c24c3e86cd5e62ab8503f5_xl.jpg",
+                "url": "https://www.tmz.com/2026/08/13/christy-knowings-dead/",
+                "source": "TMZ",
+                "date": "2026-08-13T17:55:08Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Perez Hilton’s sister gives harrowing firsthand account of his suicide attempt: ‘I didn’t recognize my brother’",
+                "desc": "Perez Hilton’s sister Barbara Lavandeira shared a harrowing account of finding the blogger during his Aug. 4 suicide attempt in Miami.",
+                "image": "https://pagesix.com/wp-content/uploads/sites/3/2026/08/newspress-collage-2ev4v5w1h-1786637975514.jpg?quality=75&strip=all&1786623588&w=1200",
+                "url": "https://pagesix.com/2026/08/13/celebrity-news/perez-hiltons-sister-gives-harrowing-firsthand-account-of-his-suicide-attempt-i-didnt-recognize-my-brother/",
+                "source": "Page Six",
+                "date": "2026-08-13T17:50:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Insomniac's Marvel's Wolverine on PS5 Runs at 60FPS with Ray Tracing Enabled in Performance Mode, the Game's Default",
+                "desc": "Marvel’s Wolverine will run at 60 FPS with ray tracing enabled on the base PS5 console, marking a first at launch for Insomniac Games.",
+                "image": "https://cdn.wccftech.com/wp-content/uploads/2026/08/Wolverine-and-Mystique-HD-1920x1080.jpeg",
+                "url": "https://wccftech.com/insomniac-marvels-wolverine-ps5-60fps-ray-tracing/",
+                "source": "wccftech.com",
+                "date": "2026-08-13T17:30:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Matthew McConaughey covers Ella Langley's 'Choosin' Texas' on Fallon",
                 "desc": "Matthew McConaughey performed a bluegrass cover of Ella Langley's \"Choosin' Texas\" on \"The Tonight Show Starring Jimmy Fallon,\" playing mandolin alongside The Last Bison.",
@@ -3704,99 +3794,99 @@
                 "source": "TMZ",
                 "date": "2026-08-12T20:41:15Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Skywalker Grill at Lucas Museum in LA now open for reservations",
-                "desc": "Skywalker Grill, the new restaurant atop LA’s Lucas Museum, will open September 22 with American cuisine, lunch dinner and weekend brunch.",
-                "image": "https://nypost.com/wp-content/uploads/sites/2/2026/08/newspress-collage-6gmz9wwgd-1786567658866.jpg?quality=75&strip=all&1786553381&w=1200",
-                "url": "https://nypost.com/2026/08/12/lifestyle/skywalker-grill-at-lucas-museum-in-la-now-open-for-reservations/",
-                "source": "New York Post",
-                "date": "2026-08-12T20:38:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Travis Kelce Is Officially a Wife Guy",
-                "desc": "Travis Kelce made a rare comment about his wedding to Taylor Swift and referred to her as ‘my wife’ for the first time in public.",
-                "image": "https://pyxis.nymag.com/v1/imgs/21e/c84/113f63dbd2ca567ffdaef6d63cbcc72912-travis-kelce.1x.rsocial.w1200.jpg",
-                "url": "https://www.thecut.com/article/travis-kelce-officially-wife-guy.html",
-                "source": "The Cut",
-                "date": "2026-08-12T20:32:11Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Travis Kelce: Wedding to Taylor Swift \"was the best night of my life\"",
-                "desc": "Travis Kelce's wedding to Taylor Swift in July was the celebrity social event of the summer, as the couple assembled guests at Madison Square Garden in New York for the occasion.",
-                "image": "https://nbcsports.brightspotcdn.com/dims4/default/721198d/2147483647/strip/true/crop/3386x1905+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F3a%2Fa2%2F206705de4cbea2d081556cb10b0c%2Fhttps-api-imagn.com%2Frest%2Fdownload%2FimageID%3D29472534",
-                "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/travis-kelce-wedding-to-taylor-swift-was-the-best-night-of-my-life",
-                "source": "NBC Sports",
-                "date": "2026-08-12T20:23:58Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Paramount Has Considered Creating Oversight Body for CNN",
-                "desc": "Paramount Has Considered Creating Oversight Body for CNN in Warner Deal",
-                "image": "https://variety.com/wp-content/uploads/2025/12/CNN-Headquarters-Atlanta.jpg?w=1000&h=563&crop=1",
-                "url": "https://variety.com/2026/tv/news/paramount-cnn-oversight-committee-warner-deal-1236833271/",
-                "source": "Variety",
-                "date": "2026-08-12T20:05:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'The Lincoln Lawyer' Spinoff Starring Cobie Smulders Eyed At Netflix",
-                "desc": "The Lincoln Lawyer is eying a franchise expansion at Netflix with a spinoff series headlined by Cobie Smulders, reprising her role as Emi.",
-                "image": "https://deadline.com/wp-content/uploads/2026/08/Cobie-Smulders-Lincoln-Lawyer.jpg?w=1024",
-                "url": "https://deadline.com/2026/08/the-lincoln-lawyer-spinoff-cobie-smulders-emi-netflix-1237031468/",
-                "source": "Deadline",
-                "date": "2026-08-12T20:01:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The QVC Wig Lady Can’t Stop Laughing Either",
-                "desc": "What do you do when you accidentally say ‘blowjob’ on live television? Last week, Toni Brattin went viral for an unfortunate slip of the tongue on the shopping network. Here, she tells us about the moment from her perspective.",
-                "image": "https://pyxis.nymag.com/v1/imgs/a6d/90b/03ca4e9cc7bad1d20769998361cb919a3d-toni-brattin.1x.rsocial.w1200.jpg",
-                "url": "https://www.thecut.com/article/qvc-wig-lady-toni-brattin-interview.html",
-                "source": "The Cut",
-                "date": "2026-08-12T19:54:59Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Nick Reiner lay in wait before killing his parents, prosecutors allege",
-                "desc": "Nick Reiner has been indicted in the slayings of his parents, Hollywood icon Rob Reiner and his mother, Michele.",
-                "image": "https://ca-times.brightspotcdn.com/dims4/default/cab30bd/2147483647/strip/true/crop/2350x1234+0+167/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fa3%2F73%2F72ca5e2840f7ad7a5b31e1f755e1%2Fla-me-reiner-arraignment-pool04.JPG",
-                "url": "https://www.latimes.com/california/story/2026-08-12/nick-reiner-indictment-rob-michele-slayings",
-                "source": "Los Angeles Times",
-                "date": "2026-08-12T19:49:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Amanda Waller Series, Wonder Woman Prequel Not Moving Forward at DC",
-                "desc": "Variety has confirmed that both the Amanda Waller standalone series and \"Wonder Woman\" prequel Paradise Lost are not moving ahead at DC Studios",
-                "image": "https://variety.com/wp-content/uploads/2026/08/amanda-waller-wonder-woman.png?w=999&h=563&crop=1",
-                "url": "https://variety.com/2026/tv/news/amanda-waller-series-wonder-woman-paradise-lost-dc-studios-1236833212/",
-                "source": "Variety",
-                "date": "2026-08-12T19:29:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Eddy Cue said the thing we wanted to hear on future Ted Lasso seasons",
-                "desc": "Apple‘s Services chief Eddy Cue just hinted that Ted Lasso has a long and bright future ahead on Apple TV beyond this season.",
-                "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/08/ted-lasso-s4-red.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-                "url": "https://9to5mac.com/2026/08/12/eddy-cue-said-the-thing-we-wanted-to-hear-on-future-ted-lasso-seasons/",
-                "source": "9to5Mac",
-                "date": "2026-08-12T19:27:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Travis Kelce Breaks Silence on Wedding With Taylor Swift: ‘The Best Night Of My Life’",
-                "desc": "Travis Kelce, the groom himself, is the latest to break his silence on America’s Royal Wedding between him and “Miss Americana” Taylor Swift.",
-                "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2026-08/travis-kelce-ky-260812-f11b3f.jpg",
-                "url": "https://www.today.com/popculture/news/travis-kelce-breaks-silence-wedding-taylor-swift-msg-rcna592200",
-                "source": "TODAY.com",
-                "date": "2026-08-12T19:19:49Z",
-                "priority": "STANDARD"
             }
         ],
         "sports": [
+            {
+                "title": "Trail Blazers Release 2026-27 Regular Season Schedule",
+                "desc": "Takeaways and a month-by-month breakdown from Portland's newly unveiled 82-game schedule.",
+                "image": "https://storage.ghost.io/c/c0/7a/c07a70a1-2057-41cb-975e-1446c842f826/content/images/size/w1200/2026/08/moda-court.png",
+                "url": "https://www.rosegardenreport.com/trail-blazers-release-2026-27-regular-season-schedule/",
+                "source": "The Rose Garden Report",
+                "date": "2026-08-13T19:04:46Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "DiJonai Carrington reportedly had fan escorted from his seat over an 'unfounded' accusation",
+                "desc": "DiJonai Carrington had a fan removed during a WNBA game, but the complaint was found unfounded. She also received a technical foul and slapped two players.",
+                "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/dijonai-carrington-ejected-wnba-chicago.jpg",
+                "url": "https://www.foxnews.com/outkick-sports/dijonai-carrington-reportedly-fan-escorted-seat-unfounded-accusation",
+                "source": "Fox News",
+                "date": "2026-08-13T19:01:30Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Jordan Spieth admits he has made a big mistake on the PGA Tour in 2026",
+                "desc": "Jordan Spieth commented on his season so far after he posted an opening-round 65 at the FedEx St. Jude Championship.",
+                "image": "https://cdn3.hitc.com/uploads/1/2026/08/GettyImages-2289803555-scaled.jpg",
+                "url": "https://www.hitc.com/jordan-spieth-admits-he-has-made-a-big-mistake-on-the-pga-tour-in-2026-it-got-me-in-trouble/",
+                "source": "hitc.com",
+                "date": "2026-08-13T19:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ian Machado Garry reveals ‘there is only one’ person deserving of the next title shot after he beats Islam Makhachev",
+                "desc": "Ian Machado Garry has his sights set on one particular opponent for his first title defense after facing Islam Makhachev at UFC 330.",
+                "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/08/gettyimages-2188810819.jpg?quality=90&strip=all&crop=0%2C2.7539028008145%2C100%2C78.544026835709&w=1200",
+                "url": "https://www.mmafighting.com/ufc/504532/ian-machado-garry-reveals-there-is-only-one-person-deserving-of-the-next-title-shot-after-he-beats-islam-makhachev",
+                "source": "MMA Fighting",
+                "date": "2026-08-13T19:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Source: Cardinals' Beck (rib) out, derailing rematch vs. Mendoza",
+                "desc": "Cardinals quarterback Carson Beck won't play in Thursday night's preseason game against the Raiders due to a rib injury sustained in last Thursday's Hall of Fame Game, a source told NFL Network's Ian Rapoport.",
+                "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0807%2Fr1698803_1296x729_16%2D9.jpg",
+                "url": "https://www.espn.com/nfl/story/_/id/49602122/source-cardinals-beck-rib-derailing-rematch-vs-mendoza",
+                "source": "ESPN",
+                "date": "2026-08-13T18:51:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Eagles training camp 2026, Day 11 practice notes",
+                "desc": "Here are our observations from Day 11 of Eagles training camp in 2026.",
+                "image": "https://media.nbcsportsphiladelphia.com/2026/08/Johnson-Ojomo-USATSI.jpg?quality=85&strip=all&resize=1200%2C675",
+                "url": "https://www.nbcsportsphiladelphia.com/nfl/philadelphia-eagles/eagles-training-camp-observations-fight-day-11-fred-johnson-moro-ojomo/746702/",
+                "source": "NBC Sports Philadelphia",
+                "date": "2026-08-13T18:36:58Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Wolfe: BTJ to play the X role in Jaguars' offense",
+                "desc": "NFL Network's Cameron Wolfe believes Brian Thomas Jr. will play the X receiver role in 2026.",
+                "image": "https://nbcsports.brightspotcdn.com/dims4/default/8aaabfe/2147483647/strip/true/crop/100x56+0+39/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F09%2F3b%2F1fac338c4f64bfa2f224b8b859d9%2Fthomas-jr-brian-copy.jpg",
+                "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-08-13/wolfe-btj-to-play-the-x-role-in-jaguars-offense",
+                "source": "nbcsports.com",
+                "date": "2026-08-13T18:26:25Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "PFT's 2026 preseason power rankings",
+                "desc": "As the full exhibition slate starts, here's how the 32 teams stack up.",
+                "image": "https://nbcsports.brightspotcdn.com/dims4/default/5143d45/2147483647/strip/true/crop/3964x2230+0+207/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F90%2Fd4%2F0975b2d746849bfe316d44991cd7%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2261326428",
+                "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/pfts-2026-preseason-power-rankings",
+                "source": "NBC Sports",
+                "date": "2026-08-13T18:05:16Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Kevin Warren: Bears' \"sole focus\" is new stadium in Hammond, Indiana",
+                "desc": "The Bears are where we thought they were.",
+                "image": "https://nbcsports.brightspotcdn.com/dims4/default/f1e7d79/2147483647/strip/true/crop/4153x2336+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F69%2F97%2Ff5925153433595891b2774a638b0%2Fhttps-api-imagn.com%2Frest%2Fdownload%2FimageID%3D28620845",
+                "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kevin-warren-bears-sole-focus-is-new-stadium-in-hammond-indiana",
+                "source": "NBC Sports",
+                "date": "2026-08-13T18:05:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ex-champ expects Makhachev vs. Machado Garry to be lackluster",
+                "desc": "Sean O'Malley smells an upset in the UFC 330 main event, which is \"not going to be the most exciting fight ever.\"",
+                "image": "https://mmajunkie.usatoday.com/gcdn/authoring/authoring-images/2026/08/13/SMMA/91285843007-getty-images-2159881141.jpg?crop=1022,575,x1,y108&width=1022&height=575&format=pjpg&auto=webp",
+                "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/08/13/ufc-330-sean-omalley-makhachev-vs-machado-garry-prediction/91284865007/",
+                "source": "mmajunkie.usatoday.com",
+                "date": "2026-08-13T17:50:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Greene (elbow) will miss all of 2027 after surgery",
                 "desc": "The Cincinnati Enquirer's Gordon Wittenmyer reports that Hunter Greene underwent Tommy John surgery on Wednesday and will be out for the next 12-18 months.",
@@ -4246,98 +4336,8 @@
                 "source": "Sox Machine",
                 "date": "2026-08-12T23:00:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Browns name Deshaun Watson starter for preseason opener, Shedeur Sanders to start second game",
-                "desc": "Watson will get the first crack at starting for Cleveland in the preseason as the QB competition with Sanders rolls on.",
-                "image": "https://static01.nyt.com/athletic/uploads/wp/2026/08/10100943/2026-08-01T000915Z_862630823_MT1USATODAY29490612_RTRMADP_3_CLEVELAND-BROWNS-QUARTERBACK-DESHAUN-WATSON-CALLS-A-PLAY-e1786371037335.jpg?width=1200&height=630&fit=cover",
-                "url": "https://www.nytimes.com/athletic/7503740/2026/08/12/browns-deshaun-watson-shedeur-sanders-preseason/",
-                "source": "The New York Times",
-                "date": "2026-08-12T22:57:35Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Preseason Preview: Raiders kick off preseason against the Arizona Cardinals",
-                "desc": "Thursday's game is set to kick off at 5 p.m. PT from Allegiant Stadium. Here's what you need to know.",
-                "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/raiders/inhslczkogsi8ikkfdlg",
-                "url": "https://www.raiders.com/news/preseason-preview-raiders-kick-off-preseason-against-the-arizona-cardinals",
-                "source": "Raiders.com",
-                "date": "2026-08-12T22:35:46Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Brooks, Hubbard to play against Bills",
-                "desc": "Panthers head coach Dave Canales said Jonathon Brooks and Chuba Hubbard will play in the team's preseason game against the Bills.",
-                "image": "https://nbcsports.brightspotcdn.com/dims4/default/293ee91/2147483647/strip/true/crop/100x56+0+39/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F17%2F19%2F588a44d74c729c2fac93250908fd%2Fbrooks-jonathon.jpg",
-                "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-08-12/brooks-hubbard-to-play-against-bills",
-                "source": "nbcsports.com",
-                "date": "2026-08-12T22:14:34Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Bears expected to give stadium update as Indiana officials express confidence in Hammond site",
-                "desc": "The Chicago Bears are expected to a give stadium update on Thursday as Indiana officials are expressing confidence in the Hammond construction site.",
-                "image": "https://cdn.abcotvs.com/dip/images/19669817_081226-wls-wall-bears-stadium-430p-vid.jpg?w=1600",
-                "url": "https://abc7chicago.com/post/nfl-news-chicago-bears-expected-give-stadium-update-indiana-officials-express-confidence-hammond-site/19669629/",
-                "source": "ABC7 Chicago",
-                "date": "2026-08-12T22:10:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Aaron Rodgers \"bummed\" that Thursday's game isn't in Green Bay",
-                "desc": "Steelers quarterback Aaron Rodgers says that the 2026 season will be his final one as an NFL player and that means he will never play in Green Bay as a visiting player.",
-                "image": "https://nbcsports.brightspotcdn.com/dims4/default/4874ea9/2147483647/strip/true/crop/5879x3307+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F32%2Fda%2F8cb7abdd48bd884270df805dd2cf%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2243515305",
-                "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-rodgers-bummed-that-thursdays-game-isnt-in-green-bay",
-                "source": "NBC Sports",
-                "date": "2026-08-12T21:54:55Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Despite minimal promotion by ESPN, Jimmy Pitaro and Josh D'Amaro joined Trump and Pat McAfee at Patriot Games",
-                "desc": "ESPN chairman Jimmy Pitaro and Disney CEO Josh D'Amaro accompanied Donald Trump to his inaugural Patriot Games.",
-                "image": "https://cdn1.thecomeback.com/wp-content/uploads/sites/94/2026/08/2026-08-12T031541Z_296931016_MT1USATODAY29564525_RTRMADP_3_ESPN-PERSONALITY-PAT-MCAFEE-LEFT-SHAKES-HANDS-WITH-scaled-e1786556839460.jpg",
-                "url": "https://awfulannouncing.com/espn/jimmy-pitaro-josh-damaro-trump-patriot-games.html",
-                "source": "Awful Announcing",
-                "date": "2026-08-12T21:53:04Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Stadium architect explains reason behind Bills obstructed view seats",
-                "desc": "The Bills new stadium comes with some obstructed view seats, a trade-off one of the stadium's architect explained was necessary.",
-                "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/08/12/USAT/91279828007-20260623-t-181858-z-254063463-mt-1-usatoday-29253232-rtrmadp-3-amediatourisleadinsidethenewhighmarkstadiumhome.JPG?crop=3962,2229,x1188,y298&width=3200&height=1801&format=pjpg&auto=webp",
-                "url": "https://www.usatoday.com/story/sports/nfl/2026/08/12/bills-stadium-obstructed-view-seats-populous/91278385007/",
-                "source": "USA Today",
-                "date": "2026-08-12T21:52:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "3 observations from Raiders Open Practice",
-                "desc": "NFL Media's Bucky Brooks shares his thoughts from the Raiders Open Practice at Allegiant Stadium.",
-                "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/raiders/joja65tmwwpewb3gmbab",
-                "url": "https://www.raiders.com/news/3-observations-from-raiders-open-practice-2026-training-camp-allegiant-stadium",
-                "source": "Raiders.com",
-                "date": "2026-08-12T21:40:46Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "PSG 2-1 Aston Villa: Is Kvaratskhelia the most talented player in the world? Has a new star been born for Villa?",
-                "desc": "Paris Saint-Germain won the UEFA Super Cup — The Athletic's reporters break down the key talking points",
-                "image": "https://static01.nyt.com/athletic/uploads/wp/2026/08/12165230/GettyImages-2289718698-scaled-e1786567979302.jpg?width=1200&height=630&fit=cover",
-                "url": "https://www.nytimes.com/athletic/7508497/2026/08/12/psg-aston-villa-score-result-report-analysis/",
-                "source": "The New York Times",
-                "date": "2026-08-12T21:35:14Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Sophie Cunningham vs DiJonai Carrington: How two ex-football players collided in the 'privilege' debate",
-                "desc": "DiJonai Carrington and Sophie Cunningham became symbols of opposing sides in the WNBA controversy over racial justice, transgender athletes and identity politics.",
-                "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/sophie-cunningham-dijonai-carrington-wnba-fox-news_.jpg",
-                "url": "https://www.foxnews.com/outkick-sports/sophie-cunningham-vs-dijonai-carrington-ex-football-players-collided-privilege-debate",
-                "source": "Fox News",
-                "date": "2026-08-12T21:30:51Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-08-14T05:28:49.076800Z"
+    "lastGlobalSync": "2026-08-14T07:10:13.154207Z"
 }
