@@ -2172,6 +2172,96 @@
     "en": {
         "general": [
             {
+                "title": "DNR investigates beaver attack at Seneca Creek State Park",
+                "desc": "The incident is not believed to be related to two beaver attacks at Cunningham Falls State Park, where two teenagers were bitten in separate incidents last month.",
+                "image": "https://kubrick.htvapps.com/htv-prod/images/1050a9f9-c3f6-4915-b07d-d1153320384b.jpg?crop=1.00xw%3A0.753xh%3B0%2C0&resize=1200%3A*",
+                "url": "https://www.wbaltv.com/article/seneca-creek-state-park-beaver-attack-summer-camp/73438791",
+                "source": "WBAL-TV",
+                "date": "2026-08-14T22:08:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "723 jobs being lost as Tyson Foods closes Eagle Mountain facility",
+                "desc": "Tyson Foods announced this week it will close its case-ready meat facility in Eagle Mountain as the company restructures to deal with a historic cattle shortage.",
+                "image": "https://img.ksl.com/slc/3197/319787/31978796.jpeg?filter=kslv2/responsive_story_lg",
+                "url": "https://www.ksl.com/article/51609885/723-jobs-being-lost-as-tyson-foods-closes-eagle-mountain-facility",
+                "source": "KSL News",
+                "date": "2026-08-14T22:02:55Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Berkshire Boosted Alphabet Stake 83% During Busiest Quarter in Years",
+                "desc": "Six months after Warren Buffett's retirement, Berkshire Hathaway counted Alphabet among its top three stock bets.",
+                "image": "https://i.insider.com/6a7f6e83c78818eff7d2d46e?width=1200&format=jpeg",
+                "url": "https://www.businessinsider.com/berkshire-hathaway-alphabet-stock-portfolio-warren-buffett-greg-abel-cash-2026-8",
+                "source": "Business Insider",
+                "date": "2026-08-14T21:53:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "2 soldiers killed in Texas military helicopter crash identified",
+                "desc": "The pilots were identified as Chief Warrant Officer 2 Deontre T. Huey and Warrant Officer Seth L. Olmstead.",
+                "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-08/260812-salado-texas-helicopter-crash-ew-542p-0c9cbb.jpg",
+                "url": "https://www.nbcnews.com/news/us-news/2-soldiers-killed-texas-military-helicopter-crash-identified-rcna592535",
+                "source": "NBC News",
+                "date": "2026-08-14T21:52:40Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Elizabethtown, Kentucky woman arrested for WWII Memorial vandalism",
+                "desc": "A woman has been arrested for allegedly vandalizing the World War II Memorial in Washington, D.C., and according to court documents, she's from Kentucky.",
+                "image": "https://kubrick.htvapps.com/htv-prod/images/0d99caeb-13c0-487d-81be-35142cfb6468.jpg?crop=1.00xw%3A1.00xh%3B0%2C0&resize=1200%3A*",
+                "url": "https://www.wlky.com/article/elizabethtown-kentucky-woman-arrested-wwii-memorial-vandalism/73437950",
+                "source": "WLKY",
+                "date": "2026-08-14T21:50:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Dana White intervenes to prevent faceoff shenanigans between Arman Tsarukyan and Mauricio Ruffy",
+                "desc": "Things nearly got heated at the first UFC 331 faceoffs",
+                "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/08/gettyimages-2290511713.jpg?quality=90&strip=all&crop=0%2C10.738123282293%2C100%2C78.523753435414&w=1200",
+                "url": "https://www.mmafighting.com/ufc/504843/dana-white-intervenes-to-prevent-faceoff-shenanigans-between-arman-tsarukyan-and-mauricio-ruffy",
+                "source": "mmafighting.com",
+                "date": "2026-08-14T21:48:29Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "US Army grounds all Apache helicopter training missions after deadly crash in Texas",
+                "desc": "The United States Army is temporarily halting all Apache helicopter training flights after a crash this week near Fort Hood, Texas, killed two soldiers.",
+                "image": "https://media.cnn.com/api/v1/images/stellar/prod/9594722.jpg?c=16x9&q=w_800,c_fill",
+                "url": "https://www.cnn.com/2026/08/14/us/apache-helicopters-grounded",
+                "source": "CNN",
+                "date": "2026-08-14T21:41:00Z",
+                "priority": "CRITICAL_ALERT"
+            },
+            {
+                "title": "Luigi Mangione pleads guilty in federal case, admits shooting UnitedHealthcare CEO Brian Thompson",
+                "desc": "Luigi Mangione entered a guilty plea in his federal case at a court appearance in Manhattan Friday morning.",
+                "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/11/bd7c08d5-9583-4a1e-9a4e-275cc07363f9/thumbnail/1200x630/effc0b9339abf183dee6eb74f803c64f/ap26223510315077.jpg",
+                "url": "https://www.cbsnews.com/newyork/news/luigi-mangione-says-he-will-plead-guilty-in-federal-case/",
+                "source": "CBS News",
+                "date": "2026-08-14T21:41:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "El Niño could become strongest on record. What it means for North Carolina",
+                "desc": "A potentially record-breaking El Niño is changing the forecast for the months ahead in North Carolina — including hurricane season and winter.",
+                "image": "https://images.wral.com/e24ebc8a-9cd5-576c-87d5-1f83722280dc?w=1200&h=630&height=630",
+                "url": "https://www.wral.com/weather/el-nino-north-carolina-winter-august-2026/",
+                "source": "WRAL",
+                "date": "2026-08-14T21:39:57Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Army temporarily grounds Apache helicopter training flights after 2 soldiers die in Texas crash",
+                "desc": "The U.S. Army said Friday it is temporarily halting Apache helicopter training flights after two soldiers were killed earlier this week​ in a crash near Fort Hood, Texas.",
+                "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/14/9d189be0-7dce-4908-95f7-fea561df7aaf/thumbnail/1200x630/17731458e171e40a821dcd3aba676dda/9594721.jpg",
+                "url": "https://www.cbsnews.com/news/army-apache-helicopter-training-flights-temporarily-grounded-fatal-crash-fort-hood/",
+                "source": "CBS News",
+                "date": "2026-08-14T21:33:00Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "30 California silicosis deaths linked to quartz countertops: report",
                 "desc": "A California Department of Public Health report shows that silicosis cases have drastically increased in recent years, with 592 cases identified since 2019.",
                 "image": "https://nypost.com/wp-content/uploads/sites/2/2026/08/137445930.jpg?quality=75&strip=all&w=1200",
@@ -2620,99 +2710,36 @@
                 "source": "NBC News",
                 "date": "2026-08-14T15:11:45Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "UFC 330 weigh-in results: 2 title fights set, including Islam Makhachev vs. Ian Machado Garry",
-                "desc": "Islam Makhachev, Ian Machado Garry, Mackenzie Dern, and Gillian Robertson all made weight for championship fights at UFC 330 on Saturday in Philadelphia.",
-                "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/08/gettyimages-2290453895.jpg?quality=90&strip=all&crop=0%2C5.1604864171462%2C100%2C78.524171522663&w=1200",
-                "url": "https://www.mmafighting.com/ufc/504773/ufc-330-weigh-in-results-2-title-fights-set-including-islam-makhachev-vs-ian-machado-garry",
-                "source": "MMA Fighting",
-                "date": "2026-08-14T15:10:31Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Here's how to check if that Apple Threat Notification on your iPhone is real",
-                "desc": "Apple sent a new batch of Threat Notifications to users it believes were targeted by \"mercenary spyware\" this week. Here's how to tell if the notification is real.",
-                "image": "https://s.yimg.com/lo/mysterio/api/972627bb863a510bf468d94f481a4d1fac453c11e71e5f88475674589e45ab4c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fapple-threat-notification_7205.jpg",
-                "url": "https://tech.yahoo.com/cybersecurity/article/heres-how-to-check-if-that-apple-threat-notification-on-your-iphone-is-real-150818890.html",
-                "source": "Yahoo Tech",
-                "date": "2026-08-14T15:08:18Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Woman arrested and facing felony charges in World War II Memorial vandalism case, DOJ says",
-                "desc": "A woman accused of vandalizing the World War II Memorial has been arrested in Washington, U.S. Attorney for the District of Columbia Jeanine Pirro announced Friday.",
-                "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-08/260814-washington-memorial-rs-85e72c.jpg",
-                "url": "https://www.nbcnews.com/politics/justice-department/woman-arrested-felony-charges-world-war-ii-memorial-vandalism-case-rcna592546",
-                "source": "NBC News",
-                "date": "2026-08-14T14:47:21Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Perez Hilton’s Sister Says He Has a ‘Long Road’ to Recovery",
-                "desc": "Perez Hilton’s sister said that he is still in the hospital after livestreaming self-harm on TikTok last week but that his family remains ‘hopeful.’",
-                "image": "https://pyxis.nymag.com/v1/imgs/011/30d/6ffd07bcc015192cdd18901d544f9a8e4e-perez-updates.1x.rsocial.w1200.jpg",
-                "url": "https://www.thecut.com/article/perez-hiltons-sister-health-update-long-road-recovery.html",
-                "source": "thecut.com",
-                "date": "2026-08-14T14:22:12Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Count Binface wins hearts, if not the election, in bid to defeat Trump ally Nigel Farage in U.K.",
-                "desc": "Count Binface, a satirical candidate who's become a mainstay in recent U.K. elections, achieved his greatest success yet.",
-                "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/14/e0960a2d-ee14-4351-8f49-0c3dda5cb627/thumbnail/1200x630g2/10b252b05ea5bbf2f316f127cbb3175d/gettyimages-2290395553.jpg",
-                "url": "https://www.cbsnews.com/news/count-binface-nigel-farage-uk-election/",
-                "source": "CBS News",
-                "date": "2026-08-14T14:19:09Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Taylor Swift new haircut",
-                "desc": "Taylor Swift unveiled a new haircut during an outing in London, nearly two months after the singer tied the knot with Travis Kelce.",
-                "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/08/14/USAT/91301062007-getty-images-2281159270.jpg?crop=1457,819,x323,y67&width=1457&height=819&format=pjpg&auto=webp",
-                "url": "https://www.usatoday.com/story/entertainment/style/2026/08/14/taylor-swift-new-haircut-london-photo/91300738007/",
-                "source": "USA Today",
-                "date": "2026-08-14T14:17:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Trump asks Supreme Court to let White House ballroom work continue",
-                "desc": "President Donald Trump's administration has asked the U.S. Supreme Court to allow the White House to continue construction on its $400 million ballroom project while it appeals a lower court’s order to halt the work.",
-                "image": "https://dims.apnews.com/dims4/default/c597ba3/2147483647/strip/true/crop/8120x5411+0+3/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F82%2F7a%2F88cf9061550669baedcff0467175%2Fb0875ad739b84fb4b37e20d58fc129d3",
-                "url": "https://apnews.com/article/trump-white-house-ballroom-supreme-court-84db62e26459e2206659d36cc5a749aa",
-                "source": "AP News",
-                "date": "2026-08-14T14:16:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "11 New Albums You Should Listen to Now: Phoebe Bridgers, L’Rain, and More",
-                "desc": "Also stream new releases from Djrum and Open Mike Eagle",
-                "image": "https://media.pitchfork.com/photos/6a7dfc5b62f86353888d1c00/16:9/w_1280,c_limit/PHOEBE%20BRIDGERS%20BY%20OLOF%20GRIND.jpg",
-                "url": "https://pitchfork.com/story/11-new-albums-you-should-listen-to-now-phoebe-bridgers-lrain-and-more/",
-                "source": "pitchfork.com",
-                "date": "2026-08-14T14:13:26Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "‘I’ve never done anything like this in my life’: Marina Abramović on making art with balloons",
-                "desc": "The artist’s latest swerve sees her creating an alien inflatable landscape for New York’s Balloon Museum",
-                "image": "https://i.guim.co.uk/img/media/f109d5d442f54122b7be6d93a36bab12f090c15c/184_0_1840_1472/master/1840.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=de96244deed435e74c610d187bd858c9",
-                "url": "https://www.theguardian.com/artanddesign/2026/aug/14/marina-abramovic-balloon-museum-show-interview",
-                "source": "theguardian.com",
-                "date": "2026-08-14T14:02:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "AI is driving up consumer prices. That won't stop anytime soon, experts say.",
-                "desc": "Surging AI investment is pushing up the cost of smartphones and other gadgets, according to analysts. Here's why.",
-                "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/13/b9a55823-b9e4-4738-adaa-67e4fbad7864/thumbnail/1200x630/acea63fc78d2805097e8e7e8bd26fb99/gettyimages-2183527075.jpg",
-                "url": "https://www.cbsnews.com/news/ai-investment-is-driving-up-consumer-prices-computers-inflation/",
-                "source": "cbsnews.com",
-                "date": "2026-08-14T14:01:20Z",
-                "priority": "STANDARD"
             }
         ],
         "business": [
+            {
+                "title": "Two American Airlines flights involved in incident at Sky Harbor overnight",
+                "desc": "An incident involving two American Airlines flights is under investigation at Sky Harbor International Airport.",
+                "image": "https://ewscripps.brightspotcdn.com/dims4/default/256a656/2147483647/strip/true/crop/1100x578+0+17/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F7c%2F4d%2Ff287a1524f1692335bded8bbbdda%2Famerican.jpg",
+                "url": "https://www.abc15.com/news/region-phoenix-metro/central-phoenix/two-american-airlines-flights-involved-in-incident-at-sky-harbor-overnight",
+                "source": "ABC15 Arizona",
+                "date": "2026-08-14T22:03:57Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "723 jobs being lost as Tyson Foods closes Eagle Mountain facility",
+                "desc": "Tyson Foods announced this week it will close its case-ready meat facility in Eagle Mountain as the company restructures to deal with a historic cattle shortage.",
+                "image": "https://img.ksl.com/slc/3197/319787/31978796.jpeg?filter=kslv2/responsive_story_lg",
+                "url": "https://www.ksl.com/article/51609885/723-jobs-being-lost-as-tyson-foods-closes-eagle-mountain-facility",
+                "source": "KSL News",
+                "date": "2026-08-14T22:02:55Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "2 planes with same flight number avoid possible disaster thanks to controller",
+                "desc": "Potential disaster was averted when a Phoenix air traffic controller recognized two American Airlines jets mistakenly were flying the same flight number and acted quickly to avoid confusion and keep them a safe distance apart",
+                "image": "https://i.abcnewsfe.com/a/46717607-71f8-4ae5-9054-c216040b0f1a/wirestory_8ab07e296fa2ad2fea3b9aada9a802d6_16x9.jpg?w=1600",
+                "url": "https://abcnews.com/Business/wireStory/2-planes-same-flight-number-avoid-disaster-quick-135659078",
+                "source": "ABC News - Breaking News, Latest News and Videos",
+                "date": "2026-08-14T21:28:21Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Cooluli recalls 250,000 minifridges sold on Amazon over fire risk",
                 "desc": "About 250,000 Cooluli minifridges sold online are being recalled after reports of fires, overheating and other incidents",
@@ -3225,36 +3252,27 @@
                 "source": "WIRED",
                 "date": "2026-08-13T21:14:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "United Airlines plane blows tire during takeoff at O'Hare airport, FAA says",
-                "desc": "United Airlines Flight 455 blew a tire during takeoff Thursday at Chicago O'Hare International Airport, FAA said. Video showed the emergency response.",
-                "image": "https://cdn.abcotvs.com/dip/images/19674050_081326-wls-united-emergency-clean-img.jpg?w=1600",
-                "url": "https://abc7chicago.com/post/emergency-response-involving-united-airlines-plane-seen-chicago-ohare-international-airport-video-shows/19674043/",
-                "source": "ABC7 Chicago",
-                "date": "2026-08-13T20:48:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Applied Materials Tops Views With Fiscal Q3 Results, Outlook",
-                "desc": "Applied Materials beat analyst estimates for its fiscal third quarter and with its guidance for fiscal Q4. But AMAT stock slid.",
-                "image": "https://www.investors.com/wp-content/uploads/2026/08/Stock-AppliedMaterials-NitridePECVD-company.jpg",
-                "url": "https://www.investors.com/news/technology/applied-materials-amat-stock-fiscal-q3-2026-earnings/",
-                "source": "Investor's Business Daily",
-                "date": "2026-08-13T20:40:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Tyson announces Joslin plant closure; employees told Thursday was last day",
-                "desc": "Tyson Foods announced they are closing their Joslin, Illinois, plant on Thursday.",
-                "image": "https://gray-kwqc-prod.gtv-cdn.com/resizer/v2/RTKICNOR6FEA5ME7ACYL4SSFVI.jpg?auth=0bb0717f9db222ae7d27a462d30fb5b7d289d01113d4799bbb8d4b3b898e7330&width=1200&height=600&smart=true",
-                "url": "https://www.kwqc.com/2026/08/13/tyson-announces-joslin-plant-closure/",
-                "source": "KWQC",
-                "date": "2026-08-13T20:30:00Z",
-                "priority": "STANDARD"
             }
         ],
         "entertainment": [
+            {
+                "title": "CBS News correspondent Matt Gutman accused of harassment in wrongful termination suit against ABC",
+                "desc": "Gutman was included in a former ABC News producer's wrongful termination suit filed Friday in Los Angeles.",
+                "image": "https://ca-times.brightspotcdn.com/dims4/default/d659c5f/2147483647/strip/true/crop/6300x3308+0+446/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F46%2F55%2Ffc9482f64334a9d8ec8a07e6da75%2Fap25315076565297.jpg",
+                "url": "https://www.latimes.com/entertainment-arts/business/story/2026-08-14/cbs-news-matt-gutman-accused-sexual-harassment-lawsuit",
+                "source": "latimes.com",
+                "date": "2026-08-14T22:10:53Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Dolly Parton cancels Dollywood event last minute over continued 'health issues'",
+                "desc": "Dolly Parton announced she canceled her appearance at a Dollywood event on Friday due to her ongoing \"health issues.\"",
+                "image": "https://pagesix.com/wp-content/uploads/sites/3/2026/08/137440502.jpg?quality=75&strip=all&w=1200",
+                "url": "https://pagesix.com/2026/08/14/celebrity-news/dolly-parton-cancels-dollywood-event-over-ongoing-health-issues/",
+                "source": "Page Six",
+                "date": "2026-08-14T21:18:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "David Ellison Complains About Cost Of States' Antitrust Suit",
                 "desc": "Citing harm to pension & state retirement funds & more, David Ellison & Paramount have launched a Friday new dump against state AGs seeking to block WBD deal",
@@ -3776,27 +3794,27 @@
                 "source": "The Hollywood Reporter",
                 "date": "2026-08-14T02:24:10Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Big Brother Recap: Chuk Evicted",
-                "desc": "Big Brother 28 houseguests Chuk, Haley, and Barrett all faced eviction on Thursday night — but which player was ultimately sent packing? Read our recap!",
-                "image": "https://www.tvline.com/img/gallery/big-brother-eviction-recap-who-was-the-first-to-go-after-the-toolsheds-implosion/l-intro-1786670081.jpg",
-                "url": "https://www.tvline.com/2236793/big-brother-recap-chuk-evicted-season-28-week-5-results/",
-                "source": "TVLine",
-                "date": "2026-08-14T02:17:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Halle Berry's sizzling underwear photos as she turns 60 have fans all saying the same thing",
-                "desc": "Halle Berry celebrated her 60th birthday in a plunging lace-trimmed look as fans praised the Oscar winner's age-defying appearance. See photos.",
-                "image": "https://s.yimg.com/lo/mysterio/api/65c5ed0354780d2cba60813b775cc4932b4896bcf6d2069a56c111315de96617/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhello_us_861%2F11fd1f33fb4451fcf67e6800e22c4491.jpg",
-                "url": "https://www.yahoo.com/entertainment/celebrity/articles/halle-berrys-sizzling-underwear-photos-002546992.html",
-                "source": "Yahoo",
-                "date": "2026-08-14T00:25:00Z",
-                "priority": "STANDARD"
             }
         ],
         "sports": [
+            {
+                "title": "Royals Unveil 2027 MLB at Field of Dreams Game Uniform, Red Sox Tease Their Logo",
+                "desc": "MLB wasted no time announcing the 2027 Field of Dreams Game, and the Royals already showed off the uniforms they'll wear, while the Red Sox left us a clue from the 1930s to decode.",
+                "image": "https://content.sportslogos.net/news/2026/08/2027-mlb-at-field-of-dreams-game-logo-royals-red-sox-sportslogosnet.jpg",
+                "url": "https://news.sportslogos.net/2026/08/14/royals-unveil-2027-mlb-at-field-of-dreams-game-uniform-red-sox-tease-their-logo/baseball/",
+                "source": "SportsLogos.Net News",
+                "date": "2026-08-14T21:48:31Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Dana White intervenes to prevent faceoff shenanigans between Arman Tsarukyan and Mauricio Ruffy",
+                "desc": "Things nearly got heated at the first UFC 331 faceoffs",
+                "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/08/gettyimages-2290511713.jpg?quality=90&strip=all&crop=0%2C10.738123282293%2C100%2C78.523753435414&w=1200",
+                "url": "https://www.mmafighting.com/ufc/504843/dana-white-intervenes-to-prevent-faceoff-shenanigans-between-arman-tsarukyan-and-mauricio-ruffy",
+                "source": "MMA Fighting",
+                "date": "2026-08-14T21:48:29Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "KSR's most important details from Mark Mitchell's hearing in Louisville",
                 "desc": "KSR does things in the most ridiculous manner possible. The latest example? Going to court for Mark Mitchell's hearing against the NCAA.",
@@ -4318,26 +4336,8 @@
                 "source": "nbcsports.com",
                 "date": "2026-08-14T12:06:29Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Sizing up Fernando Mendoza’s preseason debut, according to the rookie QB and his coach",
-                "desc": "The rookie quarterback had a harsh assessment of his play on Thursday night.",
-                "image": "https://static01.nyt.com/athletic/uploads/wp/2026/08/14024614/2026-08-14T034911Z_282741579_MT1USATODAY29579940_RTRMADP_3_NFL-ARIZONA-CARDINALS-AT-LAS-VEGAS-RAIDERS-scaled.jpg?width=1200&height=630&fit=cover",
-                "url": "https://www.nytimes.com/athletic/7512894/2026/08/14/raiders-fernando-mendoza-preseason-debut/",
-                "source": "The New York Times",
-                "date": "2026-08-14T12:00:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The NBA’s 10 best rivalries, ranked for 2026-27 season with every matchup to circle",
-                "desc": "Let’s rank the best rivalries in the NBA right now after the release of the new schedule.",
-                "image": "https://platform.sbnation.com/wp-content/uploads/sites/2/2026/08/gettyimages-2276766233.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C78.518271021998&w=1200",
-                "url": "https://www.sbnation.com/nba/1124896/nba-best-rivalries-ranking-knicks-spurs-thunder-celtics-sixers-nuggets-wolves",
-                "source": "SB Nation",
-                "date": "2026-08-14T12:00:00Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-08-15T09:17:07.038259Z"
+    "lastGlobalSync": "2026-08-15T10:13:50.029706Z"
 }
