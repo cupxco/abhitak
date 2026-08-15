@@ -2,6 +2,15 @@
     "hi": {
         "general": [
             {
+                "title": "लाल किले की प्राचीर से नया इतिहास रचेंगे पीएम मोदी, आज लगातार 13वीं बार राष्ट्र को करेंगे संबोधित",
+                "desc": "प्रधानमंत्री नरेंद्र मोदी लगातार 13वीं बार राष्ट्र को संबोधित करने के लिए इस ऐतिहासिक किले की प्राचीर पर लौट रहे हैं। वे 2014 में शुरू हुई इस परंपरा को आगे बढ़ा रहे हैं।",
+                "image": "https://www.jagranimages.com/images/2026/08/15/template/image/jagran-photo-1786736059259_v.webp",
+                "url": "https://www.jagran.com/news/national-pm-modi-will-address-nation-from-red-fort-for-13th-consecutive-time-on-independence-day-40341051.html",
+                "source": "Jagran",
+                "date": "2026-08-14T19:40:00Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "पेट्रोल पर साढ़े 3 रुपए, डीजल पर 1.50 रुपए घटा विंडफॉल टैक्स, आधी रात को ऐलान",
                 "desc": "Petrol-Diesel Windfall Tax: केंद्र सरकार ने आधी रात को पेट्रोल-डीजल और एविएशन फ्यूल के एक्सपोर्ट पर बड़ा फैसला लिया है. सरकार ने फ्यूल पर विंडफॉल टैक्स घटा दिया है. पढ़ें पूरी खबर",
                 "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/08/15/e1c20de191f832beafb14dbe4ef99d9c1786734863651940_original.jpg?impolicy=abp_cdn&imwidth=1200",
@@ -531,15 +540,6 @@
                 "source": "AajTak",
                 "date": "2026-08-14T05:10:04Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Gold Rates: अचानक सोने-चांदी के दाम में बड़ी गिरावट, इतने हो गए सस्‍ते",
-                "desc": "सोना और चांदी के भाव में तेज गिरावट आई है. एमसीएक्‍स पर सोने की कीमत 1000 रुपये से ज्‍यादा गिर गई है, जबकि चांदी की कीमत में करीब 3000 रुपये की गिरावट आई है.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/photo_gallery/202608/6a7ea13ae605d-gold-silver-price-fall-140141452-16x9.jpg",
-                "url": "https://www.aajtak.in/business/utility/photo/gold-silver-price-sharp-fall-check-latest-rates-tutd-2621720-2026-08-14",
-                "source": "AajTak",
-                "date": "2026-08-14T05:07:36Z",
-                "priority": "STANDARD"
             }
         ],
         "business": [
@@ -553,12 +553,30 @@
                 "priority": "STANDARD"
             },
             {
+                "title": "RBI ने इस बैंक पर लगाया 59.20 लाख का जुर्माना, वित्तीय खामियां बनीं वजह",
+                "desc": "RBI Penalty: रिजर्व बैंक ऑफ इंडिया इन दिनों एक्शन मोड में है. पिछले कुछ दिनों से कई बैंकों की शामत आई है, जिसमें अब इंडसइंड बैंक का नाम भी जुड़ गया है.",
+                "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/08/14/68000b7bf5ed027b4bbacbdfbd16ce1d17867302630011346_original.jpg?impolicy=abp_cdn&imwidth=1200",
+                "url": "https://www.abplive.com/business/rbi-imposes-penalty-on-indusind-bank-for-regulatory-lapses-3175221",
+                "source": "ABP News",
+                "date": "2026-08-14T18:12:18Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Mahindra Scorpio Lifestyler: आ गया महिंद्रा का शेर, दमदार फीचर्स और Hilux से 12 लाख रुपये सस्ता",
                 "desc": "Mahindra Scorpio Lifestyler: महिंद्रा ने अपने इस नए लाइफस्टाइलर के साथ पिक-अप सेगमेंट में मजबूत ताल ठोक दी है. स्कॉर्पियो का दशकों का भरोसा, रग्ड लुक और कम्पटीटर्स के मुकाबले कम कीमत इस ऑफरोडिंग पिकअप को काफी ख़ास बनाते हैं.",
                 "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202608/6a7f3eed3ee4f-mahindra-scorpio-lifestyler-141431528-16x9.jpg",
                 "url": "https://www.aajtak.in/auto/news/story/mahindra-scorpio-lifestyler-pickup-unveiled-rival-toyota-hilux-price-booking-details-auaw-dskc-2622191-2026-08-14",
                 "source": "AajTak",
                 "date": "2026-08-14T16:31:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "क्लोजिंग ऑक्शन सिस्टम लागू होने के बाद निफ्टी के आखिरी 15 मिनट के स्तर में आया अंतर घटा",
+                "desc": "Closing Auction System: सेंसेक्स शुक्रवार के सत्र में 78,009.25 पर बंद हुआ, जबकि दोपहर 3:15 बजे यह 77,931.1 पर था यानी इसमें 0.10 फीसदी का अंतर रहा",
+                "image": "https://hindibusinessstandard.imagibyte.sortdcdn.net/wp-content/uploads/2026/03/BSE.jpg",
+                "url": "https://hindi.business-standard.com/markets/share-market/the-difference-in-niftys-last-15-minute-levels-reduced-after-the-closing-auction-system-was-implemented-id-544769",
+                "source": "hindi.business-standard.com",
+                "date": "2026-08-14T16:29:34Z",
                 "priority": "STANDARD"
             },
             {
@@ -1063,24 +1081,6 @@
                 "url": "https://hindi.cnbctv18.com/photos/share-market/stocks-to-watch-14-august-welspun-living-premier-explosives-tata-motors-pv-jlr-190364.htm",
                 "source": "CNBC TV18",
                 "date": "2026-08-13T12:10:54Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "‘एक तो पहले से इतनी महंगाई है’, Airtel के 4 रिचार्ज बंद होने पर छलका लोगों का दर्द, कहा- सिम भी पोर्ट नहीं करा सकते",
-                "desc": "Airtel Unlimited 5G में 4 किफायती मोबाइल रिचार्ज बंद होने से यूजर मायूस हैं। NBT Tech से बातचीत में एक यूजर ने कहा कि सिम भी पोर्ट नहीं करा सकते, क्योंकि सभी कंपनियां अपने प्लान बदल रही हैं।",
-                "image": "https://static.langimg.com/nbt/thumb/133210450/airtel-news.jpg?imgsize=2258171&width=1600&height=900&resizemode=75",
-                "url": "https://navbharattimes.indiatimes.com/tech/gadgets-news/airtel-unlimited-5g-prepaid-recharge-4-plans-shuts-users-reaction-what-is-the-affordable-option/articleshow/133209699.cms",
-                "source": "navbharattimes.indiatimes.com",
-                "date": "2026-08-13T12:00:21Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Gold Rate: सस्ता हुआ सोना, 1.41 लाख रुपये पर आया गोल्ड रेट, जानिये क्यों आई गिरावट",
-                "desc": "Gold Price Today: आज गुरुवार 13 अगस्त को सोने के भाव में मामूली गिरावट रही। सर्राफा बाजार में सोना 88 रुपये सस्ता हुआ है। सोने का भाव 1,54,150 रुपये पर है। बुलियन मार्केट में 22 कैरेट गोल्ड का रेट 1,41,200 रुपये पर है।, Personal-finance Hindi News - Hindustan",
-                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/08/13/1600x900/logo/gold_silver_rate_today_1785299747752_1785299751569_2e025192-3954-4245-bece-b665b3a03d1b_1786621898183_3d79eb5c-a072-4244-835a-afa990d2ad75.jpg",
-                "url": "https://www.livehindustan.com/business/personal-finance/gold-rate-today-13-august-2026-thursday-sone-ka-bhav-22-and-24-carat-sarafa-bazar-up-bihar-delhi-201786621721055.html",
-                "source": "Hindustan",
-                "date": "2026-08-13T11:54:00Z",
                 "priority": "STANDARD"
             }
         ],
@@ -1664,6 +1664,15 @@
                 "priority": "STANDARD"
             },
             {
+                "title": "एशिया कप के लिए BCCI ने दोबारा किया टीम का ऐलान, रावल की हुए एंट्री",
+                "desc": "महिला एशिया कप 2026 के लिए शुक्रवार को बीसीसीआई ने टीम का ऐलान किया। जेमिमा टूर्नामेंट से बाहर हो गईं है, जबकि भारती फुलमाली और प्रतिका रावल को जगह मिली है।, Cricket Hindi News - Hindustan",
+                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/08/14/1600x900/logo/indian_women_cricket_team_1786724870635_1786724879827_b120403c-a6f9-4af5-a2c6-169abd2db3f6.jpeg",
+                "url": "https://www.livehindustan.com/cricket/team-india-unveils-squad-for-womens-asia-cup-2026-jemimah-rodrigues-harmanpreet-kaur-pratika-rawal-201786724263197.html",
+                "source": "Hindustan",
+                "date": "2026-08-14T16:28:55Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "शाहिद अफरीदी को तीर की तरह चुभेगा ये बयान, शोएब अख्तर ने कहा- इमरान खान मेरे कप्तान होते तो 400 विकेट लेता",
                 "desc": "पूर्व तेज गेंदबाज शोएब अख्तर ने कहा है कि अगर उन्हें इमरान खान की आक्रामक कप्तानी में खेलने का मौका मिलता तो वे टेस्ट क्रिकेट में 400 विकेट हासिल कर सकते थे।",
                 "image": "https://static.langimg.com/nbt/thumb/133247097/shoaib-akhtar-and-shahid-afridi.jpg?imgsize=443409&width=1600&height=900&resizemode=75",
@@ -1697,6 +1706,15 @@
                 "url": "https://www.abplive.com/sports/cricket/ind-vs-sl-1st-test-gautam-gambhir-says-everyone-a-hero-for-me-who-represent-team-india-3175168",
                 "source": "ABP News",
                 "date": "2026-08-14T14:34:30Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "टीम इंडिया में हुआ बड़ा बदलाव, एशिया कप और एशियाई खेलों से बाहर हुईं जेमिमा रोड्रिग्स",
+                "desc": "भारतीय बल्लेबाज जेमिमा रोड्रिग्स को 3 अगस्त को इंग्लैंड में 'द हंड्रेड' टूर्नामेंट में 'सदर्न ब्रेव' के लिए खेलते समय हैमस्ट्रिंग की चोट लग गई थी।",
+                "image": "https://www.jagranimages.com/images/2026/08/14/template/image/Jemimah-Rodrigues-Pratika-Rawal-1786714372022_v.webp",
+                "url": "https://www.jagran.com/cricket/headlines-jemimah-rodrigues-ruled-out-acc-womens-asia-cup-2026-asian-games-pratika-rawal-40340747.html",
+                "source": "Jagran",
+                "date": "2026-08-14T13:34:00Z",
                 "priority": "STANDARD"
             },
             {
@@ -2148,29 +2166,101 @@
                 "source": "Aaj Tak News",
                 "date": "2026-08-13T10:24:13Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "टीम इंडिया में चयन की खबर मिली तो एयरपोर्ट पर थे आकिब नबी, खुद सुनाई पूरी कहानी",
-                "desc": "श्रीलंका के खिलाफ टेस्ट सीरीज के लिए आकिब नबी टीम इंडिया का हिस्सा हैं। पहली बार इंटरनेशनल क्रिकेट में उनका चयन हुआ है। नबी ने बताया कि चयन के लिए जब कॉल आया तो वह एयरपोर्ट पर थे।",
-                "image": "https://static.langimg.com/nbt/thumb/133207776/aquib-nabi.jpg?imgsize=141640&width=1600&height=900&resizemode=75",
-                "url": "https://navbharattimes.indiatimes.com/sports/cricket/cricket-news/auqib-nabi-statement-on-airport-when-received-call-for-team-india-selection/articleshow/133207291.cms",
-                "source": "Navbharat Times",
-                "date": "2026-08-13T10:08:23Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "गोवा में मस्ती! धवन-नेहरा ने पत्न‍ियों संग मचाया धमाल, PHOTOS",
-                "desc": "RCB स्टार क्रुणाल पांड्या, शिखर धवन और आशीष नेहरा गोवा वेकेशन पर साथ नजर आए. सोशल मीडिया पर वायरल तस्वीरों में तीनों क्रिकेट स्टार्स अपनी पार्टनर्स और दोस्तों के साथ क्वालिटी टाइम बिताते दिखें.",
-                "image": "https://cf-img-a-in.tosshub.com/sites/visualstory/wp/2026/08/1-22ITG-1786600673758.jpg?size=*:675",
-                "url": "https://www.aajtak.in/visualstories/sports/rcb-star-krunal-pandya-shikhar-dhawan-ashish-nehra-goa-vacation-ipl-2026-tspok-284559-13-08-2026",
-                "source": "aajtak.in",
-                "date": "2026-08-13T09:51:56Z",
-                "priority": "STANDARD"
             }
         ]
     },
     "en": {
         "general": [
+            {
+                "title": "Former Cambridge university professor found dead",
+                "desc": "Emergency services said a man was found \"unresponsive\" at an address in Battersea, south London, on Friday afternoon.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/e1f2/live/c7b603c0-91a2-11f1-964d-6f76397ea067.jpg",
+                "url": "https://www.bbc.com/news/articles/c1j1ye6n30no",
+                "source": "BBC",
+                "date": "2026-08-14T20:02:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Estrogen therapy linked to lower Alzheimer's risk, Stanford study finds",
+                "desc": "Estrogen-only menopausal hormone therapy was linked to 35% lower Alzheimer's pathology and 39% lower dementia odds, according to a large Stanford study.",
+                "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/woman-hormone-replacement-therapy.jpg",
+                "url": "https://www.foxnews.com/health/alzheimers-risk-35-percent-lower-common-menopause-treatment-study-finds",
+                "source": "Fox News",
+                "date": "2026-08-14T20:00:40Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "State activates Joint Information Center ahead of Tropical Storm Lala",
+                "desc": "The Hawaii Joint Information Center has been activated to handle communications as Tropical Storm Lala impacts the islands.",
+                "image": "https://gray-khnl-prod.gtv-cdn.com/resizer/v2/UGOZPZTCP5H4PPLTMTFKOORVKE.png?auth=136586f392850714a1b1dd0810fcf10b5e7001ea7968722a5d7971af0ce057cb&width=1200&height=600&smart=true",
+                "url": "https://www.hawaiinewsnow.com/2026/08/14/state-activates-joint-information-center-ahead-tropical-storm-lala/",
+                "source": "Hawaii News Now",
+                "date": "2026-08-14T19:55:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Perez Hilton Was Treated for Overdose",
+                "desc": "Perez Hilton was treated for an overdose following his self-harm livestream incident",
+                "image": "https://www.rollingstone.com/wp-content/uploads/2026/08/Perez-Hilton-Treated-for-Overdose.jpg?crop=0px%2C28px%2C1800px%2C1014px&resize=1600%2C900",
+                "url": "https://www.rollingstone.com/culture/culture-news/perez-hilton-overdose-treatment-self-harm-incident-1235609383/",
+                "source": "Rolling Stone",
+                "date": "2026-08-14T19:53:07Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Lettuce-linked cyclospora outbreak expands. See Map",
+                "desc": "The outbreak specifically tied to recalled lettuce has grown to include two new states. Plus, FDA information gives insight into where it was sold.",
+                "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/08/14/USAT/91308921007-getty-images-2290352198.jpg?crop=1023,576,x0,y9&width=1023&height=576&format=pjpg&auto=webp",
+                "url": "https://www.usatoday.com/story/news/health/2026/08/14/lettuce-linked-cyclospora-outbreak-expands-see-map/91307622007/",
+                "source": "USA Today",
+                "date": "2026-08-14T19:50:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Pro golfer Jessica Bang, 18, dies while preparing for tournament in Thailand",
+                "desc": "Jessica Bang collapsed on Aug. 1 as she was preparing in Thailand for a tournament and was transported to a hospital in Bangkok.",
+                "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/14/3c9c7fef-05b4-4e53-a2a2-ca89d775ab29/thumbnail/1200x630g2/770479afaef9fd84da6dce3e4541c615/jessica-bang-screenshot-2026-08-14-151042.png",
+                "url": "https://www.cbsnews.com/news/jessica-bang-dies-golfer-age-18-brain-hemorrhage/",
+                "source": "CBS News",
+                "date": "2026-08-14T19:37:23Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "2 UAE tankers hit by drone attacks while transiting Strait of Hormuz",
+                "desc": "The United Arab Emirates has blamed Iran for firing drones at two tankers operated by a state-owned oil company in the Strait of Hormuz.",
+                "image": "https://dims.apnews.com/dims4/default/a9bcc0a/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F42%2Fe5%2Fc75f14760e16c594af6c7f4ce8f2%2Ffc228b7f49934d358c4edb2f9e752dd5",
+                "url": "https://apnews.com/article/iran-uae-us-strait-hormuz-august-14-2026-e8565c608ac5283ec8103c85df924b13",
+                "source": "AP News",
+                "date": "2026-08-14T19:35:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "‘Devastating’: bulldozers plough through Big Bend national park as Trump’s border work pushes ahead",
+                "desc": "Heavy machinery seen operating in famous Santa Elena Canyon amid outcry over new wall infrastructure in beloved Texas park",
+                "image": "https://i.guim.co.uk/img/media/8dc2340929bd6c90c7cfb1d3acb624bde3941b93/682_0_4071_3259/master/4071.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fc446fef5d29353dc5afad8e9715e1ba",
+                "url": "https://www.theguardian.com/us-news/2026/aug/14/bulldozers-big-bend-national-park-trump",
+                "source": "The Guardian",
+                "date": "2026-08-14T19:27:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Alex Murdaugh granted change of venue for murder retrial, past testimony allowed",
+                "desc": "A judge ruled Friday that testimony Alex Murdaugh gave at his first murder trial can be heard by jurors in his retrial.",
+                "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-08/260814-alex-Murdaugh-ew-154p-4becb5.jpg",
+                "url": "https://www.nbcnews.com/news/us-news/alex-murdaugh-granted-change-venue-murder-retrial-rcna592594",
+                "source": "NBC News",
+                "date": "2026-08-14T19:26:39Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "UFC 330 fight card predictions: Expert picks for Islam Makhachev vs. Ian Garry",
+                "desc": "A pair of title fights headline the promotion's return to Newark on Saturday",
+                "image": "https://sportshub.cbsistatic.com/i/r/2026/08/14/f7251b8f-7e7a-452f-a7fe-70726a72933f/thumbnail/1200x675/5f0e6d0926beeedceaadbedecaded1ba/islam-makhachev-ian-garry-presser.jpg",
+                "url": "https://www.cbssports.com/ufc/news/ufc-330-fight-card-predictions-islam-makhachev-vs-ian-garry-expert-picks/",
+                "source": "CBS Sports",
+                "date": "2026-08-14T19:25:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Stuart Fails To Save The Universe Renewed For Season 2 At HBO Max",
                 "desc": "Big Bang Theory spin-off Stuart Fails to Save the Universe has received a speedy Season 2 renewal at HBO Max.",
@@ -2620,99 +2710,45 @@
                 "source": "CBS News",
                 "date": "2026-08-14T13:34:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "30 New Things Your iPhone Can Do in iOS 27",
-                "desc": "Apple will release iOS 27 in September, and despite the company's focus this year on refining its flagship operating system and nixing bugs, there are still many additional features on the way, not least of which is Apple's new context-aware Siri, re-tooled for the generative AI era. This year's major iPhone software update isn't all about AI, though, as the following feature list testifies.",
-                "image": "https://images.macrumors.com/t/4Mwq21FvXXi4CRA3BhCrvJAF2pw=/2500x/article-new/2026/06/Everything-New-Your-iPhone-Can-Do-on-iOS-27-Feature-1.jpg",
-                "url": "https://www.macrumors.com/2026/08/14/new-things-your-iphone-can-do-ios-27/",
-                "source": "MacRumors",
-                "date": "2026-08-14T13:24:47Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "UFC 330 weigh-in video: Makhachev vs. Machado Garry",
-                "desc": "Watch UFC 330 weigh-in video for the Islam Makhachev vs. Ian Machado Garry event Friday morning in Philadelphia.",
-                "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/08/gettyimages-2246747620.jpg?quality=90&strip=all&crop=0%2C1.7972977980922%2C100%2C78.534031413613&w=1200",
-                "url": "https://www.mmafighting.com/ufc/504726/ufc-330-weigh-in-video-makhachev-vs-machado-garry",
-                "source": "MMA Fighting",
-                "date": "2026-08-14T12:30:19Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Google has another Pixel 11 discount, here's where to find it",
-                "desc": "Following a collection of discount codes that were sent out ahead of the Pixel 11 launch this week, Google has...",
-                "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/pixel-11-pro-gold-side.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-                "url": "https://9to5google.com/2026/08/14/google-play-pixel-11-discount/",
-                "source": "9to5Google",
-                "date": "2026-08-14T12:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Stock Market Today: Dow Falls On Surprise Retail Sales; AI Giant Dives On Earnings",
-                "desc": "Stock Market Today: The Dow Jones index falls Friday after surprise retail sales data. AI chip giant Applied Materials dives on earnings.",
-                "image": "https://www.investors.com/wp-content/uploads/2017/03/stock-wallstreet2-031317-shutter.jpg",
-                "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-retail-sales-applied-materials-stock-amat/",
-                "source": "Investor's Business Daily",
-                "date": "2026-08-14T12:22:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "U.S. missionary who was kidnapped in Niger is released",
-                "desc": "Kevin Rideout \"is in good health in the care of US officials,\" SIM International said in a statement, adding he would soon be reunited with his family.",
-                "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2140x1204+0+112/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F58%2F7d%2F19a4382b4c6ea2a03acb2a7d4427%2Fap26226304580288.jpg",
-                "url": "https://www.npr.org/2026/08/14/nx-s1-5931225/kidnapped-us-missionary-released",
-                "source": "NPR",
-                "date": "2026-08-14T12:11:50Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Robert Saleh: Cam Ward looked a little sped up on Thursday night",
-                "desc": "Titans quarterback Cam Ward's first drive of the preseason covered 95 yards and ended with a Tony Pollard touchdown run, but the night wasn't a total success for the second-year starter.",
-                "image": "https://nbcsports.brightspotcdn.com/dims4/default/3a0a6de/2147483647/strip/true/crop/3600x2025+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F50%2Fe4%2F520221354e589cc6c9468eaffd45%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2290386755",
-                "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/robert-saleh-cam-ward-looked-a-little-sped-up-on-thursday-night",
-                "source": "NBC Sports",
-                "date": "2026-08-14T12:06:29Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Don't Expect 'Lanterns' to Be the Last Place You See John Stewart",
-                "desc": "'Lanterns' may follow John Stewart and Hal Jordan, but showrunner Chris Mundy thinks John's future in the DC Universe is especially bright.",
-                "image": "https://gizmodo.com/app/uploads/2026/03/Aaron-Pierre-Lanterns-1200x675.jpg",
-                "url": "https://gizmodo.com/dont-expect-lanterns-to-be-the-last-place-you-see-john-stewart-2000798511",
-                "source": "Gizmodo",
-                "date": "2026-08-14T12:00:57Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Sizing up Fernando Mendoza’s preseason debut, according to the rookie QB and his coach",
-                "desc": "The rookie quarterback had a harsh assessment of his play on Thursday night.",
-                "image": "https://static01.nyt.com/athletic/uploads/wp/2026/08/14024614/2026-08-14T034911Z_282741579_MT1USATODAY29579940_RTRMADP_3_NFL-ARIZONA-CARDINALS-AT-LAS-VEGAS-RAIDERS-scaled.jpg?width=1200&height=630&fit=cover",
-                "url": "https://www.nytimes.com/athletic/7512894/2026/08/14/raiders-fernando-mendoza-preseason-debut/",
-                "source": "The New York Times",
-                "date": "2026-08-14T12:00:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "CMF hit the balance between cheap and good clip earbuds",
-                "desc": "The CMF Clip Pro are a very comfortable option for those that hate things in their ears.",
-                "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268665_Nothing_CMF_Clip_Pro_earbuds_AKrales_0144.jpg?quality=90&strip=all&crop=0%2C6.6231544521024%2C100%2C78.534031413613&w=1200",
-                "url": "https://www.theverge.com/tech/979928/cmf-clip-pro-review",
-                "source": "The Verge",
-                "date": "2026-08-14T12:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Stock up, stock down after Steelers preseason-opening win: Rookies steal spotlight",
-                "desc": "The Drew Allar hype train has officially left the station after his stellar debut with the Pittsburgh Steelers on Thursday night. But Allar wasn’t the only Steelers rookie to shine in the 28-9 preseason victory against the Green Bay Packers at Acrisure Stadium. The others highlight a look at whose",
-                "image": "https://assets-varnish.triblive.com/2026/08/9847999_web1_ptr-SteelersPackers20-081426.jpg",
-                "url": "https://triblive.com/sports/stock-up-stock-down-after-steelers-preseason-opening-win-rookies-steal-spotlight/",
-                "source": "triblive.com",
-                "date": "2026-08-14T11:37:30Z",
-                "priority": "STANDARD"
             }
         ],
         "business": [
+            {
+                "title": "Goldman’s latest cash cow is all about funding the AI infrastructure boom",
+                "desc": "Nvidia and Intel recently tapped the bank to help them meeting soaring demand for compute.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108334981-1784059637128-gettyimages-2285488608-US_STOCKS.jpeg?v=1784059834&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/08/14/goldmans-latest-cash-cow-is-all-about-funding-the-ai-infrastructure-boom.html",
+                "source": "CNBC",
+                "date": "2026-08-14T20:02:24Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Lettuce-linked cyclospora outbreak expands. See Map",
+                "desc": "The outbreak specifically tied to recalled lettuce has grown to include two new states. Plus, FDA information gives insight into where it was sold.",
+                "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/08/14/USAT/91308921007-getty-images-2290352198.jpg?crop=1023,576,x0,y9&width=1023&height=576&format=pjpg&auto=webp",
+                "url": "https://www.usatoday.com/story/news/health/2026/08/14/lettuce-linked-cyclospora-outbreak-expands-see-map/91307622007/",
+                "source": "USA Today",
+                "date": "2026-08-14T19:50:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Waymo wins California approval to expand robotaxis across 18 counties",
+                "desc": "California's CPUC approved Waymo to expand its driverless robotaxi service across 18 counties, including new markets in Sacramento and San Diego.",
+                "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/07/waymo_ojai_hero_mp4_hd.original.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+                "url": "https://electrek.co/2026/08/14/waymo-cpuc-approval-california-expansion-18-counties/",
+                "source": "Electrek",
+                "date": "2026-08-14T19:47:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "NorCal man reunited with beloved muscle car stolen 33 years ago",
+                "desc": "A Northern California man whose prized muscle car was swiped more than three decades ago has finally been reunited with his beloved wheels, cops revealed this week.",
+                "image": "https://nypost.com/wp-content/uploads/sites/2/2026/08/1971-chevelle-reported-stolen-33-137423981.jpg?quality=75&strip=all&w=1200",
+                "url": "https://nypost.com/2026/08/14/us-news/california-man-reunited-with-beloved-muscle-car-stolen-33-years-ago/",
+                "source": "New York Post",
+                "date": "2026-08-14T19:33:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "FDA Declares Class 1 Recall as 19 Million Eggs Pulled Over Salmonella Risk: See Full List",
                 "desc": "A massive egg recall due to salmonella risk issued in July has received the highest severity class by the U.S.",
@@ -3216,45 +3252,54 @@
                 "source": "Gothamist",
                 "date": "2026-08-13T20:28:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Inflation surge has squeezed shoppers. Sluggish pay has made it worse",
-                "desc": "Inflation eased slightly last month, but price hikes still outpaced wage growth",
-                "image": "https://i.abcnewsfe.com/a/f24ac3e7-2d5b-4aa4-8960-fc80c8b5e254/grocery-1-rt-er-260813_1786641753819_hpMain_16x9.jpg?w=1600",
-                "url": "https://abcnews.com/Business/inflation-surge-squeezed-shoppers-sluggish-pay-made-worse/story?id=135610975",
-                "source": "ABC News - Breaking News, Latest News and Videos",
-                "date": "2026-08-13T20:27:58Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
-                "desc": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
-                "image": "https://techcrunch.com/wp-content/uploads/2021/04/Ali_Ghodsi.jpg?resize=1200,1200",
-                "url": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
-                "source": "TechCrunch",
-                "date": "2026-08-13T20:14:39Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "More recalls as US faces several foodborne illness outbreaks",
-                "desc": "Michigan tops 12,000 Cyclospora cases as the CDC adds almost 3,500 infections to the US total.",
-                "image": "https://www.cidrap.umn.edu/themes/custom/cidrap_theme/images/cidrap-og-image.jpg",
-                "url": "https://www.cidrap.umn.edu/salmonella/more-recalls-us-faces-several-foodborne-illness-outbreaks",
-                "source": "cidrap.umn.edu",
-                "date": "2026-08-13T20:10:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Are teens on e-motorbikes the ‘new Hells Angels’? Not so fast, boomers",
-                "desc": "Experts say better regulation is needed but that bad press about ‘motorized menaces’ puts the ebike revolution at risk",
-                "image": "https://i.guim.co.uk/img/media/29da6fbb47729caf022bc4dc225aae67d9d27cc7/535_0_4511_3612/master/4511.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5fe62b02908ec11cc06b0d02befc41c3",
-                "url": "https://www.theguardian.com/us-news/2026/aug/13/ebikes-e-motorcycles-teenagers",
-                "source": "The Guardian",
-                "date": "2026-08-13T19:45:00Z",
-                "priority": "STANDARD"
             }
         ],
         "entertainment": [
+            {
+                "title": "Perez Hilton Was Treated for Overdose",
+                "desc": "Perez Hilton was treated for an overdose following his self-harm livestream incident",
+                "image": "https://www.rollingstone.com/wp-content/uploads/2026/08/Perez-Hilton-Treated-for-Overdose.jpg?crop=0px%2C28px%2C1800px%2C1014px&resize=1600%2C900",
+                "url": "https://www.rollingstone.com/culture/culture-news/perez-hilton-overdose-treatment-self-harm-incident-1235609383/",
+                "source": "Rolling Stone",
+                "date": "2026-08-14T19:53:07Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'Ahsoka' Season 2 Sure Seems Like It's Going Back to 'The Clone Wars'",
+                "desc": "Costume reveals at D23 show what appears to be snow outfits for Anakin Skywalker and Ahsoka Tano.",
+                "image": "https://gizmodo.com/app/uploads/2026/08/D23-Anakin-Snow-Ahsoka-S2-1200x675.jpg",
+                "url": "https://gizmodo.com/ahsoka-season-2-sure-seems-like-its-going-back-to-the-clone-wars-2000798559",
+                "source": "Gizmodo",
+                "date": "2026-08-14T19:30:21Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'Deli Boys' Canceled After Two Seasons At Hulu",
+                "desc": "After two seasons, the Onyx Collective series Deli Boys has been canceled at Hulu.",
+                "image": "https://deadline.com/wp-content/uploads/2026/08/180564_0225_R1.jpg?w=1024",
+                "url": "https://deadline.com/2026/08/deli-boys-canceled-hulu-1237040657/",
+                "source": "Deadline",
+                "date": "2026-08-14T19:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Spoiler: Opening Segment for August 14 WWE SmackDown Revealed",
+                "desc": "WWE has an early plan in place for how the August 14 episode of SmackDown is expected to begin, with Chelsea Green currently slated to kick off the show.",
+                "image": "https://www.ringsidenews.com/wp-content/uploads/2026/08/possible-spoiler-on-wwe-return-for-august-7-smackdown-in-philadelphia-46.jpg",
+                "url": "https://www.ringsidenews.com/spoiler-opening-segment-august-14-wwe-smackdown-revealed/",
+                "source": "ringsidenews.com",
+                "date": "2026-08-14T19:28:52Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "First Look at James Spader as Ultron in VisionQuest Shown at D23",
+                "desc": "Marvel gave fans a first look at James Spader as Ultron in VisionQuest, as well as a few other tidbits in a special teaser spotted on the Anaheim Convention Center floor at D23.",
+                "image": "https://assets-prd.ignimgs.com/2026/08/14/first-look-james-spader-ultron-visionquest-d23-1786734903835.jpg?width=1280&format=jpg&auto=webp&quality=80",
+                "url": "https://www.ign.com/articles/first-look-at-james-spader-as-ultron-in-visionquest-shown-at-d23",
+                "source": "IGN",
+                "date": "2026-08-14T19:26:08Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Stuart Fails To Save The Universe Renewed For Season 2 At HBO Max",
                 "desc": "Big Bang Theory spin-off Stuart Fails to Save the Universe has received a speedy Season 2 renewal at HBO Max.",
@@ -3749,54 +3794,72 @@
                 "source": "Yahoo",
                 "date": "2026-08-13T23:44:10Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "California Bill to Cap Concert Ticket Resale Prices Fails",
-                "desc": "A California bill designed to cap resale prices on concert tickets at 10 percent higher than their original prices has failed.",
-                "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/GettyImages-2231028833.jpg?crop=0px%2C116px%2C5388px%2C3018px&resize=1440%2C810",
-                "url": "https://www.hollywoodreporter.com/music/music-industry-news/california-bill-to-cap-concert-resale-ticket-prices-dies-1236673216/",
-                "source": "The Hollywood Reporter",
-                "date": "2026-08-13T23:19:06Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Carly Simon sings about James Taylor divorce impacting their kids in new song",
-                "desc": "Carly Simon opens up about how her 1983 divorce from James Taylor impacted their kids, Sally and Ben, in her emotional new song \"Mother of Pearl.\"",
-                "image": "https://pagesix.com/wp-content/uploads/sites/3/2026/08/137323448-1.jpg?quality=75&strip=all&w=1200",
-                "url": "https://pagesix.com/2026/08/13/celebrity-news/carly-simon-sings-about-james-taylor-divorce-impacting-their-kids-in-new-song/",
-                "source": "Page Six",
-                "date": "2026-08-13T22:56:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'All That' Star Was 46",
-                "desc": "Christy Knowings, who starred on the beloved Nickelodeon sketch comedy series All That, has died. She was 46.",
-                "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Christy-Knowings-getty-H-2026.png?w=1296&h=730&crop=1",
-                "url": "https://www.hollywoodreporter.com/tv/tv-news/christy-knowings-dead-all-that-1236673215/",
-                "source": "The Hollywood Reporter",
-                "date": "2026-08-13T22:55:21Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Teamsters Protest Paramount Over Warner Bros Merger Promises & Threats",
-                "desc": "Hollywood Teamsters called BS on Paramount Over Warner Bros Merger promises & threats",
-                "image": "https://deadline.com/wp-content/uploads/2026/08/David-Ellison-TEamsters-Local-399-logo.jpg?w=1000",
-                "url": "https://deadline.com/2026/08/paramount-merger-teamsters-protest-1237033400/",
-                "source": "Deadline",
-                "date": "2026-08-13T22:50:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Controversial Film Releasing NC-17 Cut Over 50 Years Later",
-                "desc": "Ken Russell's controversial 1971 historical horror The Devils will get a 4K director's cut, rated NC-17, finally after 55 years.",
-                "image": "https://cdn.nerdist.com/wp-content/uploads/2026/08/13150918/The-Devils-Sister-Jeanne.webp",
-                "url": "https://nerdist.com/article/controversial-film-the-devils-releasing-nc-17-cut-over-50-years-later/",
-                "source": "Nerdist",
-                "date": "2026-08-13T22:40:03Z",
-                "priority": "STANDARD"
             }
         ],
         "sports": [
+            {
+                "title": "3 risers (and 3 fallers) from the opening night Chargers preseason win vs. Texans",
+                "desc": "Which stocks are up and which stocks are down after the first Chargers preseason game?",
+                "image": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_102,w_3809,h_2142/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/13/01m00hwew3x3kpt91bms.jpg",
+                "url": "https://boltbeat.com/3-risers-and-3-fallers-from-the-opening-night-chargers-preseason-win-vs-texans",
+                "source": "Bolt Beat",
+                "date": "2026-08-14T20:00:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Colts Coordinator Brian Mason Reportedly Suffered Serious Knee Injury in Sideline Collision",
+                "desc": "Indianapolis Colts special teams coordinator Brian Mason reportedly suffered multiple torn ligaments in his knee after taking contact on the sideline of Thursday's preseason matchup against the New England Patriots, according to The Athletic's James Boyd.",
+                "image": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/ap_images/2026-08/1fbda8f2b129432189fd56b708b03074/Cols_Ravens_Football_12474_4853x2730_(0,152).jpg?w=1120&h=630",
+                "url": "https://bleacherreport.com/articles/25472374-colts-coordinator-brian-mason-reportedly-suffered-serious-knee-injury-sideline-collision",
+                "source": "Bleacher Report",
+                "date": "2026-08-14T19:47:14Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Pro golfer Jessica Bang, 18, dies while preparing for tournament in Thailand",
+                "desc": "Jessica Bang collapsed on Aug. 1 as she was preparing in Thailand for a tournament and was transported to a hospital in Bangkok.",
+                "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/14/3c9c7fef-05b4-4e53-a2a2-ca89d775ab29/thumbnail/1200x630g2/770479afaef9fd84da6dce3e4541c615/jessica-bang-screenshot-2026-08-14-151042.png",
+                "url": "https://www.cbsnews.com/news/jessica-bang-dies-golfer-age-18-brain-hemorrhage/",
+                "source": "CBS News",
+                "date": "2026-08-14T19:37:23Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Like Tom Brady, Troy Aikman Will Have Restricted Access to NFL Teams After Taking Dolphins Job",
+                "desc": "Given his dual role as a Monday Night Football color commentator for ESPN and a consultant for the Miami Dolphins, Pro Football Hall of Fame quarterback Troy Aikman will face restrictions this season similar to those put in place for Tom Brady.",
+                "image": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/ap_images/2026-08/1c28b2e9e0164a4bb13ecd4f5cc235ad/49ers_Colts_Football_83590_6883x3872_(0,86).jpg?w=1120&h=630",
+                "url": "https://bleacherreport.com/articles/25472371-tom-brady-troy-aikman-will-have-restricted-access-nfl-teams-after-taking-dolphins-job",
+                "source": "Bleacher Report",
+                "date": "2026-08-14T19:34:08Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "NFL Preseason Week 1 Takeaways For Fantasy Football: Carnell Tate, De'Zhaun Stribling & More",
+                "desc": "Dwain McFarland goes team by team to identify the biggest utilization and usage notes from every preseason Week 1 game.",
+                "image": "https://cdn.fantasylife.com/assets/content/large_Carnell_Tate_P_Reseason_348da43914.webp",
+                "url": "https://www.fantasylife.com/articles/fantasy/nfl-preseason-week-1-takeaways-for-fantasy-football",
+                "source": "FantasyLife",
+                "date": "2026-08-14T19:30:06Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "UFC 330 fight card predictions: Expert picks for Islam Makhachev vs. Ian Garry",
+                "desc": "A pair of title fights headline the promotion's return to Newark on Saturday",
+                "image": "https://sportshub.cbsistatic.com/i/r/2026/08/14/f7251b8f-7e7a-452f-a7fe-70726a72933f/thumbnail/1200x675/5f0e6d0926beeedceaadbedecaded1ba/islam-makhachev-ian-garry-presser.jpg",
+                "url": "https://www.cbssports.com/ufc/news/ufc-330-fight-card-predictions-islam-makhachev-vs-ian-garry-expert-picks/",
+                "source": "CBS Sports",
+                "date": "2026-08-14T19:25:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Dennis Schroder Reportedly Traded to Hornets, Cavs' Return Revealed Amid NBA Offseason",
+                "desc": "The nomadic career of veteran guard Dennis Schröder is adding another stop.",
+                "image": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2026-06/2265626570_large_cropped.jpg?w=1120&h=630",
+                "url": "https://bleacherreport.com/articles/25441645-dennis-schroder-reportedly-traded-hornets-cavs-return-revealed-amid-nba-offseason",
+                "source": "Bleacher Report",
+                "date": "2026-08-14T19:23:54Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "The Tom Brady restrictions apply to Troy Aikman, too",
                 "desc": "It's now open season for teams to hire broadcasters.",
@@ -4273,71 +4336,8 @@
                 "source": "NBC Sports Bay Area & California",
                 "date": "2026-08-14T05:25:04Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Raiders rookie Fernando Mendoza throws for 97 yards in 4 drives",
-                "desc": "Raiders rookie QB Fernando Mendoza completed 10 of 16 passes for 97 yards and a touchdown on four drives against the Cardinals.",
-                "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0814%2Fr1701598_1296x729_16%2D9.jpg",
-                "url": "https://www.espn.com/nfl/story/_/id/49606498/raiders-rookie-fernando-mendoza-throws-97-yards-4-drives",
-                "source": "ESPN",
-                "date": "2026-08-14T05:17:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Fallout From Vikings' QB Decision",
-                "desc": "Vikings backup QB J.J. McCarthy says he wants to stay in Minnesota, but that may not be the case. Read more at Pro Football Rumors.",
-                "image": "https://cdn.profootballrumors.com/files/2026/08/imgonline-com-ua-twotoone-RQ5O8nOdrY9AiYA-1024x636.jpg",
-                "url": "https://www.profootballrumors.com/2026/08/fallout-from-vikings-qb-decision",
-                "source": "profootballrumors.com",
-                "date": "2026-08-14T05:15:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Seahawks sign CB Terrion Arnold",
-                "desc": "Seahawks signed CB Terrion Arnold, formerly of the Lions.",
-                "image": "https://nbcsports.brightspotcdn.com/dims4/default/1b6ff3c/2147483647/strip/true/crop/100x56+0+39/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F90%2F0f%2F40c6ffb944208626d9ed1dfb4974%2Farnold-terrion.jpg",
-                "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-08-13/seahawks-sign-cb-terrion-arnold",
-                "source": "NBC Sports",
-                "date": "2026-08-14T04:40:41Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Jerry Jones again compares the Micah Parsons trade to the Herschel Walker trade",
-                "desc": "After the Cowboys traded Micah Parsons to the Packers last year, Dallas owner and G.M.",
-                "image": "https://nbcsports.brightspotcdn.com/dims4/default/818cc03/2147483647/strip/true/crop/3000x1688+0+195/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F11%2Fe5%2F01eff138474cb1efdb8bd34cbe31%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F450389263",
-                "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jerry-jones-again-compares-the-micah-parsons-trade-to-the-herschel-walker-trade",
-                "source": "NBC Sports",
-                "date": "2026-08-14T04:36:50Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Rising golfer Jessica Bang dies at 18 in a Thailand hospital",
-                "desc": "The WPGA Tour of Australasia has announced the death of 18-year-old golfer Jessica Bang. The Australian player collapsed on Aug. 1 in Thailand while preparing for a tournament and underwent emergency brain surgery in Bangkok.",
-                "image": "https://dims.apnews.com/dims4/default/295c329/2147483647/strip/true/crop/675x450+12+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
-                "url": "https://apnews.com/article/golf-jessica-bang-death-australia-thailand-2eeb382b4a5a228e53e76b656257ada8",
-                "source": "AP News",
-                "date": "2026-08-14T04:28:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Rookies Drew Allar, Will Howard 'very poised' in Steelers' win",
-                "desc": "Steelers rookie quarterbacks Drew Allar and Will Howard turned in solid performances during a 28-9 preseason win over the Packers.",
-                "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0814%2Fr1701586_1296x729_16%2D9.jpg",
-                "url": "https://www.espn.com/nfl/story/_/id/49606046/rookies-drew-allar-howard-very-poised-steelers-win",
-                "source": "ESPN",
-                "date": "2026-08-14T04:24:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Puerto Rican boxer Prichard Colón dies 11 years after suffering severe brain injury",
-                "desc": "Colón fell into a 221-day coma after a 2015 fight against Terrel Williams. He nevery fully recovered.",
-                "image": "https://static01.nyt.com/athletic/uploads/wp/2026/08/13234408/GettyImages-493253326-scaled.jpg?width=1200&height=630&fit=cover",
-                "url": "https://www.nytimes.com/athletic/7512701/2026/08/14/prichard-colon-puerto-rican-boxer-dies-brain-injuries/",
-                "source": "The New York Times",
-                "date": "2026-08-14T04:15:44Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-08-15T07:22:53.472785Z"
+    "lastGlobalSync": "2026-08-15T08:16:43.605835Z"
 }
