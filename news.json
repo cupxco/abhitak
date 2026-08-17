@@ -2,6 +2,60 @@
     "hi": {
         "general": [
             {
+                "title": "संजीव गोयनका की टीम पहली बार बनी चैंपियन, सुपर जायंट्स ने रचा इतिहास",
+                "desc": "The Hundred Final Highlights: मैंचेस्टर सुपर जायंट्स ने फाइनल में ट्रेंट रॉकेट्स को 5 विकेट से हराकर पहली बार द हंड्रेड का खिताब जीत लिया है.",
+                "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/08/17/7b06587d7048670ff668d31cfa60b5fa1786930116690975_original.jpg?impolicy=abp_cdn&imwidth=1200",
+                "url": "https://www.abplive.com/sports/cricket/manchester-super-giants-wins-the-hundred-2026-title-defeated-trent-rockets-final-highlights-tim-seifert-3175970",
+                "source": "ABP News",
+                "date": "2026-08-17T01:32:29Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'बहुत शानदार फैसला', मक्का रक्षा समझौते से डोनाल्ड ट्रंप खुश, तुर्की-पाकिस्तान-सऊदी की थपथपाई पीठ",
+                "desc": "सऊदी अरब, पाकिस्तान और तुर्की ने 7 अगस्त को 'मक्का संयुक्त रक्षा समझौता' पर दस्तखत किए हैं। इस समझौते पर 10 दिन बाद अमेरिकी राष्ट्रपति की ओर से प्रतिक्रिया आई है।",
+                "image": "https://static.langimg.com/nbt/thumb/133284392/iran-us.jpg?imgsize=221775&width=1600&height=900&resizemode=75",
+                "url": "https://navbharattimes.indiatimes.com/world/america/donald-trump-welcomes-saudi-arabia-turkiye-pakistan-mecca-defence-agreement/articleshow/133284391.cms",
+                "source": "Navbharat Times",
+                "date": "2026-08-17T01:32:13Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Box Office: इमरान हाशमी की 'आवारापन 2' ने संडे को लगाई ओपनिंग से ऊंची छलांग, 'बंटवारा 1947' ने बनाया रेकॉर्ड",
+                "desc": "इमरान हाशमी की फिल्म 'आवारापन 2' ने जहां तीन दिनों में 81 करोड़ रुपये की कमाई कर ली है, वहीं सनी देओल और प्रीति जिंटा की फिल्म ने शानदार रेकॉर्ड बनाया है। हालांकि तीसरे दिन 'बंटवारा 1947' के सामने 'आवारापन 2' ने तीन गुना अधिक कमाई की है। 'बंटवारा 1947' ने तीन दिनों में जितना नेट कलेक्शन किया है, 'आवारापन 2' ने एक दिन में उतनी कमाई करके दिखा दी है।",
+                "image": "https://static.langimg.com/nbt/thumb/133284441/awarapan-2-vs-batwara-1947-box-office-day-3.jpg?imgsize=115157&width=1600&height=900&resizemode=75",
+                "url": "https://navbharattimes.indiatimes.com/entertainment/box-office/awarapan-2-starring-emraan-hashmi-and-sunny-deol-batwara-1947-box-office-collection-day-3/articleshow/133284370.cms",
+                "source": "Navbharat Times",
+                "date": "2026-08-17T01:20:07Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "पेट्रोल-डीजल के दाम में बदलाव! जानें आपके शहर में आज कितना है भाव",
+                "desc": "Petrol- Diesel Price Today 17 August 2026: आज पेट्रोल और डीजल किस रेट पर मिल रहा है, ये आप यहां से जान सकते हैं. यहां ईंधन की रेट लिस्ट दी गई है.",
+                "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/08/17/51350f38e4cf0d1281ea066602dcf99317869284647781435_original.png?impolicy=abp_cdn&imwidth=1200",
+                "url": "https://www.abplive.com/business/petrol-diesel-price-today-17-august-2026-petrol-diesel-rate-list-in-delhi-noida-mumbai-patna-lucknow-3175972",
+                "source": "abplive.com",
+                "date": "2026-08-17T01:14:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'अमेरिकी सैनिक को मारो और 30,000 डॉलर ले जाओ', ईरानी आर्मी का ऐलान, महिलाओं को मिलेगी दोगुनी रकम",
+                "desc": "ईरान की सेना ने कहा है कि वह अमेरिकी सैनिकों को मारने या पकड़ने वाले लोगों को इनाम देगी। अगर यह काम कोई महिला करती है तो इनाम की राशि दोगुनी कर दी जाएगी।",
+                "image": "https://static.langimg.com/nbt/thumb/133284235/iran-us.jpg?imgsize=116156&width=1600&height=900&resizemode=75",
+                "url": "https://navbharattimes.indiatimes.com/world/asian-countries/iran-army-chief-announce-bounty-for-killing-us-soldiers-double-pay-for-women/articleshow/133284229.cms",
+                "source": "Navbharat Times",
+                "date": "2026-08-17T00:43:40Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'स्पष्टीकरण मंजूर नहीं...' कर्नाटक वन विभाग के 3 तमिल लोगों की हत्या पर भड़के CM थलपति विजय, दी वॉर्निंग",
+                "desc": "Thalapathy Vijay : तमिलनाडु के तीन किसानों को चामराजनगर जिले में कर्नाटक वन विभाग के अधिकारियों ने मार डाला। तमिल किसानों की हत्या की निंदा करते हुए तमिलनाडु के मुख्यमंत्री थलपति विजय ने अल्टिमेटम दिया है। उन्होंने कहा कि यह बर्दाश्त नहीं किया जाएगा। इस मामले में सफाई नहीं चलेगी।",
+                "image": "https://static.langimg.com/nbt/thumb/133284228/thalapathy-vijay-and-shivakuamar.jpg?imgsize=866509&width=1600&height=900&resizemode=75",
+                "url": "https://navbharattimes.indiatimes.com/state/tamil-nadu/chennai/cm-thalapathy-vijay-condemns-3-tamil-men-killing-by-karnataka-forest-department-said-unacceptable/articleshow/133284206.cms",
+                "source": "Navbharat Times",
+                "date": "2026-08-17T00:33:47Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "किम जोंग उन से रिश्तों का हवाला, डोनाल्ड ट्रंप ने अमेरिका-साउथ कोरिया सैन्य अभ्यास घटाने का दिए आदेश",
                 "desc": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने पेंटागन को साउथ कोरिया के साथ होने वाले सैन्य अभ्यास कम करने का निर्देश दिया है. उन्होंने कहा कि अभ्यास अब रद्द नहीं हो सकता, लेकिन वे इससे खुश नहीं हैं. 17 से 27 अगस्त तक चलने वाले अल्ची फ्रीडम शील्ड अभ्यास में 18 हजार साउथ कोरियाई सैनिक शामिल होंगे.",
                 "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202608/6a8254b139566-us-president-trump-boarding-air-force-one-at-joint-base-andrews-photo-reuters-172411800-16x9.jpg",
@@ -486,63 +540,18 @@
                 "source": "Jansatta",
                 "date": "2026-08-15T17:22:22Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "नक्सली नहीं कह सकते, पीएम मोदी के 'दिमागी नक्सल' वाले बयान पर बरसी CJP",
-                "desc": "प्रधानमंत्री ने कहा कि ऐसे लोगों की पहचान कर उन्हें अलग-थलग करने की जरूरत है और युवाओं को मुख्यधारा से जोड़ना चाहिए। दास ने 'एक्स' पर एक पोस्ट में कहा कि प्रधानमंत्री जी, दिमागी नक्सल या ऐसी कोई भी बात काम नहीं आएगी।, India News in Hindi - Hindustan",
-                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/08/15/1600x900/logo/Saurav_Das_CJP_1786547795914_1786547807478_9b6935a9-9ad7-4b70-bbf2-b59ceaed3824_1786814038466_3912c872-8b7e-4e71-acea-c8e7264aeb8f.jpg",
-                "url": "https://www.livehindustan.com/national/cockroach-janta-party-saurav-das-attacks-pm-modi-says-cant-call-them-naxals-201786813640980.html",
-                "source": "Hindustan",
-                "date": "2026-08-15T17:17:35Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "झारखंड प्रोटेस्ट: छात्रों का CM आवास घेरने का ऐलान, मांगा सोरेन का इस्तीफा",
-                "desc": "झारखंड में परीक्षाओं में कथित गड़बड़ियों के खिलाफ जारी आंदोलन और तेज होगा। प्रदर्शनकारी छात्रों ने 20 अगस्त को मुख्यमंत्री आवास का घेराव करने का ऐलान किया है। , Jharkhand Hindi News - Hindustan",
-                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/08/15/1600x900/logo/PTI08-14-2026-000418B-0_1786812376094_1786812386694_ba496572-fc5b-41ab-999e-d569148b3128.jpg",
-                "url": "https://www.livehindustan.com/jharkhand/jharkhand-protest-students-will-gherao-cm-hemant-soren-residence-on-20-aug-201786811387871.html",
-                "source": "Hindustan",
-                "date": "2026-08-15T16:38:20Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "अमेरिका के आखिरी एयरक्राफ्ट कैरियर ने प्रशांत क्षेत्र छोड़ा, चीन को मिला खुला मैदान, खतरे में जापान-ताइवान!",
-                "desc": "ईरान के खिलाफ राष्ट्रपति डोनाल्ड ट्रंप की जंग से अमेरिकी एयरक्राफ्ट कैरियर की क्षमता पर दबाव बढ़ रहा है। ऐसे समय में जब चीन के आक्रामक तेवर हैं, पश्चिमी प्रशांत क्षेत्र एक अहम अमेरिकी युद्धपोत से वंचित हो रहा है।",
-                "image": "https://static.langimg.com/nbt/thumb/133265359/china-us-news.jpg?imgsize=190862&width=1600&height=900&resizemode=75",
-                "url": "https://navbharattimes.indiatimes.com/world/asian-countries/us-aircraft-carrier-uss-george-washington-out-of-pacific-opening-space-for-china-against-taiwan-japan/articleshow/133265349.cms",
-                "source": "Navbharat Times",
-                "date": "2026-08-15T16:36:07Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "भारत-श्रीलंका मैच का अचानक से बदला समय, जानें दूसरे दिन कितने बजे शुरू होगा गाले टेस्ट",
-                "desc": "गाले टेस्ट के पहले दिन बारिश की वजह से 17 ओवरों का नुकसान हुआ था, जिसे पूरा करने के लिए दूसरे दिन के समय में बदलाव किया गया है।",
-                "image": "https://static.langimg.com/nbt/thumb/133265696/india-vs-sri-lanka-1st-test-day-2-timing-change.jpg?imgsize=534895&width=1600&height=900&resizemode=75",
-                "url": "https://navbharattimes.indiatimes.com/sports/cricket/cricket-news/india-vs-sri-lanka-1st-test-match-day-2-timing-changed-due-to-rain-ind-vs-sl/articleshow/133265633.cms",
-                "source": "Navbharat Times",
-                "date": "2026-08-15T16:28:56Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "NALSAR विवाद के बीच BCI चेयरमैन मनन कुमार मिश्रा ने लॉ स्टूडेंट्स से मांगी माफी, बोले- अहंकार का सवाल नहीं",
-                "desc": "स्वतंत्रता दिवस के मौके पर बार काउंसिल ऑफ इंडिया (BCI) के चेयरमैन मनन कुमार मिश्रा ने कानून के छात्रों से माफी मांगी है। उन्होंने कहा, विवाद से जुड़ी उनकी किसी बात को लेकर किसी भावनाएं आहत हुई हैं, तो उन्हें खेद है।",
-                "image": "https://static.langimg.com/nbt/thumb/133265354/manan-kumar-mishra.jpg?imgsize=149359&width=1600&height=900&resizemode=75",
-                "url": "https://navbharattimes.indiatimes.com/india/bci-chairman-manan-kumar-mishra-apologizes-over-nalsar-controversy-tells-law-students/articleshow/133265304.cms",
-                "source": "Navbharat Times",
-                "date": "2026-08-15T15:55:22Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Fertilizer Bills: भारी सब्सिडी के चलते भारत के सामने खड़ी हुई नई चुनौती, बदलना होगा दशकों पुराना मॉडल",
-                "desc": "Subsidy System Changes: खाद के बढ़ते बिलों की वजह से भारत को दशकों पुराने सब्सिडी सिस्टम में बदलाव करना पड़ रहा है। इसी सिस्टम ने देश को अनाज आयात करने वाले कमजोर देश से दुनिया के बड़े कृषि उत्पादक देशों में से एक बनने में मदद की थी। देश में खेती का सबसे बड़ा सालाना सीजन चल रहा है, जब खाद का इस्तेमाल सबसे ज्यादा होता है।",
-                "image": "https://static.langimg.com/nbt/thumb/133265357/subsidy-bill.jpg?imgsize=204490&width=1600&height=900&resizemode=75",
-                "url": "https://navbharattimes.indiatimes.com/business/business-news/fertilizer-bills-pushing-india-to-reshape-decades-old-subsidy-system/articleshow/133265274.cms",
-                "source": "Navbharat Times",
-                "date": "2026-08-15T15:55:00Z",
-                "priority": "STANDARD"
             }
         ],
         "business": [
+            {
+                "title": "पेट्रोल-डीजल के दाम में बदलाव! जानें आपके शहर में आज कितना है भाव",
+                "desc": "Petrol- Diesel Price Today 17 August 2026: आज पेट्रोल और डीजल किस रेट पर मिल रहा है, ये आप यहां से जान सकते हैं. यहां ईंधन की रेट लिस्ट दी गई है.",
+                "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/08/17/51350f38e4cf0d1281ea066602dcf99317869284647781435_original.png?impolicy=abp_cdn&imwidth=1200",
+                "url": "https://www.abplive.com/business/petrol-diesel-price-today-17-august-2026-petrol-diesel-rate-list-in-delhi-noida-mumbai-patna-lucknow-3175972",
+                "source": "ABP News",
+                "date": "2026-08-17T01:14:02Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "भारत की इलेक्ट्रिक कारों की विदेशों में धूम... Q1 में निर्यात उछलकर $369 मिलियन पहुंचा, यूरोप बना सबसे बड़ा खरीदार",
                 "desc": "भारत के इलेक्ट्रिक कारों के निर्यात में पहली तिमाही में बड़ी बढ़ोतरी हुई है. निर्यात कमाई 22.2 मिलियन डॉलर से बढ़कर 369 मिलियन डॉलर हो गई और गाड़ियों की संख्या 1,309 से बढ़कर 10,802 हो गई. यूरोप सबसे बड़ा बाजार बना, जिसमें स्पेन पहले और ब्रिटेन दूसरे नंबर पर रहा. जर्मनी, नॉर्वे, डेनमार्क सहित कई यूरोपीय देशों में भी मांग बढ़ी.",
@@ -1073,18 +1082,27 @@
                 "source": "AajTak",
                 "date": "2026-08-14T14:30:22Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Reliance ने रोल्स-रॉयस से मिलाया हाथ, भारत में बनाएगी फाइटर जेट का इंजन",
-                "desc": "स्वदेशी फाइटर जेट इंजन को लेकर एक बड़ी अपडेट सामने आई है. रिलायंस और रोल्स-रॉयस ने भारत में एडवांस मीडियम कॉम्बैट एयरक्राफ्ट का इंजन बनाने के लिए पार्टनरशिप की है. इस पार्टनरशिप का मकसद भारत में एएमसीए फाइटर जेट्स के लिए इंजन की टेक्नोलॉजी को विकसित करना है. आइए जानते हैं ये पार्टरनशिप क्यों जरूर है.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202608/6a7f1c7be766c-the-advanced-medium-combat-aircraft-amca-is-indias-flagship-programme-to-develop-an-indigenous-si-144734447-16x9.jpg",
-                "url": "https://www.aajtak.in/auto/news/story/reliance-rolls-royce-partnership-amca-indigenous-fighter-jet-engine-auam-dskc-2622127-2026-08-14",
-                "source": "AajTak",
-                "date": "2026-08-14T13:58:56Z",
-                "priority": "STANDARD"
             }
         ],
         "entertainment": [
+            {
+                "title": "Box Office: इमरान हाशमी की 'आवारापन 2' ने संडे को लगाई ओपनिंग से ऊंची छलांग, 'बंटवारा 1947' ने बनाया रेकॉर्ड",
+                "desc": "इमरान हाशमी की फिल्म 'आवारापन 2' ने जहां तीन दिनों में 81 करोड़ रुपये की कमाई कर ली है, वहीं सनी देओल और प्रीति जिंटा की फिल्म ने शानदार रेकॉर्ड बनाया है। हालांकि तीसरे दिन 'बंटवारा 1947' के सामने 'आवारापन 2' ने तीन गुना अधिक कमाई की है। 'बंटवारा 1947' ने तीन दिनों में जितना नेट कलेक्शन किया है, 'आवारापन 2' ने एक दिन में उतनी कमाई करके दिखा दी है।",
+                "image": "https://static.langimg.com/nbt/thumb/133284441/awarapan-2-vs-batwara-1947-box-office-day-3.jpg?imgsize=115157&width=1600&height=900&resizemode=75",
+                "url": "https://navbharattimes.indiatimes.com/entertainment/box-office/awarapan-2-starring-emraan-hashmi-and-sunny-deol-batwara-1947-box-office-collection-day-3/articleshow/133284370.cms",
+                "source": "Navbharat Times",
+                "date": "2026-08-17T01:20:07Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "46 की उम्र में नरगिस फाखरी का फिगर है कर्वी, रोजाना करती हैं ये 1 काम, जानें फिटनेस टिप्स",
+                "desc": "एक्ट्रेस नरगिस फाखरी ने 46 की उम्र में फिट और कर्वी फिगर मेंटेन किया हुआ है। उनकी फिट बॉडी के पीछे कड़ी मेहनत और फिक्स रूटीन छिपा हुआ है। चलिए आपको नरगिस के फिटनेस टिप्स बताते हैं।, फिटनेस टिप्स Hindustan",
+                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/08/17/1600x900/logo/Nargis_Fakhri_reveals_her_fitness_secret_1786928443870_1786928444059_fd89facc-1150-497f-bb1e-5c070328acc8.jpg",
+                "url": "https://www.livehindustan.com/lifestyle/fitness/nargis-fakhri-reveals-her-fitness-secret-at-the-age-of-46-she-do-1-thing-daily-for-fit-or-curvy-figure-201786926838402.html",
+                "source": "livehindustan.com",
+                "date": "2026-08-17T01:02:52Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "मधुबाला की वो आखिरी फिल्म, जिसे दुनिया कभी नहीं देख सकी, शूट हो चुकी थीं 10 रील्स, लेकिन सेट पर ही दो बार...",
                 "desc": "क्या आप जानते हैं मधुबाला की एक फिल्म कभी रिलीज ही नहीं पाई। क्योंकि अपनी बीमारी की चले वो कभी उसे पूरा कर ही नहीं पाईं।, Bollywood Hindi News - Hindustan",
@@ -1606,27 +1624,27 @@
                 "source": "AajTak",
                 "date": "2026-08-15T01:08:07Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "योगी आदित्यनाथ ने की नाना पाटेकर की तारीफ, बोले- मैं हैरान था कि…",
-                "desc": "उत्तर प्रदेश के सीएम योगी आदित्यनाथ ने शुक्रवार को यूपी पुलिस के एक कार्यक्रम के दौरान एक्टर नाना पाटेकर की तारीफ की। उन्होंने बताया कि नाना पाटेकर ने बिना किसी पब्लिसिटी के किसानों की मदद की है। , Bollywood Hindi News - Hindustan",
-                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/08/14/1600x900/logo/NANA_PATEKAR_YOGI_ADITYANATH_1786729645363_1786729649624_d87122e7-cefb-4397-a4c3-32c5b1870c79.png",
-                "url": "https://www.livehindustan.com/entertainment/bollywood/uttar-pradesh-cm-yogi-adityanath-praises-nana-patekar-up-police-song-launch-event-201786727694181.html",
-                "source": "Hindustan",
-                "date": "2026-08-14T17:54:06Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Motivation Quotes By Bagha: ‘पैसे तो हर कोई कमा लेता है, मगर पहचान मिलना बड़ी बात है’",
-                "desc": "Bagha Inspirational: ‘तारक मेहता का उल्टा चश्मा’ में अपने मजेदार किरदार से लोगों को हंसाने वाले ‘बाघा’ का जीवन संघर्षों से भरा रहा। 700 रुपये की नौकरी से लेकर बेरोजगारी और संघर्ष उनके जीवन में भी रहा। लेकिन तनमक वकेरिया को जब मौका मिला, तो वो ऐसा छाए कि उनके बिना आज ‘तारक मेहता’ शो भी अधूरा लगता है।",
-                "image": "https://static.langimg.com/nbt/thumb/133240375/taarak-mehta-ka-ooltah-chashmah-iconic-character-bagha-motivational-quotes-to-inspire-young-generation.jpg?imgsize=1815072&width=1600&height=900&resizemode=75",
-                "url": "https://navbharattimes.indiatimes.com/viral/wishes/motivational-quotes/taarak-mehta-ka-ooltah-chashmah-iconic-character-bagha-motivational-quotes-to-inspire-young-generation/articleshow/133240375.cms",
-                "source": "Navbharat Times",
-                "date": "2026-08-14T17:10:00Z",
-                "priority": "STANDARD"
             }
         ],
         "sports": [
+            {
+                "title": "संजीव गोयनका की टीम पहली बार बनी चैंपियन, सुपर जायंट्स ने रचा इतिहास",
+                "desc": "The Hundred Final Highlights: मैंचेस्टर सुपर जायंट्स ने फाइनल में ट्रेंट रॉकेट्स को 5 विकेट से हराकर पहली बार द हंड्रेड का खिताब जीत लिया है.",
+                "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/08/17/7b06587d7048670ff668d31cfa60b5fa1786930116690975_original.jpg?impolicy=abp_cdn&imwidth=1200",
+                "url": "https://www.abplive.com/sports/cricket/manchester-super-giants-wins-the-hundred-2026-title-defeated-trent-rockets-final-highlights-tim-seifert-3175970",
+                "source": "ABP News",
+                "date": "2026-08-17T01:32:29Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "IND vs SL: क्या ऋषभ पंत अपने ही टैलेंट के दुश्मन बनते जा रहे हैं? आखिर क्यों एक ही चूक हो रही है बार-बार!",
+                "desc": "श्रीलंका के खिलाफ भारतीय विकेटकीपर बल्लेबाज ऋषभ पंत के पास बड़ी पारी खेलकर फॉर्म में वापसी करने का मौका था. लेकिन पंत ऐसा करने से चूक गए. पंत ने एक बार फिर गलत शॉट खेलकर अपना विकेट गंवा दिया.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202608/6a81c2e087479-rishabh-pant-160159140-16x9.jpg",
+                "url": "https://www.aajtak.in/sports/cricket/story/ind-vs-sl-rishabh-pant-frustrates-fans-once-again-with-rash-dismissal-aksp-dskc-2623411-2026-08-17",
+                "source": "AajTak",
+                "date": "2026-08-17T00:30:13Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "फाइनल हारी काव्या मारन की सनराइजर्स, जानें चैंपियन टीम को कितनी मिली प्राइज मनी",
                 "desc": "2026 The Hundred Women: इस बार के महिला द हंड्रेड में काव्या मारन की टीम सनराइजर्स लीड्स को फाइनल में ट्रेंट रॉकेट्स के हाथों 8 विकेट से हार का सामना करना पड़ा.",
@@ -1661,6 +1679,15 @@
                 "url": "https://www.abplive.com/sports/cricket/rishabh-pant-most-test-sixes-record-at-opposition-team-home-surpasses-adam-gilchrist-ind-vs-sl-1st-test-3175956",
                 "source": "ABP News",
                 "date": "2026-08-16T17:12:57Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "सहवाग नंबर 1, रोहित हैं गावस्कर से आगे, राहुल लिस्ट में; टेस्ट की 55 पारियों के बाद सबसे ज्यादा रन बनाने वाले टॉप-10 भारतीय ओपनर",
+                "desc": "टेस्ट क्रिकेट में बतौर ओपनर भारत की तरफ से पहली 55 पारियों के बाद सबसे ज्यादा रन बनाने वाले बल्लेबाजों की लिस्ट में वीरेंद्र सहवाग पहले नंबर पर हैं जबकि केएल राहुल ने पंकज राय का रिकॉर्ड तोड़ दिया।",
+                "image": "https://images.jansatta.com/2026/08/SehwagRahulSachin.jpg",
+                "url": "https://www.jansatta.com/khel/virender-sehwag-number-1-rohit-sharma-ahded-sunil-gavaskar-kl-rahul-indian-openers-most-runs-after-55-test-innings-ind-vs-sl-team-india/4664207/",
+                "source": "Jansatta",
+                "date": "2026-08-16T16:23:11Z",
                 "priority": "STANDARD"
             },
             {
@@ -2138,33 +2165,6 @@
                 "url": "https://www.abplive.com/sports/cricket/jemimah-rodrigues-ruled-out-of-asia-cup-and-asian-games-bcci-announced-replacement-3175210",
                 "source": "ABP News",
                 "date": "2026-08-14T17:30:55Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'इमरान की कप्तानी में खेलता तो 400 टेस्ट विकेट ले सकता था,' शोएब अख्तर का छलका दर्द",
-                "desc": "शोएब अख्तर ने कहा है कि अगर उन्हें इमरान खान की कप्तानी में खेलने का मौका मिला होता तो उनके नाम 400 विकेट होते। अख्तर ने अपने करियर के दौरान झेले गए मुश्किलों का जिक्र किया है।, Cricket Hindi News - Hindustan",
-                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/08/14/1600x900/logo/Shoaib_Akhtar_1786728264063_1786728270865_f94a462c-cd24-4197-a68c-47140a541e46.jpeg",
-                "url": "https://www.livehindustan.com/cricket/shoaib-akhtar-pain-spills-out-reveals-he-could-have-hit-400-test-wickets-with-imran-khan-201786727980699.html",
-                "source": "Hindustan",
-                "date": "2026-08-14T17:25:04Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "ऑस्ट्रेलिया का खिलाड़ी पहले बना पुर्तगाल का कप्तान, फिर डेब्यू मैच में ही मचा दिया तहलका, ठोक दिए 66 रन",
-                "desc": "ऑस्ट्रेलिया के पूर्व ऑलराउंडर मोइसेस हेनरिक्स ने पुर्तगाल के लिए टी20 इंटरनेशनल डेब्यू करते हुए इजराइल के खिलाफ 39 गेंदों में नाबाद 66 रन बनाए। कप्तान हेनरिक्स के इस शानदार प्रदर्शन की बदौलत पुर्तगाल ने इजराइल को 94 रनों से हराया।",
-                "image": "https://static.langimg.com/nbt/thumb/133248270/moises-henriques.jpg?imgsize=1876624&width=1600&height=900&resizemode=75",
-                "url": "https://navbharattimes.indiatimes.com/sports/cricket/cricket-news/australia-cricketer-moises-henriques-portugal-cricket-debut-made-66-runs-against-israel/articleshow/133247908.cms",
-                "source": "Navbharat Times",
-                "date": "2026-08-14T17:12:57Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Hustle 5 में रैप के जरिए सुनाई लाइफ स्टोरी, कौन है ये सिंगर जो जीत रहा करोड़ों लोगों का दिल?",
-                "desc": "बादशाह के रियलिटी शो हसल में एक रैपर हरमीत की एंट्री हुई, जिसने अपने गाने से पूरा इंटरनेट का सिस्टम हैंग कर डाला. इस सिंगर ने अपनी जिंदगी की कहानी को इस तरह लोगों के सामने पेश किया कि हर कोई इसका फैन बन गया. आखिर कौन हैं हरमीत?",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202608/6a7f3898492d0-who-is-rapper-harmeet-shining-after-one-song-in-mtv-hustle-season-5-144730752-16x9.jpg",
-                "url": "https://www.aajtak.in/entertainment/ott/story/mtv-hustle-5-harmeet-trending-for-his-relatable-lyrics-impresses-badshah-desi-hip-hop-rap-tmovj-dskc-2622197-2026-08-14",
-                "source": "AajTak",
-                "date": "2026-08-14T16:40:03Z",
                 "priority": "STANDARD"
             }
         ]
@@ -4339,5 +4339,5 @@
             }
         ]
     },
-    "lastGlobalSync": "2026-08-17T12:23:42.158584Z"
+    "lastGlobalSync": "2026-08-17T13:32:56.975157Z"
 }
