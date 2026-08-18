@@ -2,6 +2,15 @@
     "hi": {
         "general": [
             {
+                "title": "'सऊदी अरब में भीख न मांगें', पाकिस्तान का हज यात्रियों को सख्त निर्देश",
+                "desc": "पाकिस्तान ने सऊदी अरब में हज और उमराह के लिए जाने वाले अपने नागरिकों को सख्त चेतावनी दी है। पाकिस्तानी दूतावास ने कहा है कि भीख मांगना, बिना अनुमति पैसे इकट्ठा करना और वीजा नियमों का उल्लंघन न करें, वरना गिरफ्तारी, हिरासत और देश निकाला हो सकता है।",
+                "image": "https://www.jagranimages.com/images/2026/08/18/template/image/jagran-photo-1787000208822_v.webp",
+                "url": "https://www.jagran.com/world/pakistan-do-not-beg-in-saudi-arabia-pakistan-strict-directive-to-hajj-pilgrims-40343820.html",
+                "source": "Jagran",
+                "date": "2026-08-17T20:57:00Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "राम मंदिर चढ़ावा चोरी: यूपी सरकार ने श्रीराम जन्मभूमि ट्रस्ट को सौंपी पहली SIT की फाइनल रिपोर्ट",
                 "desc": "उत्तर प्रदेश सरकार ने राम मंदिर चढ़ावा चोरी प्रकरण में पहली एसआईटी की अंतिम रिपोर्ट श्रीराम जन्मभूमि ट्रस्ट को सौंप दी है। इस रिपोर्ट की प्रारंभिक सिफारिशों के आधार पर ही एफआईआर दर्ज हुई थी, जबकि सुप्रीम कोर्ट के आदेश पर गठित नई एसआईटी जांच कर रही है।",
                 "image": "https://www.jagranimages.com/images/2026/08/18/template/image/ram-mandir-chori-Final-sit-report-1786991791618_v.webp",
@@ -531,15 +540,6 @@
                 "source": "Navbharat Times",
                 "date": "2026-08-16T17:13:47Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "अमेरिकी सैनिकों को मारने या पकड़ने पर 30,000 डॉलर का इनाम... ईरानी कमांडर का ऐलान",
-                "desc": "ईरानी सेना के कमांडर ने अमेरिकी सैनिकों को पकड़ने या मारने वाले ईरानी लड़ाकों के लिए 30,000 डॉलर के इनाम का ऐलान किया. यह घोषणा ऐसे समय हुई है, जब शांति वार्ता में कोई प्रगति नहीं हुई है और होर्मुज स्ट्रेट से तेल टैंकरों की आवाजाही भी रुकी हुई है.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202608/6a81ef32e6fca-commander-in-chief-of-the-iranian-army--amir-hatami-161109963-16x9.jpg",
-                "url": "https://www.aajtak.in/world/story/iran-army-commander-amir-hatami-announces-bounty-on-us-soldiers-ntc-apdy-dskc-2623477-2026-08-16",
-                "source": "AajTak",
-                "date": "2026-08-16T17:03:12Z",
-                "priority": "STANDARD"
             }
         ],
         "business": [
@@ -604,6 +604,15 @@
                 "url": "https://hindi.cnbctv18.com/share-market/paytm-block-deal-resilient-asset-management-to-sell-up-to-3-percent-stake-at-1535-rupees-floor-price-190910.htm",
                 "source": "CNBC TV18",
                 "date": "2026-08-17T14:18:34Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "India GDP Growth: चार क्‍वार्टर में सबसे कम, भारत की जीडीपी ग्रोथ को लगेगा झटका, ये फैक्‍टर बिगाड़ रहे गणित",
+                "desc": "ICRA Forecast: भारत की जीडीपी ग्रोथ का गणित बिगड़ता दिख रहा है। वित्त वर्ष 2026-27 की पहली तिमाही में यह घट सकती है। इसके घटकर 7 फीसदी रह जाने की आशंका है। यह ग्रोथ चार क्‍वार्टर में सबसे कम है। 2025-26 की चौथी तिमाही में यह ग्रोथ 7.8% थी। रेटिंग एजेंसी ICRA के अनुमानों में यह बात कही गई है।",
+                "image": "https://static.langimg.com/nbt/thumb/133299335/india-gdp-growth.jpg?imgsize=185228&width=1600&height=900&resizemode=75",
+                "url": "https://navbharattimes.indiatimes.com/business/business-news/india-gdp-growth-to-soften-to-7-impact-of-west-asia-tensions-icra-forecast/articleshow/133299158.cms",
+                "source": "Navbharat Times",
+                "date": "2026-08-17T14:12:47Z",
                 "priority": "STANDARD"
             },
             {
@@ -1072,15 +1081,6 @@
                 "url": "https://navbharattimes.indiatimes.com/business/business-news/sbi-research-report-says-india-was-is-and-will-be-one-of-fastest-growing-economies/articleshow/133262914.cms",
                 "source": "Navbharat Times",
                 "date": "2026-08-15T13:00:07Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "1 लाख का निवेश, 5 साल बाद कितना होगा? SBI-HDFC बैंक दे रहे ये ऑफर",
-                "desc": "अगर आप भी बैंक एफडी में पैसा लगाने के बारे में सोच रहे हैं तो एसबीआई, एचडीएफसी बैंक, पीएनबी और आईसीआईसीआई जैसे बैंक तगड़ा ब्‍याज दे रहे हैं. 5 साल की एफडी पर आप इन योजनाओं में मोटी कमाई कर सकते हैं.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202608/6a805c8d40101-first-salary--first-investment-how-to-choose-between-sip--fd-and-rd-072624603-16x9.png",
-                "url": "https://www.aajtak.in/business/news/story/sbi-hdfc-icici-bank-5-year-fd-rates-calculation-on-one-lakh-tutd-dskc-2622778-2026-08-15",
-                "source": "AajTak",
-                "date": "2026-08-15T12:46:56Z",
                 "priority": "STANDARD"
             }
         ],
@@ -1646,6 +1646,15 @@
                 "priority": "STANDARD"
             },
             {
+                "title": "Watch: कपिल देव का आया भयंकर गुस्सा, बोले- बता देते सिर्फ फोटो के लिए...",
+                "desc": "Kapil Dev Viral Video: 80वें स्वतंत्रता दिवस पर एक स्कूल कार्यक्रम में गए पूर्व भारतीय कप्तान कपिल देव अपने बयान को लेकर चर्चा में हैं. वायरल वीडियो में कपिल देव काफी गुस्से में नजर आ रहे हैं.",
+                "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/08/17/8471aa10472c380458c40597cc7ca0351786987257941143_original.jpg?impolicy=abp_cdn&imwidth=1200",
+                "url": "https://www.abplive.com/sports/cricket/watch-kapil-dev-gets-furious-says-you-should-have-told-me-just-for-the-photo-3176436",
+                "source": "ABP News",
+                "date": "2026-08-17T17:47:13Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "पाकिस्तानी क्रिकेटर को आया हार्ट अटैक, हॉस्पिटल बेड से वायरल हुई ऐसी तस्वीर, फैंस बोले- फोन तो बंद करके सोते",
                 "desc": "पाकिस्तान के पूर्व क्रिकेटर बासित अली को दिल का दौरा पड़ने के बाद अस्पताल में भर्ती कराया गया, जहां आईसीयू से आई उनकी एक तस्वीर सोशल मीडिया पर चर्चा का विषय बन गई।",
                 "image": "https://static.langimg.com/nbt/thumb/133302614/basit-ali.jpg?imgsize=497666&width=1600&height=900&resizemode=75",
@@ -2157,20 +2166,92 @@
                 "source": "Navbharat Times",
                 "date": "2026-08-15T16:28:56Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "केएल राहुल की इंजरी पर टीम इंडिया के कोच ने दिया अपडेट, जानें क्या कहा",
-                "desc": "KL Rahul Injury Update: गॉल टेस्ट के पहले दिन केएल राहुल 77 रनों पर रिटायर्ड हर्ट हुए. पहले दिन का खेल खत्म होने के बाद राहुल की इंजरी पर अपडेट आया है.",
-                "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/08/15/af98db80644ff6059a881840e56eac131786807415229143_original.jpg?impolicy=abp_cdn&imwidth=1200",
-                "url": "https://www.abplive.com/sports/cricket/team-india-batting-coach-sitanshu-kotak-coach-gives-update-on-kl-rahul-injury-know-what-he-said-3175614",
-                "source": "ABP News",
-                "date": "2026-08-15T15:54:58Z",
-                "priority": "STANDARD"
             }
         ]
     },
     "en": {
         "general": [
+            {
+                "title": "‘Deeply Emotional’: Luigi Mangione’s Friends React to His Guilty Plea",
+                "desc": "Luigi Mangione confessed to stalking and killing United Healthcare CEO Brian Thompson. This is how his friends reacted to his guilty plea",
+                "image": "https://www.rollingstone.com/wp-content/uploads/2026/08/luigi-friends.jpg?crop=69px%2C0px%2C1731px%2C974px&resize=1600%2C900",
+                "url": "https://www.rollingstone.com/culture/culture-news/luigi-mangione-friends-react-to-guilty-plea-1235610199/",
+                "source": "Rolling Stone",
+                "date": "2026-08-17T21:20:47Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Paramount wants a $1.9 billion bond from state AGs fighting the Warner Bros. merger",
+                "desc": "Paramount wants the states that are suing over the Warner Bros. Discovery deal to post a $1.9 billion bond. The states are scoffing at the idea.",
+                "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2285925661.jpg?c=16x9&q=w_800,c_fill",
+                "url": "https://www.cnn.com/2026/08/17/media/paramount-wbd-bond-state-attorneys-general-merger-lawsuit",
+                "source": "CNN",
+                "date": "2026-08-17T21:17:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Joe Rogan concerned with Islam Makhachev at welterweight after UFC 330",
+                "desc": "Joe Rogan isn't so sure UFC champion Islam Makhachev can handle the next crop of welterweight contenders.",
+                "image": "https://mmajunkie.usatoday.com/gcdn/authoring/authoring-images/2026/08/17/SMMA/91343236007-getty-images-2290665629.jpg?crop=802,451,x1,y40&width=802&height=451&format=pjpg&auto=webp",
+                "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/08/17/joe-rogan-concerned-islam-makhachev-welterweight-after-ufc-330/91336372007/",
+                "source": "mmajunkie.usatoday.com",
+                "date": "2026-08-17T21:10:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Judge delays Luigi Mangione’s state murder trial after double jeopardy claim",
+                "desc": "The judge overseeing Luigi Mangione’s state murder trial in New York put the proceedings on hold to allow prosecutors time to respond to Mangione’s efforts to have the case thrown out.",
+                "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-08/260813-luigi-mangione-ew-1157a-f85e56.jpg",
+                "url": "https://www.nbcnews.com/news/us-news/luigi-mangione-state-murder-trial-rcna593006",
+                "source": "NBC News",
+                "date": "2026-08-17T21:02:30Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump administration briefly pausing Big Bend National Park border construction",
+                "desc": "The Trump administration says it is temporarily pausing construction of a controversial border construction project in the Big Bend National Park while the head of the agency tasked with building the wall visits Texas to do an “on-the-ground evaluation.”",
+                "image": "https://dims.apnews.com/dims4/default/95941cd/2147483647/strip/true/crop/2681x1786+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F95%2Fa3%2Fab56f4edb22a2bea969e58849673%2F6aeebfa8136040bd9ca06661ba864d10",
+                "url": "https://apnews.com/article/trump-border-big-bend-national-park-immigration-c8439ceed11ff5e7f3ca95fa0003327b",
+                "source": "AP News",
+                "date": "2026-08-17T20:48:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Google rolling out Android 17 QPR1 Beta 9 for Pixel",
+                "desc": "The Android 17 QPR1 preview is surprisingly still active as Google today released Beta 9. This follows a big Android...",
+                "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/03/android-17-logo-easter-egg-beta-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+                "url": "https://9to5google.com/2026/08/17/android-17-qpr1-beta-9-pixel/",
+                "source": "9to5Google",
+                "date": "2026-08-17T20:43:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Chris Hansen Reacts to Robert Pattinson's 'Primetime' Trailer",
+                "desc": "The 'To Catch a Predator' host says he had a different actor in mind to play himself.",
+                "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Pattinson-Primetime.png?crop=0px%2C9px%2C2931px%2C1640px&resize=1440%2C810",
+                "url": "https://www.hollywoodreporter.com/movies/movie-news/chris-hansen-primetime-movie-reaction-1236675459/",
+                "source": "The Hollywood Reporter",
+                "date": "2026-08-17T20:41:21Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Luigi Mangione’s state murder trial postponed after federal guilty plea",
+                "desc": "Luigi Mangione’s state murder trial in the killing of UnitedHealthcare CEO Brian Thompson has been postponed indefinitely.",
+                "image": "https://dims.apnews.com/dims4/default/1a49c3f/2147483647/strip/true/crop/4641x3092+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F21%2F2b%2Fdb44a0be4b39a8be4e8c772ef334%2F26760d0aacae4d6986fb66e41157b397",
+                "url": "https://apnews.com/article/luigi-mangione-unitedhealthcare-ceo-postponed-plea-09c039f61c62d2c0e8815ea0189f0522",
+                "source": "AP News",
+                "date": "2026-08-17T20:37:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Buss family agrees to sell Lakers shares to Iger, Kushner group",
+                "desc": "Bob Iger and Josh Kushner may control 83% of the Los Angeles Lakers, as the Buss family voted to sell its remaining shares as part of the surprising Mark Walter sale.",
+                "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/06/0/0/jeanie-buss-.jpg?ve=1&tl=1",
+                "url": "https://www.foxbusiness.com/sports/buss-family-agrees-sell-remaining-lakers-ownership-stake-jared-kushner-bob-iger-group",
+                "source": "Fox Business",
+                "date": "2026-08-17T20:32:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Trump Fumes At CNN Reporter Who Asked About Natalie Harp",
                 "desc": "The president yelled \"quiet!\" at Kristen Holmes as she asked about talks with Kim Jong Un and earlier about aide Natalie Harp.",
@@ -2629,90 +2710,63 @@
                 "source": "AP News",
                 "date": "2026-08-17T13:51:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Mike Vrabel calls Christian Gonzalez's situation \"unique\" in relation to Devon Witherspoon contract",
-                "desc": "The news that the Seahawks and cornerback Devon Witherspoon reached agreement on a contract extension over the weekend was celebrated in Seattle and it caught the attention of many people in New England as well.",
-                "image": "https://nbcsports.brightspotcdn.com/dims4/default/ebb3513/2147483647/strip/true/crop/6354x3574+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F64%2F96%2Fe59f2cb94ff7a4e71d071cddee98%2Fhttps-api-imagn.com%2Frest%2Fdownload%2FimageID%3D29448876",
-                "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-vrabel-calls-christian-gonzalezs-situation-unique-in-relation-to-devon-witherspoon-contract",
-                "source": "NBC Sports",
-                "date": "2026-08-17T13:49:59Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Nick Reiner Clashes With Trustee Over Trust Fund Cash For Criminal Defense",
-                "desc": "Months after losing his top-notch lawyer because of a lack of cash, a potentially death penalty facing Nick Reiner wants a judge to give him trust fund access",
-                "image": "https://deadline.com/wp-content/uploads/2026/02/Rob-Reiner-.jpg?w=1024",
-                "url": "https://deadline.com/2026/08/nick-reiner-trust-fund-murder-britney-spears-1237042202/",
-                "source": "Deadline",
-                "date": "2026-08-17T13:35:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Google Pixel 11 Pro XL benchmarks leak ahead of release day, here's how it compares to last year's model",
-                "desc": "Google Pixel 11 benchmarks, starting with the flagship Pro XL model. You can expect similar performance from the non-XL Pro, too.",
-                "image": "https://www.pcguide.com/wp-content/uploads/2026/08/Google-Pixel-11-Pro-with-Gemini-Intelligence-marketing-render.jpg",
-                "url": "https://www.pcguide.com/news/google-pixel-11-pro-xl-benchmarks-leak-ahead-of-release-day-heres-how-it-compares-to-last-years-model/",
-                "source": "PC Guide",
-                "date": "2026-08-17T13:31:37Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Congo’s fast-moving Ebola outbreak becomes the country's deadliest",
-                "desc": "Congo’s fast-moving Ebola outbreak has now killed over 2,300 people. That toll released overnight makes it the deadliest outbreak of the disease ever recorded in the Central African nation.",
-                "image": "https://dims.apnews.com/dims4/default/f0426cd/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc2%2F6c%2F1fe4124741b1621c7daa6e024e8d%2F0758d6d8ea6e4c1d95a11617a6a19f06",
-                "url": "https://apnews.com/article/congo-ebola-disease-ituri-bundibugyo-outbreak-d4a5aac8a82a35144ebfe9de96bef7d2",
-                "source": "AP News",
-                "date": "2026-08-17T13:23:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Lena Dunham '10 Things I Hate About You' Musical Sets Broadway Debut",
-                "desc": "Lena Dunham and Carly Rae Jepsen's \"10 Things I Hate About You\" musical is heading to Broadway next year.",
-                "image": "https://variety.com/wp-content/uploads/2020/05/MSDTETH_EC003.jpg?w=1000&h=563&crop=1",
-                "url": "https://variety.com/2026/legit/news/10-things-i-hate-about-you-musical-broadway-date-lena-dunham-1236836227/",
-                "source": "variety.com",
-                "date": "2026-08-17T13:22:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Former MLB pitcher Tommy John dies at age 83",
-                "desc": "Tommy John, the longtime Major League baseball pitcher whose name is forever linked to the groundbreaking elbow surgery that saved his career and those of countless others since, has died, officials said Sunday.",
-                "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-08/260810-tommy-john-vl-1021a-16a7b2.jpg",
-                "url": "https://www.nbcnews.com/sports/baseball/former-mlb-pitcher-tommy-john-dies-age-83-rcna592800",
-                "source": "NBC News",
-                "date": "2026-08-17T13:14:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ukraine reveals its Achilles’ heel to CNN as Patriot launchers run dry",
-                "desc": "It is the most sought-after weapon in the world, but sits idle, in a cornfield, its cannisters empty, last fired 10 weeks ago.",
-                "image": "https://media.cnn.com/api/v1/images/stellar/prod/patriot-npw1.jpg?c=16x9&q=w_800,c_fill",
-                "url": "https://www.cnn.com/2026/08/17/europe/ukraine-patriot-missile-launchers-run-dry-intl",
-                "source": "CNN",
-                "date": "2026-08-17T12:59:53Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "“DWTS” Pro Witney Carson Is Pregnant, Expecting Baby No. 3 with Husband Carson McAllister (Exclusive)",
-                "desc": "The ‘Dancing with the Stars’ reigning champ is already a mom to two sons: Leo, 5, and Jet, 3",
-                "image": "https://s.yimg.com/lo/mysterio/api/2bd29e15459f509e36c136e946a04f1c739f68df533d4b4fd4edf6d86310a261/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F489dae21d7965ca72d7681f6b11576d9.jpg",
-                "url": "https://ca.news.yahoo.com/dwts-pro-witney-carson-pregnant-123805567.html",
-                "source": "Yahoo News Canada",
-                "date": "2026-08-17T12:38:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "From NASA to SpaceX, rocket launches expected to surge in next decade",
-                "desc": "A new era of spaceflight headlined by Artemis II in April is making rocket launches in the US a matter of routine. Here's what the next decade holds.",
-                "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/08/14/PBRE/91300470007-20260402-t-172951-z-456061150-rc-2-mgkauel-8-e-rtrmadp-3-spacemoonartemis.JPG?crop=4528,2548,x0,y669&width=3200&height=1801&format=pjpg&auto=webp",
-                "url": "https://www.usatoday.com/story/tech/space/2026/08/17/nasa-spacex-rocket-launches-increase-us/91194362007/",
-                "source": "USA Today",
-                "date": "2026-08-17T12:35:00Z",
-                "priority": "STANDARD"
             }
         ],
         "business": [
+            {
+                "title": "Paramount wants a $1.9 billion bond from state AGs fighting the Warner Bros. merger",
+                "desc": "Paramount wants the states that are suing over the Warner Bros. Discovery deal to post a $1.9 billion bond. The states are scoffing at the idea.",
+                "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2285925661.jpg?c=16x9&q=w_800,c_fill",
+                "url": "https://www.cnn.com/2026/08/17/media/paramount-wbd-bond-state-attorneys-general-merger-lawsuit",
+                "source": "CNN",
+                "date": "2026-08-17T21:17:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Powerball winner after $1 billion jackpot? Results for Aug. 17, 2026",
+                "desc": "Powerball jackpot winner in the $1 billion drawing for Wednesday, Aug. 12, 2026! A ticket from Cape Coral, Florida, also scored $1 million. Was it you?",
+                "image": "https://www.tcpalm.com/gcdn/authoring/authoring-images/2026/08/12/PNJM/91278824007-image-84.jpg?crop=767,431,x0,y561&width=767&height=431&format=pjpg&auto=webp",
+                "url": "https://www.tcpalm.com/story/news/2026/08/17/powerball-winner-numbers-results-monday-august-florida/91332311007/",
+                "source": "Treasure Coast News",
+                "date": "2026-08-17T21:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'It’s like a little slice of hell'",
+                "desc": "The Eighth Avenue McDonald's outlet where a teen from Australia was stabbed is known to locals as a dangerous place, especially after hours.",
+                "image": "https://nypost.com/wp-content/uploads/sites/2/2026/08/137728786.jpg?quality=75&strip=all&w=1200",
+                "url": "https://nypost.com/2026/08/17/us-news/nyc-tourist-was-stabbed-at-infamous-murder-mcdonalds-near-penn-station-its-like-a-little-slice-of-hell/",
+                "source": "New York Post",
+                "date": "2026-08-17T21:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "L3Harris ousts CEO Kubasik over conduct violation",
+                "desc": "L3Harris CEO Christopher Kubasik stepped down after a board investigation found misconduct. The defense and aerospace firm named Sam Mehta as his successor.",
+                "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/08/0/0/l3harris-chris-kubasik.jpg?ve=1&tl=1",
+                "url": "https://www.foxbusiness.com/markets/l3harris-ousts-ceo-kubasik-over-conduct-violation",
+                "source": "Fox Business",
+                "date": "2026-08-17T20:34:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "L3Harris ousts CEO Chris Kubasik over conduct, stock drops",
+                "desc": "Chris Kubasik was ousted as Lockheed Martin's incoming CEO in 2012 after what that company called a \"close personal relationship with a subordinate employee.\"",
+                "image": "https://image.cnbcfm.com/api/v1/image/108350546-1786991276796-108350546-1786991140878-gettyimages-2284899479-ALLEN__CO_2026.jpg?v=1787006737&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/08/17/l3harris-ceo-chris-kubasik-lhx-defense-mehta.html",
+                "source": "CNBC",
+                "date": "2026-08-17T20:31:39Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Treasury charters Trump-owned World Liberty Financial as a bank",
+                "desc": "The cryptocurrency company that made President Trump nearly $800M since he returned to the White House has received the green light to become a bank.",
+                "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/08/17/USAT/91337016007-20260817-t-100024-z-292297285-rc-2-e-6-gaj-8-rha-rtrmadp-3-usatrumpworldclaw.JPG?crop=5999,3376,x0,y311&width=3200&height=1801&format=pjpg&auto=webp",
+                "url": "https://www.usatoday.com/story/news/politics/2026/08/17/treasury-trump-owned-world-liberty-financial-bank/91336724007/",
+                "source": "USA Today",
+                "date": "2026-08-17T20:28:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Millions of cars are being recalled after bursting into flames while simply parked outside",
                 "desc": "’Park outside’ recalls are likely to become more common due to the increase in technology manufactured inside vehicles",
@@ -3198,63 +3252,72 @@
                 "source": "24/7 Wall St.",
                 "date": "2026-08-16T21:43:51Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "CEO who went viral for firing 900 employees on Zoom before Christmas is now mad that he got fired",
-                "desc": "Vishal Garg, the CEO and founder of Better.com, was let go and replaced by a hedge fund manager who joined the company’s board only a week earlier, according to a report",
-                "image": "https://static.independent.co.uk/2026/08/16/21/2271513759..?trim=669,0,2550,0&width=1200&height=800&crop=1200:800",
-                "url": "https://www.independent.co.uk/news/world/americas/better-ceo-vishal-garg-fired-b3033937.html",
-                "source": "The Independent",
-                "date": "2026-08-16T21:34:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "For Filet-O-Fish At Home, Buy These 5 Store-Bought Frozen Fish Fillets",
-                "desc": "Based on customer feedback and reviews, here are five store-bought fish fillets that you should consider if you're trying to make a Filet-o-Fish at home.",
-                "image": "https://www.tastingtable.com/img/gallery/for-filet-o-fish-at-home-buy-these-5-store-bought-frozen-fish-fillets/l-intro-1786693428.jpg",
-                "url": "https://www.tastingtable.com/2236847/filet-o-fish-store-bought-copycat-frozen-fish-fillets/",
-                "source": "Tasting Table",
-                "date": "2026-08-16T21:20:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Greek ferry causing tourists to get seasick with high speeds",
-                "desc": "Tourists have dubbed Greece's high-speed ferry the “vomit comet” -- sharing horror stories of  rogue waves, flying barf bags and seasick kids turning green mid-crossing.",
-                "image": "https://nypost.com/wp-content/uploads/sites/2/2026/08/newspress-collage-deio0ttbu-1786906699482.jpg?quality=75&strip=all&1786892307&w=1200",
-                "url": "https://nypost.com/2026/08/16/lifestyle/greek-ferry-causing-tourists-to-get-seasick-with-high-speeds/",
-                "source": "New York Post",
-                "date": "2026-08-16T20:30:43Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "For A More Filling McDonald's Chicken Sandwich, Order It German Style",
-                "desc": "To order a German-style Double Chickenburger, order a McChicken with an extra patty and a creamy chili dipping sauce on the side.",
-                "image": "https://www.tastingtable.com/img/gallery/for-a-more-filling-mcdonalds-chicken-sandwich-order-it-german-style/l-intro-1786386616.jpg",
-                "url": "https://www.tastingtable.com/2233933/mcdonalds-chicken-sandwich-upgrade-german-style/",
-                "source": "Tasting Table",
-                "date": "2026-08-16T20:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Bougie restaurant atop California Eataly shut down",
-                "desc": "A bougie restaurant atop a California Eataly was forced to shut its doors after a live cockroach was spotted crawling on a kitchen wall, according to a stomach-turning health inspection report.",
-                "image": "https://nypost.com/wp-content/uploads/sites/2/2026/08/newspress-collage-hoai54p2b-1786909619119.jpg?quality=75&strip=all&1786895243&w=1200",
-                "url": "https://nypost.com/2026/08/16/us-news/bougie-restaurant-atop-california-eataly-shut-down/",
-                "source": "New York Post",
-                "date": "2026-08-16T19:48:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "One American dinner staple faces a historic shortage with no quick fix",
-                "desc": "Beef prices have surged roughly 23% as America's cattle herd hits a 75-year low. USDA data show the shortage may persist, with drought forcing ranchers to sell herds early.",
-                "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/08/0/0/rancher-cattle-shortage.png?ve=1&tl=1",
-                "url": "https://www.foxbusiness.com/politics/historic-shortage-squeezing-american-dinner-staple-relief-could-years-away",
-                "source": "Fox Business",
-                "date": "2026-08-16T19:18:00Z",
-                "priority": "STANDARD"
             }
         ],
         "entertainment": [
+            {
+                "title": "Spoiler: Closing Segment for August 17 WWE RAW Revealed",
+                "desc": "WWE appears to have its final scene lined up for tonight’s episode of Monday Night RAW, and the Bloodline drama is expected to take over the closing",
+                "image": "https://www.ringsidenews.com/wp-content/uploads/2026/06/spoiler-closing-match-for-june-22-wwe-raw-revealed-55.jpg",
+                "url": "https://www.ringsidenews.com/spoiler-closing-segment-august-17-wwe-raw-revealed/",
+                "source": "Ringside News",
+                "date": "2026-08-17T21:21:07Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Paramount wants a $1.9 billion bond from state AGs fighting the Warner Bros. merger",
+                "desc": "Paramount wants the states that are suing over the Warner Bros. Discovery deal to post a $1.9 billion bond. The states are scoffing at the idea.",
+                "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2285925661.jpg?c=16x9&q=w_800,c_fill",
+                "url": "https://www.cnn.com/2026/08/17/media/paramount-wbd-bond-state-attorneys-general-merger-lawsuit",
+                "source": "CNN",
+                "date": "2026-08-17T21:18:41Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "New Yorker's Ariel Levy To Join ‘60 Minutes' As A Contributor",
+                "desc": "Levy is among the latest new hires for the show.",
+                "image": "https://deadline.com/wp-content/uploads/2026/07/og-60-minutes.jpg?w=1024",
+                "url": "https://deadline.com/2026/08/ariel-levy-60-minutes-contributor-1237043444/",
+                "source": "deadline.com",
+                "date": "2026-08-17T21:17:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Avengers: Doomsday Pre-Sale Tickets Are Outpacing Spider-Man: Brand New Day",
+                "desc": "Avengers: Doomsday's pre-sale tickets are reportedly outpacing Spider-Man: Brand New Day.",
+                "image": "https://assets-prd.ignimgs.com/2026/08/15/doomthumb-1786767136045.png?width=1280&format=jpg&auto=webp&quality=80",
+                "url": "https://www.ign.com/articles/avengers-doomsday-pre-sale-tickets-are-outpacing-spider-man-brand-new-day",
+                "source": "ign.com",
+                "date": "2026-08-17T21:11:19Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "CBS News' Matt Gutman Accused Of Casually Making 'Sexualized' Remarks At Work",
+                "desc": "A former female field producer who worked under Gutman filed a lawsuit alleging that he created a hostile work environment with his lewd comments.",
+                "image": "https://img.huffingtonpost.com/asset/6a834d5a23000091377c9aa7.jpeg?cache=0hTNVKjkHt&ops=500_281%2Cscalefit_1200_630",
+                "url": "https://www.huffpost.com/entry/cbs-news-matt-gutman-accused-of-casually-making-sexualized-remarks-at-work_n_6a832f51e4b0b3bc96f7824c",
+                "source": "huffpost.com",
+                "date": "2026-08-17T20:37:51Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Marvel Adds 'Ghost Rider' to a Crowded 2028 Slate",
+                "desc": "The Ryan Gosling film joins 'X-Men' and 'Black Panther III,' all of which are coming in the same year.",
+                "image": "https://gizmodo.com/app/uploads/2026/07/Ryan-Gosling-Ghost-Rider-Comic-Con-1200x675.jpg",
+                "url": "https://gizmodo.com/marvel-adds-ghost-rider-to-a-crowded-2028-slate-2000799555",
+                "source": "Gizmodo",
+                "date": "2026-08-17T20:32:54Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Taylor Sheridan's 'Lioness' Criticized by Real Operatives It's Based On",
+                "desc": "Taylor Sheridan’s “Lioness\" may be a hit show, but that doesn't mean the real-life operatives on the Lioness team are happy with it.",
+                "image": "https://www.thewrap.com/wp-content/uploads/2024/08/lioness-1.jpg",
+                "url": "https://www.thewrap.com/creative-content/tv-shows/real-life-lioness-operatives-taylor-sheridan-took-our-history/",
+                "source": "TheWrap",
+                "date": "2026-08-17T20:25:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Lanterns Episode 1's Ending Left DC Comics Fans Furious Online",
                 "desc": "Episode 1 of Lanterns ended with the reveal that Hal Jordan is dead, killing off a fan favorite Green Lantern and sparking controversy amongst DC fans online.",
@@ -3731,72 +3794,63 @@
                 "source": "Yahoo",
                 "date": "2026-08-17T00:09:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Noah Wyle on David Ellison's Threat to Move Paramount From California",
-                "desc": "Noah Wyle says he hopes David Ellison's threat to move Paramount out of California is \"saber rattling.\"",
-                "image": "https://variety.com/wp-content/uploads/2026/08/MixCollage-16-Aug-2026-04-28-PM-9388.jpg?crop=36px%2C13px%2C1129px%2C634px&resize=1000%2C563",
-                "url": "https://variety.com/2026/tv/columns/noah-wyle-david-ellison-move-paramount-out-of-california-1236835892/",
-                "source": "Variety",
-                "date": "2026-08-16T23:55:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'The Challenge' Star Tyler Duckworth Remembered by Johnny Bananas in Tribute",
-                "desc": "\"The Challenge\" may have made Johnny \"Bananas\" Devenanzio and Tyler Duckworth rivals ... but Johnny says Tyler was the brother he never had.",
-                "image": "https://imagez.tmz.com/image/61/16by9/2026/08/16/6180a7a3f7754c45911882268c11c0b7_xl.jpg",
-                "url": "https://www.tmz.com/2026/08/16/tyler-duckworth-johnny-bananas-tribute/",
-                "source": "TMZ",
-                "date": "2026-08-16T23:45:14Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Taylor Swift Wows in Tulle Wedding Guest Dress and 10",
-                "desc": "Taylor Swift turned heads while attending friends’ Oli Jacobs and Laura Sisk’s wedding on August 15. While congratulating the bride and groom at their reception in England, Swift wore a $3,500 tulle gown with gold appliqués. She styled the navy dress with pearls and a red lip. Read more about her romantic look here.",
-                "image": "https://www.instyle.com/thmb/gULdz2zjr_BH91ivcUwZTIN9rJA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Taylor2x1-6ee56daa5a794f57b0406c3dedb6f147.jpg",
-                "url": "https://www.instyle.com/taylor-swift-navy-tulle-dress-diamond-ring-laura-sisk-oli-jacobs-wedding-12061007",
-                "source": "instyle.com",
-                "date": "2026-08-16T23:08:36Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Jordyn Woods, Karl-Anthony Towns Marry in Malibu Wedding",
-                "desc": "Jordyn Woods and Karl-Anthony Towns tied the knot in a star-studded ceremony on Aug. 15, with A-list guests including Kylie Jenner, Timothée Chalamet, Justin and Hailey Bieber among attendees.",
-                "image": "https://akns-images.eonline.com/eol_images/Entire_Site/20260816/cad64724-8435-4732-8b47-8f1a79f8d06a_1786920750.jpg?fit=around%7C1200:1200&output-quality=90&crop=1200:1200;center,top",
-                "url": "https://www.eonline.com/news/1435087/jordyn-woods-karl-anthony-towns-marry-in-malibu-wedding",
-                "source": "E! News",
-                "date": "2026-08-16T22:59:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Call Her Daddy's Alex Cooper Leaves UTA, CAA Talks",
-                "desc": "With months of upheaval in her media empire, Alex Cooper is looking at set up shop at CAA after leaving UTA",
-                "image": "https://deadline.com/wp-content/uploads/2026/08/Alex-Cooper-SXSW-2026.jpg?w=1024",
-                "url": "https://deadline.com/2026/08/alex-cooper-caa-talkls-uta-exit-1237042312/",
-                "source": "Deadline",
-                "date": "2026-08-16T22:51:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Anne Hathaway Named Disney Legend After 'Princess Diaries,' 'Devil Wears Prada'",
-                "desc": "Anne Hathaway was named a Disney Legend at D23 after starring in \"The Princess Diaries\" and \"The Devil Wears Prada\" movies.",
-                "image": "https://variety.com/wp-content/uploads/2026/08/2289787582.jpg?w=1000&h=563&crop=1",
-                "url": "https://variety.com/2026/film/news/anne-hathaway-disney-legend-d23-princess-diaries-devil-wears-prada-1236835727/",
-                "source": "Variety",
-                "date": "2026-08-16T22:44:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Chrissy Metz fires back at body critics while on GLP-1 medication",
-                "desc": "Chrissy Metz slams haters commenting on her weight loss and explains why the \"This Is Us\" actress started taking a GLP-1 medication after her father died from obesity complications.",
-                "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/e5001ca4-chrissy-metz.jpg",
-                "url": "https://www.foxnews.com/entertainment/chrissy-metz-slams-weight-loss-critics-says-theyre-always-going-have-something-say",
-                "source": "Fox News",
-                "date": "2026-08-16T20:48:31Z",
-                "priority": "STANDARD"
             }
         ],
         "sports": [
+            {
+                "title": "Schefter: Jeremiyah Love has high-ankle sprain",
+                "desc": "ESPN's Adam Schefter reports that Cardinals RB Jeremiyah Love \"is dealing with a high ankle sprain.\"",
+                "image": "https://nbcsports.brightspotcdn.com/dims4/default/fb12a1c/2147483647/strip/true/crop/100x56+0+39/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F74%2F49%2F2b5c180b402c875be37eb5462278%2Flove-jeremiyah.jpg",
+                "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-08-16/schefter-jeremiyah-love-has-high-ankle-sprain",
+                "source": "NBC Sports",
+                "date": "2026-08-17T21:02:44Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "What the PGA Tour should demand Jordan Spieth does now after he fails to make the BMW Championship",
+                "desc": "The PGA Tour should demand Jordan Spieth play in at least two Fall events as he is likely to get into all signature events next year anyway.",
+                "image": "https://cdn3.hitc.com/uploads/1/2026/08/GettyImages-2289803555-scaled.jpg",
+                "url": "https://www.hitc.com/what-the-pga-tour-should-demand-jordan-spieth-does-now-after-he-fails-to-make-the-bmw-championship/",
+                "source": "hitc.com",
+                "date": "2026-08-17T21:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Mavericks, Stars resolve legal issues between two Dallas franchises",
+                "desc": "A yearlong breakdown in the team's relationship came to a head last October when Dallas' NBA franchise filed suit against the city's NHL team.",
+                "image": "https://s.hdnux.com/photos/01/66/02/07/30941690/3/rawImage.jpg",
+                "url": "https://www.dallasnews.com/sports/mavericks/article/mavericks-stars-resolve-legal-issues-two-dallas-22391864.php",
+                "source": "Dallas News",
+                "date": "2026-08-17T20:58:18Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Eagles 2026 training camp practice notes, Day 12: Camp battle at safety heating up",
+                "desc": "Day 12 of Philadelphia Eagles training camp fell in between the Birds' first preseason game on Saturday and joint practices with the New England Patriots, which will begin on Wednesday. So, it was a short practice, and it was in shells and shorts. Limited notes today, so let's just get right to them.",
+                "image": "https://media.phillyvoice.com/media/images/2026-06-10T185435Z_2111541787_.2e16d0ba.fill-1200x630-c0.jpg",
+                "url": "https://www.phillyvoice.com/eagles-2026-training-camp-practice-notes-day-12-camp-battle-safety-heating/",
+                "source": "PhillyVoice",
+                "date": "2026-08-17T20:30:23Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "LIV Golf to end season early and cancel the Michigan team event",
+                "desc": "LIV Golf is ending its season one tournament early. The upstart league says the team champion that was supposed to be determined next week in Michigan instead will be decided Sunday at LIV Golf Indianapolis.",
+                "image": "https://dims.apnews.com/dims4/default/20c9436/2147483647/strip/true/crop/4000x2665+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F27%2F23%2F85c8e8ce67e71e2f18273e322ac9%2F1dba8e2cd61e4bbe8a1e1dd74ed3c634",
+                "url": "https://apnews.com/article/liv-golf-indianapolis-michigan-oneil-04a06372ca49e8cb560a118f3d63bd0c",
+                "source": "AP News",
+                "date": "2026-08-17T20:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Royals Designate Starling Marte For Assignment",
+                "desc": "A veteran outfielder loses his roster spot in Kansas City.",
+                "image": "https://cdn.mlbtraderumors.com/files/2026/08/Starling_Marte_Royals-1024x683.jpg",
+                "url": "https://www.mlbtraderumors.com/2026/08/royals-designate-starling-marte-for-assignment.html",
+                "source": "MLB Trade Rumors",
+                "date": "2026-08-17T20:27:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Harbaugh: Nabers not 'at full-speed yet'",
                 "desc": "Giants HC John Harbaugh said he doesn't think Malik Nabers (knee) is \"at full-speed yet\" after his first day in 11-on-11 drills.",
@@ -4282,62 +4336,8 @@
                 "source": "Managing Madrid",
                 "date": "2026-08-17T14:37:22Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "New Heisman platform allows college football fans to cast votes",
-                "desc": "The new team at Heisman has launched Heisman Hopefuls -- a data, storytelling and fan voting platform aimed at expanding the conversation about the award.",
-                "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0817%2Fr1702907_1296x729_16%2D9.jpg",
-                "url": "https://www.espn.com/college-football/story/_/id/49638749/new-heisman-platform-allows-college-football-fans-cast-votes",
-                "source": "ESPN",
-                "date": "2026-08-17T14:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Breece Hall leaves Jets practice with apparent injury",
-                "desc": "The problem with training camp is that every fan of every team is constantly bracing for the lightning bolt that could screw up the coming season.",
-                "image": "https://nbcsports.brightspotcdn.com/dims4/default/cd9e01f/2147483647/strip/true/crop/3854x2168+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff3%2F7e%2F49b5476a4297832dedbad378e7ef%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2290775529",
-                "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/breece-hall-leaves-jets-practice-with-apparent-injury",
-                "source": "NBC Sports",
-                "date": "2026-08-17T14:19:06Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Sources: Michigan State to hire Western Michigan AD Bartholomae",
-                "desc": "Michigan State is finalizing a deal to hire Western Michigan athletic director Dan Bartholomae as its new AD, sources told ESPN's Pete Thamel on Monday.",
-                "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2018%2F0625%2Fr391917_1296x729_16%2D9.jpg",
-                "url": "https://www.espn.com/college-football/story/_/id/49638615/sources-michigan-state-hire-western-michigan-ad-bartholomae",
-                "source": "ESPN",
-                "date": "2026-08-17T14:18:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Roberts Calls Out Shohei Ohtani, Tarik Skubal's Dodgers After Loss to Brewers amid NL Standings Race",
-                "desc": "After losing three out of four games against the Milwaukee Brewers this past weekend, the Los Angeles Dodgers' hopes for home-field advantage in the 2026 playoffs took a major hit.",
-                "image": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2026-08/2290257909_large_cropped.jpg?w=1119&h=630",
-                "url": "https://bleacherreport.com/articles/25472944-roberts-calls-out-shohei-ohtani-tarik-skubals-dodgers-after-loss-brewers-amid-nl-standings-race",
-                "source": "bleacherreport.com",
-                "date": "2026-08-17T14:05:14Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "6 key takeaways from the Seattle Seahawks’ snap counts vs. Cowboys",
-                "desc": "Sometimes, it’s the snaps you don’t get that could determine your roster fate.",
-                "image": "https://platform.fieldgulls.com/wp-content/uploads/sites/81/2026/08/gettyimages-2290653337.jpg?quality=90&strip=all&crop=0%2C10.752607989199%2C100%2C78.494784021602&w=1200",
-                "url": "https://www.fieldgulls.com/seattle-seahawks-game-analysis/172616/nfl-analysis-6-key-takeaways-seahawks-vs-cowboys-snap-counts",
-                "source": "Field Gulls",
-                "date": "2026-08-17T14:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Max Holloway questions Islam Makhachev walking around with 2 belts",
-                "desc": "Max Holloway isn’t sure why Islam Makhachev still touts lightweight title.",
-                "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/08/gettyimages-2290665727.jpg?quality=90&strip=all&crop=0%2C3.6254041306518%2C100%2C78.534031413613&w=1200",
-                "url": "https://www.mmafighting.com/ufc/505465/max-holloway-questions-islam-makhachev-walking-around-with-2-belts",
-                "source": "MMA Fighting",
-                "date": "2026-08-17T14:00:00Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-08-18T08:24:37.138361Z"
+    "lastGlobalSync": "2026-08-18T09:23:07.998009Z"
 }
