@@ -2172,6 +2172,96 @@
     "en": {
         "general": [
             {
+                "title": "Trump Fumes At CNN Reporter Who Asked About Natalie Harp",
+                "desc": "The president yelled \"quiet!\" at Kristen Holmes as she asked about talks with Kim Jong Un and earlier about aide Natalie Harp.",
+                "image": "https://deadline.com/wp-content/uploads/2026/08/GettyImages-2290893664.jpg?w=1024",
+                "url": "https://deadline.com/2026/08/trump-yells-at-cnn-reporter-north-korea-1237043330/",
+                "source": "Deadline",
+                "date": "2026-08-17T20:19:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "‘Unprecedented’ number of Apple users received recent spyware alert, say investigators",
+                "desc": "Cybersecurity experts who investigate spyware attacks say the number of people who received a recent threat notification from Apple is unusually high.",
+                "image": "https://techcrunch.com/wp-content/uploads/2026/08/iphone-spyware-alert-2024.jpg?resize=1200,800",
+                "url": "https://techcrunch.com/2026/08/17/unprecedented-number-of-apple-users-received-recent-spyware-alert-say-investigators/",
+                "source": "techcrunch.com",
+                "date": "2026-08-17T20:18:35Z",
+                "priority": "CRITICAL_ALERT"
+            },
+            {
+                "title": "Honolulu enters full cleanup and recovery mode as Tropical Storm Lala departs",
+                "desc": "As of 10 a.m. Monday, there are no weather watches, warnings, or advisories issued for Oahu.",
+                "image": "https://gray-khnl-prod.gtv-cdn.com/resizer/v2/AY5KGXRKJRC6TI67MTBEBOGZ4Q.jpeg?auth=0940995ff7c7d111ce9bd22c305905bfa88c9048db297fcd1d5372931e1b84cb&width=1200&height=600&smart=true",
+                "url": "https://www.hawaiinewsnow.com/2026/08/17/honolulu-enters-full-cleanup-recovery-mode-tropical-storm-lala-departs/",
+                "source": "Hawaii News Now",
+                "date": "2026-08-17T20:16:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Mom and sister testify about Lindsay Clancy's declining mental state before she killed her children",
+                "desc": "Clancy's mother and sister recounted how they saw her become increasingly anxious, paranoid and suicidal in the months before she killed her three children.",
+                "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/07/2026-07-30T213500Z_1465687039_RC2LOMA1X81M_RTRMADP_3_MASSACHUSETTS-CRIME-CLANCY-1024x682.jpg",
+                "url": "https://www.pbs.org/newshour/nation/mom-and-sister-testify-about-lindsay-clancys-declining-mental-state-before-she-killed-her-children",
+                "source": "PBS",
+                "date": "2026-08-17T20:06:25Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Lanterns Episode 1's Ending Left DC Comics Fans Furious Online",
+                "desc": "Episode 1 of Lanterns ended with the reveal that Hal Jordan is dead, killing off a fan favorite Green Lantern and sparking controversy amongst DC fans online.",
+                "image": "https://www.tvline.com/img/gallery/lanterns-premieres-ending-infuriated-some-dc-comics-fans-online/l-intro-1786993430.jpg",
+                "url": "https://www.tvline.com/2238608/lanterns-episode-1-ending-dc-comics-fans-furious/",
+                "source": "tvline.com",
+                "date": "2026-08-17T20:01:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Rep. Jimmy Gomez facing investigation for sexual misconduct : NPR",
+                "desc": "The California Democrat has admitted to \"personal mistakes\" outside of his marriage, but also says his actions were consensual in nature did not violate House Ethics rules.",
+                "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3145x1769+0+164/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5f%2Fe4%2F54e258d64cf7a8c8330950025822%2Fgettyimages-2267402013.jpg",
+                "url": "https://www.npr.org/2026/08/17/nx-s1-5935513/jimmy-gomez-house-ethics-investigation",
+                "source": "NPR",
+                "date": "2026-08-17T19:53:37Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Lakers’ Buss family intends to sell, removing Jeanie Buss from governor role: Sources",
+                "desc": "If the Buss family's sale of their remaining shares goes through, Jeanie Buss would no longer be the team's governor.",
+                "image": "https://static01.nyt.com/athletic/uploads/wp/2026/08/17152652/GettyImages-2263178875-scaled.jpg?width=1200&height=630&fit=cover",
+                "url": "https://www.nytimes.com/athletic/7519719/2026/08/17/lakers-buss-family-sale-jeanie-governor/",
+                "source": "The New York Times",
+                "date": "2026-08-17T19:43:24Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Buss family selling remaining 17.8% ownership stake in Lakers to new majority owners Josh Kushner and Bob Iger",
+                "desc": "Iger and Kushner became majority owners of the team after purchasing Mark Walter's controlling stake for a record $12.5 billion.",
+                "image": "https://s.yimg.com/lo/mysterio/api/ffc6cb07de61e46b45a23af79990ef05bb0534fc3e61b3e7ff436cc90e0c2a8c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-10%2Fb9d3dcb0-b5ab-11f0-bd72-d00a70fa7eed",
+                "url": "https://sports.yahoo.com/nba/article/buss-family-selling-remaining-178-ownership-stake-in-lakers-to-new-majority-owners-josh-kushner-and-bob-iger-193752611.html",
+                "source": "Yahoo Sports",
+                "date": "2026-08-17T19:37:52Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Prosecution rests in the murder trial of Lindsay Clancy. Defense begins calling witnesses",
+                "desc": "The prosecution called dozens of witnesses to make the case that Clancy deliberately killed the children because she wanted to “take them with her” when she unsuccessfully tried to kill herself that night.",
+                "image": "https://media.wbur.org/wp/2026/08/Lindsay_Clancy_Trial_26229512562784-1000x596.jpg",
+                "url": "https://www.wbur.org/news/2026/08/17/prosecution-rests-murder-trial-lindsay-clancy",
+                "source": "WBUR",
+                "date": "2026-08-17T19:34:03Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "LIV Golf to end season early to focus 'on next chapter'",
+                "desc": "LIV Golf cancels its Team Championships in Michigan after weeks of speculation, saying it needs to focus on \"building its next chapter\".",
+                "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f33c/live/938e0990-9a70-11f1-b68f-817a5a696299.jpg",
+                "url": "https://www.bbc.com/sport/golf/articles/c7vg4rn7v6ro",
+                "source": "BBC",
+                "date": "2026-08-17T19:33:13Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Teen lifeguard who saved boy at Seabright Beach meets President Trump at White House",
                 "desc": "A 16-year-old lifeguard whose dramatic rescue of a young boy at Seabright State Beach captured national attention is set to meet President Donald Trump at the White House on Monday.",
                 "image": "https://kubrick.htvapps.com/htv-prod/images/6ffa00d3-1f23-48eb-9e52-c03b81b7b8e7.png?crop=0.809xw%3A1.00xh%3B0.0961xw%2C0&resize=1200%3A*",
@@ -2620,99 +2710,54 @@
                 "source": "USA Today",
                 "date": "2026-08-17T12:35:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Actress Hayden Panettiere dies in Greenville, South Carolina",
-                "desc": "Actress Hayden Panettiere has died in Greenville, South Carolina, according to Greenville police.",
-                "image": "https://kubrick.htvapps.com/htv-prod/images/cf23e5e0-ce49-4896-97b0-c778cb05be6a.jpg?crop=1.00xw%3A0.749xh%3B0%2C0&resize=1200%3A*",
-                "url": "https://www.wyff4.com/article/hayden-panettiere-dies-in-greenville-county/73448001",
-                "source": "WYFF",
-                "date": "2026-08-17T12:33:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "South Korea hopes for talks between US and North Korea",
-                "desc": "South Korea has expressed hopes for resumption of diplomacy between the U.S. and North Korea to ease animosities on the Korean Peninsula.",
-                "image": "https://dims.apnews.com/dims4/default/640bd05/2147483647/strip/true/crop/2965x1976+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F96%2Ffc%2F79ee109f08fa5701ecd9d2934e95%2F41acd1eae80247afb14f2bfd0191bb20",
-                "url": "https://apnews.com/article/trump-north-south-korea-military-drills-kim-84d2ae42b527d6a71d2e7d69acf8483d",
-                "source": "AP News",
-                "date": "2026-08-17T12:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "What kids of parents on GLP-1s are learning about food and bodies",
-                "desc": "With many parents taking GLP-1 medications, some worry about how their body changes might affect their children. Experts stress the value in teaching kids about it.",
-                "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1429136148.jpg?c=16x9&q=w_800,c_fill",
-                "url": "https://www.cnn.com/2026/08/17/health/glp1-parents-body-image-wellness",
-                "source": "CNN",
-                "date": "2026-08-17T12:00:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Meta battle with California AG could have 'astronomical' consequences",
-                "desc": "Less than two weeks after a loss in New Mexico, Meta faces a much bigger legal test in a case being co-led by California's attorney general.",
-                "image": "https://image.cnbcfm.com/api/v1/image/108297760-1777307207308-108297760-1777307153926-gettyimages-2267943764-Zuckerberg_182_032626.jpeg?v=1780690805&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/08/17/meta-attorneys-general-california-federal-trial-astronomical-consequences.html",
-                "source": "CNBC",
-                "date": "2026-08-17T12:00:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The Dodgers’ Fatal Flaws Are Finally Catching Up With Them",
-                "desc": "The defending champions’ weaknesses were on full display in a sloppy, mistake-ridden series loss to the Brewers, raising serious questions about their bid for a three-peat.",
-                "image": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_5033,h_2831/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/si/01m07qet8jxcf0wm6zba.jpg",
-                "url": "https://www.si.com/mlb/dodgers-fatal-flaws-are-finally-catching-up-with-them",
-                "source": "si.com",
-                "date": "2026-08-17T11:54:35Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ukraine has hit seven of Russian online retailer Wildberries' 10 biggest warehouses, military says",
-                "desc": "A month-long Ukrainian attack campaign against Russia's largest online retailer has knocked out seven of its ten biggest logistics hubs, according to Kyiv's defence ministry and the Institute for the Study of War.",
-                "image": "https://images.euronews.com/articles/stories/09/87/71/18/1200x675_cmsv2_dc01115f-89d8-53ab-ba25-073380aa8160-9877118.jpg",
-                "url": "https://www.euronews.com/my-europe/2026/08/17/ukraine-has-hit-seven-of-russian-online-retailer-wildberries-10-biggest-warehouses-militar",
-                "source": "Euronews.com",
-                "date": "2026-08-17T11:51:57Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "BLACKPINK's Jennie Posts Emotional Apology Amid Recent Controversy",
-                "desc": "BLACKPINK's Jennie has posted an emotional apology on Weverse about the recent controversy regarding the group's activies.",
-                "image": "https://image.koreaboo.com/2026/08/FD2870-6-4.jpg",
-                "url": "https://www.koreaboo.com/news/blackpink-jennie-apologies-amid-controversy/",
-                "source": "Koreaboo",
-                "date": "2026-08-17T11:40:26Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Gen Z’s latest insult is a fabric. Why ‘polyester’?",
-                "desc": "Gen Z has turned “polyester” into an insult. Here’s how the familiar fabric got a new, unfavorable meaning.",
-                "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/08/17/USAT/91333989007-getty-images-648834184.jpg?crop=7386,4155,x714,y924&width=3200&height=1801&format=pjpg&auto=webp",
-                "url": "https://www.usatoday.com/story/life/health-wellness/2026/08/17/polyester-gen-z-tiktok-insult-explained/91285172007/",
-                "source": "USA Today",
-                "date": "2026-08-17T11:32:32Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Japan GDP climbs 1.1% annualized, missing estimates",
-                "desc": "On an annualized basis, Japan saw growth of 1.1%, against estimates of 2%.",
-                "image": "https://image.cnbcfm.com/api/v1/image/108173175-1752732210579-gettyimages-2212000799-AFP_43UN2G9.jpeg?v=1752732318&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/08/17/japan-gdp-misses-estimates-trade-exports-yen-nikkei.html",
-                "source": "CNBC",
-                "date": "2026-08-17T00:15:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ebola outbreak in DRC becomes deadliest in country’s history",
-                "desc": "The Ebola outbreak in Democratic Republic of Congo has killed 2,325 people, government data showed on Sunday, surpassing the toll from the 2018-2020 outbreak to become the deadliest in the country’s history.",
-                "image": "https://media.cnn.com/api/v1/images/stellar/prod/10-10-11-11-05-gettyimages-2280532551.jpg?c=16x9&q=w_800,c_fill",
-                "url": "https://www.cnn.com/2026/08/16/africa/drc-congo-ebola-deadliest-outbreak-latam-intl",
-                "source": "CNN",
-                "date": "2026-08-17T00:01:00Z",
-                "priority": "STANDARD"
             }
         ],
         "business": [
+            {
+                "title": "Millions of cars are being recalled after bursting into flames while simply parked outside",
+                "desc": "’Park outside’ recalls are likely to become more common due to the increase in technology manufactured inside vehicles",
+                "image": "https://static.independent.co.uk/2026/08/17/20/23/GettyImages-545736172.jpg?trim=0,1,0,0&width=1200&height=800&crop=1200:800",
+                "url": "https://www.independent.co.uk/news/world/americas/park-outside-recall-vehicles-fire-b3034518.html",
+                "source": "The Independent",
+                "date": "2026-08-17T20:22:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Warren Buffett's Portfolio Is Looking Even More Like The Dow Jones Index. This Is Why.",
+                "desc": "Berkshire Hathaway's Dow-heavy equity portfolio has grown even more so of late. That is thanks to Warren Buffett fixing a mistake.",
+                "image": "https://www.investors.com/wp-content/uploads/2024/06/Stock-WarrenBuffettwave-01-shutt.jpg",
+                "url": "https://www.investors.com/news/warren-buffett-berkshire-hathaway-portfolio-looking-more-like-dow-jones/",
+                "source": "Investor's Business Daily",
+                "date": "2026-08-17T20:20:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "FDA egg recall: Nearly 19 million eggs get highest-risk classification",
+                "desc": "Check your fridge: The FDA put a nearly 19 million-egg recall in its highest-risk category after a salmonella outbreak sickened 98 people.",
+                "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-2289610085-e1786996762810.jpg?resize=1200,600",
+                "url": "https://fortune.com/2026/08/17/egg-recall-salmonella-outbreak-fda-midwest-poultry/",
+                "source": "Fortune",
+                "date": "2026-08-17T20:09:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Paramount Demands States Post $1.88 Billion Bond Amid WBD Deal",
+                "desc": "Paramount demands states post a billion-dollar-plus bond amid Warner Bros. Discovery deal.",
+                "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/GettyImages-1185995582.jpg?crop=0px%2C322px%2C6000px%2C3358px&resize=1440%2C810",
+                "url": "https://www.hollywoodreporter.com/business/business-news/paramount-states-post-billion-dollar-bond-wbd-antitrust-1236675237/",
+                "source": "The Hollywood Reporter",
+                "date": "2026-08-17T20:02:20Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Amtrak wraps first part of East River tunnel rehab, MTA says work strained LIRR service",
+                "desc": "The national railroad fully closed one of four rail tunnels between Penn Station and Queens last year.",
+                "image": "https://api-prod.gothamist.com/images/358706/fill-1200x650|format-webp|webpquality-85/",
+                "url": "https://gothamist.com/news/amtrak-wraps-first-part-of-east-river-tunnel-rehab-mta-says-work-strained-lirr-service",
+                "source": "Gothamist",
+                "date": "2026-08-17T19:49:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Paramount Requests States, WGA Post $1.88B Bond to Cover Financial Losses While Warner Bros. Merger Remains on Hold",
                 "desc": "David Ellison's Paramount Skydance asked the judge overseeing the antitrust lawsuits filed by 12 states and the WGA to force the plaintiffs to pony up a whopping $1.88 billion bond to cover the company's losses related to the delay in its merger with Warner Bros. Discovery.",
@@ -3207,54 +3252,36 @@
                 "source": "Fox Business",
                 "date": "2026-08-16T19:18:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "8 Milk Chocolate Bars To Add To Your Cart And 7 To Leave On The Shelves",
-                "desc": "When you peruse the candy aisle, you may be overwhelmed by chocolate bars. These are some to consider.",
-                "image": "https://www.tastingtable.com/img/gallery/8-milk-chocolate-bars-to-add-to-your-cart-and-7-to-leave-on-the-shelves/l-intro-1786683150.jpg",
-                "url": "https://www.tastingtable.com/2236823/milk-chocolate-bars-buy-skip/",
-                "source": "Tasting Table",
-                "date": "2026-08-16T18:20:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Disney's Josh D'Amaro On The Biggest Opportunities As CEO & Why Other Media Companies \"Are Trying To Look Like Disney\"",
-                "desc": "Josh D'Amaro explained why other media companies are trying to replicate Disney's success.",
-                "image": "https://deadline.com/wp-content/uploads/2026/08/josh-damaro-d23.jpg?w=1024",
-                "url": "https://deadline.com/2026/08/disney-josh-damaro-ceo-opportunities-d23-1237042155/",
-                "source": "Deadline",
-                "date": "2026-08-16T17:50:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Nebius' Contracted Power Guidance Continues to Surge. Here's What That Means for the Stock.",
-                "desc": "The neocloud company is scaling its gigawatt portfolio quickly.",
-                "image": "https://s.yimg.com/lo/mysterio/api/532ea85368a412c2d75f0b7b5786df0f3a7e7d0cbc3027b957f49cfc76dc7c45/lightyear_networkapi/resizefill_w1199_h649%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2Fff52fc58308ba0fb960e72739381cd98.jpg",
-                "url": "https://currently.att.yahoo.com/att/nebius-contracted-power-guidance-continues-162700715.html",
-                "source": "Currently.com",
-                "date": "2026-08-16T16:27:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "10 Rules To Know Before Your First Visit To Raising Cane's",
-                "desc": "We've rounded up some of the rules that Caniacs say you should follow to have the most memorable (and delicious) first time dining at Raising Cane's.",
-                "image": "https://www.mashed.com/img/gallery/10-rules-to-know-before-your-first-visit-to-raising-canes/l-intro-1786633612.jpg",
-                "url": "https://www.mashed.com/2236265/raising-canes-rules-know-first-visit/",
-                "source": "Mashed",
-                "date": "2026-08-16T16:23:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "B products listed under urgent salmonella recall",
-                "desc": "The affected products were distributed to retail customers in Texas and Louisiana between July 3, 2026, and August 5, 2026.",
-                "image": "https://s.hdnux.com/photos/01/67/06/00/31219772/3/rawImage.jpg",
-                "url": "https://www.chron.com/news/article/heb-recall-salmonella-risk-texas-22390421.php",
-                "source": "Chron",
-                "date": "2026-08-16T16:14:18Z",
-                "priority": "STANDARD"
             }
         ],
         "entertainment": [
+            {
+                "title": "Lanterns Episode 1's Ending Left DC Comics Fans Furious Online",
+                "desc": "Episode 1 of Lanterns ended with the reveal that Hal Jordan is dead, killing off a fan favorite Green Lantern and sparking controversy amongst DC fans online.",
+                "image": "https://www.tvline.com/img/gallery/lanterns-premieres-ending-infuriated-some-dc-comics-fans-online/l-intro-1786993430.jpg",
+                "url": "https://www.tvline.com/2238608/lanterns-episode-1-ending-dc-comics-fans-furious/",
+                "source": "TVLine",
+                "date": "2026-08-17T20:01:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Peacock Has Launched a New Membership Program for Subscribers",
+                "desc": "Some Peacock subscribers have been selected to be part of the brand’s new Membership Program. The program is currently in beta testing, with a randomly selected group of subscribers trying out the new ways to connect with the brand. Both Peacock Premium and Premium Plus subscribers are included in the beta, which connects fans to […]",
+                "image": "https://cordcuttersnews.com/wp-content/uploads/2020/09/GettyImages-1190545966-1-scaled.jpg",
+                "url": "https://cordcuttersnews.com/peacock-has-launched-a-new-membership-program-for-subscribers/",
+                "source": "cordcuttersnews.com",
+                "date": "2026-08-17T19:56:56Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Karl-Anthony Towns and Jordyn Woods Get Married in Malibu Wedding",
+                "desc": "The Knicks center and the influencer and actress had a star-studded wedding celebration in Malibu over the weekend.",
+                "image": "https://static01.nyt.com/images/2026/08/17/multimedia/17ST-TOWNS-WOODS-WEDDING-fwtz/17ST-TOWNS-WOODS-WEDDING-fwtz-facebookJumbo.jpg",
+                "url": "https://www.nytimes.com/2026/08/17/style/karl-anthony-towns-jordyn-woods-wedding.html",
+                "source": "The New York Times",
+                "date": "2026-08-17T19:49:32Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Mamdani denies using AI in videos speaking Mandarin, Bengali to promote Broadway ticket giveaway",
                 "desc": "Mayor Zohran Mamdani’s team denied using AI in videos of him speaking Mandarin and Bengali to promote a giveaway of 2,000 free Broadway tickets.",
@@ -3767,36 +3794,72 @@
                 "source": "Fox News",
                 "date": "2026-08-16T20:48:31Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Johnny Depp’s ‘Pirates Of The Caribbean’ Return Takes Major Step Forward",
-                "desc": "Johnny Depp could be preparing to sail back into the “Pirates of the Caribbean” franchise nearly a decade after his The Johnny Depp’s ‘Pirates Of The Caribbean’ Return Takes Major Step Forward first a...",
-                "image": "https://s.yimg.com/lo/mysterio/api/a8d0954ac1b4e05edea9947ee840d91d49985a24d24472337d5c36ea3f83b35e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2F03dba865797406d14acca5e3561be943.jpg",
-                "url": "https://www.yahoo.com/entertainment/movies/articles/johnny-depp-pirates-caribbean-return-204000323.html",
-                "source": "Yahoo",
-                "date": "2026-08-16T20:40:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Matt Gutman of CBS News accused of sexual harassment while at ABC",
-                "desc": "Former ABC News field producer Samira Said has accused CBS News chief correspondent Matt Gutman of making a sexualized insinuation\" about her.",
-                "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/08/15/USAT/91321281007-getty-images-2246112483.jpg?crop=2539,1429,x2,y46&width=2539&height=1429&format=pjpg&auto=webp",
-                "url": "https://www.usatoday.com/story/entertainment/tv/2026/08/16/matt-gutman-sexual-harassment-lawsuit-cbs-abc/91321095007/",
-                "source": "USA Today",
-                "date": "2026-08-16T20:38:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Taylor Swift and Travis Kelce flash wedding rings in new photos",
-                "desc": "Taylor Swift and Travis Kelce have been photographed wearing their wedding bands for the first time. Here's what we know about the gold rings.",
-                "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/08/16/USAT/91330269007-getty-images-2170855462.jpg?crop=1035,582,x58,y19&width=1035&height=582&format=pjpg&auto=webp",
-                "url": "https://www.usatoday.com/story/entertainment/celebrities/2026/08/16/taylor-swift-travis-kelce-wedding-rings/90708438007/",
-                "source": "USA Today",
-                "date": "2026-08-16T20:06:00Z",
-                "priority": "STANDARD"
             }
         ],
         "sports": [
+            {
+                "title": "Harbaugh: Nabers not 'at full-speed yet'",
+                "desc": "Giants HC John Harbaugh said he doesn't think Malik Nabers (knee) is \"at full-speed yet\" after his first day in 11-on-11 drills.",
+                "image": "https://nbcsports.brightspotcdn.com/dims4/default/188cda1/2147483647/strip/true/crop/100x56+0+39/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ffa%2Fa6%2F4e1aaa854ab6aa4a3da4c01b9a53%2Fnabers-malik-copy.jpg",
+                "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-08-17/harbaugh-nabers-not-at-full-speed-yet",
+                "source": "NBC Sports",
+                "date": "2026-08-17T20:24:10Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "NBA, Clippers clash over Kawhi Leonard salary-cap circumvention probe",
+                "desc": "An NBA investigation into whether the Clippers used sponsor deals to circumvent the salary cap and pay Kawhi Leonard millions has reached a key discussion stage.",
+                "image": "https://ca-times.brightspotcdn.com/dims4/default/2fc07ee/2147483647/strip/true/crop/6434x3378+0+0/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F3d%2F14%2Fd277ad9446b997760a5c34984dfa%2Fgettyimages-2253878642.jpg",
+                "url": "https://www.latimes.com/sports/clippers/story/2026-08-17/nba-clippers-clash-over-kawhi-leonard-salary-cap-circumvention-investigation-steve-ballmer",
+                "source": "Los Angeles Times",
+                "date": "2026-08-17T20:13:31Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "José E. Feliciano, Kwanza Jones approved as Padres’ new owners",
+                "desc": "\"Our ambition is clear: to bring a World Series championship to San Diego.\"",
+                "image": "https://www.sandiegouniontribune.com/wp-content/uploads/2026/05/jonesfeliciano.jpg?w=640&h=526",
+                "url": "https://www.sandiegouniontribune.com/2026/08/17/mlb-owners-unanimously-approve-jose-e-feliciano-wife-kwanza-jones-as-padres-next-owners/",
+                "source": "San Diego Union-Tribune",
+                "date": "2026-08-17T20:12:06Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Rodri lands in Barcelona to complete 'dream' move",
+                "desc": "Spain midfielder Rodri says it is his \"dream\" to play for Barcelona as he arrives in the city to complete his move from Manchester City.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7a65/live/e0f47630-9a73-11f1-b68f-817a5a696299.jpg",
+                "url": "https://www.bbc.com/sport/football/articles/cevmw02j4nyo",
+                "source": "BBC",
+                "date": "2026-08-17T20:02:27Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "LIV Golf Cancels Championship Event amid Questions About Future, Indy Tourney to Be Season Finale",
+                "desc": "With LIV Golf's seemingly tenuous future generating headlines of late, the breakaway tour's season finale is reportedly no longer on the schedule.",
+                "image": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2026-08/2279392827_large_cropped.jpg?w=1120&h=630",
+                "url": "https://bleacherreport.com/articles/25474151-liv-golf-cancels-championship-event-amid-questions-about-future-indy-tourney-be-season-finale",
+                "source": "Bleacher Report",
+                "date": "2026-08-17T19:43:44Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Lakers’ Buss family intends to sell, removing Jeanie Buss from governor role: Sources",
+                "desc": "If the Buss family's sale of their remaining shares goes through, Jeanie Buss would no longer be the team's governor.",
+                "image": "https://static01.nyt.com/athletic/uploads/wp/2026/08/17152652/GettyImages-2263178875-scaled.jpg?width=1200&height=630&fit=cover",
+                "url": "https://www.nytimes.com/athletic/7519719/2026/08/17/lakers-buss-family-sale-jeanie-governor/",
+                "source": "The New York Times",
+                "date": "2026-08-17T19:43:24Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "NBA reportedly 'found no evidence' Clippers, Ballmer funneled money to Kawhi Leonard",
+                "desc": "Settlement talks between the league and the Clippers had started, league sources confirmed to NBC Sports.",
+                "image": "https://nbcsports.brightspotcdn.com/dims4/default/7f462eb/2147483647/strip/true/crop/6000x3375+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe2%2Ffe%2F287f338440afb2add2687306e6c8%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2272438322",
+                "url": "https://www.nbcsports.com/nba/news/nba-reportedly-found-no-evidence-clippers-ballmer-funneled-money-to-kawhi-leonard-settlement-talks-started",
+                "source": "NBC Sports",
+                "date": "2026-08-17T19:34:29Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Pirates Activate Oneil Cruz From 60-Day IL",
                 "desc": "The Pirates get their electric center fielder back after more than two months. Is it too little, too late? Read more at MLB Trade Rumors.",
@@ -4273,71 +4336,8 @@
                 "source": "MMA Fighting",
                 "date": "2026-08-17T14:00:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Fermín López given new Barcelona squad number ahead of Rodri’s arrival",
-                "desc": "A deserved change",
-                "image": "https://platform.barcablaugranes.com/wp-content/uploads/sites/21/2026/08/gettyimages-2267360577.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-                "url": "https://www.barcablaugranes.com/barcelona-team-news/129423/fermin-lopez-given-new-barcelona-squad-number",
-                "source": "Barca Blaugranes",
-                "date": "2026-08-17T13:50:51Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Mike Vrabel calls Christian Gonzalez's situation \"unique\" in relation to Devon Witherspoon contract",
-                "desc": "The news that the Seahawks and cornerback Devon Witherspoon reached agreement on a contract extension over the weekend was celebrated in Seattle and it caught the attention of many people in New England as well.",
-                "image": "https://nbcsports.brightspotcdn.com/dims4/default/ebb3513/2147483647/strip/true/crop/6354x3574+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F64%2F96%2Fe59f2cb94ff7a4e71d071cddee98%2Fhttps-api-imagn.com%2Frest%2Fdownload%2FimageID%3D29448876",
-                "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-vrabel-calls-christian-gonzalezs-situation-unique-in-relation-to-devon-witherspoon-contract",
-                "source": "NBC Sports",
-                "date": "2026-08-17T13:49:59Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Jayden Daniels has learned a valuable, and costly, P.R. lesson",
-                "desc": "The recent issue between LSU and Commanders quarterback Jayden Daniels started because LSU made a promise to Daniels that it ultimately couldn't keep, because of a conflicting promise made to cornerback DJ Pickett.",
-                "image": "https://nbcsports.brightspotcdn.com/dims4/default/8a98357/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F1d%2Ffe%2F55ce841b46279a658d437a3d1197%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2289881732",
-                "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jayden-daniels-has-learned-a-valuable-and-costly-p-r-lesson",
-                "source": "NBC Sports",
-                "date": "2026-08-17T13:49:57Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "NFL news roundup: Breece Hall strains groin at Jets practice; Najee Harris visits Giants",
-                "desc": "NFL.com keeps you up to date with all of the latest league news from around the NFL. Visit NFL.com's transaction hub for a daily breakdown.",
-                "image": "https://static.www.nfl.com/image/upload/t_editorial_landscape_12_desktop/league/bfcfh4hu3i1nla2dsutr",
-                "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-monday-aug-17",
-                "source": "NFL.com",
-                "date": "2026-08-17T13:47:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Russell Westbrook Never Chilled. Thank God.",
-                "desc": "For 18 seasons, the retiring Russell Westbrook both drove us nuts and blew our minds. More than anything, though, the Thunder star made us feel alive.",
-                "image": "https://wp.theringer.com/wp-content/uploads/2026/08/cropped-TylerParkerWestbrook_Getty-Ringer-scaled-1.jpg",
-                "url": "https://www.theringer.com/2026/08/17/nba/russell-westbrook-retirement-highlights-stats-thunder-triple-doubles",
-                "source": "The Ringer",
-                "date": "2026-08-17T13:41:07Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Detroit Lions roster bubble watch: Big questions at QB, WR",
-                "desc": "Predicting the tightest Detroit Lions training camp battles on offense after Preseason Game 1.",
-                "image": "https://platform.prideofdetroit.com/wp-content/uploads/sites/127/2026/08/gettyimages-2289872067.jpg?quality=90&strip=all&crop=0%2C10.728997389375%2C100%2C78.542005221249&w=1200",
-                "url": "https://www.prideofdetroit.com/detroit-lions-analysis/169571/detroit-lions-roster-bubble-watch-big-questions-at-qb-wr",
-                "source": "Pride Of Detroit",
-                "date": "2026-08-17T13:06:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Little League World Series 2026 full list of teams for Williamsport",
-                "desc": "Which team shocks the world in Williamsport? Learn about the 20 teams chasing the Little League World Series title and the future global superstars.",
-                "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/16/USAT/90946631007-usatsi-26898323.jpg?crop=5738,3228,x0,y191&width=3200&height=1801&format=pjpg&auto=webp",
-                "url": "https://www.usatoday.com/story/sports/mlb/llws/2026/08/17/little-league-world-series-2026-teams-williamsport/90285352007/",
-                "source": "USA Today",
-                "date": "2026-08-17T12:59:00Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-08-18T07:30:28.873836Z"
+    "lastGlobalSync": "2026-08-18T08:24:37.138361Z"
 }
