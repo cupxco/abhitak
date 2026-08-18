@@ -2,6 +2,42 @@
     "hi": {
         "general": [
             {
+                "title": "मोदी सरकार के मुख्य आर्थिक सलाहकार ने ई10 पेट्रोल की वकालत क्यों की",
+                "desc": "मोदी सरकार में मुख्य आर्थिक सलाहकार वी अनंत नागेश्वरन ने पुरानी गाड़ियों के लिए ई10 पेट्रोल लाने की बात की है. इसके बाद सोशल मीडिया पर कई लोगों ने केंद्र सरकार से ही सवाल किए हैं.",
+                "image": "https://ichef.bbci.co.uk/news/1200/branded_hindi/af3c/live/6ee76e70-9a2e-11f1-90d9-9d833c0912f2.jpg",
+                "url": "https://www.bbc.com/hindi/articles/ce857e11vnlo",
+                "source": "BBC",
+                "date": "2026-08-17T16:14:08Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "JSSC-CGL परीक्षा रद्द, प्रदर्शनकारी छात्रों में जश्न, सीएम हेमंत बोले-SOP का पालन होता तो गड़बड़ियां नहीं होती",
+                "desc": "झारखंड में काफी समय से प्रदर्शन कर रहे छात्रों की मांगों को सरकार ने मान लिया है जिसके बाद प्रदर्शनकारी छात्र जश्न मनाते नजर आए।",
+                "image": "https://static.langimg.com/nbt/thumb/133301395/jpsccgl-exam-cancelled.jpg?imgsize=192799&width=1600&height=900&resizemode=75",
+                "url": "https://navbharattimes.indiatimes.com/state/jharkhand/ranchi/jpsc-cgl-exam-cancelled-protesting-students-celebrate-cm-hemant-irregularities-would-not-have-occurred-had-sop-been-followed/articleshow/133301395.cms",
+                "source": "Navbharat Times",
+                "date": "2026-08-17T16:09:37Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "JSSC CGL एग्जाम कैंसिल, TDPL के जरिए हुईं सभी भर्तियां भी रद्द, सोरेन सरकार ने मानी छात्रों की मांग",
+                "desc": "झारखंड में JSSC CGL समेत TDPL के जरिए कराई गई सभी परीक्षाएं रद्द कर दी गई हैं. सीएम हेमंत सोरेन ने इसका ऐलान किया है. जांच के लिए रिटायर्ड जज की अध्यक्षता में कमेटी बनेगी.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202608/6a8334fe5bf30-all-tdpl-exams-including-jssc-cgl-cancelled-172112900-16x9.jpeg",
+                "url": "https://www.aajtak.in/india/jharkhand/story/jharkhand-jssc-cgl-exam-cancelled-cm-hemant-soren-tdpl-recruitment-ntc-dhrj-rpti-2624288-2026-08-17",
+                "source": "AajTak",
+                "date": "2026-08-17T16:04:42Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'शाहरुख खान मेरे दोस्त नहीं', 16 साल तक संग देओल ने नहीं की बात,'डर' ने बिगाड़ा रिश्ता, गुस्से में फाड़ डाली थी जींस",
+                "desc": "‘डर’ की शूटिंग के दौरान सनी देओल का गुस्सा इतना बढ़ गया था कि उन्होंने अपनी जींस फाड़ दी थी. जानिए शाहरुख खान से 16 साल की दूरी और फिर हुई सुलह की पूरी कहानी.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202608/6a83241b9a5ed-sunny-deol-angry-with-shah-rukh-khan-170909354-16x9.png",
+                "url": "https://www.aajtak.in/entertainment/bollywood-news/story/sunny-deol-reveals-shah-rukh-khan-is-not-my-friend-darr-feud-explained-ripped-jeans-in-anger-16-years-tmova-dskc-2624218-2026-08-17",
+                "source": "AajTak",
+                "date": "2026-08-17T15:40:03Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "ट्रंप ने ईरान के मुद्दे पर अब ओमान को बम से उड़ाने की दी धमकी",
                 "desc": "राष्ट्रपति डोनाल्ड ट्रंप ने फ़ॉक्स न्यूज़ को यह भी बताया कि अमेरिका का इस्लामिक रिवोल्यूशनरी गार्ड कोर के साथ सीधा गुप्त संपर्क है. हालांकि आईआरजीसी ने इसे नकार दिया है.",
                 "image": "https://ichef.bbci.co.uk/news/1200/branded_hindi/231f/live/2e815990-9a56-11f1-b792-a710e56a11dc.jpg",
@@ -35,6 +71,15 @@
                 "url": "https://hindi.moneycontrol.com/news/markets/paytm-block-deal-vijay-shekhar-sharma-promoter-entity-plans-to-sell-up-to-5-percent-stake-at-rs-1535-floor-price-2431802.html",
                 "source": "Moneycontrol Hindi",
                 "date": "2026-08-17T15:01:57Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "मानसिक प्रताड़ना, प्रेग्नेंसी और पैसों का दबाव... ट्विशा शर्मा की मौत पर CBI की चार्जशीट में बड़े खुलासे",
+                "desc": "Twisha Death Case में CBI चार्जशीट में मानसिक प्रताड़ना, प्रेग्नेंसी, पैसों को लेकर दबाव, काउंसलिंग और मौत से पहले के घटनाक्रम को लेकर कई गंभीर दावे सामने आए हैं. ये चार्जशीट नहीं बल्कि ट्विशा के उत्पीड़न की कहानी है. पढ़ें क्या लिखा है चार्जशीट में.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202608/6a832173dea75-twisha-death-case-175750536-16x9.jpg",
+                "url": "https://www.aajtak.in/crime/police-and-intelligence/story/twisha-death-case-cbi-chargesheet-samarth-singh-giribala-singh-mental-cruelty-pvzs-rpti-2624211-2026-08-17",
+                "source": "AajTak",
+                "date": "2026-08-17T15:00:12Z",
                 "priority": "STANDARD"
             },
             {
@@ -494,51 +539,6 @@
                 "url": "https://www.abplive.com/news/india/ugc-net-2026-nta-conduct-re-exams-for-these-three-subjects-sources-3175932",
                 "source": "ABP News",
                 "date": "2026-08-16T15:10:52Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Batwara 1947 बनी सनी देओल-प्रीति जिंटा की हाईएस्ट ग्रॉसिंग फिल्म, 4 मूवीज का तोड़ा रिकॉर्ड",
-                "desc": "Batwara 1947 Box office Collection: सनी देओल की फिल्म 'बंटवारा 1947', 'आवारापन 2' के आगे टिक नहीं पाई लेकिन फिर भी इसने बॉक्स ऑफिस पर अच्छी पकड़ बना रखी है. जानिए ओपनिंग वीकेंड का कलेक्शन.",
-                "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/08/16/376f53629aaf2d9c24de8604db0019b617868922035031403_original.jpg?impolicy=abp_cdn&imwidth=1200",
-                "url": "https://www.abplive.com/entertainment/bollywood/batwara-1947-box-office-collection-becomes-sunny-deol-preity-zinta-highest-grosser-film-breaks-4-movies-records-3175926",
-                "source": "ABP News",
-                "date": "2026-08-16T15:00:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "एक्ट्रेस अनन्या राज का 27 साल की उम्र में निधन, उनके परिवार ने 1 महीने बाद दी जानकारी",
-                "desc": "अभिनेत्री अनन्या राज का 15 जुलाई को निधन हो चुका है, इसकी खबर अनन्या के इंस्टाग्राम हैंडल पर उनके परिवार की तरफ से दी गई है। इस पोस्ट में बताया गया कि अनन्या 1 साल से ज्यादा समय से शारीरिक और मानसिक परेशानियां झेल रही थीं।",
-                "image": "https://resize.indiatv.in/resize/newbucket/1200_-/2026/08/ananya-raj-demise-1786892403.jpg",
-                "url": "https://www.indiatv.in/entertainment/bollywood/actress-ananya-raj-death-family-confirms-july-15-demise-2026-08-16-1237676",
-                "source": "India TV Hindi",
-                "date": "2026-08-16T14:56:43Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "दिल्ली मेट्रो में देर रात बड़ा बवाल: लड़की की फोटो खींचने का आरोप, CISF जवान सस्पेंड; जानें पिस्टल तानने के दावे का सच",
-                "desc": "दिल्ली मेट्रो के एम्स स्टेशन पर देर रात उस वक्त हंगामा हो गया, जब यात्रियों ने एक CISF जवान पर महिला यात्री की चोरी-छिपे तस्वीरें लेने का आरोप लगाया. देखते ही देखते विवाद इतना बढ़ा कि मेट्रो प्लेटफॉर्म पर लोगों की भीड़ जमा हो गई.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202608/6a81cfc9905b0-cisf-jawan-caught-taking-woman-photo-165708430-16x9.jpg",
-                "url": "https://www.aajtak.in/india/delhi/story/cisf-jawan-caught-taking-woman-photo-in-delhi-metro-aiims-station-suspended-lcln-rpti-2623433-2026-08-16",
-                "source": "AajTak",
-                "date": "2026-08-16T14:54:35Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "दनादन निवेश... विदेशी निवेशक फिदा, 15 दिन में लगाए ₹16600 करोड़",
-                "desc": "Invest In Indian Stocks: चार महीने की तगड़ी निकासी करने के बाद जुलाई में भारतीय शेयर बाजार में वापस लौटे विदेशों निवेशकों के निवेश का सिलसिला लगातार जारी है. 15 दिन में उन्होंने 16,600 करोड़ रुपये से ज्यादा लगा दिए हैं.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202608/6a81b416365c8-fpi-invest-165856244-16x9.jpg",
-                "url": "https://www.aajtak.in/business/news/story/these-investors-invest-16600-crore-rupee-in-stock-market-see-august-15-days-fpi-data-tutc-dskc-2623382-2026-08-16",
-                "source": "AajTak",
-                "date": "2026-08-16T14:23:20Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Nag Panchami 2026: सावन के तीसरे सोमवार पर नाग पंचमी, जानें शुभ मुहूर्त और पूजन विधि",
-                "desc": "हिंदू पंचांग के अनुसार, पंचमी तिथि की शुरुआत 16 अगस्त की शाम 4:51 बजे होगी और इसका समापन 17 अगस्त की शाम 5 बजे होगा. ऐसे में नाग पंचमी की पूजा के लिए सबसे शुभ समय 17 अगस्त को सुबह 5:51 बजे से सुबह 8:29 बजे तक बताया गया है.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202608/6a81c5519430c-nag-panchami-2026-161228201-16x9.jpg",
-                "url": "https://www.aajtak.in/religion/news/story/nag-panchami-2026-shubh-muhurt-sawan-ka-teesra-somwar-puja-vidhi-upay-surya-ketu-yuti-tvisu-dskc-2622903-2026-08-16",
-                "source": "AajTak",
-                "date": "2026-08-16T14:13:46Z",
                 "priority": "STANDARD"
             }
         ],
@@ -1086,6 +1086,42 @@
         ],
         "entertainment": [
             {
+                "title": "‘शाहरुख खान हों या अजय देवगन? किसी को छोड़ेंगे नहीं’, FDA चीफ ने मचाई खलबली",
+                "desc": "विमल इलायची के विज्ञापन को लेकर जारी नोटिस पर महाराष्ट्र के एफडीए चीफ तुकाराम मुंढे का बयान आया है। सोमवार को जारी बयान में मुंढे ने स्पष्ट कहाकि चाहे शाहरुख खान हों या अजय देवगन, किसी को भी छोड़ा नहीं जाएगा।, India News in Hindi - Hindustan",
+                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/08/17/1600x900/logo/Tukaram_1786983657855_1786983672064_f289129b-3aac-4f92-a773-c6366607c7b3.jpg",
+                "url": "https://www.livehindustan.com/national/nobody-will-be-spared-says-maharashtra-fda-chief-tukaram-mundhe-after-notices-to-srk-ajay-devgan-201786982806666.html",
+                "source": "Hindustan",
+                "date": "2026-08-17T16:22:36Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'बुद्धिहीन अंधभक्त', कुनिका सदानंद ने यूजर को लताड़ा, JPSC-JSSC प्रोटेस्ट में जाने पर उठे सवाल तो तिलमिलाईं",
+                "desc": "कुनिका सदानंद ने फिर से सोशल मीडिया हैंडल पर एक यूजर को करारा जवाब दिया है, जिसने उनके रांची जाकर प्रोटेस्ट में शामिल होने पर सवाल उठाया था। कुनिका ने अपने सोशल वर्क को लेकर भी सफाई दी। रांची में छात्रों का आंदोलन 24वें दिन भी जारी है और कई उम्मीदवार अभी भी भूख हड़ताल पर बैठे हैं।",
+                "image": "https://static.langimg.com/nbt/thumb/133301472/kunickaa-sadanand-slams-user.jpg?imgsize=115127&width=1600&height=900&resizemode=75",
+                "url": "https://navbharattimes.indiatimes.com/tv/news/kunickaa-sadanand-slams-user-who-raise-questions-on-jpsc-jssc-protest/articleshow/133301274.cms",
+                "source": "Navbharat Times",
+                "date": "2026-08-17T16:14:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Spider-Man ने रचा इतिहास, 20 हजार करोड़ क्लब में मिली खास एंट्री",
+                "desc": "स्पाइडर मैन ब्रैंड न्यू डे ने 17 दिनों बाद वर्ल्डवाइड बॉक्स ऑफिस पर 2 बिलियन डॉलर्स यानी करीब 20,000 करोड़ रुपये का कलेक्शन कर डाला है. ऐसा करने वाली ये 8वीं फिल्म बन चुकी है. जानें और कौन-कौनसी फिल्मों ने ये कारनामा किया...",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202608/6a8324ef9cf9a-spider-man-brand-new-day-becomes-8th-movie-to-gross-2-billion-dollars-on-box-office-171241829-16x9.jpg",
+                "url": "https://www.aajtak.in/entertainment/hollywood/story/spider-man-brand-new-day-grosses-2-billion-dollars-box-office-7-other-milestone-movies-list-tmovj-dskc-2624283-2026-08-17",
+                "source": "AajTak",
+                "date": "2026-08-17T16:06:03Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'शाहरुख खान मेरे दोस्त नहीं', 16 साल तक संग देओल ने नहीं की बात,'डर' ने बिगाड़ा रिश्ता, गुस्से में फाड़ डाली थी जींस",
+                "desc": "‘डर’ की शूटिंग के दौरान सनी देओल का गुस्सा इतना बढ़ गया था कि उन्होंने अपनी जींस फाड़ दी थी. जानिए शाहरुख खान से 16 साल की दूरी और फिर हुई सुलह की पूरी कहानी.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202608/6a83241b9a5ed-sunny-deol-angry-with-shah-rukh-khan-170909354-16x9.png",
+                "url": "https://www.aajtak.in/entertainment/bollywood-news/story/sunny-deol-reveals-shah-rukh-khan-is-not-my-friend-darr-feud-explained-ripped-jeans-in-anger-16-years-tmova-dskc-2624218-2026-08-17",
+                "source": "AajTak",
+                "date": "2026-08-17T15:40:03Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "रामायण पर तीखी बहस! भगवान राम बने रणबीर को देख खुश नहीं कमेंटेटर, फिल्म के ट्रेलर को बताया 'घटिया'",
                 "desc": "एक मीडिया कमेंटेटर ने रामायण फिल्म में भगवान राम की भूमिका निभाने को लेकर रणबीर कपूर पर निशाना साधा है. उनका कहना है कि उस रोल में वो बिल्कुल फिट नहीं दिख रहे, जबकि अरुण गोविल आज भी राम के रोल में सही फिट दिखते हैं.",
                 "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202608/6a8319344a886-ramayana--ramayan-serial-172238746-16x9.png",
@@ -1587,42 +1623,6 @@
                 "url": "https://navbharattimes.indiatimes.com/tv/bigg-boss/himanshi-khurana-says-her-father-used-to-beat-mom-recalls-childhood-trauma/articleshow/133266310.cms",
                 "source": "Navbharat Times",
                 "date": "2026-08-15T17:31:20Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'रामायण' का 4000 करोड़ का बजट क्यों? यश ने बताई वजह, फिर बोले- मुझसे अच्छा रावण का रोल कोई नहीं निभा सकता",
-                "desc": "'आप की अदालत' में सुपरस्टार यश ने फिल्म 'रामायण' के ₹4000 करोड़ के ग्लोबल बजट, रावण के किरदार का चुनाव और रणबीर कपूर व सनी देओल की स्टार कास्ट पर खुलकर बात की।",
-                "image": "https://resize.indiatv.in/resize/newbucket/1200_-/2026/08/yash-10-1786810105.jpg",
-                "url": "https://www.indiatv.in/entertainment/bollywood/why-4000-crore-budget-for-ramayana-yash-reveals-reason-then-adds-no-one-can-play-role-of-ravana-better-than-me-2026-08-15-1237532",
-                "source": "India TV Hindi",
-                "date": "2026-08-15T17:10:12Z",
-                "priority": "CRITICAL_ALERT"
-            },
-            {
-                "title": "ब्लैक ड्रेस में Tara Sutaria ने दिखाई हॉटनेस, एकट्रेस की अदा पर फिदा हुआ इंटरनेट",
-                "desc": "टॉक्सिक गर्ल तारा सुतारिया एक अच्छी अभिनेत्री होने के साथ-साथ फैशनिस्टा भी हैं। कैजुअल हो, ग्लैमर हो या ट्रेडिशनल एक्ट्रेस का फैशन गेम हमेशा अप रहता है। हाल ही में ...",
-                "image": "https://www.jagranimages.com/webstories/photo-146810/compressed--image----9482402-1786814595.webp",
-                "url": "https://www.jagran.com/photo-stories/toxic-actress-tara-sutaria-looks-ultra-glamour-in-black-bodycon-dress-146810",
-                "source": "Jagran",
-                "date": "2026-08-15T17:08:19Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "आवारापन 2 ने दूसरे दिन भी बिगाड़ा बंटवारा 1947 का खेल, जानें किस फिल्म ने की कितनी कमाई",
-                "desc": "Day 2 Indian Box Office: आवारापन 2 और बंटवारा 1947 की रिलीज का आज दूसरा दिन है। आज 15 अगस्त को किस फिल्म ने बॉक्स ऑफिस पर बाजी मारी, आइए जानते हैं। , Entertainment Hindi News - Hindustan",
-                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/08/15/1600x900/logo/awarapan_sunny_deol_batwara_1786813312980_1786813318083_c7d5c97e-24d3-4986-8224-43f5cd377c22.png",
-                "url": "https://www.livehindustan.com/entertainment/awarapan-2-vs-batwara-1947-day-2-box-office-first-sunday-emraan-hashmi-or-sunny-deol-who-ruled-201786810621064.html",
-                "source": "Hindustan",
-                "date": "2026-08-15T17:03:14Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "एक तरफ 'गांधी', दूसरी तरफ 'फौजी'... प्रभास-अनुपम खेर की नई फिल्म का पोस्टर रिलीज",
-                "desc": "भारत के 80वें स्वतंत्रता दिवस के मौके पर मचअवेटेड फिल्म 'फौजी' की टीम ने एक खास और दमदार नया पोस्टर जारी किया है. प्रभास की ये फिल्म 3 दिसंबर 2026 को सिनेमाघर में रिलीज होगी.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202608/6a80952f27e54-prabhas-fauzi-153449901-16x9.jpg",
-                "url": "https://www.aajtak.in/entertainment/bollywood-news/story/prabhas-fauzi-powerful-poster-on-independence-day-2026-mahatama-gandhi-look-freedom-tmovg-dskc-2622882-2026-08-15",
-                "source": "AajTak",
-                "date": "2026-08-15T16:50:49Z",
                 "priority": "STANDARD"
             }
         ],
@@ -2172,6 +2172,42 @@
     "en": {
         "general": [
             {
+                "title": "Mark Walter probe raises fears of ripple effects across Wall Street’s $1T insurance bet",
+                "desc": "Federal probe into Lakers owner is raising questions about Wall Street playbook that uses insurance capital to back private-credit deals, investments",
+                "image": "https://nypost.com/wp-content/uploads/sites/2/2026/08/mark-walter-probe-raises-fears-137709273.jpg?quality=75&strip=all&w=1200",
+                "url": "https://nypost.com/2026/08/17/business/mark-walter-probe-raises-fears-of-ripple-effects-across-wall-streets-1t-insurance-bet/",
+                "source": "New York Post",
+                "date": "2026-08-17T16:19:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Episode 1 Of HBO's Green Lantern Adaptation",
+                "desc": "In brightest day, in blackest night... find out what happens in the DC Comics adaptation's first episode!",
+                "image": "https://www.tvline.com/img/gallery/lanterns-premiere-recap-season-1-episode-1-hbo/l-intro-1786982981.jpg",
+                "url": "https://www.tvline.com/2237785/lanterns-premiere-recap-season-1-episode-1-hbo/",
+                "source": "TVLine",
+                "date": "2026-08-17T16:09:52Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Long-awaited trial begins in rapper Tupac Shakur's 1996 killing in Las Vegas",
+                "desc": "Fans of Tupac Shakur are arriving at a Las Vegas courthouse for opening statements in the trial of a man accused of orchestrating the killing of the legendary rapper.",
+                "image": "https://img.ksl.com/slc/3197/319799/31979994.jpg?filter=kslv2/responsive_story_lg",
+                "url": "https://www.ksl.com/article/51610328/long-awaited-trial-begins-in-rapper-tupac-shakurs-1996-killing-in-las-vegas",
+                "source": "KSL.com",
+                "date": "2026-08-17T15:50:22Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Rebel Creamery files for bankruptcy amid Van Leeuwen lawsuit",
+                "desc": "The ice cream brand, which sells products at grocery stores nationwide, has filed for Chapter 11 bankruptcy.",
+                "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/08/17/USAT/91337308007-20240430-t-223812-z-575313576-mt-1-usatoday-23151577-rtrmadp-3-cinnamonhoneyandblueberryhibiscusicecreamfrom.JPG?crop=792,445,x0,y184&width=792&height=445&format=pjpg&auto=webp",
+                "url": "https://www.usatoday.com/story/money/2026/08/17/rebel-creamery-files-bankruptcy-van-leeuwen-lawsuit/91334520007/",
+                "source": "USA Today",
+                "date": "2026-08-17T15:39:00Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Watch Live: Prosecution rests in Lindsay Clancy murder trial, defense set to call witnesses",
                 "desc": "Lindsay Clancy's Massachusetts murder trial is back underway Monday in Plymouth Superior Court with a fourth week of witness testimony.",
                 "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/17/8b49247e-b2a5-4026-82df-33eb17036071/thumbnail/1200x630/94cb33ce748e24be75d0b38cb323c4c5/ap26229512562784-1.jpg",
@@ -2674,45 +2710,36 @@
                 "source": "CNN",
                 "date": "2026-08-16T19:25:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Officials give update on Lexington mass shooting",
-                "desc": "Lexington Mayor Linda Gorton, Lexington Police Chief Lawrence Weathers, and Director of One Lexington Devine Carama deliver an update on Saturday night’s mass shooting in Charles Young Park.",
-                "image": "https://gray-wkyt-prod.gtv-cdn.com/resizer/v2/LTJZL4VASJEJXFJUYDW4LKRY74.jpg?auth=143183aba6b30f819dbb73c27c90f7183b077cfc45c153c2695aaf76f1559b33&width=1200&height=600&smart=true",
-                "url": "https://www.wkyt.com/2026/08/16/officials-give-update-lexington-mass-shooting/",
-                "source": "WKYT",
-                "date": "2026-08-16T19:11:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Din Thomas retires from cornering fighters after Gillian Robertson’s disappointing loss at UFC 330",
-                "desc": "Din Thomas retires from corner at tough loss at UFC 330",
-                "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/08/gettyimages-2275349178.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-                "url": "https://www.mmafighting.com/ufc/505345/din-thomas-retires-from-cornering-fighters-after-gillian-robertsons-disappointing-loss-at-ufc-330",
-                "source": "mmafighting.com",
-                "date": "2026-08-16T19:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "6 dead from historic flooding in Indiana",
-                "desc": "Indiana public safety officials say at least six people have died during days of storms and historic flooding in the state.",
-                "image": "https://dims.apnews.com/dims4/default/d7b17d2/2147483647/strip/true/crop/5712x3806+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F79%2F3c%2F8b2622ebb91b40c3e05d356ca582%2Ff750008b0beb4dbe8481a2f5fdc38e0e",
-                "url": "https://apnews.com/article/flooding-indiana-severe-weather-aa3624a3ff1a0d241f62ec980a23e856",
-                "source": "AP News",
-                "date": "2026-08-16T18:54:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Nutella's Empire Is Buying up US Snack Brands and Grown Revenue to $3B",
-                "desc": "Ferrero spent billions buying US food brands, growing revenue fivefold. Its latest $3.1 billion cereal deal puts its expansion strategy to the test.",
-                "image": "https://i.insider.com/6a7de70be3df4d0cbe685a0b?width=1200&format=jpeg",
-                "url": "https://www.businessinsider.com/ferrero-nutella-buying-america-brands-nestle-kellogg-fannie-may-2026-8",
-                "source": "Business Insider",
-                "date": "2026-08-16T18:45:00Z",
-                "priority": "STANDARD"
             }
         ],
         "business": [
+            {
+                "title": "Google Aims to Boost AI With Purchase of Spirit Airlines Data",
+                "desc": "Google LLC won a bankruptcy auction for a trove of deindentified business data, software code, and operations records from collapsed low-cost carrier Spirit Aviation Holdings Inc., saying it plans to use the assets to improve its artificial intelligence.",
+                "image": "https://bwrite-static.bloombergindustry.com/dims4/default/33932a4/2147483647/strip/false/crop/3995x1540+3+836/resize/960x370!/quality/90/?url=https%3A%2F%2Fbloomberg-bna-brightspot.s3.us-east-1.amazonaws.com%2Fb0%2F5e%2Fb76adf00483e9cceca5c6f5c175c%2F454442201-1.jpg",
+                "url": "https://news.bloomberglaw.com/bankruptcy-law/google-aims-to-boost-ai-with-purchase-of-spirit-airlines-data",
+                "source": "Bloomberg Law News",
+                "date": "2026-08-17T16:22:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Investors Remember Why They Love Memory-Chip Stocks",
+                "desc": "Investors drove memory-chip stocks higher on Monday for the fifth straight trading session. Micron, Sandisk and SK Hynix all advanced.",
+                "image": "https://www.investors.com/wp-content/uploads/2026/08/stock-SKHynix-chip-company.jpg",
+                "url": "https://www.investors.com/news/technology/sk-hynix-sandisk-micron-memory-chip-stocks/",
+                "source": "Investor's Business Daily",
+                "date": "2026-08-17T16:06:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Rebel Creamery files for bankruptcy amid Van Leeuwen lawsuit",
+                "desc": "The ice cream brand, which sells products at grocery stores nationwide, has filed for Chapter 11 bankruptcy.",
+                "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/08/17/USAT/91337308007-20240430-t-223812-z-575313576-mt-1-usatoday-23151577-rtrmadp-3-cinnamonhoneyandblueberryhibiscusicecreamfrom.JPG?crop=792,445,x0,y184&width=792&height=445&format=pjpg&auto=webp",
+                "url": "https://www.usatoday.com/story/money/2026/08/17/rebel-creamery-files-bankruptcy-van-leeuwen-lawsuit/91334520007/",
+                "source": "USA Today",
+                "date": "2026-08-17T15:39:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Uber Aims For 1 Million Daily Drone Deliveries With Zipline Partnership",
                 "desc": "The first Zipline drone deliveries for Uber Eats orders will start later this year.",
@@ -3225,36 +3252,72 @@
                 "source": "The Motley Fool",
                 "date": "2026-08-16T13:30:06Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Bay Area Eataly restaurant closed after visit from health inspector",
-                "desc": "A restaurant inside the Silicon Valley Eataly has been shut down by health inspectors after they discovered vermin in the kitchen.",
-                "image": "https://s.hdnux.com/photos/01/67/05/77/31219693/3/rawImage.jpg",
-                "url": "https://www.sfgate.com/food/article/eataly-health-inspection-22390392.php",
-                "source": "SFGATE",
-                "date": "2026-08-16T13:27:53Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Why Gen Z is obsessed with tiny $4 'blackout' pregame drink",
-                "desc": "Why Gen Z is ditching \"casual drinking\" for pocket-sized cocktails. Inside the $4 trend that has young drinkers causing them the \"elite pregame drink.\"",
-                "image": "https://nypost.com/wp-content/uploads/sites/2/2026/07/newspress-collage-g1czzlox2-1784824979631.jpg?quality=75&strip=all&1784810604&w=1200",
-                "url": "https://nypost.com/2026/08/16/lifestyle/why-gen-z-is-obsessed-with-tiny-4-blackout-pregame-drink/",
-                "source": "New York Post",
-                "date": "2026-08-16T13:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "First the penny, now the nickel: Congress moves closer to making big changes with the money in your pocket",
-                "desc": "Getting rid of the penny may cause issues for the future of the nickel, which is even more expensive to produce",
-                "image": "https://static.independent.co.uk/2026/08/12/16/50/iStock-2211338603.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
-                "url": "https://www.independent.co.uk/us/money/common-cents-act-passes-senate-penny-nickels-b3032016.html",
-                "source": "The Independent",
-                "date": "2026-08-16T12:08:00Z",
-                "priority": "STANDARD"
             }
         ],
         "entertainment": [
+            {
+                "title": "TV Star, 37, Addresses Dating Rumors With Brad Pitt, 62",
+                "desc": "The Oscar winner has been repeatedly spotted with Alia Shawkat since 2019.",
+                "image": "https://www.thedailybeast.com/resizer/v2/5JN7R7NSV5DZ7ADFOWF5FNLZUE.png?smart=true&auth=664c49401817c82fb3144eb54b609ca635e60e3fe8cf1e697545d65bd0671405&width=1200&height=630",
+                "url": "https://www.thedailybeast.com/obsessed/alia-shawkat-37-addresses-dating-rumors-with-brad-pitt-62/",
+                "source": "The Daily Beast",
+                "date": "2026-08-17T16:20:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "A Different World Stars Reunite In Trailer For Netflix Sequel Series",
+                "desc": "Watch the first footage from Netflix's upcoming A Different World sequel series.",
+                "image": "https://www.tvline.com/img/gallery/a-different-world-trailer-netflix-sequel-series/l-intro-1786983731.jpg",
+                "url": "https://www.tvline.com/2238348/a-different-world-trailer-netflix-sequel-series/",
+                "source": "TVLine",
+                "date": "2026-08-17T16:15:19Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Episode 1 Of HBO's Green Lantern Adaptation",
+                "desc": "In brightest day, in blackest night... find out what happens in the DC Comics adaptation's first episode!",
+                "image": "https://www.tvline.com/img/gallery/lanterns-premiere-recap-season-1-episode-1-hbo/l-intro-1786982981.jpg",
+                "url": "https://www.tvline.com/2237785/lanterns-premiere-recap-season-1-episode-1-hbo/",
+                "source": "TVLine",
+                "date": "2026-08-17T16:09:52Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "‘They Make a Noise Like Feathers’",
+                "desc": "It’s not surprising that Alice and Catherine would form such a fast, uneasy bond … before leading to a stomach-turning standoff.",
+                "image": "https://pyxis.nymag.com/v1/imgs/f33/f4e/35be990e082d7ffd3ec14e6a228bb068c0-furious-ep6.1x.rsocial.w1200.jpg",
+                "url": "https://www.vulture.com/article/furious-recap-season-1-episode-6-hulu.html",
+                "source": "Vulture",
+                "date": "2026-08-17T16:00:08Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Welcome to Derry' Renewed for Season 2 at HBO",
+                "desc": "'It: Welcome to Derry' has been renewed for Season 2 at HBO.",
+                "image": "https://variety.com/wp-content/uploads/2025/12/Welcome-to-Derry.jpg?w=1000&h=563&crop=1",
+                "url": "https://variety.com/2026/tv/news/it-welcome-to-derry-renewed-season-2-hbo-1236836194/",
+                "source": "Variety",
+                "date": "2026-08-17T16:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Welcome to Derry' Renewed For Season 2 By HBO",
+                "desc": "'It: Welcome to Derry' has secured a Season 2 renewal at HBO, Deadline has learned. Brad Caleb Kane takes over as sole showrunner this time.",
+                "image": "https://deadline.com/wp-content/uploads/2025/12/bill-skarsgard_4.jpg?w=1000",
+                "url": "https://deadline.com/2026/08/it-welcome-to-derry-renewed-season-2-hbo-1237042942/",
+                "source": "Deadline",
+                "date": "2026-08-17T16:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Bonnie Tyler is remembered as worldwide star at her Welsh funeral",
+                "desc": "Fans have gathered outside a Welsh church to honor singer Bonnie Tyler, who died last month at age 75.",
+                "image": "https://dims.apnews.com/dims4/default/8c70b49/2147483647/strip/true/crop/3336x2223+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe2%2F1e%2Feb842f162fdd5b37dc5d288fff4c%2F80ffeff26130448cbe22c414ec4f512d",
+                "url": "https://apnews.com/article/welsh-singer-bonnie-tyler-funeral-eclipse-224838ff41156f38b1247251b7007ff7",
+                "source": "AP News",
+                "date": "2026-08-17T15:47:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Brandon Flowers on New Country Album, Recording Again With the Killers",
                 "desc": "Killers frontman Brandon Flowers cut his new LP 'Thrasher' after an existential crisis where he thought about quitting music and taking a normal job.",
@@ -3731,72 +3794,99 @@
                 "source": "Yahoo News UK",
                 "date": "2026-08-16T16:45:35Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Thousands of Bonnie Tyler fans line the streets of Wales as late singer's coffin is brought home",
-                "desc": "Thousands of Bonnie Tyler's fans lined the streets of Wales to bid the \"Total Eclipse of the Heart\" singer farewell as her coffin was brought home.",
-                "image": "https://pagesix.com/wp-content/uploads/sites/3/2026/08/137611687.jpg?quality=75&strip=all&w=1200",
-                "url": "https://pagesix.com/2026/08/16/celebrity-news/thousands-of-bonnie-tyler-fans-line-the-streets-of-wales-as-late-singers-coffin-is-brought-home/",
-                "source": "Page Six",
-                "date": "2026-08-16T16:35:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The names to know in the Tupac Shakur murder trial",
-                "desc": "Almost 30 years after hip-hop legend Tupac Shakur’s murder, the only person ever charged in his death is going to trial.",
-                "image": "https://media.cnn.com/api/v1/images/stellar/prod/shutterstock-editorial-5879699c.jpg?c=16x9&q=w_800,c_fill",
-                "url": "https://www.cnn.com/2026/08/16/us/key-figures-tupac-shakur-trial",
-                "source": "CNN",
-                "date": "2026-08-16T16:30:29Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "week for Italy’s art police and museum security : NPR",
-                "desc": "On Friday, Italian police said they'd recovered three paintings stolen from a museum near the city of Parma. By Saturday night, thieves in Sicily had made off with four more masterpieces.",
-                "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6549x3684+0+380/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff6%2Fa2%2F7d3af3734da5b17a68315fbf6df3%2Fap26228358395642.jpg",
-                "url": "https://www.npr.org/2026/08/16/nx-s1-5933052/sicily-art-heist-museum-parma",
-                "source": "NPR",
-                "date": "2026-08-16T16:27:54Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Renaissance artworks by da Messina stolen from Sicily museum",
-                "desc": "Thieves have stolen four works attributed to Sicilian Renaissance painter Antonello da Messina from a regional museum in the city of Messina in Sicily.",
-                "image": "https://dims.apnews.com/dims4/default/0772ffb/2147483647/strip/true/crop/6549x4364+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe9%2F91%2F52f2e9286dae369e04bc9b31454f%2F960f83fcfd7244c694c7a8b9a989e689",
-                "url": "https://apnews.com/article/italy-museum-theft-sicily-da-messina-e95850508384f8e84ae7870510aa3124",
-                "source": "AP News",
-                "date": "2026-08-16T16:14:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Betty White's Second Sitcom Was Canceled Thanks To A Meddling Sponsor",
-                "desc": "Plymouth forced Date With the Angels to abandon its dream sequences only hurt it. To then complete her contract, Better White hosted a generic variety show.",
-                "image": "https://www.tvline.com/img/gallery/betty-whites-second-sitcom-was-canceled-thanks-to-a-meddling-sponsor/l-intro-1786127213.jpg",
-                "url": "https://www.tvline.com/2234508/betty-white-second-sitcom-canceled-meddling-sponsor-date-with-the-angels/",
-                "source": "tvline.com",
-                "date": "2026-08-16T16:12:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Looks Like Elizabeth Olsen Had Her Baby",
-                "desc": "Elizabeth Olsen and her husband Robbie Arnett were pictured out in Los Angeles on Saturday with their new baby.",
-                "image": "https://pyxis.nymag.com/v1/imgs/dc4/973/834c7780af38edba6e5035a36bc88ca01b-GettyImages-2264502873.1x.rsocial.w1200.jpg",
-                "url": "https://www.thecut.com/article/elizabeth-olsen-first-baby.html",
-                "source": "thecut.com",
-                "date": "2026-08-16T16:03:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Shannon Elizabeth swears off dating, says OnlyFans is all she needs",
-                "desc": "\"American Pie\" star Shannon Elizabeth says OnlyFans is \"the only relationship I need\" after swearing off dating on Bill Maher's \"Club Random\" podcast.",
-                "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/05/Shannon-Elizabeth-Interview.jpeg",
-                "url": "https://www.foxnews.com/entertainment/american-pie-star-shannon-elizabeth-swears-off-dating-says-onlyfans-only-relationship-need",
-                "source": "Fox News",
-                "date": "2026-08-16T16:00:21Z",
-                "priority": "STANDARD"
             }
         ],
         "sports": [
+            {
+                "title": "Aaron Donald's Wife Erica Drops Funny Carmelo Anthony Meme About Rams Return Rumors in Viral Post",
+                "desc": "Amid the frequent back-and-forth between the Los Angeles Rams and retired defensive tackle Aaron Donald, his wife, Erica, had a little fun with the ongoing saga on social media.",
+                "image": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/ap_images/2026-08/18c7b7b450bc4626b87910b9326c89dc/Training_Camp_Storylines_Football_23496_5711x3213_(0,60).jpg?w=1120&h=630",
+                "url": "https://bleacherreport.com/articles/25473917-aaron-donalds-wife-erica-drops-funny-carmelo-anthony-meme-about-rams-return-rumors-viral-post",
+                "source": "Bleacher Report",
+                "date": "2026-08-17T16:16:04Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Connor Zilisch Signs Multi-year Deal With Hendrick Motorsports",
+                "desc": "A moment he's dreamed about for years, Connor Zilisch has signed a deal with one of NASCAR's most successful teams.",
+                "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/connor-z_move-to-hendrick_2027_bob-pockrass.jpg?ve=1&tl=1",
+                "url": "https://www.foxsports.com/stories/nascar/connor-zilisch-leaving-trackhouse-multiuyear-deal-hendrick-motorsports",
+                "source": "FOX Sports",
+                "date": "2026-08-17T16:15:39Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Giants-Vikings All-22 review: First impressions don’t always tell the whole story",
+                "desc": "Let’s see if any opinions changed after watching the film.",
+                "image": "https://platform.bigblueview.com/wp-content/uploads/sites/27/2026/08/reuters-tagreuters.com2026newsml_MT1USATODAY2960108646479984.jpg?quality=90&strip=all&crop=0%2C10.726149303515%2C100%2C78.547701392971&w=1200",
+                "url": "https://www.bigblueview.com/new-york-giants-analysis/167942/giants-vikings-all-22-review-first-impressions-dont-always-tell-the-whole-story",
+                "source": "bigblueview.com",
+                "date": "2026-08-17T16:13:40Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ohio State, Oregon headline preseason AP college football poll",
+                "desc": "Ohio State and Oregon were 1-2 in the AP Top 25, giving the Big Ten Conference the top two teams in the preseason rankings for the first time in 65 years.",
+                "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0101%2Fr1595439_1296x729_16%2D9.jpg",
+                "url": "https://www.espn.com/college-football/story/_/id/49639557/ohio-state-oregon-headline-preseason-ap-college-football-poll",
+                "source": "ESPN",
+                "date": "2026-08-17T16:12:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "After unexpected NFLN layoff, Tom Pelissero lands at Netflix",
+                "desc": "Last month, ESPN unexpectedly included NFL Network reporter Tom Pelissero in the latest round of layoffs, given that he had a year left on his existing NFLN deal.",
+                "image": "https://nbcsports.brightspotcdn.com/dims4/default/896ad94/2147483647/strip/true/crop/7769x4370+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F4a%2F49%2Ff62a4d3c414fa6498e08ae6c2a99%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2191686485",
+                "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/after-unexpected-nfln-layoff-tom-pelissero-lands-at-netflix",
+                "source": "NBC Sports",
+                "date": "2026-08-17T16:09:46Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The Shedeur Sanders vs. Deshaun Watson quarterback battle is intriguing beyond football",
+                "desc": "Deshaun Watson and Shedeur Sanders are engaged in one of the most intriguing preseason quarterback competitions in recent NFL history. The Cleveland Browns’ sta…",
+                "image": "https://andscape.com/wp-content/uploads/2026/08/GettyImages-2290115679-e1786970862528.jpg",
+                "url": "https://andscape.com/features/shedeur-sanders-deshaun-watson-browns-quarterback-battle-2026/",
+                "source": "andscape.com",
+                "date": "2026-08-17T16:07:43Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "NFL insider shares Aaron Donald update after 2nd Rams workout",
+                "desc": "Ian Rapoport says it's \"not yet\" time for Aaron Donald to officially announce his return, despite working out for the Rams again.",
+                "image": "https://theramswire.usatoday.com/gcdn/authoring/images/smg/2025/02/27/SRAM/80662953007-64-642149.jpeg?crop=5471,3078,x0,y182&width=3200&height=1801&format=pjpg&auto=webp",
+                "url": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/08/17/rams-aaron-donald-ian-rapoport-workout-update/91337258007/",
+                "source": "Rams Wire",
+                "date": "2026-08-17T16:07:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Everything I Saw at Day 14 of Jaguars Training Camp: Emmanuel Pregnon Keeps Climbing",
+                "desc": "Here is everything we witnessed at Jacksonville Jaguars training camp on Monday, including a nice day from Emmanuel Pregnon.",
+                "image": "https://images2.minutemediacdn.com/image/upload/c_crop,x_961,y_289,w_1453,h_817/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/jaguar_report/01m085kedy8jv0d1z2vq.jpg",
+                "url": "https://www.si.com/nfl/jaguars/onsi/jacksonville-everything-i-saw-at-day-14-of-training-camp-emmanuel-pregnon-keeps-climbing",
+                "source": "Sports Illustrated",
+                "date": "2026-08-17T16:05:11Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Von Miller to sign with Cowboys amid EDGE overhaul",
+                "desc": "The Cowboys' pass rush could take a step forward with the latest addition.",
+                "image": "https://sportshub.cbsistatic.com/i/r/2026/08/17/ffd8876e-2ad8-4a13-ad8a-34c4ec5f8d85/thumbnail/1200x675/ceab5b6a6c19512a3c9f229bbc5b1f80/gettyimages-2242458177-1.jpg",
+                "url": "https://www.cbssports.com/nfl/news/von-miller-to-sign-with-cowboys/",
+                "source": "CBS Sports",
+                "date": "2026-08-17T16:03:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Sean Strickland calls Din Thomas ‘sh*t coach’ for reaction to Gillian Robertson loss at UFC 330",
+                "desc": "Sean Strickland has no respect for Din Thomas giving up on his fighter during UFC 330 this past weekend.",
+                "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/08/gettyimages-2213269672.jpg?quality=90&strip=all&crop=0%2C1.4420553241807%2C100%2C78.519608267347&w=1200",
+                "url": "https://www.mmafighting.com/ufc/505555/sean-strickland-calls-din-thomas-sht-coach-for-reaction-to-gillian-robertson-loss-at-ufc-330",
+                "source": "MMA Fighting",
+                "date": "2026-08-17T16:00:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "NFL cornerback, 28, retires days after signing with new team",
                 "desc": "NFL defensive back Sam Webb was placed on the New York Giants' Reserve/Retired list after playing just one preseason game against the Minnesota Vikings.",
@@ -4246,98 +4336,8 @@
                 "source": "Yahoo Sports",
                 "date": "2026-08-16T21:06:42Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "CB Keisean Nixon not guaranteed starting role with Packers",
-                "desc": "The deeper the Packers get into training camp, the more uncertain it is that Keisean Nixon will be one of their opening-day starting cornerbacks.",
-                "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0816%2Fr1702699_1296x729_16%2D9.jpg",
-                "url": "https://www.espn.com/nfl/story/_/id/49631890/cb-keisean-nixon-not-guaranteed-starting-role-packers",
-                "source": "ESPN",
-                "date": "2026-08-16T20:58:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "49ers' George Kittle eyes return to practice, opener in Australia",
-                "desc": "George Kittle, who suffered a torn Achilles in January, said he might be able to practice soon with the hope that he'll be ready for the 49ers' opener vs. the Rams.",
-                "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0816%2Fr1702693_1296x729_16%2D9.jpg",
-                "url": "https://www.espn.com/nfl/story/_/id/49631705/49ers-george-kittle-eyes-return-practice-opener-australia",
-                "source": "espn.com",
-                "date": "2026-08-16T20:51:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Red Sox Notes: Yoshida, Slaten, Anthony, Story, IKF",
-                "desc": "The Red Sox place two players on the injured list, but three players are on the verge of rehab assignment. MLB Trade Rumors has the details.",
-                "image": "https://cdn.mlbtraderumors.com/files/2026/04/JustinSlaten-1024x683.jpg",
-                "url": "https://www.mlbtraderumors.com/2026/08/red-sox-notes-yoshida-slaten-anthony-story-ikf.html",
-                "source": "mlbtraderumors.com",
-                "date": "2026-08-16T20:48:10Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Sophie Cunningham name banned from WNBA subreddit amid 'trans' scandal",
-                "desc": "Indiana Fever guard Sophie Cunningham's 30th birthday may have just been spoiled by the latest WNBA decision.",
-                "image": "https://nypost.com/wp-content/uploads/sites/2/2026/08/sophiecunningham-1.jpg?quality=75&strip=all&1786894163&w=1200",
-                "url": "https://nypost.com/2026/08/16/sports/sophie-cunningham-name-banned-wnba-subreddit-amid-trans-scandal/",
-                "source": "New York Post",
-                "date": "2026-08-16T20:24:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Training Camp Report: Aug. 16",
-                "desc": "'But from a physicality standpoint, I'm always getting it'",
-                "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/steelers/rgohvjwwcxsa7kxrgk9r",
-                "url": "https://www.steelers.com/news/training-camp-report-aug-16",
-                "source": "Steelers.com",
-                "date": "2026-08-16T20:21:49Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Sean Shelby's Shoes: What's next for Ian Machado Garry after UFC 330 loss?",
-                "desc": "What's Ian Machado Garry next step after his UFC 330 title fight loss? We attempt to play matchmaker.",
-                "image": "https://s.yimg.com/lo/mysterio/api/8aa4eb6c70ba06157ed2ac4b23d624eeb91e84f2dc6487a64a1e566abf510c08/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmma_junkie_usa_today_articles_344%2F79b48b7525868e909e574fce3050cc3b.jpg",
-                "url": "https://sports.yahoo.com/articles/sean-shelbys-shoes-whats-next-202017132.html",
-                "source": "Yahoo Sports",
-                "date": "2026-08-16T20:20:17Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Cleveland Browns Quarterbacks Against the Chicago Bears: What We've Been Told",
-                "desc": "The Cleveland Browns quarterback position has been the biggest topic coming out of their preseason game against the Chicago Bears. TheOBR has additional information on where the situations currently stands.",
-                "image": "https://s3media.247sports.com/Uploads/Assets/743/864/12864743.png?width=1200&height=628&crop=1.91:1&fit=cover",
-                "url": "https://247sports.com/nfl/cleveland-browns/longformarticle/cleveland-browns-quarterbacks-what-weve-been-told-288980178/",
-                "source": "247Sports",
-                "date": "2026-08-16T20:17:46Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "5 takeaways from Bills win over Panthers in first preseason game",
-                "desc": "What I took from the Bills win over the Panthers in preseason week No. 1",
-                "image": "https://platform.buffalorumblings.com/wp-content/uploads/sites/51/2026/08/gettyimages-2290069813.jpg?quality=90&strip=all&crop=0%2C12.785672733317%2C100%2C74.428654533367&w=1200",
-                "url": "https://www.buffalorumblings.com/buffalo-bills-analysis/138577/5-takeaways-from-bills-win-over-panthers-in-first-preseason-game",
-                "source": "Buffalo Rumblings",
-                "date": "2026-08-16T20:15:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "UFC 330 takeaways: Makhachev vulnerable for 1st time in a",
-                "desc": "Islam Makhachev retained the UFC welterweight championship Saturday, defeating Ian Machado Garry by unanimous decision in the UFC 330 main event in Philad…",
-                "image": "https://assets-cms.thescore.com/uploads/image/file/844489/w640xh480_TakeAwaysOverlay.jpg?ts=1786907277",
-                "url": "https://www.thescore.com/mma/news/3580711/ufc-330-takeaways-makhachev-vulnerable-for-1-st-time-in-a-while",
-                "source": "theScore",
-                "date": "2026-08-16T19:48:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Training Camp Notebook 8/16: Versatility continues to shine through in Raiders offense",
-                "desc": "Connor Heyward at fullback and receiver development among top takeaways from Sunday's practice.",
-                "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/raiders/loxazjfny4kxy5tfb0fq",
-                "url": "https://www.raiders.com/news/training-camp-notebook-8-16-versatility-continues-to-shine-through-in-raiders-offense",
-                "source": "Raiders.com",
-                "date": "2026-08-16T19:41:40Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-08-18T03:36:41.732106Z"
+    "lastGlobalSync": "2026-08-18T04:26:12.436547Z"
 }
