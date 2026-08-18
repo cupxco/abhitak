@@ -2,6 +2,24 @@
     "hi": {
         "general": [
             {
+                "title": "झारखंड के छात्र नेता देवेंद्र नाथ महतो ने खत्म की भूख हड़ताल, रांची सदर अस्पताल में जूस पीकर तोड़ा अनशन",
+                "desc": "Devendra Nath Mahto ends hunger strike: झारखंड में भर्ती परीक्षाओं को लेकर चल रहे छात्र आंदोलन के बीच मुख्यमंत्री हेमंत सोरेन द्वारा JSSC-CGL परीक्षा रद्द करने की घोषणा के बाद छात्र नेता देवेंद्र नाथ महतो ने अपनी भूख हड़ताल समाप्त कर दी।",
+                "image": "https://static.langimg.com/nbt/thumb/133308900/devendra-nath-mahto-ends-hunger-strike.jpg?imgsize=129799&width=1600&height=900&resizemode=75",
+                "url": "https://navbharattimes.indiatimes.com/state/jharkhand/ranchi/jharkhand-student-devendra-nath-mahto-end-hunger-strike-in-ranchi-hospital-after-jssc-cgl-exam-cancelled/articleshow/133308833.cms",
+                "source": "Navbharat Times",
+                "date": "2026-08-18T00:22:26Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "MP: ग्वालियर में भीषण सड़क हादसा... मजदूरों से भरा लोडिंग वाहन ट्रक से टकराया, 8 की मौत",
+                "desc": "मध्य प्रदेश के ग्वालियर में रविवार देर रात मजदूरों से भरा लोडिंग वाहन ट्रक से टकराकर पलट गया. हादसे में पांच लोगों की मौत हो गई और करीब 25 मजदूर घायल हो गए. सभी घायलों पास के अस्पताल में भर्ती कराया गया है.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202608/6a83a7a3ae882-gwalior-accident-183022186-16x9.png",
+                "url": "https://www.aajtak.in/india/news/story/gwalior-madhya-pradesh-road-accident-truck-loading-vehicle-death-toll-injury-ntc-agkp-dskc-2624374-2026-08-18",
+                "source": "AajTak",
+                "date": "2026-08-18T00:16:30Z",
+                "priority": "CRITICAL_ALERT"
+            },
+            {
                 "title": "'सऊदी अरब में भीख न मांगें', पाकिस्तान का हज यात्रियों को सख्त निर्देश",
                 "desc": "पाकिस्तान ने सऊदी अरब में हज और उमराह के लिए जाने वाले अपने नागरिकों को सख्त चेतावनी दी है। पाकिस्तानी दूतावास ने कहा है कि भीख मांगना, बिना अनुमति पैसे इकट्ठा करना और वीजा नियमों का उल्लंघन न करें, वरना गिरफ्तारी, हिरासत और देश निकाला हो सकता है।",
                 "image": "https://www.jagranimages.com/images/2026/08/18/template/image/jagran-photo-1787000208822_v.webp",
@@ -522,27 +540,18 @@
                 "source": "AajTak",
                 "date": "2026-08-16T17:52:14Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "आय से अधिक संपत्ति का मामले में सुप्रीम कोर्ट पहुंचे राहुल गांधी, इलाहाबाद हाई कोर्ट के जांच के आदेश को दी चुनौती",
-                "desc": "सुप्रीम कोर्ट सोमवार को कांग्रेस नेता राहुल गांधी की उस याचिका पर सुनवाई करेगा, जिसमें इलाहाबाद हाई कोर्ट के आदेश को चुनौती दी गई है।",
-                "image": "https://static.langimg.com/nbt/thumb/133279939/supreme-court.jpg?imgsize=1452597&width=1600&height=900&resizemode=75",
-                "url": "https://navbharattimes.indiatimes.com/india/supreme-court-to-hear-rahul-gandhis-plea-against-cbi-ed-probe-in-disproportionate-assets-case/articleshow/133279796.cms",
-                "source": "Navbharat Times",
-                "date": "2026-08-16T17:48:19Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "भारतीय महिला टीम ने वर्ल्ड कप में ड्रॉ के साथ की शुरुआत, चीन जैसे मजबूत टीम को रोके रखा",
-                "desc": "महिला हॉकी विश्व कप में भारत ने चीन के खिलाफ 2-2 से रोमांचक ड्रॉ खेला। नवनीत कौर और दीपिका ने भारत के लिए गोल दागे, जबकि चीन के लिए झांग यिंग और मा निंग ने बराबरी की। भारत का अगला मुकाबला मंगलवार को साउथ अफ्रीका से होगा।",
-                "image": "https://static.langimg.com/nbt/thumb/133279843/india-vs-china-hockey-world-cup-2026.jpg?imgsize=684003&width=1600&height=900&resizemode=75",
-                "url": "https://navbharattimes.indiatimes.com/sports/hockey/news/indian-women-hocket-team-draw-with-china-in-hockey-world-cup-2026/articleshow/133279674.cms",
-                "source": "Navbharat Times",
-                "date": "2026-08-16T17:25:59Z",
-                "priority": "STANDARD"
             }
         ],
         "business": [
+            {
+                "title": "Market Technicals : शॉर्ट-टर्म में नेगेटिव रुझान के साथ कंसोलिडेशन जारी रहने की उम्मीद, इन अहम लेवल्स पर रहे नजर",
+                "desc": "Market Technicals :मार्केट एक्सपर्ट्स का कहना है कि निफ्टी के लिए 24200 का लेवल सबसे नजदीकी सपोर्ट का काम कर सकता है। अगर यह लेवल टूटता है तो 24050-24000 के जोन की तरफ और गिरावट आने की संभावना बढ़ सकती है। वहीं,ऊपर की तरफ इसके लिए 24400-24500 का एरिया रेजिस्टेंस का काम कर सकता है - market technicals market experts state that the 24200 level could act as the immediate support for the nifty if this level is breached the likelihood of a further decline towards the 24050–24000 zone increases",
+                "image": "https://images.moneycontrol.com/static-hindinews/2026/08/market-lence-1600.jpg",
+                "url": "https://hindi.moneycontrol.com/news/markets/market-technicals-selling-pressure-on-nifty-may-intensify-if-24200-support-level-breaks-mondays-low-to-determine-bank-niftys-trajectory-2431838.html",
+                "source": "Moneycontrol Hindi",
+                "date": "2026-08-18T00:18:10Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "नई कार खरीदने का बना रहे हैं प्लान ! तो पहले जान लें EV या पेट्रोल कौन सी कार लेना होगा बेहतर ?",
                 "desc": "Udaipur Times, Automobile News, EV vs Petrol Car Long Term Cost : आज के दौर में लोग ऐसी कारें खरीदना पसंद करते हैं जिनसे पैसे की बचत हो। नई कार खरीदने के बारे में सोचते समय, सबसे पहला सवाल यह उठता है कि पेट्रोल गाड़ी ली जाए या इलेक्ट्रिक गाड़ी (EV)।",
@@ -550,6 +559,24 @@
                 "url": "https://udaipurtimes.com/hindi/are-you-planning-to-buy-a-new-car-so-first-know-which-car/cid19140172.htm",
                 "source": "UdaipurTimes.com",
                 "date": "2026-08-17T16:33:14Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Jio ने दुबारा लॉन्च किया Prime ऑफर, 300 रुपये दे कर एक साल के लिए प्लान कर सकते हैं लॉक",
+                "desc": "Jio ने एक ऐसा प्लान लॉन्च किया है जो लोगों को कन्फ्यूज कर रहा है. एक्सपर्ट्स मान रहे हैं कि टेलीकॉम कंपनियां अब अपने प्लान्स महंगे करने वाले हैं. इसी बीच जियो ने प्राइम को दुबारा लॉन्च किया है. कंपनी के मुताबिक इस प्लान को लेने वाले यूजर्स को एक साल तक एक ही प्राइस में रिचार्ज होगा. क्या है इसका पूरा मतलब आइए समझते हैं.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202608/6a832d3625f17-ril-shares--which-are-down-1539-this-year--will-be-among-the-most-tracked-stocks-in-the-next-few-d-172015963-16x9.jpg",
+                "url": "https://www.aajtak.in/technology/tech-news/story/jio-prime-300-rupees-one-year-price-guarantee-recharge-tariff-hike-ttecm-dskc-2624234-2026-08-17",
+                "source": "AajTak",
+                "date": "2026-08-17T15:48:27Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "DII Fund Flow: आज बाजार में जितना विदेशी निवेशकों ने माल बेचा, उससे दोगुना घरेलू निवेशकों ने खरीदा, जानिए क्या आंकड़ा रहा?",
+                "desc": "FII-DII Fund Flow: NSE की वेबसाइट पर जारी प्रोविजनल आंकड़ों के मुताबिक, FIIs ने भारतीय इक्विटी में ₹2,535.10 करोड़ की नेट बिकवाली की, जबकि DIIs ने ₹5,101.46 करोड़ की नेट खरीदारी की है.",
+                "image": "https://images.cnbctv18.com/hindicnbctv18/2026/03/Market-This-Week-cover-2026-03-5eaea2cc49f14460cd2d09ef33993f39.jpg?im=FitAndFill,width=1200,height=675",
+                "url": "https://hindi.cnbctv18.com/photos/share-market/fii-dii-fund-flow-on-17-august-2026-fiis-sell-2535-crore-rs-diis-buy-5101-crore-rupees-in-equities-190915.htm",
+                "source": "CNBC TV18",
+                "date": "2026-08-17T15:07:21Z",
                 "priority": "STANDARD"
             },
             {
@@ -1054,33 +1081,6 @@
                 "url": "https://www.livehindustan.com/auto/mahindra-xuv-7xo-hybrid-launching-in-november-2026-says-a-new-report-know-all-details-201786800817940.html",
                 "source": "Hindustan",
                 "date": "2026-08-15T14:14:21Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "चीन ने 20 टन सोना खरीद लिया, लगातार 21वें महीने उठाया कदम",
-                "desc": "China Gold News: चीन से सोने पर सबसे बड़ी खबर आ गई है. लगातार 21वें महीने चीन के केंद्रीय बैंक ने बड़ी मात्रा में सोना खरीदा है. चीन ने जुलाई में अपने सोने के भंडार में 20 टन की बढ़ोतरी की.",
-                "image": "https://images.cnbctv18.com/hindicnbctv18/2026/02/image-2026-02-a1f6da60b61aa680065f7835a4a414a9.jpg?im=FitAndFill,width=1200,height=675",
-                "url": "https://hindi.cnbctv18.com/personal-finance/china-gold-news-pboc-gold-buying-for-21-months-20-tonne-in-july-190642.htm",
-                "source": "CNBC TV18",
-                "date": "2026-08-15T13:46:35Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "टाटा नेक्सॉन ईवी की नींद उड़ाने आ रही है वियतनाम की गाड़ी! भारत में टेस्टिंग के दौरान दिखी विनफास्ट VF5, देखें लुक-फीचर्स",
-                "desc": "भारतीय बाजार में आने वाले समय में कॉम्पैक्ट इलेक्ट्रिक कार सेगमेंट में काफी सारी कंपनियां अपने प्रोडक्ट पेश करने वाली है और इस कड़ी में वियतनाम की प्रमुख इलेक्ट्रिक वाहन निर्माता कंपनी विनफास्ट (VinFast) ने अपनी आगामी सब-4 मीटर इलेक्ट्रिक कार VF5 को भारतीय सड़कों पर टेस्टिंग के लिए उतार दिया है। टाटा नेक्सॉन ईवी और महिंद्रा एक्सयूवी 3XO ईवी को टक्कर देने आ रही इस कॉम्पैक्ट इलेक्ट्रिक कार को भारत में लगभग 12 लाख रुपये की शुरुआती कीमत पर लॉन्च किए जाने की उम्मीद है। बाद बाकी यह लुक और फीचर्स के साथ ही रेंज में कैसी होगी, आइए विस्तार से बताते हैं।",
-                "image": "https://static.langimg.com/nbt/thumb/133263790/vinfast-vf5-india-launch-details.jpg?imgsize=1925995&width=1600&height=900&resizemode=75",
-                "url": "https://navbharattimes.indiatimes.com/auto/ev/vinfast-vf5-spied-testing-in-india-know-expected-price-and-look-features-details/articleshow/133263707.cms",
-                "source": "Navbharat Times",
-                "date": "2026-08-15T13:42:34Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Meta का बड़ा कदम, इस देश में बच्चों के 7.56 लाख अकाउंट किए डीएक्टिवेट",
-                "desc": "Meta Social Media ban: ऑस्ट्रेलिया में 16 साल से कम उम्र के बच्चों सोशल मीडिया इस्तेमाल पर रोक के बाद Meta ने 7.96 लाख से ज्यादा डीएक्टिवेट कर दिए.",
-                "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/08/15/28075aea7825cbea88ba7e3618d4171517867826989831471_original.jpg?impolicy=abp_cdn&imwidth=1200",
-                "url": "https://www.abplive.com/technology/meta-deactivate-teens-social-media-accounts-in-australia-3175450",
-                "source": "ABP News",
-                "date": "2026-08-15T13:13:26Z",
                 "priority": "STANDARD"
             }
         ],
@@ -1628,6 +1628,24 @@
         ],
         "sports": [
             {
+                "title": "यशस्वी जायसवाल नंबर 1, ऋतुराज दूसरे पर; एशियन गेम्स में सबसे ज्यादा रन बनाने वाले टॉप 5 भारतीय",
+                "desc": "एशियन गेम्स 2026 का आयोजन जापान में होगा। 2023 के बाद भारतीय टीम लगातार दूसरी बार इस प्रतियोगिता में शिरकत करेगी। भारत के लिए अगर एशियाई खेलों में सबसे ज्यादा रन बनाने वाले बल्लेबाजों की बात करें तो यशस्वी जायसवाल लिस्ट में नंबर 1 पर हैं।",
+                "image": "https://images.jansatta.com/2026/08/yashasvi-tilak-ruturaj-asian-games-2023.jpg",
+                "url": "https://www.jansatta.com/khel/yashasvi-jaiswal-number-1-ruturaj-gaikwad-second-most-runs-asian-games-cricket-top-5-indian-batsman-tilak-varma-rinku-singh/4665757/",
+                "source": "Jansatta",
+                "date": "2026-08-18T00:13:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "जादुई स्पिन बॉलिंग, गजब की बैटिंग! टीम इंडिया को मिल गया रविंद्र जडेजा जैसा एक और ऑलराउंडर, श्रीलंका की नाक में किया दम",
+                "desc": "युवा भारतीय स्पिनर मानव सुथार ने गॉल टेस्ट में श्रीलंका के खिलाफ 4 विकेट चटकाकर अपनी बेहतरीन छाप छोड़ी, जिसके बाद उन्हें भविष्य का स्टार माना जाने लगा है।",
+                "image": "https://static.langimg.com/nbt/thumb/133303993/manav-suthar-and-ravindra-jadeja.jpg?imgsize=455058&width=1600&height=900&resizemode=75",
+                "url": "https://navbharattimes.indiatimes.com/sports/cricket/cricket-news/future-star-manav-suthar-claims-4-wickets-against-sri-lanka-to-announce-his-arrival/articleshow/133303124.cms",
+                "source": "Navbharat Times",
+                "date": "2026-08-17T23:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "IND vs SL: 'सब तलवार चलाएंगे', श्रीलंका के खिलाफ मैच के दौरान ऋषभ पंत ने रवींद्र जडेजा का उड़ाया मजाक",
                 "desc": "ऋषभ पंत और सरफराज खान के बीच रवींद्र जडेजा को लेकर हुई मजेदार बातचीत श्रीलंका के खिलाफ गॉल टेस्ट के तीसरे दिन वायरल हो गई।\nभारतीय गेंदबाजों ने श्रीलंका को 284 रन पर समेटा, जिसके बाद पंत ने जडेजा के 'तलवार चलाने' वाले सेलिब्रेशन का जिक्र किया।",
                 "image": "https://www.jagranimages.com/images/2026/08/17/template/image/Rishabh-Pant-Ravindra-Jadeja-1786989313184_v.webp",
@@ -2148,29 +2166,74 @@
                 "source": "ABP News",
                 "date": "2026-08-15T17:14:27Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "ODI वर्ल्ड कप 2027 पर बड़ा अपडेट, गांधी जयंती पर शुरू होगा टूर्नामेंट!",
-                "desc": "आईसीसी मेंस वनडे वर्ल्ड 2027 को लेकर बड़ी खबर आ रही हैं। रिपोर्ट्स के मुताबिक, टूर्नामेंट की शुरुआत 2 अक्टूबर यानी गांधी जयंती के दिन हो सकती है। 2027 का वर्ल्ड कप साउथ अफ्रीका, जिम्बाब्वे और नामीबिया की संयुक्त मेजबानी में खेला जाएगा -",
-                "image": "https://images.moneycontrol.com/static-hindinews/2026/07/ICC-2.jpg",
-                "url": "https://hindi.moneycontrol.com/sports/cricket/icc-mens-odi-world-cup-2027-reportedly-begin-on-october-2-gandhi-jayanti-article-2431185.html",
-                "source": "Moneycontrol Hindi",
-                "date": "2026-08-15T16:40:52Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "भारत-श्रीलंका मैच का अचानक से बदला समय, जानें दूसरे दिन कितने बजे शुरू होगा गाले टेस्ट",
-                "desc": "गाले टेस्ट के पहले दिन बारिश की वजह से 17 ओवरों का नुकसान हुआ था, जिसे पूरा करने के लिए दूसरे दिन के समय में बदलाव किया गया है।",
-                "image": "https://static.langimg.com/nbt/thumb/133265696/india-vs-sri-lanka-1st-test-day-2-timing-change.jpg?imgsize=534895&width=1600&height=900&resizemode=75",
-                "url": "https://navbharattimes.indiatimes.com/sports/cricket/cricket-news/india-vs-sri-lanka-1st-test-match-day-2-timing-changed-due-to-rain-ind-vs-sl/articleshow/133265633.cms",
-                "source": "Navbharat Times",
-                "date": "2026-08-15T16:28:56Z",
-                "priority": "STANDARD"
             }
         ]
     },
     "en": {
         "general": [
+            {
+                "title": "Iran war is far from over as deadline for a deal passes",
+                "desc": "The 60-day deadline for an agreement to end the Iran war and resolve the dispute over its nuclear program is expiring.",
+                "image": "https://dims.apnews.com/dims4/default/8e0e064/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F50%2Ff4%2F17118da4a196feeb3a6ed80c3ad1%2F761b9177e1d24121a7b4b6f885f9af28",
+                "url": "https://apnews.com/article/iran-us-war-diplomacy-deal-deadline-nuclear-258e9c556fc861c05ccf6ed2b38515d6",
+                "source": "AP News",
+                "date": "2026-08-18T00:13:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Hayden Panettiere’s dad ‘was just starting’ to recover from son’s 2023 death when actress died: neighbors",
+                "desc": "Hayden Panettiere’s dad, Alan “Skip” Panettiere, was just beginning to recover from his son’s 2023 death when his actress daughter died on Sunday, according to neighbors in his tight-knit New York community.",
+                "image": "https://nypost.com/wp-content/uploads/sites/2/2026/08/137742294.jpg?quality=75&strip=all&w=1200",
+                "url": "https://nypost.com/2026/08/17/us-news/hayden-panettieres-dad-was-just-starting-to-recover-from-sons-2023-death-when-actress-died-neighbors/",
+                "source": "nypost.com",
+                "date": "2026-08-18T00:00:39Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "LIV Golf to end season early and cancel the Michigan team event",
+                "desc": "LIV Golf is ending its season one tournament early. The upstart league says the team champion that was supposed to be determined next week in Michigan instead will be decided Sunday at LIV Golf Indianapolis.",
+                "image": "https://dims.apnews.com/dims4/default/20c9436/2147483647/strip/true/crop/4000x2665+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F27%2F23%2F85c8e8ce67e71e2f18273e322ac9%2F1dba8e2cd61e4bbe8a1e1dd74ed3c634",
+                "url": "https://apnews.com/article/liv-golf-indianapolis-michigan-oneil-04a06372ca49e8cb560a118f3d63bd0c",
+                "source": "AP News",
+                "date": "2026-08-17T23:53:31Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "macOS Tahoe 26.7 is Full of References to Unreleased Apple Products",
+                "desc": "The macOS Tahoe 26.7 release candidate that Apple seeded today has references to several unreleased products, from home devices to iPhones, iPads, AirPods, and Macs. Some of these codenames have shown up in prior software updates but have new feature flags, while others haven't been seen in the code before.",
+                "image": "https://images.macrumors.com/t/FjfqHH3MWXjgiT_OwGtGYggG6Ig=/3000x/article-new/2025/01/Apple-AI-Command-Center-Concept-Mock-1-Textless.jpg",
+                "url": "https://www.macrumors.com/2026/08/17/macos-26-7-unreleased-apple-devices/",
+                "source": "MacRumors",
+                "date": "2026-08-17T23:50:23Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Reddit’s AI is turning posts into podcasts and short videos",
+                "desc": "Reddit is testing adapting posts and comments into videos that are read aloud by AI voices, a technique already used by content scrapers and spammers.",
+                "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-17-at-4.32.56-PM.png?quality=90&strip=all&crop=0%2C4.5553525273851%2C100%2C90.88929494523&w=1200",
+                "url": "https://www.theverge.com/tech/981289/reddit-ai-text-video-posts",
+                "source": "The Verge",
+                "date": "2026-08-17T23:46:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ticks carrying Lyme disease are gaining ground in North Carolina, study finds",
+                "desc": "New UNC-led research shows Lyme disease is gaining ground in western North Carolina, with about 40% of adult blacklegged ticks tested carrying the bacteria that causes the disease.",
+                "image": "https://images.wral.com/dc524f74-8674-5faf-9032-ad7135d2aa1e?w=1200&h=630&height=630",
+                "url": "https://www.wral.com/lifestyles/health/ticks-carrying-lyme-disease-are-gaining-ground-in-nc-study-finds-august-2026/",
+                "source": "WRAL",
+                "date": "2026-08-17T23:45:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Penn State cocaine ring bust exposes alleged frat pipeline and 14 charged",
+                "desc": "Penn State students charged in alleged cocaine drug trafficking ring involving Delta Upsilon and Sigma Chi fraternities, Pennsylvania Attorney General Dave Sunday announced.",
+                "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/penn-staters-charged-in-massive-coke-bust-2.jpg",
+                "url": "https://www.foxnews.com/us/penn-state-cocaine-bust-nets-14-arrests-over-alleged-pledge-coke-cutting-indoctrination-rituals",
+                "source": "Fox News",
+                "date": "2026-08-17T23:36:26Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "USS Abraham Lincoln was hampered by change in supply bases, maps show",
                 "desc": "The US Navy has shifted its vital supply hub, potentially causing longer deployments and supply shortages for the USS Lincoln.",
@@ -2647,72 +2710,27 @@
                 "source": "New York Post",
                 "date": "2026-08-17T16:19:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Episode 1 Of HBO's Green Lantern Adaptation",
-                "desc": "In brightest day, in blackest night... find out what happens in the DC Comics adaptation's first episode!",
-                "image": "https://www.tvline.com/img/gallery/lanterns-premiere-recap-season-1-episode-1-hbo/l-intro-1786982981.jpg",
-                "url": "https://www.tvline.com/2237785/lanterns-premiere-recap-season-1-episode-1-hbo/",
-                "source": "TVLine",
-                "date": "2026-08-17T16:09:52Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Long-awaited trial begins in rapper Tupac Shakur's 1996 killing in Las Vegas",
-                "desc": "Fans of Tupac Shakur are arriving at a Las Vegas courthouse for opening statements in the trial of a man accused of orchestrating the killing of the legendary rapper.",
-                "image": "https://img.ksl.com/slc/3197/319799/31979994.jpg?filter=kslv2/responsive_story_lg",
-                "url": "https://www.ksl.com/article/51610328/long-awaited-trial-begins-in-rapper-tupac-shakurs-1996-killing-in-las-vegas",
-                "source": "KSL.com",
-                "date": "2026-08-17T15:50:22Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Rebel Creamery files for bankruptcy amid Van Leeuwen lawsuit",
-                "desc": "The ice cream brand, which sells products at grocery stores nationwide, has filed for Chapter 11 bankruptcy.",
-                "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/08/17/USAT/91337308007-20240430-t-223812-z-575313576-mt-1-usatoday-23151577-rtrmadp-3-cinnamonhoneyandblueberryhibiscusicecreamfrom.JPG?crop=792,445,x0,y184&width=792&height=445&format=pjpg&auto=webp",
-                "url": "https://www.usatoday.com/story/money/2026/08/17/rebel-creamery-files-bankruptcy-van-leeuwen-lawsuit/91334520007/",
-                "source": "USA Today",
-                "date": "2026-08-17T15:39:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Watch Live: Prosecution rests in Lindsay Clancy murder trial, defense set to call witnesses",
-                "desc": "Lindsay Clancy's Massachusetts murder trial is back underway Monday in Plymouth Superior Court with a fourth week of witness testimony.",
-                "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/17/8b49247e-b2a5-4026-82df-33eb17036071/thumbnail/1200x630/94cb33ce748e24be75d0b38cb323c4c5/ap26229512562784-1.jpg",
-                "url": "https://www.cbsnews.com/boston/news/lindsay-clancy-trial-watch-live-day-14/",
-                "source": "CBS News",
-                "date": "2026-08-17T15:30:42Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Sony's New 'It Happens on PS5' Ad Has Gone Down Exactly as You'd Expect",
-                "desc": "\"Discs used to happen on PS5\" - It's now been well over a month since Sony's shock announcement, in which it confirmed that it would no longer be manufacturi...",
-                "image": "https://images.pushsquare.com/3338f807c17ee/large.jpg",
-                "url": "https://www.pushsquare.com/news/2026/08/sonys-new-it-happens-on-ps5-ad-has-gone-down-exactly-as-youd-expect",
-                "source": "Push Square",
-                "date": "2026-08-17T15:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Senior Israeli official calls for killing of \"30 to 40\" people in Gaza every night: \"They're not even people\"",
-                "desc": "Israel's far-right national security minister Itamar Ben-Gvir calls for nightly \"targeted assassinations\" in Gaza: \"They're not even people.\"",
-                "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/17/e32c97f3-df0b-444a-b433-ba989a3f9e6e/thumbnail/1200x630/3d36961a0829097e0d4d173b8fb19f04/ben-gvir-2286636188.jpg",
-                "url": "https://www.cbsnews.com/news/israel-ben-gvir-gaza-netanyahu-kill-every-night/",
-                "source": "CBS News",
-                "date": "2026-08-17T15:28:19Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Defense begins calling witnesses in Lindsay Clancy murder trial",
-                "desc": "The defense has begun calling witnesses in the emotionally charged trial of Lindsay Clancy. The prosecution rested its case Monday after three weeks of testimony in the trial of the Massachusetts mom who has admitted to killing her three young children.",
-                "image": "https://dims.apnews.com/dims4/default/5eaf14b/2147483647/strip/true/crop/2685x1789+158+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F0b%2F7a%2Fd8ff6c04c2065f9752d28b6cb3d4%2F870acd21f94b4c51a311ce513a952cb1",
-                "url": "https://apnews.com/article/lindsay-clancy-postpartum-murder-trial-prosecution-5fa1e451f824009b35f8888702356aaa",
-                "source": "AP News",
-                "date": "2026-08-17T15:23:00Z",
-                "priority": "STANDARD"
             }
         ],
         "business": [
+            {
+                "title": "California approves new rules for replacement tires",
+                "desc": "California regulators on Monday approved new rules that will restrict what tires you can buy when it's time to replace them on your car. In a unanimous vote, the California Energy Commission voted to adopt new rules that will phase out the sale of replacement tires that don't meet certain energy efficiency standards.",
+                "image": "https://kubrick.htvapps.com/htv-prod/images/2506ab98-d875-4431-bec9-dc70b99ef55f.jpg?crop=1xw%3A0.8433382137628112xh%3Bcenter%2Ctop&resize=1200%3A*",
+                "url": "https://www.kcra.com/article/california-energy-commission-tire-efficiency-rules/73456508",
+                "source": "KCRA",
+                "date": "2026-08-17T23:18:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Chicago law firm launches WARN Act investigation into Tyson Foods Joslin",
+                "desc": "A Chicago-based law firm announced on Monday that they have launched an investigation into Tyson Foods following the the layoff of over 2,500 employees last week.",
+                "image": "https://gray-kwqc-prod.gtv-cdn.com/resizer/v2/CT6755WZ3BALDPFPQQSQUPAZAA.png?auth=d69fec93b5a68fb587de46c83d53d7203e42539d2da39acf960fa2da9dedf9d1&width=1200&height=600&smart=true",
+                "url": "https://www.kwqc.com/2026/08/17/chicago-law-firm-launches-warn-act-investigation-into-tyson-foods-joslin/",
+                "source": "KWQC",
+                "date": "2026-08-17T23:13:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "AI investor’s $45B hedge fund implodes after risky chip stock bets",
                 "desc": "AI investor Leopold Aschenbrenner’s massive bets on SanDisk and Micron helped trigger the collapse of his $45 billion hedge fund in July.",
@@ -3234,27 +3252,27 @@
                 "source": "Business Insider",
                 "date": "2026-08-17T11:03:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Buc-ee's to open 6 locations following Arkansas debut",
-                "desc": "The beaver-branded travel center opened its first location in Arkansas, continuing its nationwide expansion.",
-                "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/08/16/USAT/91330432007-20260622-t-163939-z-544043756-mt-1-usatoday-29245769-rtrmadp-3-customersarecheckedoutduringthebuceesgrandopening.JPG?crop=3899,2193,x0,y0&width=3200&height=1800&format=pjpg&auto=webp",
-                "url": "https://www.usatoday.com/story/money/2026/08/17/buc-ees-arkansas-opening-next-locations/91296860007/",
-                "source": "USA Today",
-                "date": "2026-08-17T11:02:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Bally's issues going concern warning over liquidity issues",
-                "desc": "Days after pausing construction on nearly all non-gaming amenities at its $1.7 billion casino complex going up in River West, Bally’s Corporation issued a going concern warning related to liquidity issues.",
-                "image": "https://www.chicagotribune.com/wp-content/uploads/2026/08/CTC-L-ballys-construction007_265578399.jpg?w=5197&h=3287",
-                "url": "https://www.chicagotribune.com/2026/08/17/ballys-chicago-going-concern-warning/",
-                "source": "Chicago Tribune",
-                "date": "2026-08-17T11:00:52Z",
-                "priority": "STANDARD"
             }
         ],
         "entertainment": [
+            {
+                "title": "Salma Hayek is officially a grandma after stepson François Pinault Jr. welcomed first baby",
+                "desc": "Salma Hayek is officially a grandma after her stepson François Pinault Jr. and his wife, Lara Cosima Henckel von Donnersmarck, welcomed their first baby.",
+                "image": "https://pagesix.com/wp-content/uploads/sites/3/2026/08/137742946.jpg?quality=75&strip=all&w=1200",
+                "url": "https://pagesix.com/2026/08/17/celebrity-news/salma-hayek-is-officially-a-grandma-after-stepson-francois-pinault-jr-welcomed-first-baby/",
+                "source": "Page Six",
+                "date": "2026-08-18T00:25:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Spoiler: Major Match Planned for WWE Sunday Night’s Main Event",
+                "desc": "WWE appears to be using tonight’s RAW to set up a serious collision for Sunday Night’s Main Event. According to the spoiler rundown for the August 17",
+                "image": "https://www.ringsidenews.com/wp-content/uploads/2026/08/big-match-set-for-wwe-sunday-night-main-event-18.jpg",
+                "url": "https://www.ringsidenews.com/spoiler-major-match-planned-wwe-sunday-nights-main-event/",
+                "source": "Ringside News",
+                "date": "2026-08-18T00:05:39Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "The End Of Oak Street's Box Office Proves One Thing About Dinosaur Movies",
                 "desc": "We have the box office results for The End of Oak Street's opening weekend, and they reaffirm a hard truth when it comes to dinosaur movies.",
@@ -3776,27 +3794,36 @@
                 "source": "NPR",
                 "date": "2026-08-17T10:00:10Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Daily Horoscope Readings for Every Zodiac Sign: Aug 17, 2026",
-                "desc": "Every weekday, the Cut’s astrology expert, Claire Comstock-Gay (aka Madame Clairevoyant) reads the horoscope for every zodiac sign.",
-                "image": "https://pyxis.nymag.com/v1/imgs/d50/e01/8c26118c20437010a5b7a7b66eec5ec504-Halle-Berry-leo-season.1x.rsocial.w1200.jpg",
-                "url": "https://www.thecut.com/article/your-daily-horoscope-madame-clairevoyant-august-17-2026.html",
-                "source": "The Cut",
-                "date": "2026-08-17T09:00:42Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Americans could soon pay a lot more for strawberries",
-                "desc": "Strawberries offer a taste of summer, even when they are eaten in the dead of winter. But the year-round treat Americans have grown accustomed to could soon get more expensive.",
-                "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2285789444.jpg?c=16x9&q=w_800,c_fill",
-                "url": "https://www.cnn.com/2026/08/17/economy/americans-could-soon-pay-a-lot-more-for-strawberries",
-                "source": "CNN",
-                "date": "2026-08-17T09:00:29Z",
-                "priority": "STANDARD"
             }
         ],
         "sports": [
+            {
+                "title": "Day 14 recap of Vikings' training camp: Defense gets the best of Kyler Murray and the offense",
+                "desc": "Murray and Carson Wentz were both picked off twice on Monday in practice.",
+                "image": "https://substackcdn.com/image/fetch/$s_!vnBT!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F30dd95d8-d4fd-406b-860e-65c63a579d53_4768x3184.jpeg",
+                "url": "https://juddzulgad.substack.com/p/day-14-recap-of-vikings-training",
+                "source": "Substack",
+                "date": "2026-08-18T00:01:20Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ketel Marte placed on restricted list after reportedly not showing up for Diamondbacks game",
+                "desc": "Marte traveled to Boston with the team, but did not show up to Fenway Park for Monday's game",
+                "image": "https://sportshub.cbsistatic.com/i/r/2026/08/17/726a13f6-c61f-4de8-8821-5cdc13377530/thumbnail/1200x675/ddc1d862a02cbb2e262aac01370bcf9a/marte-getty.png",
+                "url": "https://www.cbssports.com/mlb/news/ketel-marte-diamondbacks-restricted-list/",
+                "source": "CBS Sports",
+                "date": "2026-08-17T23:44:36Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Jordyn Tyson Injury Update and Timeline Revealed in New Saints Rumors amid Fantasy Football Drafts",
+                "desc": "The New Orleans Saints were dealt a huge injury blow on Monday.",
+                "image": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/ap_images/2026-08/dd8d557ef2b84f1dba1bc47a8ea9d0ec/Saints_Football__9187_5070x2852_(0,84).jpg?w=1120&h=630",
+                "url": "https://bleacherreport.com/articles/25474253-jordyn-tyson-injury-update-and-timeline-revealed-new-saints-rumors-amid-fantasy-football-drafts",
+                "source": "Bleacher Report",
+                "date": "2026-08-17T23:10:42Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "5 winners and losers from Patriots training camp practice on Monday",
                 "desc": "Drake Maye and other players who caught our eye during the Patriots’ practice on Monday.",
@@ -4309,35 +4336,8 @@
                 "source": "FOX Sports",
                 "date": "2026-08-17T16:15:39Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Giants-Vikings All-22 review: First impressions don’t always tell the whole story",
-                "desc": "Let’s see if any opinions changed after watching the film.",
-                "image": "https://platform.bigblueview.com/wp-content/uploads/sites/27/2026/08/reuters-tagreuters.com2026newsml_MT1USATODAY2960108646479984.jpg?quality=90&strip=all&crop=0%2C10.726149303515%2C100%2C78.547701392971&w=1200",
-                "url": "https://www.bigblueview.com/new-york-giants-analysis/167942/giants-vikings-all-22-review-first-impressions-dont-always-tell-the-whole-story",
-                "source": "bigblueview.com",
-                "date": "2026-08-17T16:13:40Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ohio State, Oregon headline preseason AP college football poll",
-                "desc": "Ohio State and Oregon were 1-2 in the AP Top 25, giving the Big Ten Conference the top two teams in the preseason rankings for the first time in 65 years.",
-                "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0101%2Fr1595439_1296x729_16%2D9.jpg",
-                "url": "https://www.espn.com/college-football/story/_/id/49639557/ohio-state-oregon-headline-preseason-ap-college-football-poll",
-                "source": "ESPN",
-                "date": "2026-08-17T16:12:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "After unexpected NFLN layoff, Tom Pelissero lands at Netflix",
-                "desc": "Last month, ESPN unexpectedly included NFL Network reporter Tom Pelissero in the latest round of layoffs, given that he had a year left on his existing NFLN deal.",
-                "image": "https://nbcsports.brightspotcdn.com/dims4/default/896ad94/2147483647/strip/true/crop/7769x4370+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F4a%2F49%2Ff62a4d3c414fa6498e08ae6c2a99%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2191686485",
-                "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/after-unexpected-nfln-layoff-tom-pelissero-lands-at-netflix",
-                "source": "NBC Sports",
-                "date": "2026-08-17T16:09:46Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-08-18T11:16:42.341021Z"
+    "lastGlobalSync": "2026-08-18T12:26:10.737546Z"
 }
