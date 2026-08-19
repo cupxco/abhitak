@@ -2172,6 +2172,42 @@
     "en": {
         "general": [
             {
+                "title": "She 'Lost Her Way'",
+                "desc": "Hayden Panettiere's estranged mother and former manager, Lesley Vogel, has spoken out about her daughter's shocking death at the age of 36.",
+                "image": "https://variety.com/wp-content/uploads/2026/08/hayden.png?w=1000&h=563&crop=1",
+                "url": "https://variety.com/2026/tv/news/hayden-panettieres-mom-speaks-out-death-1236837563/",
+                "source": "Variety",
+                "date": "2026-08-18T19:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Frank Beard, ZZ Top's Hard-Shuffling Drummer, Dead at 77",
+                "desc": "Frank Beard, ZZ Top's hard-shuffling drummer who performed with the group for more than 55 years, has died at age 77.",
+                "image": "https://www.rollingstone.com/wp-content/uploads/2026/08/frank-beard-zz-top-pre-obit.jpg?w=1600&h=900&crop=1",
+                "url": "https://www.rollingstone.com/music/music-news/frank-beard-zz-top-drummer-dead-obituary-1235607415/",
+                "source": "Rolling Stone",
+                "date": "2026-08-18T19:17:21Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Gemini in Chrome and auto browse roll out on Android in the US",
+                "desc": "After previewing in May, Google has now finished rolling out Gemini in Chrome for Android users in the US.",
+                "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/05/Gemini-in-Chrome-Android-cover.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+                "url": "https://9to5google.com/2026/08/18/gemini-chrome-android-us/",
+                "source": "9to5Google",
+                "date": "2026-08-18T19:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Jon Ossoff goes after Trump again as 2028 speculation heats up",
+                "desc": "Sen. Jon Ossoff stood next to Arizona Sen. Mark Kelly on Tuesday and delivered the kind of anti-Trump broadside that has become a campaign signature, marking the latest round in an escalating feud with the White House.",
+                "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2259830213.jpg?c=16x9&q=w_800,c_fill",
+                "url": "https://www.cnn.com/2026/08/18/politics/jon-ossoff-trump-kelly",
+                "source": "CNN",
+                "date": "2026-08-18T18:51:18Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Iran is losing control of the Strait of Hormuz",
                 "desc": "The battle for control of the Strait of Hormuz has become the focal point of the Iran war. Over the past several months, both Iran and the United States have claimed the upper hand – and the competing rhetoric has caused considerable confusion and doubt.",
                 "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-08-17t134139z-826403869-rc2c0naa7y2k-rtrmadp-3-iran-crisis-oman-hormuz-20260818181136632.JPG?c=16x9&q=w_800,c_fill",
@@ -2674,45 +2710,45 @@
                 "source": "WRAL",
                 "date": "2026-08-17T23:45:01Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Penn State cocaine ring bust exposes alleged frat pipeline and 14 charged",
-                "desc": "Penn State students charged in alleged cocaine drug trafficking ring involving Delta Upsilon and Sigma Chi fraternities, Pennsylvania Attorney General Dave Sunday announced.",
-                "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/penn-staters-charged-in-massive-coke-bust-2.jpg",
-                "url": "https://www.foxnews.com/us/penn-state-cocaine-bust-nets-14-arrests-over-alleged-pledge-coke-cutting-indoctrination-rituals",
-                "source": "Fox News",
-                "date": "2026-08-17T23:36:26Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "USS Abraham Lincoln was hampered by change in supply bases, maps show",
-                "desc": "The US Navy has shifted its vital supply hub, potentially causing longer deployments and supply shortages for the USS Lincoln.",
-                "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/08/17/USAT/91339307007-bahrain-diego-garcia-topper.png?crop=3554,1997,x197,y0&width=3200&height=1799&format=pjpg&auto=webp",
-                "url": "https://www.usatoday.com/story/graphics/2026/08/17/uss-abraham-lincoln-traveling-supply-cases-maps/91335944007/",
-                "source": "USA Today",
-                "date": "2026-08-17T23:11:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "1 death tied to storm as Lala leaves Hawaii",
-                "desc": "Thousands remain without power after Tropical Storm Lala hit Hawaii, uprooting trees and causing flash floods from Honolulu to the Big Island.",
-                "image": "https://dims.apnews.com/dims4/default/1d9b9d8/2147483647/strip/true/crop/7885x5254+0+3/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F0c%2F5d%2Fe80c1671247f1ffa84c0645af7e7%2F69cca3f55377429b8f7ebd7f26b31540",
-                "url": "https://apnews.com/article/hawaii-lala-hurricane-tropical-storm-damage-446cc73e6f3f72636cd593aa61f100cc",
-                "source": "AP News",
-                "date": "2026-08-17T23:05:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Jeanie Buss contesting family's vote to sell stake in Lakers",
-                "desc": "Jeanie Buss is contesting a claim from the rest of the Buss family that they are selling the family's remaining stake in the Lakers to new owners Josh Kushner and Bob Iger.",
-                "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0527%2Fr1664559_1296x729_16%2D9.jpg",
-                "url": "https://www.espn.com/nba/story/_/id/49642917/jeanie-buss-contesting-family-sale-stake-lakers",
-                "source": "ESPN",
-                "date": "2026-08-17T22:53:00Z",
-                "priority": "STANDARD"
             }
         ],
         "business": [
+            {
+                "title": "We upgraded Home Depot and raised our price target. It made the best of a terrible hand",
+                "desc": "Home Depot reported a very good quarter, executing well on things it can control.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108349755-1786715385810-gettyimages-2289917159-HOME_DEPOT_EARNS.jpeg?v=1786715420&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/08/18/we-upgraded-home-depot-and-raised-our-price-target-it-made-the-best-of-a-terrible-hand.html",
+                "source": "CNBC",
+                "date": "2026-08-18T19:27:54Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "State Farm is sending $5 billion in dividend checks to customers. Here's who qualifies.",
+                "desc": "More than 7.2 million checks have been mailed so far, with millions more expected to go out this week, according to State Farm.",
+                "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/18/0dfab88b-10f1-4b65-9eaf-69472850f4a0/thumbnail/1200x630/e1bf0b219f50ca06a93a80258acec002/gettyimages-2288052596.jpg",
+                "url": "https://www.cbsnews.com/news/state-farm-dividend-checks-customer-refunds/",
+                "source": "CBS News",
+                "date": "2026-08-18T19:14:47Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "August Gas Prices Set New Record As Republicans Sink America Deeper Into The Most Recent Quagmire",
+                "desc": "The 60-day memorandum of understanding has expired, but the United States isn't any closer to a deal with Iran, and gas prices aren't going down anytime soon.",
+                "image": "https://www.jalopnik.com/img/gallery/august-gas-prices-set-new-record-as-hope-fades-that-republicans-might-somehow-fix-yet-another-mess-they-made-themselves/l-intro-1787079707.jpg",
+                "url": "https://www.jalopnik.com/2239434/august-2026-gas-prices-set-new-record/",
+                "source": "Jalopnik",
+                "date": "2026-08-18T19:02:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "David Ellison Moving Out of California? Insiders Weigh Paramount Potential Exit From State",
+                "desc": "Will David Ellison really go through with his plan to leave California amid the standoff with states AGs in the Paramount-Warner Bros. merger? What the exit could mean for the company and the industry.",
+                "image": "https://variety.com/wp-content/uploads/2026/08/David-Ellison-Paramount-Leaving-California.png?w=1000&h=563&crop=1",
+                "url": "https://variety.com/2026/film/news/goodbye-to-hollywood-paramount-california-exit-david-ellison-1236837300/",
+                "source": "Variety",
+                "date": "2026-08-18T19:00:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Eric Schmidt is selling his superyacht",
                 "desc": "The former Google CEO bought the luxury megayacht three years ago from billionaire Shahid Khan.",
@@ -3216,45 +3252,72 @@
                 "source": "Fortune",
                 "date": "2026-08-17T20:09:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Paramount Demands States Post $1.88 Billion Bond Amid WBD Deal",
-                "desc": "Paramount demands states post a billion-dollar-plus bond amid Warner Bros. Discovery deal.",
-                "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/GettyImages-1185995582.jpg?crop=0px%2C322px%2C6000px%2C3358px&resize=1440%2C810",
-                "url": "https://www.hollywoodreporter.com/business/business-news/paramount-states-post-billion-dollar-bond-wbd-antitrust-1236675237/",
-                "source": "The Hollywood Reporter",
-                "date": "2026-08-17T20:02:20Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Amtrak wraps first part of East River tunnel rehab, MTA says work strained LIRR service",
-                "desc": "The national railroad fully closed one of four rail tunnels between Penn Station and Queens last year.",
-                "image": "https://api-prod.gothamist.com/images/358706/fill-1200x650|format-webp|webpquality-85/",
-                "url": "https://gothamist.com/news/amtrak-wraps-first-part-of-east-river-tunnel-rehab-mta-says-work-strained-lirr-service",
-                "source": "Gothamist",
-                "date": "2026-08-17T19:49:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Paramount Requests States, WGA Post $1.88B Bond to Cover Financial Losses While Warner Bros. Merger Remains on Hold",
-                "desc": "David Ellison's Paramount Skydance asked the judge overseeing the antitrust lawsuits filed by 12 states and the WGA to force the plaintiffs to pony up a whopping $1.88 billion bond to cover the company's losses related to the delay in its merger with Warner Bros. Discovery.",
-                "image": "https://variety.com/wp-content/uploads/2026/02/Paramount-Warner-Bros-Water-Towers.jpg?crop=0px%2C0px%2C1000px%2C562px&resize=1000%2C563",
-                "url": "https://variety.com/2026/film/news/paramount-requests-1-9-billion-bond-state-lawsuit-warner-bros-merger-1236836420/",
-                "source": "Variety",
-                "date": "2026-08-17T18:32:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Paramount seeks $1.88B bond from state AGs to cover WBD merger delay costs",
-                "desc": "Paramount agreed to delay its proposed acquisition of WBD to as late as June 2027 while the state AGs' case heads to trial.",
-                "image": "https://image.cnbcfm.com/api/v1/image/108346540-1786103503772-gettyimages-2288604996-yanow-paramoun260806_np0Sy.jpeg?v=1786103521&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/08/17/paramount-bond-merger-delay-costs.html",
-                "source": "cnbc.com",
-                "date": "2026-08-17T18:30:23Z",
-                "priority": "STANDARD"
             }
         ],
         "entertainment": [
+            {
+                "title": "Hayden Panettiere's comments about Neutrogena dropping her after she revealed postpartum depression resurface following her death",
+                "desc": "Hayden Panettiere said Neutrogena tried to drop her after she disclosed postpartum depression, resurfacing scrutiny of the brand after her death.",
+                "image": "https://s.yimg.com/lo/mysterio/api/f7b87bd32dc9e01a1e751b201471ceed7c668db1b6d4e82074c9e7fda48afcc9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Flead-hayden-neutrogena_2967.jpg",
+                "url": "https://www.yahoo.com/entertainment/celebrity/article/hayden-panettieres-comments-about-neutrogena-dropping-her-after-she-revealed-postpartum-depression-resurface-following-her-death-193027795.html",
+                "source": "Yahoo",
+                "date": "2026-08-18T19:30:27Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "She 'Lost Her Way'",
+                "desc": "Hayden Panettiere's estranged mother and former manager, Lesley Vogel, has spoken out about her daughter's shocking death at the age of 36.",
+                "image": "https://variety.com/wp-content/uploads/2026/08/hayden.png?w=1000&h=563&crop=1",
+                "url": "https://variety.com/2026/tv/news/hayden-panettieres-mom-speaks-out-death-1236837563/",
+                "source": "Variety",
+                "date": "2026-08-18T19:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Frank Beard, ZZ Top's Hard-Shuffling Drummer, Dead at 77",
+                "desc": "Frank Beard, ZZ Top's hard-shuffling drummer who performed with the group for more than 55 years, has died at age 77.",
+                "image": "https://www.rollingstone.com/wp-content/uploads/2026/08/frank-beard-zz-top-pre-obit.jpg?w=1600&h=900&crop=1",
+                "url": "https://www.rollingstone.com/music/music-news/frank-beard-zz-top-drummer-dead-obituary-1235607415/",
+                "source": "Rolling Stone",
+                "date": "2026-08-18T19:17:21Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Brand New Day' Fastest To Cross $800M U.S.",
+                "desc": "'Spider-Man: Brand New Day' Fastest Movie To Cross $800 U.S. at the domestic box office.",
+                "image": "https://deadline.com/wp-content/uploads/2026/08/MCDSPMA_SP132.jpg?w=1024",
+                "url": "https://deadline.com/2026/08/spider-man-brand-new-day-800m-record-1237044492/",
+                "source": "Deadline",
+                "date": "2026-08-18T19:16:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Tupac Shakur's family exits courtroom as autopsy photos shown at trial",
+                "desc": "Some members of Tupac Shakur's family left the courtroom before prosecutors showed autopsy photos at the trial of Duane “Keffe D” Davis.",
+                "image": "https://dims.apnews.com/dims4/default/ad2dba9/2147483647/strip/true/crop/4500x2998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F20%2Fb2%2Fa1ca40024b717037f60b824718b3%2Fc0e3ef46b7564ce190b593c87d096064",
+                "url": "https://apnews.com/article/tupac-killing-trial-keffe-duane-davis-autopsy-2a87380f91ad6759cb500311b73396ed",
+                "source": "AP News",
+                "date": "2026-08-18T18:55:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Hayden Panettiere Was Scared of 'Dangerous' Ex-Friends During Book Release",
+                "desc": "Hayden Panettiere was afraid she'd get blowback from \"dangerous\" former friends when she released her memoir ... TMZ has learned.",
+                "image": "https://imagez.tmz.com/image/a5/16by9/2026/08/18/a5aedc7ff8714c5992c0c69fcef959f6_xl.jpg",
+                "url": "https://www.tmz.com/2026/08/18/hayden-panettiere-scared-of-dangerous-former-friends-mentioned-in-memoir/",
+                "source": "TMZ",
+                "date": "2026-08-18T18:30:39Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "List Of Characters Not Returning",
+                "desc": "It's almost time for the Season 5 premiere of Outer Banks. Most of the main cast is returning, but you won't see JJ Maybank, Lightner, or Captain Terrance.",
+                "image": "https://www.tvline.com/img/gallery/outer-banks-season-5-cast-list-of-characters-not-returning-after-season-4-finale/l-intro-1787070773.jpg",
+                "url": "https://www.tvline.com/2239247/outer-banks-season-5-cast-list-characters-not-returning/",
+                "source": "TVLine",
+                "date": "2026-08-18T18:30:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Cinema United Urges Paramount & California AG To Resolve Lawsuit",
                 "desc": "As Paramount continues battling state AGs to close its merger with WBD, Cinemark has joined the top two circuits in supporting the $111 billion deal.",
@@ -3731,72 +3794,99 @@
                 "source": "deadline.com",
                 "date": "2026-08-17T21:17:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Avengers: Doomsday Pre-Sale Tickets Are Outpacing Spider-Man: Brand New Day",
-                "desc": "Avengers: Doomsday's pre-sale tickets are reportedly outpacing Spider-Man: Brand New Day.",
-                "image": "https://assets-prd.ignimgs.com/2026/08/15/doomthumb-1786767136045.png?width=1280&format=jpg&auto=webp&quality=80",
-                "url": "https://www.ign.com/articles/avengers-doomsday-pre-sale-tickets-are-outpacing-spider-man-brand-new-day",
-                "source": "ign.com",
-                "date": "2026-08-17T21:11:19Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "CBS News' Matt Gutman Accused Of Casually Making 'Sexualized' Remarks At Work",
-                "desc": "A former female field producer who worked under Gutman filed a lawsuit alleging that he created a hostile work environment with his lewd comments.",
-                "image": "https://img.huffingtonpost.com/asset/6a834d5a23000091377c9aa7.jpeg?cache=0hTNVKjkHt&ops=500_281%2Cscalefit_1200_630",
-                "url": "https://www.huffpost.com/entry/cbs-news-matt-gutman-accused-of-casually-making-sexualized-remarks-at-work_n_6a832f51e4b0b3bc96f7824c",
-                "source": "huffpost.com",
-                "date": "2026-08-17T20:37:51Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Marvel Adds 'Ghost Rider' to a Crowded 2028 Slate",
-                "desc": "The Ryan Gosling film joins 'X-Men' and 'Black Panther III,' all of which are coming in the same year.",
-                "image": "https://gizmodo.com/app/uploads/2026/07/Ryan-Gosling-Ghost-Rider-Comic-Con-1200x675.jpg",
-                "url": "https://gizmodo.com/marvel-adds-ghost-rider-to-a-crowded-2028-slate-2000799555",
-                "source": "Gizmodo",
-                "date": "2026-08-17T20:32:54Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Taylor Sheridan's 'Lioness' Criticized by Real Operatives It's Based On",
-                "desc": "Taylor Sheridan’s “Lioness\" may be a hit show, but that doesn't mean the real-life operatives on the Lioness team are happy with it.",
-                "image": "https://www.thewrap.com/wp-content/uploads/2024/08/lioness-1.jpg",
-                "url": "https://www.thewrap.com/creative-content/tv-shows/real-life-lioness-operatives-taylor-sheridan-took-our-history/",
-                "source": "TheWrap",
-                "date": "2026-08-17T20:25:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Lanterns Episode 1's Ending Left DC Comics Fans Furious Online",
-                "desc": "Episode 1 of Lanterns ended with the reveal that Hal Jordan is dead, killing off a fan favorite Green Lantern and sparking controversy amongst DC fans online.",
-                "image": "https://www.tvline.com/img/gallery/lanterns-premieres-ending-infuriated-some-dc-comics-fans-online/l-intro-1786993430.jpg",
-                "url": "https://www.tvline.com/2238608/lanterns-episode-1-ending-dc-comics-fans-furious/",
-                "source": "TVLine",
-                "date": "2026-08-17T20:01:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Peacock Has Launched a New Membership Program for Subscribers",
-                "desc": "Some Peacock subscribers have been selected to be part of the brand’s new Membership Program. The program is currently in beta testing, with a randomly selected group of subscribers trying out the new ways to connect with the brand. Both Peacock Premium and Premium Plus subscribers are included in the beta, which connects fans to […]",
-                "image": "https://cordcuttersnews.com/wp-content/uploads/2020/09/GettyImages-1190545966-1-scaled.jpg",
-                "url": "https://cordcuttersnews.com/peacock-has-launched-a-new-membership-program-for-subscribers/",
-                "source": "cordcuttersnews.com",
-                "date": "2026-08-17T19:56:56Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Karl-Anthony Towns and Jordyn Woods Get Married in Malibu Wedding",
-                "desc": "The Knicks center and the influencer and actress had a star-studded wedding celebration in Malibu over the weekend.",
-                "image": "https://static01.nyt.com/images/2026/08/17/multimedia/17ST-TOWNS-WOODS-WEDDING-fwtz/17ST-TOWNS-WOODS-WEDDING-fwtz-facebookJumbo.jpg",
-                "url": "https://www.nytimes.com/2026/08/17/style/karl-anthony-towns-jordyn-woods-wedding.html",
-                "source": "The New York Times",
-                "date": "2026-08-17T19:49:32Z",
-                "priority": "STANDARD"
             }
         ],
         "sports": [
+            {
+                "title": "Bo Nix angry, lineman bloodied after Broncos practice fight",
+                "desc": "Broncos QB Bo Nix was taken to the ground again at practice, and a fight broke out a few plays later that left a lineman bloodied.",
+                "image": "https://broncoswire.usatoday.com/gcdn/authoring/authoring-images/2026/08/18/SBRC/91356412007-bo-nix-broncos-fight-at-training-camp.JPG?crop=3169,1783,x0,y274&width=3169&height=1783&format=pjpg&auto=webp",
+                "url": "https://broncoswire.usatoday.com/story/sports/nfl/broncos/2026/08/18/nfl-news-bo-nix-angry-ol-bloodied-broncos-practice-fight/91356415007/",
+                "source": "Broncos Wire",
+                "date": "2026-08-18T19:28:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Georgia man charged with burglarizing NASCAR driver Greg Biffle’s home after plane crash",
+                "desc": "A Georgia man has been charged with burglarizing former NASCAR driver Greg Biffle's home after he and his family died in a plane crash.",
+                "image": "https://cmg-cmg-tv-10030-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FVAWZ2MM6TFCQNFI24NGOGCCJ3Y.jpeg?auth=dda2595ec905a20e51a4febdb5c7aefaa455bf18132e9aac450c551012502189&width=1200&height=630&smart=true",
+                "url": "https://www.wsoctv.com/news/local/investigators-share-major-update-greg-biffle-home-burglary/EGZZWRUB5ZE33GRZVO4EHTM6CQ/",
+                "source": "WSOC TV",
+                "date": "2026-08-18T19:24:32Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ketel Marte returning to Arizona for MRI on knee",
+                "desc": "Nick Piecoro of the Arizona Republic reports that Ketel Marte is heading back to Arizona to get an MRI on his knee.",
+                "image": "https://nbcsports.brightspotcdn.com/dims4/default/c26777f/2147483647/strip/true/crop/800x450+0+315/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F9e%2F1a%2F4b774c6241219bba83f787731bd0%2F001-marte-ketel-800x1080-no-bg.jpg",
+                "url": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-18/ketel-marte-returning-to-arizona-for-mri-on-knee",
+                "source": "NBC Sports",
+                "date": "2026-08-18T19:15:44Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Fantasy Football Sleepers 2026: Keaton Mitchell, Jaydon Blue among Rotoworld staff picks",
+                "desc": "The Rotoworld staff makes their selections for sleepers in 2026 fantasy football drafts.",
+                "image": "https://nbcsports.brightspotcdn.com/dims4/default/2986694/2147483647/strip/true/crop/5364x3017+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fee%2Fd1%2F6676c57741dc89db6a684a3fcdf0%2Fhttps-cdn1-agency-thomsonreuters-com-download-image-tag-reuters-com-2026-newsml-mt1usatoday29582051-332449497-tag-reuters-com-2026-binary-mt1usatoday29582051-baseimage-5364x3576-2026-08-14t145452z-332449497-mt1usatoday29582051-rtrmadp-3-nfl-los-angeles-chargers-at-houston-texans.JPG",
+                "url": "https://www.nbcsports.com/fantasy/football/news/fantasy-football-sleepers-2026-keaton-mitchell-jaydon-blue-among-rotoworld-staff-picks",
+                "source": "NBC Sports",
+                "date": "2026-08-18T19:12:03Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Bo Nix, Nik Bonitto Involved in Heated Altercation at Broncos Training Camp",
+                "desc": "On Tuesday, tensions reportedly boiled over at Denver Broncos training camp between two of the team's most important players.",
+                "image": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/ap_images/2026-08/f53f563053e747ffbd728493548595c4/Broncos_Camp_Football_47238_3936x2214_(0,56).jpg?w=1120&h=630",
+                "url": "https://bleacherreport.com/articles/25474452-bo-nix-nik-bonitto-involved-heated-altercation-broncos-training-camp",
+                "source": "Bleacher Report",
+                "date": "2026-08-18T19:07:30Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Billy Edwards Jr. Named UNC Starting Quarterback",
+                "desc": "Wisconsin transfer Billy Edwards Jr. will start UNC's season-opener against TCU in Dublin, Ireland on Aug. 29.",
+                "image": "https://on3static.com/uploads/dev/assets/cms/2026/08/14102337/7.jpg",
+                "url": "https://www.on3.com/teams/north-carolina-tar-heels/news/billy-edwards-jr-named-unc-starting-quarterback/",
+                "source": "on3.com",
+                "date": "2026-08-18T18:55:59Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "San Diego Padres catching coordinator detained by ICE",
+                "desc": "A player development instructor for the San Diego Padres has been detained by U.S. immigration officials.",
+                "image": "https://dims.apnews.com/dims4/default/3dd5015/2147483647/strip/true/crop/2343x1561+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F52%2F15%2Fb2d36af5918533c1848a3df1ecc5%2Fdce8b4c5fd724cf8a1a37507ed2205e1",
+                "url": "https://apnews.com/article/san-diego-padres-catching-coordinator-ice-c443da390597985bc00ae7b9963caec5",
+                "source": "AP News",
+                "date": "2026-08-18T18:51:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "FC Barcelona makes blockbuster move to change Champions League landscape",
+                "desc": "FC Bayern has another strong competitor to deal with in the UCL.",
+                "image": "https://platform.bavarianfootballworks.com/wp-content/uploads/sites/24/2026/08/gettyimages-2290995699.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+                "url": "https://www.bavarianfootballworks.com/bayern-munich-bundesliga/244865/fc-barcelona-makes-blockbuster-move-to-change-champions-league-landscape",
+                "source": "Bavarian Football Works",
+                "date": "2026-08-18T18:49:06Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Albert Breer Empties His Jaguars Notebook From Training Camp",
+                "desc": "How Jacksonville plans to deploy all-everything CB/WR Travis Hunter. Plus, why there will be a big shift in the running game after the departure of Travis Etienne Jr.",
+                "image": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_6000,h_3375/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/si/01m0b2pnq5rg91gctvv9.jpg",
+                "url": "https://www.si.com/nfl/albert-breer-empties-jaguars-notebook-training-camp-2026",
+                "source": "Sports Illustrated",
+                "date": "2026-08-18T18:44:13Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Report: Giants to release JuJu Smith-Schuster",
+                "desc": "The Giants are set to sign running back Najee Harris and his arrival will reportedly result in the departure of one of his former Steelers teammates from the NFC East team's roster.",
+                "image": "https://nbcsports.brightspotcdn.com/dims4/default/6ef08b3/2147483647/strip/true/crop/6156x3463+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F91%2Fe3%2F4840f9494652824c5842c067ebbe%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2288166357",
+                "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-giants-to-release-juju-smith-schuster",
+                "source": "NBC Sports",
+                "date": "2026-08-18T18:32:16Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "NASCAR pulls the plug on next summer's Chicago Street Race",
                 "desc": "Running out of time to strike a deal with the city, NASCAR pulled the plug Tuesday on the return of the Chicago Street Race for next summer, but is still hoping to bring it back down the road.",
@@ -4246,98 +4336,8 @@
                 "source": "Fox Business",
                 "date": "2026-08-18T12:23:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Bills \"very happy\" with how field held up in new Highmark Stadium debut",
-                "desc": "The condition of the playing field at the new Highmark Stadium was a talking point in the wake of last Saturday's preseason game between the Bills and the Panthers.",
-                "image": "https://nbcsports.brightspotcdn.com/dims4/default/abe23ad/2147483647/strip/true/crop/6000x3375+0+619/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F39%2Fb1%2Fcda181ff4f719552edb85c043db0%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2290603153",
-                "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bills-very-happy-with-how-field-held-up-in-new-highmark-stadium-debut",
-                "source": "NBC Sports",
-                "date": "2026-08-18T12:19:12Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The 10 men’s college basketball programs most likely to win their first title in the next decade",
-                "desc": "These 10 men’s college basketball have never won a national championship, but they could soon.",
-                "image": "https://platform.sbnation.com/wp-content/uploads/sites/2/2026/08/gettyimages-2269845818.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C78.525428715462&w=1200",
-                "url": "https://www.sbnation.com/college-basketball/1123678/college-basketball-teams-win-first-mens-national-championship-in-next-decade",
-                "source": "SB Nation",
-                "date": "2026-08-18T12:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "How preseason game 1 shifted Detroit Lions’ roster bubble on defense",
-                "desc": "How our 2026 Detroit Lions roster predictions have changed of the team’s preseason opener.",
-                "image": "https://platform.prideofdetroit.com/wp-content/uploads/sites/127/2026/08/reuters-tagreuters.com2026newsml_MT1USATODAY291741251505400850.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-                "url": "https://www.prideofdetroit.com/detroit-lions-analysis/169698/how-preseason-game-1-shifted-detroit-lions-roster-bubble-on-defense",
-                "source": "Pride Of Detroit",
-                "date": "2026-08-18T12:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Where Yankee Stadium once stood, a park - and a promise - have fallen apart",
-                "desc": "The old Yankee Stadium site was meant to honor history. Now it’s a symbol of neglect to the people of the South Bronx.",
-                "image": "https://static01.nyt.com/athletic/uploads/wp/2026/08/15001322/yankees.jpg?width=1200&height=630&fit=cover",
-                "url": "https://www.nytimes.com/athletic/7514715/2026/08/18/new-york-yankees-macombs-dam-park-yankee-stadium-decrepit/",
-                "source": "The New York Times",
-                "date": "2026-08-18T11:56:34Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "‘They Shouldn’t Be Playing in the Same League’ - Analyst Destroys Angel Reese vs. Caitlin Clark Comparison After Blown Chance at Game-Winner",
-                "desc": "Angel Reese and Caitlin Clark have been linked since their college days and command the same intensity and spotlight even in the WNBA. While the Fever fans celebrated Indiana’s latest 95-91 win, Reese faced intense scrutiny for missing the crucial late-game layup.",
-                "image": "https://s.yimg.com/lo/mysterio/api/ed45b1fc843a2865d9409a467d41b9ee9619aac87fbc265df481e73a89a61008/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpro_football_network_512%2Ffc46d3cfa6e57355c5021c00e316be30.jpg",
-                "url": "https://sports.yahoo.com/articles/shouldn-t-playing-same-league-115530840.html",
-                "source": "Yahoo Sports",
-                "date": "2026-08-18T11:55:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Floor Fantasy Football Players to Target (2026)",
-                "desc": "While it’s often overlooked, dominating the middle and late rounds of your fantasy football draft can be the difference between a championship contender and a middling roster. In redraft leagues, the general rule of thumb should be to use these … read more »",
-                "image": "https://cdn.fantasypros.com/wp-content/images/WANDALE_ROBINSON_TITANS_2/1470x650.jpg",
-                "url": "https://www.fantasypros.com/2026/08/4-high-floor-fantasy-football-players-to-target-2026/",
-                "source": "FantasyPros",
-                "date": "2026-08-18T11:54:37Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Day 14 recap of Vikings' training camp: Defense gets the best of Kyler Murray and the offense",
-                "desc": "Murray and Carson Wentz were both picked off twice on Monday in practice.",
-                "image": "https://substackcdn.com/image/fetch/$s_!vnBT!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F30dd95d8-d4fd-406b-860e-65c63a579d53_4768x3184.jpeg",
-                "url": "https://juddzulgad.substack.com/p/day-14-recap-of-vikings-training",
-                "source": "Substack",
-                "date": "2026-08-18T00:01:20Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ketel Marte placed on restricted list after reportedly not showing up for Diamondbacks game",
-                "desc": "Marte traveled to Boston with the team, but did not show up to Fenway Park for Monday's game",
-                "image": "https://sportshub.cbsistatic.com/i/r/2026/08/17/726a13f6-c61f-4de8-8821-5cdc13377530/thumbnail/1200x675/ddc1d862a02cbb2e262aac01370bcf9a/marte-getty.png",
-                "url": "https://www.cbssports.com/mlb/news/ketel-marte-diamondbacks-restricted-list/",
-                "source": "CBS Sports",
-                "date": "2026-08-17T23:44:36Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Jordyn Tyson Injury Update and Timeline Revealed in New Saints Rumors amid Fantasy Football Drafts",
-                "desc": "The New Orleans Saints were dealt a huge injury blow on Monday.",
-                "image": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/ap_images/2026-08/dd8d557ef2b84f1dba1bc47a8ea9d0ec/Saints_Football__9187_5070x2852_(0,84).jpg?w=1120&h=630",
-                "url": "https://bleacherreport.com/articles/25474253-jordyn-tyson-injury-update-and-timeline-revealed-new-saints-rumors-amid-fantasy-football-drafts",
-                "source": "Bleacher Report",
-                "date": "2026-08-17T23:10:42Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "5 winners and losers from Patriots training camp practice on Monday",
-                "desc": "Drake Maye and other players who caught our eye during the Patriots’ practice on Monday.",
-                "image": "https://platform.patspulpit.com/wp-content/uploads/sites/121/2026/08/gettyimages-2290364927.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C65.572879709005&w=1200",
-                "url": "https://www.patspulpit.com/new-england-patriots-training-camp/133648/winners-losers-patriots-training-camp-practice-monday",
-                "source": "Pats Pulpit",
-                "date": "2026-08-17T23:09:43Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-08-19T06:27:20.609945Z"
+    "lastGlobalSync": "2026-08-19T07:30:46.576743Z"
 }
