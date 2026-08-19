@@ -2172,6 +2172,69 @@
     "en": {
         "general": [
             {
+                "title": "Tupac Shakur's family exits courtroom as autopsy photos shown at trial",
+                "desc": "Some members of Tupac Shakur's family left the courtroom before prosecutors showed autopsy photos at the trial of Duane “Keffe D” Davis.",
+                "image": "https://dims.apnews.com/dims4/default/ad2dba9/2147483647/strip/true/crop/4500x2998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F20%2Fb2%2Fa1ca40024b717037f60b824718b3%2Fc0e3ef46b7564ce190b593c87d096064",
+                "url": "https://apnews.com/article/tupac-killing-trial-keffe-duane-davis-autopsy-2a87380f91ad6759cb500311b73396ed",
+                "source": "AP News",
+                "date": "2026-08-18T20:22:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Vaccination exemption rates for US kindergartners hit record high",
+                "desc": "CDC data show child vaccination rates declined, while nonmedical exemptions hit 4% nationwide.",
+                "image": "https://kubrick.htvapps.com/htv-prod/images/046d615c-8d1f-4d92-a4de-fd2df48ecb80.png?crop=1.00xw%3A1.00xh%3B0%2C0&resize=1200%3A*",
+                "url": "https://www.wcvb.com/article/kindergarten-vaccination-exemption-rates-cdc-data/73466108",
+                "source": "wcvb.com",
+                "date": "2026-08-18T20:21:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Why it might be time to rethink the human family tree",
+                "desc": "The way we classify humanity’s ancient relatives is a mess. But there’s a simple fix.",
+                "image": "https://images.theconversation.com/files/754510/original/file-20260818-60-omo8j7.jpg?ixlib=rb-4.1.1&rect=0%2C80%2C2560%2C1280&q=45&auto=format&w=1356&h=668&fit=crop",
+                "url": "https://theconversation.com/why-it-might-be-time-to-rethink-the-human-family-tree-289819",
+                "source": "The Conversation",
+                "date": "2026-08-18T20:09:03Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Vaccination exemption rates for US kindergartners hit record high",
+                "desc": "CDC data show child vaccination rates declined, while nonmedical exemptions hit 4% nationwide.",
+                "image": "https://kubrick.htvapps.com/htv-prod/images/046d615c-8d1f-4d92-a4de-fd2df48ecb80.png?crop=1.00xw%3A1.00xh%3B0%2C0&resize=1200%3A*",
+                "url": "https://www.wesh.com/article/kindergarten-vaccination-exemption-rates-cdc-data/73466108",
+                "source": "WESH",
+                "date": "2026-08-18T20:02:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "ABC and Disney sue FCC, alleging First Amendment violations",
+                "desc": "The ABC Network has sued the Federal Communications Commission, alleging that the Trump administration is violating its First Amendment rights by challenging ABC broadcast licenses and investigating the network's talk show \"The View.\"",
+                "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4869x2739+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Faa%2F16%2F5590d60f455c8620de482e79bc69%2Fgettyimages-2268801233.jpg",
+                "url": "https://www.npr.org/2026/08/18/nx-s1-5936406/abc-and-disney-sue-fcc-alleging-first-amendment-violations",
+                "source": "NPR",
+                "date": "2026-08-18T19:51:27Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Gillian Robertson releases 1st statement since UFC 330 loss, Din Thomas controversy",
+                "desc": "Gillian Robertson offers a chilly response to Din Thomas’ UFC 330 apology.",
+                "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/08/gettyimages-2290663385.jpg?quality=90&strip=all&crop=0%2C1.9449563552572%2C100%2C78.534031413613&w=1200",
+                "url": "https://www.mmafighting.com/ufc/505760/gillian-robertson-releases-1st-statement-since-ufc-330-loss-din-thomas-controversy",
+                "source": "MMA Fighting",
+                "date": "2026-08-18T19:37:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Jeanie Buss Opposes Reported Sale of Family's Lakers Stake to Bob Iger, Josh Kushner",
+                "desc": "After news broke that the Buss family would be selling its share of the Los Angeles Lakers on Monday, Jeanie Buss' lawyer sent a letter to her siblings' lawyers denying that she would sell her stake to Bob Iger and Josh Kushner.",
+                "image": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2026-08/2262562457_large_cropped.jpg?w=1120&h=630",
+                "url": "https://bleacherreport.com/articles/25474152-jeanie-buss-opposes-reported-sale-familys-lakers-stake-bob-iger-josh-kushner",
+                "source": "bleacherreport.com",
+                "date": "2026-08-18T19:34:02Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "She 'Lost Her Way'",
                 "desc": "Hayden Panettiere's estranged mother and former manager, Lesley Vogel, has spoken out about her daughter's shocking death at the age of 36.",
                 "image": "https://variety.com/wp-content/uploads/2026/08/hayden.png?w=1000&h=563&crop=1",
@@ -2647,72 +2710,18 @@
                 "source": "CNN",
                 "date": "2026-08-18T11:00:29Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Pat Forde: Forty Observations on the 2026 College Football Schedule",
-                "desc": "Everything you need to know about the quirks of the season from easiest months, a monster slate in November, improvements in consecutive road games and open-date disadvantages and more.",
-                "image": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_345,w_6464,h_3636/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/si/01m08wdc073xsgbcjfr9.jpg",
-                "url": "https://www.si.com/college-football/pat-forde-forty-observations-on-2026-college-football-schedule",
-                "source": "Sports Illustrated",
-                "date": "2026-08-18T11:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Iran war is far from over as deadline for a deal passes",
-                "desc": "The 60-day deadline for an agreement to end the Iran war and resolve the dispute over its nuclear program is expiring.",
-                "image": "https://dims.apnews.com/dims4/default/8e0e064/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F50%2Ff4%2F17118da4a196feeb3a6ed80c3ad1%2F761b9177e1d24121a7b4b6f885f9af28",
-                "url": "https://apnews.com/article/iran-us-war-diplomacy-deal-deadline-nuclear-258e9c556fc861c05ccf6ed2b38515d6",
-                "source": "AP News",
-                "date": "2026-08-18T00:13:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Hayden Panettiere’s dad ‘was just starting’ to recover from son’s 2023 death when actress died: neighbors",
-                "desc": "Hayden Panettiere’s dad, Alan “Skip” Panettiere, was just beginning to recover from his son’s 2023 death when his actress daughter died on Sunday, according to neighbors in his tight-knit New York community.",
-                "image": "https://nypost.com/wp-content/uploads/sites/2/2026/08/137742294.jpg?quality=75&strip=all&w=1200",
-                "url": "https://nypost.com/2026/08/17/us-news/hayden-panettieres-dad-was-just-starting-to-recover-from-sons-2023-death-when-actress-died-neighbors/",
-                "source": "nypost.com",
-                "date": "2026-08-18T00:00:39Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "LIV Golf to end season early and cancel the Michigan team event",
-                "desc": "LIV Golf is ending its season one tournament early. The upstart league says the team champion that was supposed to be determined next week in Michigan instead will be decided Sunday at LIV Golf Indianapolis.",
-                "image": "https://dims.apnews.com/dims4/default/20c9436/2147483647/strip/true/crop/4000x2665+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F27%2F23%2F85c8e8ce67e71e2f18273e322ac9%2F1dba8e2cd61e4bbe8a1e1dd74ed3c634",
-                "url": "https://apnews.com/article/liv-golf-indianapolis-michigan-oneil-04a06372ca49e8cb560a118f3d63bd0c",
-                "source": "AP News",
-                "date": "2026-08-17T23:53:31Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "macOS Tahoe 26.7 is Full of References to Unreleased Apple Products",
-                "desc": "The macOS Tahoe 26.7 release candidate that Apple seeded today has references to several unreleased products, from home devices to iPhones, iPads, AirPods, and Macs. Some of these codenames have shown up in prior software updates but have new feature flags, while others haven't been seen in the code before.",
-                "image": "https://images.macrumors.com/t/FjfqHH3MWXjgiT_OwGtGYggG6Ig=/3000x/article-new/2025/01/Apple-AI-Command-Center-Concept-Mock-1-Textless.jpg",
-                "url": "https://www.macrumors.com/2026/08/17/macos-26-7-unreleased-apple-devices/",
-                "source": "MacRumors",
-                "date": "2026-08-17T23:50:23Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Reddit’s AI is turning posts into podcasts and short videos",
-                "desc": "Reddit is testing adapting posts and comments into videos that are read aloud by AI voices, a technique already used by content scrapers and spammers.",
-                "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-17-at-4.32.56-PM.png?quality=90&strip=all&crop=0%2C4.5553525273851%2C100%2C90.88929494523&w=1200",
-                "url": "https://www.theverge.com/tech/981289/reddit-ai-text-video-posts",
-                "source": "The Verge",
-                "date": "2026-08-17T23:46:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ticks carrying Lyme disease are gaining ground in North Carolina, study finds",
-                "desc": "New UNC-led research shows Lyme disease is gaining ground in western North Carolina, with about 40% of adult blacklegged ticks tested carrying the bacteria that causes the disease.",
-                "image": "https://images.wral.com/dc524f74-8674-5faf-9032-ad7135d2aa1e?w=1200&h=630&height=630",
-                "url": "https://www.wral.com/lifestyles/health/ticks-carrying-lyme-disease-are-gaining-ground-in-nc-study-finds-august-2026/",
-                "source": "WRAL",
-                "date": "2026-08-17T23:45:01Z",
-                "priority": "STANDARD"
             }
         ],
         "business": [
+            {
+                "title": "Live coverage: Pro Farmer Crop Tour results from Indiana and Nebraska",
+                "desc": "Follow along as scouts assess corn and soybean crop potential after finding yields and pod counts for Ohio and South Dakota down from last year's Tour.",
+                "image": "https://assets.farmjournal.com/dims4/default/24648bf/2147483647/strip/true/crop/1200x675+0+69/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk1-prod-farm-journal.s3.us-east-2.amazonaws.com%2Fbrightspot%2F05%2F7f%2F4e097be046c6a5cce6eb8e492bd0%2Fcrop-tour-2026-live-blog-day-2.jpg",
+                "url": "https://www.profarmer.com/news/live/live-coverage-pro-farmer-crop-tour-rolls-indiana-nebraska",
+                "source": "Pro Farmer",
+                "date": "2026-08-18T20:11:18Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "We upgraded Home Depot and raised our price target. It made the best of a terrible hand",
                 "desc": "Home Depot reported a very good quarter, executing well on things it can control.",
@@ -3243,18 +3252,18 @@
                 "source": "Investor's Business Daily",
                 "date": "2026-08-17T20:20:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "FDA egg recall: Nearly 19 million eggs get highest-risk classification",
-                "desc": "Check your fridge: The FDA put a nearly 19 million-egg recall in its highest-risk category after a salmonella outbreak sickened 98 people.",
-                "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-2289610085-e1786996762810.jpg?resize=1200,600",
-                "url": "https://fortune.com/2026/08/17/egg-recall-salmonella-outbreak-fda-midwest-poultry/",
-                "source": "Fortune",
-                "date": "2026-08-17T20:09:00Z",
-                "priority": "STANDARD"
             }
         ],
         "entertainment": [
+            {
+                "title": "Peacock Raises Prices Across Plans",
+                "desc": "NBCUniversal streamer Peacock is raising the price of all its monthly and annual plans effective August 18 for new and returning subscribers",
+                "image": "https://deadline.com/wp-content/uploads/2019/09/peacock-1.jpeg?w=1024",
+                "url": "https://deadline.com/2026/08/peacock-raises-prices-across-plans-1237044536/",
+                "source": "Deadline",
+                "date": "2026-08-18T19:33:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Hayden Panettiere's comments about Neutrogena dropping her after she revealed postpartum depression resurface following her death",
                 "desc": "Hayden Panettiere said Neutrogena tried to drop her after she disclosed postpartum depression, resurfacing scrutiny of the brand after her death.",
@@ -3785,18 +3794,90 @@
                 "source": "Variety",
                 "date": "2026-08-17T21:18:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "New Yorker's Ariel Levy To Join ‘60 Minutes' As A Contributor",
-                "desc": "Levy is among the latest new hires for the show.",
-                "image": "https://deadline.com/wp-content/uploads/2026/07/og-60-minutes.jpg?w=1024",
-                "url": "https://deadline.com/2026/08/ariel-levy-60-minutes-contributor-1237043444/",
-                "source": "deadline.com",
-                "date": "2026-08-17T21:17:00Z",
-                "priority": "STANDARD"
             }
         ],
         "sports": [
+            {
+                "title": "49ers-Chargers joint practice roundup: The secondary had a rough outing",
+                "desc": "Rounding up tweets from the opponent joint practice between the 49ers and Chargers",
+                "image": "https://platform.ninersnation.com/wp-content/uploads/sites/115/2026/08/gettyimages-2257706690.jpg?quality=90&strip=all&crop=0%2C10.755853842237%2C100%2C78.488292315527&w=1200",
+                "url": "https://www.ninersnation.com/san-francisco-49ers-preseason/161396/49ers-chargers-joint-practice-roundup-the-secondary-had-a-rough-outing",
+                "source": "Niners Nation",
+                "date": "2026-08-18T20:17:28Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Chargers Joint Practice: Herbert and Lance Shred SF's Defense",
+                "desc": "The 49ers just finished Day 14 of training camp, which was a joint practice with the Los Angeles Chargers. Here's who stood out.",
+                "image": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_100,w_7552,h_4248/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/all_49ers/01m0b5ypqypggsbpp6q9.jpg",
+                "url": "https://www.si.com/nfl/49ers/onsi/good-not-so-good-49ers-chargers-joint-practice-herbert-lance-shred-defense",
+                "source": "Sports Illustrated",
+                "date": "2026-08-18T20:00:26Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Arrest made in break-in at late NASCAR driver Greg Biffle’s home",
+                "desc": "Authorities on Tuesday announced an arrest in connection with a January break-in.",
+                "image": "https://gray-wbtv-prod.gtv-cdn.com/resizer/v2/C2B42ANI6ZBDDNXIBQSWONM7FM.png?auth=5a4c8c11c583a57c4c6a89feaf4b5926a1ec74d393799c4971b3c6957886915f&width=1200&height=600&smart=true",
+                "url": "https://www.wbtv.com/2026/08/18/arrest-made-break-in-late-nascar-driver-greg-biffles-home/",
+                "source": "WBTV",
+                "date": "2026-08-18T20:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "3 winners and losers from Patriots training camp practice on Tuesday",
+                "desc": "Efton Chism and other players who caught our eye during the Patriots’ walkthrough on Tuesday.",
+                "image": "https://platform.patspulpit.com/wp-content/uploads/sites/121/2026/08/gettyimages-2278939856.jpg?quality=90&strip=all&crop=0%2C4.8099699931656%2C100%2C78.534031413613&w=1200",
+                "url": "https://www.patspulpit.com/new-england-patriots-training-camp/133724/winners-losers-patriots-training-camp-practice-tuesday",
+                "source": "Pats Pulpit",
+                "date": "2026-08-18T19:58:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Kyle Shanahan: Christian McCaffrey's absence is not contract-related",
+                "desc": "Shanahan told reporters on Tuesday that McCaffrey would play if it were a regular-season game week.",
+                "image": "https://nbcsports.brightspotcdn.com/dims4/default/c236712/2147483647/strip/true/crop/3844x2162+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb5%2F60%2F699e457b47908075d512dfe31fd6%2Fhttps-api-imagn.com%2Frest%2Fdownload%2FimageID%3D29578378",
+                "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kyle-shanahan-christian-mccaffreys-absence-is-not-contract-related",
+                "source": "NBC Sports",
+                "date": "2026-08-18T19:54:14Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "What They're Saying: Texans talk joint practice with Raiders",
+                "desc": "Take a look at what Texans coaches and players had to say following joint practice.",
+                "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/raiders/pdlugydjptrkjcwx9kut",
+                "url": "https://www.raiders.com/news/what-they-re-saying-texans-talk-joint-practice-with-raiders-2026-nfl-preseason-week-2",
+                "source": "Raiders.com",
+                "date": "2026-08-18T19:53:57Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Packers Play and Player of Day: Unstoppable Star at Practice 13 of Training Camp",
+                "desc": "At Practice 13 of Green Bay Packers training camp, two of the team’s big offensive playmakers played starring roles.",
+                "image": "https://images2.minutemediacdn.com/image/upload/c_crop,x_519,y_126,w_2150,h_1209/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/packer_central/01m0b59ax6g8w33nmmqk.jpg",
+                "url": "https://www.si.com/nfl/packers/onsi/packers-play-and-player-of-day-unstoppable-star-at-practice-13-of-training-camp",
+                "source": "Sports Illustrated",
+                "date": "2026-08-18T19:46:31Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Bo Nix, Nik Bonitto involved in big scrum as Broncos camp boils over",
+                "desc": "The Broncos defense was out for blood Tuesday and proved perfectly capable of drawing it.",
+                "image": "https://www.denverpost.com/wp-content/uploads/2026/08/TDP-L-brxcamp081826-cha-989.jpg?w=7961&h=5308",
+                "url": "https://www.denverpost.com/2026/08/18/broncos-training-camp-fight-bo-nix-nik-bonitto/",
+                "source": "The Denver Post",
+                "date": "2026-08-18T19:42:08Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Bo Nix on training camp fight with Nik Bonitto: \"I love it, it's football\"",
+                "desc": "Quarterbacks are usually not involved in training camp fights, but Broncos quarterback Bo Nix was today.",
+                "image": "https://nbcsports.brightspotcdn.com/dims4/default/8a55365/2147483647/strip/true/crop/4496x2529+0+233/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff4%2F2d%2F6a188dd94096a2b8ebcc606ff015%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2288380307",
+                "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bo-nix-on-training-camp-fight-with-nik-bonitto-i-love-it-its-football",
+                "source": "NBC Sports",
+                "date": "2026-08-18T19:40:46Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Bo Nix angry, lineman bloodied after Broncos practice fight",
                 "desc": "Broncos QB Bo Nix was taken to the ground again at practice, and a fight broke out a few plays later that left a lineman bloodied.",
@@ -4255,89 +4336,8 @@
                 "source": "NBC Sports",
                 "date": "2026-08-18T13:59:57Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Atlanta Dream And WNBA Embrace Anti-Trans Losers",
-                "desc": "Some transphobic dickheads were again wearing XX-XY shirts at Sunday’s game between the Indiana Fever and Atlanta Dream. Everyone knows what the XX-XY shirt—a truly ugly piece of merchandise made by a brand that raises money for organizations that seek to strip trans people of their rights—means when worn in public. It tells everyone that…",
-                "image": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/08/GettyImages-2283451422.jpg",
-                "url": "https://defector.com/atlanta-dream-and-wnba-embrace-anti-trans-losers",
-                "source": "Defector",
-                "date": "2026-08-18T13:59:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Projecting Florida State's offensive depth chart as fall camp winds down",
-                "desc": "The Seminoles' season-opener is less than two weeks away, and their two-deep is beginning to come into focus on the offensive side of the ball",
-                "image": "https://s3media.247sports.com/Uploads/Assets/932/240/14240932.jpg?width=1200&height=628&crop=1.91:1&fit=cover",
-                "url": "https://247sports.com/college/florida-state/article/projecting-florida-states-offensive-depth-chart-as-fall-camp-winds-down-289013312/",
-                "source": "247Sports",
-                "date": "2026-08-18T13:54:19Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Falcons sign edge rusher Za’Darius Smith to one-year deal",
-                "desc": "The three-time Pro Bowler joins an Atlanta team thirsting for pass rush help.",
-                "image": "https://platform.thefalcoholic.com/wp-content/uploads/sites/161/2026/08/gettyimages-2240443172.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C78.526613445216&w=1200",
-                "url": "https://www.thefalcoholic.com/atlanta-falcons-free-agecy/95210/falcons-sign-edge-rusher-zadarius-smith-to-one-year-deal",
-                "source": "The Falcoholic",
-                "date": "2026-08-18T13:46:58Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Sleeper Picks: Who's flying under radar at BMW Championship?",
-                "desc": "NOTE: Sleeper Picks did not appear in Rob’s Power Rankings, but each presents value for the bet specified. As an added feature for the BMW Championship, all sle",
-                "image": "https://res.cloudinary.com/pgatour-prod/w_1200,h_628,c_fill,f_auto,q_auto/pgatour/news/editorial/2026/08/18/knapp-sleepers.jpg",
-                "url": "https://www.pgatour.com/article/news/sleeper-picks/2026/08/18/bmw-championship-bellerive-country-club-odds-bets-fantasy-advice-long-shot-players",
-                "source": "PGA Tour",
-                "date": "2026-08-18T13:44:09Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Za’Darius Smith returns to the NFL after retiring while on the Eagles last year",
-                "desc": "Some former Eagles news.",
-                "image": "https://platform.bleedinggreennation.com/wp-content/uploads/sites/36/2026/08/gettyimages-2235108872.jpg?quality=90&strip=all&crop=0%2C10.736641461463%2C100%2C78.526717077074&w=1200",
-                "url": "https://www.bleedinggreennation.com/news/179745/zadarius-smith-returns-to-the-nfl-after-retiring-while-on-the-eagles-last-year",
-                "source": "Bleeding Green Nation",
-                "date": "2026-08-18T13:31:29Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The NFL Preseason Injury Panic Index",
-                "desc": "Injuries happen, but some teams are hurting more than others. Which teams should truly be worried?",
-                "image": "https://wp.theringer.com/wp-content/uploads/2026/08/cropped-PreseasonInjuryPanicIndex_Getty-Ringer-scaled-1.jpg",
-                "url": "https://www.theringer.com/2026/08/18/nfl/nfl-2026-preseason-injury-panic-index",
-                "source": "The Ringer",
-                "date": "2026-08-18T12:36:53Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Norway FA chief slams Infantino's FIFA for firing COO in 'management by fear'",
-                "desc": "FIFA's removal of the senior official who said Gianni Infantino deceived staff with his World Cup sell-off plan was unacceptable, Norway FA chief Lise Klaveness said while urging other leaders at the governing body to resist potentially damaging orders.",
-                "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0807%2Fr1698828_1296x729_16%2D9.jpg",
-                "url": "https://www.espn.com/soccer/story/_/id/49647759/norway-fa-chief-slams-gianni-infantino-fifa-firing-coo-management-fear",
-                "source": "ESPN",
-                "date": "2026-08-18T12:33:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Why Scottie Scheffler's dominant FedEx St. Jude win was exactly what Rory McIlroy and the PGA Tour needed",
-                "desc": "Rory McIlroy and the PGA Tour got just what they needed last week as Scottie Scheffler romped to victory at the FedEx St. Jude Championship.",
-                "image": "https://cdn3.hitc.com/uploads/1/2026/08/GettyImages-2290507342-scaled.jpg",
-                "url": "https://www.hitc.com/why-scottie-schefflers-dominant-fedex-st-jude-win-was-exactly-what-rory-mcilroy-and-the-pga-tour-needed/",
-                "source": "hitc.com",
-                "date": "2026-08-18T12:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Mark Walter may look to sell Chelsea for next move",
-                "desc": "Mark Walter, who is under federal investigation, is reportedly trying to sell his take in Chelsea Football Club just days after selling the Los Angeles Lakers.",
-                "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/08/0/0/mark-walter-chelsea-1.jpg?ve=1&tl=1",
-                "url": "https://www.foxbusiness.com/sports/mark-walter-looking-unload-chelsea-stakes-days-after-selling-lakers-josh-kushner-bob-iger-report",
-                "source": "Fox Business",
-                "date": "2026-08-18T12:23:00Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-08-19T07:30:46.576743Z"
+    "lastGlobalSync": "2026-08-19T08:25:36.728643Z"
 }
