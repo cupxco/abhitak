@@ -2,6 +2,15 @@
     "hi": {
         "general": [
             {
+                "title": "'दबाव के आगे नहीं झुकेंगे...', नए अमेरिकी प्रतिबंधों पर ईरान का तीखा पलटवार",
+                "desc": "अमेरिका के नए आर्थिक दबाव पर ईरान ने तीखा जवाब दिया है. भारत में ईरानी दूतावास ने सोशल मीडिया पर विदेश मंत्रालय का बयान शेयर किया. तेहरान ने अमेरिकी कदम को आर्थिक आतंकवाद बताया है.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202608/6a87602222c7d-trump-mojtaba-201420377-16x9.jpg",
+                "url": "https://www.aajtak.in/world/story/trump-announces-new-iran-sanctions-tehran-reacts-economic-terrorism-ntc-dhrj-dskc-2626635-2026-08-21",
+                "source": "AajTak",
+                "date": "2026-08-20T20:15:15Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "ऑस्ट्रेलिया के लिए 40 से ज्यादा मैच, अब इस ऑलराउंडर ने पुर्तगाल के लिए ठोकी अपनी पहली इंटरनेशनल सेंचुरी, चौके-छक्कों से बनाए 90 रन",
                 "desc": "पूर्व ऑस्ट्रेलियाई ऑलराउंडर मोजेस हेनरिक्स ने पुर्तगाल के लिए 51 गेंदों में 111 रनों की तूफानी शतकीय पारी खेलकर टीम को चेकिया के खिलाफ 91 रनों से जीत दिलाई।",
                 "image": "https://static.langimg.com/nbt/thumb/133385960/moises.jpg?imgsize=497117&width=1600&height=900&resizemode=75",
@@ -530,15 +539,6 @@
                 "url": "https://www.aajtak.in/entertainment/news/story/film-wrap-govinda-sunita-kangana-ranaut-suresh-oberoi-bollywood-latest-news-tmova-dskc-2625843-2026-08-19",
                 "source": "AajTak",
                 "date": "2026-08-19T18:15:04Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "राजीव गांधी का शुक्रगुजार... पीएम मोदी ने गलती की; BJP छोड़ने के बाद ऐसा क्यों बोले शहजाद पूनावाला?",
-                "desc": "भाजपा से इस्तीफा दे चुके शहजाद पूनावाला ने कांग्रेस पार्टी पर निशाना साधा है। उन्होंने कहा कि वह अब बिना किसी फिल्टर के कांग्रेस पार्टी और राहुल गांधी पर निशाना साधेंगे। अभी तक वह पार्टी की मर्यादा में रहकर काम करते थे।, India News in Hindi - Hindustan",
-                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/08/19/1600x900/logo/shehjad_poonawala_1787162756689_1787162756790_7fb4ea5e-2a7d-4959-8c65-20077e7f8ab3.jpeg",
-                "url": "https://www.livehindustan.com/national/shehzad-poonawalla-targeted-congress-after-leaving-bjp-saying-he-is-grateful-to-rajiv-gandhi-201787160940572.html",
-                "source": "Hindustan",
-                "date": "2026-08-19T18:09:19Z",
                 "priority": "STANDARD"
             }
         ],
@@ -2172,6 +2172,96 @@
     "en": {
         "general": [
             {
+                "title": "IndyCar driver Graham Rahal reflects on opportunity to compete at Freedom 250 Grand Prix: 'Iconic moment'",
+                "desc": "Graham Rahal calls the Freedom Grand Prix 250 IndyCar street race in Washington, D.C., near Capitol Hill an 'iconic moment' as America celebrates its 250th anniversary.",
+                "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/graham-rahal-indycar-indianapolis-500.jpg",
+                "url": "https://www.foxnews.com/outkick-sports/indycar-driver-graham-rahal-reflects-opportunity-compete-freedom-250-grand-prix-iconic-moment",
+                "source": "Fox News",
+                "date": "2026-08-20T20:27:18Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Why Treasury Secretary Bessent's moves to calm the bond market haven't worked so far",
+                "desc": "Interest rates rebounded Thursday despite efforts by Treasury Secretary Scott Bessent to put a lid on longer-term borrowing costs.",
+                "image": "https://dims.apnews.com/dims4/default/fafa4fb/2147483647/strip/true/crop/3936x2623+0+5/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fcd%2F17%2F458a9e255e9cce90ac4352909e78%2Ffc8b2e6fa86d4f0181b7b450c56c19b0",
+                "url": "https://apnews.com/article/rates-bond-market-bessent-inflation-c6e148f8235a98245adf04b2d4bdd8d1",
+                "source": "AP News",
+                "date": "2026-08-20T20:25:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Eric Swalwell briefly held as feds seize his phone at Bay Area airport",
+                "desc": "The latest developments in the federal inquiry come four months after Swalwell dropped his gubernatorial bid, denying allegations of sexual assault and misconduct.",
+                "image": "https://ca-times.brightspotcdn.com/dims4/default/45188a9/2147483647/strip/true/crop/5567x2923+0+394/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F42%2F38%2F32b1e674424a836413f996f96e7b%2Feric-swalwell-investigation-8982.jpg",
+                "url": "https://www.latimes.com/politics/story/2026-08-20/eric-swalwell-briefly-detained-as-feds-seize-his-phone-at-s-f-airport-source-says",
+                "source": "Los Angeles Times",
+                "date": "2026-08-20T20:14:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Prince Harry, Meghan Markle plan UK return despite years of royal criticism",
+                "desc": "Prince Harry and Meghan Markle's reported U.K. return comes after explosive claims about the monarchy, British press and royal family in their memoir and Netflix documentary.",
+                "image": "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/harry-meghan-oprah-AP.jpg",
+                "url": "https://www.foxnews.com/entertainment/prince-harry-meghan-markles-uk-move-puts-fresh-spotlight-explosive-claims-against-royal-family",
+                "source": "Fox News",
+                "date": "2026-08-20T20:06:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Masked man accused of terrorizing people in Center City Philadelphia identified: Police",
+                "desc": "Philadelphia police say that they have identified the man accused of wearing a Chucky-style Halloween mask and terrorizing residents in Center City.",
+                "image": "https://cdn.abcotvs.com/dip/images/19708871_hughes2.png?w=1600",
+                "url": "https://6abc.com/post/police-identify-man-accused-wearing-chucky-style-halloween-mask-terrorizing-people-center-city-philadelphia/19708842/",
+                "source": "6abc Philadelphia",
+                "date": "2026-08-20T20:05:13Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Search ends for day without finding woman sought in officer’s death",
+                "desc": "The search for Karen Solomon continues after Worcester police found her husband, Patrolman Kurt Solomon, dead at their home.",
+                "image": "https://kubrick.htvapps.com/htv-prod/images/ca3335da-f4b9-4222-82f8-e052972c9865.jpg?crop=1.00xw%3A1.00xh%3B0%2C0&resize=1200%3A*",
+                "url": "https://www.wcvb.com/article/worcester-police-officer-death-search-solomon-august-20/73482051",
+                "source": "WCVB",
+                "date": "2026-08-20T20:01:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Focus groups: Deep anxiety about the economy drives undecided voters in two key Senate races",
+                "desc": "Concerns about the economy and high costs are driving the thinking of undecided voters in Iowa and Georgia, according to new focus group conversations, as two states that will be central to the fight for the Senate barrel toward Election Day.",
+                "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-08/260818-Jon-Ossoff-Mike-Collins-ch-1049-6c237b.jpg",
+                "url": "https://www.nbcnews.com/politics/2026-election/focus-groups-deep-anxiety-economy-drives-undecided-voters-two-key-sena-rcna593115",
+                "source": "NBC News",
+                "date": "2026-08-20T20:00:40Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'The Odyssey' sets major box office record, toppling a Marvel hit",
+                "desc": "\"The Odyssey\" has just reached an epic milestone in its historic box office run, becoming the highest-grossing R-rated movie ever made.",
+                "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/08/20/USAT/91391399007-ct-54129-msg-1.jpg?crop=6239,3511,x0,y324&width=3200&height=1801&format=pjpg&auto=webp",
+                "url": "https://www.usatoday.com/story/entertainment/movies/2026/08/20/odyssey-box-office-record-deadpool-wolverine/91390411007/",
+                "source": "USA Today",
+                "date": "2026-08-20T19:51:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Philadelphia Halloween mask suspect Zymire Hughes may have fled state: police",
+                "desc": "Philadelphia police say Zymire Hughes, 22, has an active warrant for allegedly wearing a Halloween mask and assaulting a woman. He may have fled to California or Nevada.",
+                "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/police-id-suspect-terrorzing-women-wearing-doll-mask-1.jpg",
+                "url": "https://www.foxnews.com/us/police-identify-suspect-accused-terrorizing-philadelphia-women-wearing-creepy-chucky-style-mask",
+                "source": "Fox News",
+                "date": "2026-08-20T19:36:08Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Peru: Strong earthquake shakes southern Andes",
+                "desc": "The quake has a magnitude of 6.7 according to the US Geological Survey, while Peru's Geophysical Institute put the figure even higher. There are no immediate reports of casualties.",
+                "image": "https://static.dw.com/image/73420193_6.jpg",
+                "url": "https://www.dw.com/en/peru-strong-earthquake-shakes-southern-andes/a-78450656",
+                "source": "DW.com",
+                "date": "2026-08-20T19:35:47Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "6.7-magnitude earthquake shakes Peru's southern Andes",
                 "desc": "A magnitude 6.7 earthquake shook Peru's southern Andes Mountains on Thursday, according to the U.S. Geological Survey.",
                 "image": "https://cdn.abcotvs.com/dip/images/19709341_082026-kabc-peru-quake-img.jpg?w=1600",
@@ -2620,99 +2710,54 @@
                 "source": "AP News",
                 "date": "2026-08-20T13:06:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "How GLP-1 weight loss drugs are reshaping the healthcare industry",
-                "desc": "Wells Fargo says obesity drugs now surpass oncology as the largest pharmaceutical pipeline component, rising from 1% to 25% as GLP-1 usage surged 140%.",
-                "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/07/0/0/philips-ultrasound-technology-doctor-3.jpg?ve=1&tl=1",
-                "url": "https://www.foxbusiness.com/healthcare/how-glp-1-weight-loss-drugs-reshaping-healthcare-industry",
-                "source": "Fox Business",
-                "date": "2026-08-20T13:05:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "GTA 6 Leaker \"Will Not Stop\" Until Take-Two Apologize and \"Do Better\"",
-                "desc": "And until they sell their memecoin, apparently.",
-                "image": "https://cdn.80.lv/api/upload/meta/49824/images/6a86f973d62a5/contain_1200x630.jpg",
-                "url": "https://80.lv/articles/gta-6-leaker-will-not-stop-until-take-two-apologize-and-do-better",
-                "source": "80 Level",
-                "date": "2026-08-20T13:01:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Anthony Hernandez: Sean Strickland helped re-spark love for martial arts ahead of UFC Sacramento main event",
-                "desc": "Anthony Hernandez talks the journey from fighting Sean Strickland to training with him ahead of his main event matchup this Saturday at UFC Sacramento.",
-                "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/02/gettyimages-2262891383.jpg?quality=90&strip=all&crop=0%2C10.730563541347%2C100%2C78.538872917306&w=1200",
-                "url": "https://www.mmafighting.com/ufc/505802/anthony-hernandez-sean-strickland-helped-re-spark-love-for-martial-arts-ahead-of-ufc-sacramento-main-event",
-                "source": "MMA Fighting",
-                "date": "2026-08-20T13:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Watch Live: Lindsay Clancy trial testimony ends early as defense winds down case",
-                "desc": "Testimony in Lindsay Clancy's murder trial ended after just one witness Thursday before the jury was sent home for the day. Attorneys and the judge are still in the courthouse for working through logistics.",
-                "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/20/96e1e522-591d-4619-b55f-45de8f7d5beb/thumbnail/1200x630/8fdfaa5467256609f9d7e1d37b5c6647/ap26231694963928-1.jpg",
-                "url": "https://www.cbsnews.com/boston/news/lindsay-clancy-trial-watch-live-day-17/",
-                "source": "CBS News",
-                "date": "2026-08-20T12:42:34Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Trump ended Haitian TPS. How Miami's Little Haiti was affected",
-                "desc": "In Little Haiti, the largest community of Haitians living in the U.S., the end of TPS has disrupted life at every level.",
-                "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/08/19/USAT/91378766007-little-haiti.jpg?crop=3555,1998,x119,y0&width=3200&height=1799&format=pjpg&auto=webp",
-                "url": "https://www.usatoday.com/story/news/nation/2026/08/20/trump-ended-haitian-tps-how-miamis-little-haiti-affected/91259624007/",
-                "source": "USA Today",
-                "date": "2026-08-20T12:40:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Walmart offers cautionary outlook after slowing US sales growth in second quarter",
-                "desc": "Walmart is reporting the slowest pace in U.S. comparable sales in six years, and the retailer offered a cautious outlook for the year.",
-                "image": "https://dims.apnews.com/dims4/default/a02be52/2147483647/strip/true/crop/3538x2357+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F40%2Fa0%2F8de86ce6ff27dfd15fad3113656a%2F001fee10fe4645dd84f873cbae297847",
-                "url": "https://apnews.com/article/walmart-quarter-earnings-inflation-tariffs-955945e03ffcc111389d62fa3103a051",
-                "source": "AP News",
-                "date": "2026-08-20T12:21:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "More Details On Five-Team Peyton Watson Trade",
-                "desc": "We take a deep dive into a complex five-team deal that will include the Cavs, Nuggets, Clippers, Hornets, and Wizards.",
-                "image": "https://cdn.hoopsrumors.com/files/2026/07/Peyton-Watson-Denver-Nuggets-900x600.jpg",
-                "url": "https://www.hoopsrumors.com/2026/08/more-details-on-five-team-peyton-watson-trade.html",
-                "source": "Hoops Rumors",
-                "date": "2026-08-20T12:19:34Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Mark Zuckerberg encouraged growth over child safety, ex-Meta executive testifies at trial",
-                "desc": "A former engineering director at Meta Platforms testified on Wednesday that ​CEO Mark Zuckerberg fostered a culture that treated child safety as secondary to growth and engagement on Facebook and Instagram.",
-                "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-03/260325-mark-zuckerberg-ew-1132a-99401a.jpg",
-                "url": "https://www.nbcnews.com/tech/social-media/zuckerberg-encouraged-growth-child-safety-ex-meta-executive-testifies-rcna593509",
-                "source": "NBC News",
-                "date": "2026-08-20T12:02:24Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The Nazi shipwrecks emerging from the Danube",
-                "desc": "As water levels fall, travellers are getting a rare glimpse of history usually hidden beneath Europe's great river.",
-                "image": "https://ychef.files.bbci.co.uk/624x351/p0p536fl.jpg",
-                "url": "https://www.bbc.com/travel/article/20260818-the-nazi-shipwrecks-emerging-from-europes-great-river",
-                "source": "BBC",
-                "date": "2026-08-20T12:01:26Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Who was Hind Rajab and why is Israel investigating her killing?",
-                "desc": "After two years of denial, Israel admits firing on the 5-year-old’s car. But her family and others don’t expect justice.",
-                "image": "https://www.aljazeera.com/wp-content/uploads/2024/02/Hind-1707294845.jpg?resize=1920%2C1440",
-                "url": "https://www.aljazeera.com/news/2026/8/20/who-was-hind-rajab-and-why-is-israel-investigating-her-killing",
-                "source": "Al Jazeera",
-                "date": "2026-08-20T11:52:45Z",
-                "priority": "STANDARD"
             }
         ],
         "business": [
+            {
+                "title": "Why Treasury Secretary Bessent's moves to calm the bond market haven't worked so far",
+                "desc": "Interest rates rebounded Thursday despite efforts by Treasury Secretary Scott Bessent to put a lid on longer-term borrowing costs.",
+                "image": "https://dims.apnews.com/dims4/default/fafa4fb/2147483647/strip/true/crop/3936x2623+0+5/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fcd%2F17%2F458a9e255e9cce90ac4352909e78%2Ffc8b2e6fa86d4f0181b7b450c56c19b0",
+                "url": "https://apnews.com/article/rates-bond-market-bessent-inflation-c6e148f8235a98245adf04b2d4bdd8d1",
+                "source": "AP News",
+                "date": "2026-08-20T20:25:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "MBTA bus mistakenly shuttles passengers to North Shore, instead of North Station",
+                "desc": "The MBTA apologized to passengers after the driver of an Orange Line shuttle bus took them to Stoneham on the North Shore instead of North Station.",
+                "image": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/orange-line-shuttle-mbta-bus-sign-2-1661225934.jpg?crop=1.00xw%3A1.00xh%3B0%2C0&resize=1200%3A*",
+                "url": "https://www.wcvb.com/article/orange-line-bus-mistakenly-shuttles-passenger/73487266",
+                "source": "WCVB",
+                "date": "2026-08-20T20:10:49Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Neighborhood peacock allegedly attacked by mail carrier in California",
+                "desc": "A mail carrier allegedly attacked and injured a well-known neighborhood peacock, called Sugar by some, in Pasadena, California on Tuesday.",
+                "image": "https://i.abcnewsfe.com/a/6b2e4c17-8dc2-44a8-ae59-37101287ae61/peacock-1-abc-er-260820_1787250932371_hpMain_16x9.jpg?w=1600",
+                "url": "https://abcnews.com/US/neighborhood-peacock-allegedly-attacked-mail-carrier-california/story?id=135804815",
+                "source": "ABC News - Breaking News, Latest News and Videos",
+                "date": "2026-08-20T20:10:31Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Federal funding cuts test cyclosporiasis outbreak response : NPR",
+                "desc": "From state and local food-safety response to the federal health agencies that fund that work, a record-breaking year for cyclosporiasis cases runs up against the Trump administration's cuts last year.",
+                "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5000x2813+0+637/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd3%2F4e%2F9d52754f43fc82f260d9a37f6f06%2Fcyclospora-final-01.jpg",
+                "url": "https://www.npr.org/2026/08/20/nx-s1-5930462/trump-health-foodborne-illness-outbreak-cyclospora",
+                "source": "NPR",
+                "date": "2026-08-20T19:54:19Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The Genesis GV90 blows the bloody doors off what’s possible in EV design",
+                "desc": "Genesis announced the GV90, a three-row electric SUV with coach-style doors, heated floors, front seats that rotate 180 degrees, and an airbag for the glass roof.",
+                "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Original-6722-photo-2-gv90-neolun-exterior.jpg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
+                "url": "https://www.theverge.com/transportation/982910/genesis-gv90-ev-suv-coach-door-heated-floor",
+                "source": "The Verge",
+                "date": "2026-08-20T19:52:57Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "California company awarded $100M to develop critical mineral facility on Great Salt Lake shore",
                 "desc": "The U.S. Department of Energy announced Waterleaf P1 HoldCo was awarded a $100 million grant to build a commercial lithium extraction and refining facility on the Great Salt Lake's northeastern shore.",
@@ -3207,54 +3252,54 @@
                 "source": "Ars Technica",
                 "date": "2026-08-19T20:04:41Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "$20 billion redevelopment of Washington Dulles approved",
-                "desc": "The redevelopment of Washington's Dulles airport is moving forward but the mobile lounges and United's \"temporary\" concourse will be here a while longer.",
-                "image": "https://runway-media-production.global.ssl.fastly.net/us/originals/2024/04/dulles-mobile-lounge-2005.jpg",
-                "url": "https://thepointsguy.com/news/washington-dulles-airport-mobile-lounges-timeline/",
-                "source": "thepointsguy.com",
-                "date": "2026-08-19T19:55:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Who is eligible for State Farm’s $5B auto insurance dividend?",
-                "desc": "State Farm customers are beginning to see a share of the insurer’s historic $5 billion dividend, with payouts tied to 2025 premiums and varying by state.",
-                "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/03/0/0/Southern-California-Traffic.jpg?ve=1&tl=1",
-                "url": "https://www.foxbusiness.com/lifestyle/state-farm-customers-getting-historic-5b-payout-heres-who-qualifies",
-                "source": "Fox Business",
-                "date": "2026-08-19T19:52:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Target regains its footing under a new CEO and raises expectations for 2026",
-                "desc": "Target says it has more evidence that a merchandising overhaul under its new CEO is attracting more customers and improving sales.",
-                "image": "https://dims.apnews.com/dims4/default/eeead34/2147483647/strip/true/crop/5964x3974+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F16%2F98%2F5a03c812d51a712f1e81c64e115b%2F3590ffa356c348ffb89c55d702c556b7",
-                "url": "https://apnews.com/article/target-earnings-stores-sales-turnaround-5c868444a86dc9ba1ae6df01a6e74d2b",
-                "source": "AP News",
-                "date": "2026-08-19T19:32:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Live Coverage: Pro Farmer Crop Tour turns spotlight on Illinois and western Iowa",
-                "desc": "Follow along as scouts assess corn and soybean crops across the Land of Lincoln and the Hawkeye State.",
-                "image": "https://assets.farmjournal.com/dims4/default/3c7ee48/2147483647/strip/true/crop/1200x675+0+63/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk1-prod-farm-journal.s3.us-east-2.amazonaws.com%2Fbrightspot%2F3b%2F10%2F2aceb7844690b385f3ee5fe140e0%2Fcrop-tour-2026-live-blog-day-3.jpg",
-                "url": "https://www.profarmer.com/news/live/live-coverage-pro-farmer-crop-tour-turns-spotlight-illinois-and-western-iowa",
-                "source": "Pro Farmer",
-                "date": "2026-08-19T19:06:27Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The floodgates are open after another Chinese company lands a reusable rocket",
-                "desc": "We will put the booster back into service for another flight as soon as possible.\"",
-                "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/zq3_landing1-1152x648.jpg",
-                "url": "https://arstechnica.com/space/2026/08/the-floodgates-are-open-after-another-chinese-company-lands-a-reusable-rocket/",
-                "source": "Ars Technica",
-                "date": "2026-08-19T18:41:02Z",
-                "priority": "STANDARD"
             }
         ],
         "entertainment": [
+            {
+                "title": "'Lanterns' Premieres Among HBO Max's Most",
+                "desc": "DC Studios series Lanterns raked in 9.3 million cross-platform viewers globally and 6.6 million in the U.S. in its first three days of availability.",
+                "image": "https://deadline.com/wp-content/uploads/2026/07/aaron-pierre-kyle-chandler.jpg?w=1024",
+                "url": "https://deadline.com/2026/08/lanterns-premiere-ratings-viewers-hbo-max-dc-studios-1237046768/",
+                "source": "Deadline",
+                "date": "2026-08-20T20:28:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Lanterns Lands Among Top 5 HBO Max Series Premieres",
+                "desc": "DC Studios' \"Lanterns\" debuted among the top five series premieres on HBO Max.",
+                "image": "https://www.thewrap.com/wp-content/uploads/2026/08/Lanterns.jpg",
+                "url": "https://www.thewrap.com/creative-content/tv-shows/lanterns-dc-premiere-ratings-viewership/",
+                "source": "TheWrap",
+                "date": "2026-08-20T20:19:20Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Prince Harry, Meghan Markle plan UK return despite years of royal criticism",
+                "desc": "Prince Harry and Meghan Markle's reported U.K. return comes after explosive claims about the monarchy, British press and royal family in their memoir and Netflix documentary.",
+                "image": "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/harry-meghan-oprah-AP.jpg",
+                "url": "https://www.foxnews.com/entertainment/prince-harry-meghan-markles-uk-move-puts-fresh-spotlight-explosive-claims-against-royal-family",
+                "source": "Fox News",
+                "date": "2026-08-20T20:06:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Neutrogena acknowledges Hayden Panettiere backlash after actress's death",
+                "desc": "Neutrogena has addressed backlash against the company following the death of actress Hayden Panettiere, who died Sunday at age 36.",
+                "image": "https://i.abcnewsfe.com/a/2a475a1a-14f2-428a-9de0-c4f9a185639f/panettiere-gty-er-260820_1787253753280_hpMain_16x9.jpg?w=1600",
+                "url": "https://abcnews.com/GMA/Culture/neutrogena-acknowledges-hayden-panettiere-backlash-after-actresss-death/story?id=135817284",
+                "source": "ABC News - Breaking News, Latest News and Videos",
+                "date": "2026-08-20T20:05:31Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Jason Sudeikis says it was a ‘joy’ for former cast member’s real-life sister to join Ted Lasso",
+                "desc": "Actor appears in latest episode of ‘Ted Lasso’ season four",
+                "image": "https://static.the-independent.com/2026/08/20/18/35/GettyImages-2221578499-(1).jpg?trim=0,1,0,1&width=1200&height=800&crop=1200:800",
+                "url": "https://www.the-independent.com/arts-entertainment/tv/news/ted-lasso-dani-rojas-real-sister-b3036624.html",
+                "source": "The Independent",
+                "date": "2026-08-20T19:42:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Production Agreement With 'Bannerman'",
                 "desc": "Netflix and AMC Studios have closed a co-production agreement, with Shane Black's drama 'Bannerman' as the first series.",
@@ -3749,54 +3794,81 @@
                 "source": "Bleeding Cool News",
                 "date": "2026-08-20T00:06:08Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Shia LaBeouf Admits to Drinking Daily, Months After Mardi Gras Arrest",
-                "desc": "Shia LaBeouf revealed he is drinking daily, months after his arrest on three counts of misdemeanor battery during Mardi Gras ... TMZ has learned.",
-                "image": "https://imagez.tmz.com/image/18/16by9/2026/08/19/187fbcc8cc7d4e8fa2c59f53c884d6a6_xl.jpg",
-                "url": "https://www.tmz.com/2026/08/19/shia-labeouf-says-he-drinks-every-day/",
-                "source": "TMZ",
-                "date": "2026-08-19T23:30:54Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "World's Smallest Penis Undergoes Successful Growth Procedure",
-                "desc": "Michael Phillips -- the man who claims to have the world's smallest penis -- may soon have to vacate his teeny-tiny title ... because he says a procedure to give him some size was a HUGE success.",
-                "image": "https://imagez.tmz.com/image/d7/16by9/2026/08/19/d7829ff413904add805ad5093f9f1b2d_xl.jpg",
-                "url": "https://www.tmz.com/2026/08/19/worlds-smallest-penis-owner-gets-growth-surgery/",
-                "source": "TMZ",
-                "date": "2026-08-19T23:30:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Drug Enforcement Agency joins probe into Hayden Panettiere's death: Sources",
-                "desc": "Actress Hayden Panettiere was found in cardiac arrest prior to her death on Sunday, the Greenville County Coroner's Office said.",
-                "image": "https://i.abcnewsfe.com/a/0adc3bb3-2d92-4ada-8736-e8126f62111d/Haydn-Panettiere-4-rt-gmh-260817._1786979543501_hpMain_16x9.jpg?w=1600",
-                "url": "https://abcnews.com/US/drug-enforcement-administration-joins-probe-hayden-panettieres-death/story?id=135790227",
-                "source": "abcnews.com",
-                "date": "2026-08-19T23:20:38Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Tracy Tutor Joins RHOBH Season 16 Cast (DETAILS)",
-                "desc": "MDLLA agent Tracy Tutor has signed on for The Real Housewives of Beverly Hills Season 16. Read for more details.",
-                "image": "https://www.bravotv.com/sites/bravo/files/2026/01/tracy-tutor.jpg",
-                "url": "https://www.bravotv.com/the-daily-dish/tracy-tutor-joins-rhobh-cast-season-16",
-                "source": "Bravo",
-                "date": "2026-08-19T23:13:40Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Tracy Tutor Joins 'The Real Housewives of Beverly Hills'",
-                "desc": "Tracy Tutor is moving from one Bravo franchise to another … signing on for the new season of \"The Real Housewives of Beverly Hills\" … TMZ has learned.Sources with direct knowledge tell TMZ … Tracy has officially joined the reality series and will begin filming for the current season.",
-                "image": "https://imagez.tmz.com/image/83/16by9/2026/08/19/83871d274e4143e48169caf0ed95a7d1_xl.jpg",
-                "url": "https://www.tmz.com/2026/08/19/tracy-tutor-to-join-rhobh/",
-                "source": "TMZ",
-                "date": "2026-08-19T23:00:47Z",
-                "priority": "STANDARD"
             }
         ],
         "sports": [
+            {
+                "title": "16-year-old Tennessee girl who ran on field and tackled football player midgame is charged with assault",
+                "desc": "Video of the incident shows the girl coming out of nowhere to level the middle school player, then shove him to the ground as he tried to get up.",
+                "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-08/260820-franklin-county-highschool-tennessee-vl-314p-d901fd.jpg",
+                "url": "https://www.nbcnews.com/news/us-news/16-year-old-tennessee-girl-runs-field-tackles-football-player-game-cha-rcna593612",
+                "source": "NBC News",
+                "date": "2026-08-20T20:13:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Dae'Quan Wright enters transfer portal: Browns TE, ex-Ole Miss star eyeing college football return",
+                "desc": "The undrafted rookie is looking to return to college football while currently a member of the Browns' roster",
+                "image": "https://sportshub.cbsistatic.com/i/r/2026/08/20/03954905-4587-4729-bbbd-5f6cca259cac/thumbnail/1200x675/f3b8fcde9c15217da70bcb639e32b1f7/ole-miss.png",
+                "url": "https://www.cbssports.com/college-football/news/daequan-wright-transfer-portal-browns-ole-miss/",
+                "source": "CBS Sports",
+                "date": "2026-08-20T20:12:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "A's will shut down Jacob Wilson (shoulder)",
+                "desc": "MLB.com's Martín Gallegos reports the Athletics will send Jacob Wilson (shoulder) to the injured list and that is season is likely over.",
+                "image": "https://nbcsports.brightspotcdn.com/dims4/default/cfe17ca/2147483647/strip/true/crop/100x56+0+39/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb3%2F8c%2F0575eb6a471cba55348ec7e5b52d%2Fathletics.jpg",
+                "url": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-20/as-will-shut-down-jacob-wilson-shoulder",
+                "source": "NBC Sports",
+                "date": "2026-08-20T20:08:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Cowboys, Saints Fined by NFL After Viral Videos from Fight-Filled Joint Practice",
+                "desc": "Tuesday's brawl-filled practice between the Dallas Cowboys and New Orleans Saints apparently caught the attention of the NFL.",
+                "image": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/ap_images/2026-08/c176badd3c324017b5b4f70d74f73e02/Saints_Cowboys_Camp_Football_24187_4261x2397_(0,2).jpg?w=1120&h=630",
+                "url": "https://bleacherreport.com/articles/25478258-cowboys-saints-fined-nfl-after-viral-videos-fight-filled-joint-practice",
+                "source": "Bleacher Report",
+                "date": "2026-08-20T20:07:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Giants' Jameis Winston Punched by Dolphins Player on Video During Fight-Filled Joint Practice",
+                "desc": "Things got chippy between the New York Giants and Miami Dolphins during a joint practice on Thursday.",
+                "image": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/ap_images/2026-08/77473d420ed94191baffd62703ac3c0f/Vikings_Giants_Football_65214_6070x3415_(0,317).jpg?w=1120&h=630",
+                "url": "https://bleacherreport.com/articles/25478409-giants-jameis-winston-punched-dolphins-player-video-during-fight-filled-joint-practice",
+                "source": "Bleacher Report",
+                "date": "2026-08-20T20:06:27Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Bears news: Caleb Williams gets brutally honest on roller-coaster Bengals practice",
+                "desc": "Will Chicago Bears quarterback Caleb Williams make a leap in his third season? He certainly didn’t look the part against Dexter Lawrence and the Bengals . And Williams got brutally honest about his roller-coaster performance in a joint practice with the Bengals. Williams chucked three interceptions on the day. He also had a couple of nice throws to […] The post Bears news: Caleb Williams gets brutally honest on roller-coaster Bengals practice appeared first on ClutchPoints.",
+                "image": "https://s.yimg.com/lo/mysterio/api/d902d668debaade2add3b9a32a2cc4e7272b1a631bdf1c7ca4ce4c16a4fab0d0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fclutchpoints_articles_939%2F9a3b3c3b4045db5dcfce4682078344dc.jpg",
+                "url": "https://sports.yahoo.com/articles/bears-news-caleb-williams-gets-200307844.html",
+                "source": "Yahoo Sports",
+                "date": "2026-08-20T20:03:07Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Lions training camp observations: Jack Campbell dominates, OL struggles",
+                "desc": "Detroit Lions LB Jack Campbell was an absolute monster during Day 16 of training camp.",
+                "image": "https://platform.prideofdetroit.com/wp-content/uploads/sites/127/2026/08/reuters-tagreuters.com2026newsml_MT1USATODAY29504644238131781.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+                "url": "https://www.prideofdetroit.com/detroit-lions-training-camp/169991/lions-training-camp-observations-jack-campbell-dominates-offensive-line-struggles",
+                "source": "Pride Of Detroit",
+                "date": "2026-08-20T19:58:48Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Andruw Monasterio OK with returning to a reserve role with the Red Sox",
+                "desc": "Monasterio took over as the everyday shortstop on July 22. Since then, he has hit .298 with a .358 on-base percentage and .404 slugging percentage.",
+                "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/FP3KCS2PUJYQU7XG266GJPPMEU.jpg?auth=d9edfa0c551810a26469d41a14b672fff00d69736a7d436c60c3ef5f07b428fe&width=1440",
+                "url": "https://www.bostonglobe.com/2026/08/20/sports/trevor-story-andruw-monasterio-red-sox/",
+                "source": "The Boston Globe",
+                "date": "2026-08-20T19:49:12Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Bears training camp report: Joint practice with Bengals | Thursday, Aug. 20",
                 "desc": "Bears quarterback Caleb Williams produced the highlight of Thursday’s joint practice with the Bengals by throwing three touchdown passes in a red-zone drill.",
@@ -4264,80 +4336,8 @@
                 "source": "Bleacher Report",
                 "date": "2026-08-20T12:09:11Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "How Brentford FC’s Data Revolution Turned the Premier League Upside Down",
-                "desc": "An analytics-based approach has seen tiny Brentford climb from the lower rungs of English soccer to become Premier League giant slayers. Now the trick is to figure out how to move forward.",
-                "image": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_2663,h_1497/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/shape/cover/sport/dCOVbrentfordfc_hz-534430cc30c701ba8a59207e44ce5fb7.jpg",
-                "url": "https://www.si.com/soccer/how-brentford-data-revolution-turned-premier-league-upside-down-digital-cover",
-                "source": "Sports Illustrated",
-                "date": "2026-08-20T12:00:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The Lakers won the breakup with LeBron James, and they will be better than the Sixers",
-                "desc": "The Lakers have a chance to be a top-5 team even after losing LeBron James.",
-                "image": "https://platform.sbnation.com/wp-content/uploads/sites/2/2026/07/gettyimages-2267327618.jpg?quality=90&strip=all&crop=0%2C6.3393484883993%2C100%2C78.526196031849&w=1200",
-                "url": "https://www.sbnation.com/nba/1125199/los-angeles-lakers-breakup-lebron-james-and-better-than-sixers",
-                "source": "SB Nation",
-                "date": "2026-08-20T12:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Kyle Shanahan takes hilarious jab at former 49ers coach",
-                "desc": "The San Francisco 49ers held another joint practice on Tuesday, and their head coach took a hilarious shot at his former employee after.",
-                "image": "https://ninerswire.usatoday.com/gcdn/authoring/authoring-images/2025/11/17/SNIN/87315633007-2247026090.jpg?crop=3830,2155,x3,y22&width=3200&height=1801&format=pjpg&auto=webp",
-                "url": "https://ninerswire.usatoday.com/story/sports/nfl/niners/2026/08/20/49ers-coach-kyle-shanahan-jokes-that-robert-saleh-lacks-discipline/91372595007/",
-                "source": "Niners Wire",
-                "date": "2026-08-20T11:50:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Top 6 Fantasy Football Draft Values on Sleeper (2026)",
-                "desc": "The 2026 NFL preseason is underway, meaning we’ve officially hit the start of redraft fantasy football season. Therefore, it’s time to do all the preparation fantasy players ignored over the past few months. Many factors go into fantasy players winning … read more »",
-                "image": "https://cdn.fantasypros.com/wp-content/images/Juwan_Johnson_Saints_1470x650-2/1470x650.jpg",
-                "url": "https://www.fantasypros.com/2026/08/top-6-fantasy-football-draft-values-on-sleeper-2026-picks-advice/",
-                "source": "FantasyPros",
-                "date": "2026-08-20T11:47:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ten Winners, Four Losers From Practice 14 of Packers Training Camp",
-                "desc": "Here are the standout performers from Wednesday at Green Bay Packers training camp, a list that includes quarterback Kyle McCord.",
-                "image": "https://images2.minutemediacdn.com/image/upload/c_crop,x_11,y_59,w_2677,h_1505/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/packer_central/01m0e6r1r9rmnf388k2b.jpg",
-                "url": "https://www.si.com/nfl/packers/onsi/ten-winners-four-losers-from-practice-14-of-packers-training-camp",
-                "source": "Sports Illustrated",
-                "date": "2026-08-20T11:22:47Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Nuggets To Trade Peyton Watson To Cavaliers In Multi-Team Deal",
-                "desc": "The Cavaliers are landing restricted free agent Peyton Watson in a three-team deal with the Nuggets and Clippers.",
-                "image": "https://cdn.hoopsrumors.com/files/2026/03/Peyton-Watson-900x600.jpg",
-                "url": "https://www.hoopsrumors.com/2026/08/nuggets-to-trade-peyton-watson-to-cavaliers-in-three-team-deal.html",
-                "source": "Hoops Rumors",
-                "date": "2026-08-20T00:00:54Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Multiple first-year NFL players win TRO for fifth-year of college football",
-                "desc": "The general chaos could yield specific benefits for multiple programs.",
-                "image": "https://nbcsports.brightspotcdn.com/dims4/default/3912b52/2147483647/strip/true/crop/8256x4644+0+430/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F34%2Fc0%2F1d3b861f4a679d461ea6926a6dd1%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2252292032",
-                "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/multiple-first-year-nfl-players-win-tro-for-fifth-year-of-college-football",
-                "source": "NBC Sports",
-                "date": "2026-08-19T23:59:57Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "What we saw from Kyler Murray and the Vikings offense in joint practices vs. Ravens",
-                "desc": "Neither Murray nor the run game had a great day against the Ravens defense, but the quarterback's last snap offered up a sense of hope.",
-                "image": "https://static01.nyt.com/athletic/uploads/wp/2026/08/19184440/GettyImages-2291175431-scaled.jpg?width=1200&height=630&fit=cover",
-                "url": "https://www.nytimes.com/athletic/7525196/2026/08/19/kyler-murray-vikings-ravens-joint-practices/",
-                "source": "The New York Times",
-                "date": "2026-08-19T23:42:25Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-08-21T07:35:03.298448Z"
+    "lastGlobalSync": "2026-08-21T08:28:17.105133Z"
 }
