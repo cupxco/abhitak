@@ -2,6 +2,15 @@
     "hi": {
         "general": [
             {
+                "title": "'होर्मुज पर पूरा नियंत्रण, सही डील के लिए तैयार नहीं ईरान', ट्रंप का बड़ा दावा",
+                "desc": "ट्रंप ने ईरान की आर्थिक स्थिति पर सवाल उठाते हुए होर्मुज को लेकर अमेरिका की नियंत्रण का दावा किया है. दूसरी तरफ ईरान ने अपनी सैन्य तैयारी मजबूत होने की बात कही है.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202608/6a88d55c33bd7-us-president-donald-trump-214646745-16x9.jpg",
+                "url": "https://www.aajtak.in/world/story/donald-trump-iran-deal-strait-of-hormuz-tensions-news-ntc-dhrj-dskc-2627319-2026-08-22",
+                "source": "AajTak",
+                "date": "2026-08-21T22:47:37Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "एशियन गेम्स से पहले नीरज चोपड़ा ने दिखाया दम, लुसाने डायमंड लीग में फेंका सीजन बेस्ट थ्रो",
                 "desc": "नीरज चोपड़ा ने लुसाने डायमंड लीग में 88.05 मीटर का सीजन बेस्ट थ्रो किया. वह रुमेश पथिरागे से सिर्फ 9 सेंटीमीटर पीछे रहकर दूसरे स्थान पर रहे.",
                 "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202608/6a88b664d5514-neeraj-chopra-213439602-16x9.jpg",
@@ -530,15 +539,6 @@
                 "url": "https://www.aajtak.in/india/telangana/story/andhra-pradesh-mp-lingamneni-ramesh-son-accused-woman-death-road-accident-ntc-drmt-rpti-2626599-2026-08-20",
                 "source": "AajTak",
                 "date": "2026-08-20T17:39:27Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'हिंदू-मुस्लिम सोच से बाहर निकलें', शर्मिला टैगोर पर भड़कीं कंगना रनौत, 'वंदे मातरम' विवाद पर गरमाया माहौल",
-                "desc": "कंगना रनौत ने शर्मिला टैगोर के वंदे मातरम पर दिए बयान पर रिएक्ट किया है और हैरानी जताई है। उन्होंने वेटरन एक्ट्रेस से कहा है कि वह हिंदू-मुस्लिम सोच से बाहर निकलें। शर्मिला ने कहा था कि 'वंदे मातरम' के पहले दो छंद ही अच्छे हैं और बाकी छंद उन लोगों के लिए मुश्किल है, जो एक ही भगवान को मानते हैं।",
-                "image": "https://static.langimg.com/nbt/thumb/133384404/kangana-ranaut-on-sharmila-tagore-vande-mataram.jpg?imgsize=302367&width=1600&height=900&resizemode=75",
-                "url": "https://navbharattimes.indiatimes.com/entertainment/news-from-bollywood/kangana-ranaut-shocked-at-sharmila-tagore-remarks-about-vande-mataram-says-come-out-of-hindu-muslim-mindset/articleshow/133384082.cms",
-                "source": "Navbharat Times",
-                "date": "2026-08-20T17:30:10Z",
                 "priority": "STANDARD"
             }
         ],
@@ -1637,6 +1637,15 @@
                 "priority": "STANDARD"
             },
             {
+                "title": "हॉकी वर्ल्ड कप में भारत की महिला टीम को मिली हार, नीदरलैंड्स के खिलाफ नहीं लगा एक भी गोल, अब सेमीफाइनल की राह मुश्किल",
+                "desc": "एफआईएच महिला हॉकी विश्व कप 2026 के दूसरे दौर में नीदरलैंड्स ने भारत को 2-0 से हरा दिया।",
+                "image": "https://static.langimg.com/nbt/thumb/133411242/women-hockey.jpg?imgsize=500571&width=1600&height=900&resizemode=75",
+                "url": "https://navbharattimes.indiatimes.com/sports/hockey/news/fih-women-hockey-world-cup-2026-netherlands-outclass-india-2-0-in-pool-e-opener/articleshow/133411170.cms",
+                "source": "Navbharat Times",
+                "date": "2026-08-21T17:51:40Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "महिला हॉकी वर्ल्ड कप: नीदरलैंड्स से हारा भारत, ट्रॉफी का टूटा सपना?",
                 "desc": "भारत की हॉकी टीम को 2026 महिला हॉकी वर्ल्ड कप के दूसरे राउंड में नीदरलैंड्स के खिलाफ हार का सामना करना पड़ा. इस हार के साथ नीदरलैंड्स ने सेमीफाइनल में जगह हासिल कर ली है.",
                 "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/08/21/0b310328fbcf772338862ac41a0ed2e717873343488761364_original.jpg?impolicy=abp_cdn&imwidth=1200",
@@ -2157,20 +2166,56 @@
                 "source": "Jagran",
                 "date": "2026-08-19T17:48:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "आर्यवीर सहवाग जोरदार शुरुआत को बड़ी पारी में नहीं बदल पाए; 14 गेंदों में लगाए 4 चौके, 157 की स्ट्राइक रेट से बनाए रन",
-                "desc": "DPL 2026: आर्यवीर सहवाग को दिल्ली प्रीमियर लीग 2026 में अपनी टीम के लिए खेलने का मौका 9वें मुकाबले में मिला। इस मैच में उन्होंने शानदार शुरुआत की, लेकिन बड़ी पारी खेलने से चूक गए।",
-                "image": "https://images.jansatta.com/2026/08/AaryaveerSehwag.jpg",
-                "url": "https://www.jansatta.com/khel/aaryavir-sehwag-scored-22-runs-on-14-balls-hit-4-fours-dpl-2026-new-delhi-tigers-vs-west-delhi-lions-delhi-premier-league/4668763/",
-                "source": "Jansatta",
-                "date": "2026-08-19T17:12:45Z",
-                "priority": "STANDARD"
             }
         ]
     },
     "en": {
         "general": [
+            {
+                "title": "2026 NFL Preseason, Week 2: What We Learned from Friday's games",
+                "desc": "NFL.com's Bobby Kownack breaks down the key takeaways from Friday's action in Week 2 of the 2026 NFL preseason.",
+                "image": "https://static.www.nfl.com/image/upload/t_editorial_landscape_12_desktop/league/c21jnssjfw00uofgloms",
+                "url": "https://www.nfl.com/news/2026-nfl-preseason-week-2-what-we-learned-friday-games",
+                "source": "NFL.com",
+                "date": "2026-08-21T23:03:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Tupac Jurors See Keffe D’s First Public Interview About Killing",
+                "desc": "Tupac Shakur murder trial jurors watched Keffe D tell BET he had cancer, had “nothing else to lose,” and wanted to tell the truth about the shooting.",
+                "image": "https://www.rollingstone.com/wp-content/uploads/2026/08/tupac-trial-day-5.jpg?crop=0px%2C62px%2C1800px%2C1014px&resize=1600%2C900",
+                "url": "https://www.rollingstone.com/music/music-news/tupac-shakur-murder-trial-keffe-d-bet-suge-knight-1235613138/",
+                "source": "Rolling Stone",
+                "date": "2026-08-21T23:01:54Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Meet Her Friends' New Reality Show",
+                "desc": "Khloe Kardashian on executive producing her friends for 'The Girls,' the moments when she 'regretted doing any of this,' and 'Khloé in Wonder Land.",
+                "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/The-Girls-main.jpg?w=1440&h=810&crop=1",
+                "url": "https://www.hollywoodreporter.com/tv/tv-features/khloe-kardashian-the-girls-hulu-reality-show-1236677849/",
+                "source": "The Hollywood Reporter",
+                "date": "2026-08-21T22:59:58Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump urges South Carolinians to back Darline Graham in Senate runoff",
+                "desc": "President Donald Trump says the first step toward keeping Darline Graham as a U.S. senator from South Carolina involves helping her win a Republican runoff next week.",
+                "image": "https://dims.apnews.com/dims4/default/b0ad745/2147483647/strip/true/crop/5697x3796+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F0f%2F93%2F85119356f91e9a304bacbe184444%2F84c30802dcae4d5a8f33d48981f014c7",
+                "url": "https://apnews.com/article/trump-south-carolina-campaign-darline-graham-senate-96df66a656438fb97daf9d9a551ebda5",
+                "source": "AP News",
+                "date": "2026-08-21T22:53:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Explosions rock Kyiv as Russia launches ballistic missiles at Ukraine's capital",
+                "desc": "The explosions came just minutes after an air raid alert was issued.",
+                "image": "https://assets.kyivindependent.com/content/images/2026/03/GettyImages-2178308473.jpg",
+                "url": "https://kyivindependent.com/explosions-rock-kyiv-as-russia-launches-ballistic-missiles-at-ukraines-capital-2/",
+                "source": "The Kyiv Independent",
+                "date": "2026-08-21T22:15:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "TikTok and ByteDance reach $400M DOJ settlement over children's privacy",
                 "desc": "TikTok and ByteDance will pay $400 million in a DOJ settlement over children's privacy violations related to COPPA, one of the largest such settlements ever reached.",
@@ -2665,54 +2710,18 @@
                 "source": "Variety",
                 "date": "2026-08-21T15:13:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Court slashes $50M judgment against Infowars' Alex Jones",
-                "desc": "A Texas court has slashed the $50 million judgment to $1.5 million against the Infowars founder over falsely calling the 2012 school shooting a hoax.",
-                "image": "https://s7d2.scene7.com/is/image/TWCNews/alex_jones_AP_26110779115165_NAT_0421",
-                "url": "https://spectrumlocalnews.com/tx/south-texas-el-paso/news/2026/08/21/court-slashes--50m-judgment-against-infowars--alex-jones",
-                "source": "Spectrum News",
-                "date": "2026-08-21T15:11:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Mom who struggled with postpartum psychosis describes intrusive thoughts \"turning into voices\"",
-                "desc": "As the trial of Lindsay Clancy brings renewed attention to postpartum psychosis, Haley Ashcom shares her experience with the dangerous condition.",
-                "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/21/92d776d6-bc26-481b-8711-bc863b7a9e1e/thumbnail/1200x630/80313b9b207dc75be13235e9d4fc4b0d/cbsn-fusion-mom-describes-hearing-voices-turned-violent-postpartum-psychosis-diagnosis-thumbnail.jpg",
-                "url": "https://www.cbsnews.com/news/postpartum-psychosis-mom-recovery-lindsay-clancy/",
-                "source": "CBS News",
-                "date": "2026-08-21T15:10:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Key Iranian trading partner China rejects Trump’s ‘economic D-Day’ threat",
-                "desc": "China responded to US President Donald Trump’s threat of an “economic D-Day” against Iran, saying that sanctions do not “fit the interest of any party.” Follow for live updates.",
-                "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2277568767.jpg?c=16x9&q=w_800,c_fill",
-                "url": "https://www.cnn.com/2026/08/21/world/live-news/iran-war-trump",
-                "source": "CNN",
-                "date": "2026-08-21T15:08:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Hayden Panettiere's ex Wladimir Klitschko honors late actress with emotional birthday tribute",
-                "desc": "Hayden Panettiere's ex Wladimir Klitschko, whom she shares daughter Kaya with, honored the late actress with a sweet birthday tribute on Friday, days after her tragic death.",
-                "image": "https://pagesix.com/wp-content/uploads/sites/3/2026/08/138085464.jpg?quality=75&strip=all&w=1200",
-                "url": "https://pagesix.com/2026/08/21/celebrity-news/hayden-panettieres-ex-wladimir-klitschko-honors-late-actress-with-sweet-birthday-tribute/",
-                "source": "Page Six",
-                "date": "2026-08-21T14:44:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Netflix’s ‘Outer Banks’ Season 5 Sets An IMDB Review Score Record",
-                "desc": "'Outer Banks' season 5, its final season, is live on Netflix, and so far, fans seem to be loving it judging by an IMDB record it just set.",
-                "image": "https://imageio.forbes.com/specials-images/imageserve/6a886163dbbb1c8f09bc6607/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-                "url": "https://www.forbes.com/sites/paultassi/2026/08/21/netflixs-outer-banks-season-5-sets-an-imdb-review-score-record/",
-                "source": "Forbes",
-                "date": "2026-08-21T14:39:24Z",
-                "priority": "STANDARD"
             }
         ],
         "business": [
+            {
+                "title": "Tesla’s Door Handles Lead to Its Biggest Recall Yet",
+                "desc": "A Chinese agency says the two recalls affecting some 3 million vehicles can mostly be fixed by over-the-air updates—but they will also require physical warning stickers and camera-related updates.",
+                "image": "https://media.wired.com/photos/6a88c764f06dc0383e8c9d25/191:100/w_1280,c_limit/GettyImages-964985876-resized.jpg",
+                "url": "https://www.wired.com/story/teslas-door-handles-lead-to-its-biggest-recall-yet/",
+                "source": "WIRED",
+                "date": "2026-08-21T23:10:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "TikTok and ByteDance reach $400M DOJ settlement over children's privacy",
                 "desc": "TikTok and ByteDance will pay $400 million in a DOJ settlement over children's privacy violations related to COPPA, one of the largest such settlements ever reached.",
@@ -2774,6 +2783,15 @@
                 "url": "https://www.jalopnik.com/2240366/regulators-pass-new-rules-for-efficient-california-tires/",
                 "source": "Jalopnik",
                 "date": "2026-08-21T19:25:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Palantir Stock Clears Buy Zone But Could Offer Alternative Entry",
+                "desc": "Palantir stock is trading just above a buy zone. Investors should be on the lookout as the stock clears a potential add-on entry.",
+                "image": "https://www.investors.com/wp-content/uploads/2025/07/Stock-Palantir-drkbackground-01-shutt.jpg",
+                "url": "https://www.investors.com/stock-lists/ibd-big-cap-20/palantir-stock-clears-buy-zone-but-could-offer-alternative-entry/",
+                "source": "Investor's Business Daily",
+                "date": "2026-08-21T19:16:00Z",
                 "priority": "STANDARD"
             },
             {
@@ -3234,27 +3252,27 @@
                 "source": "KSL News",
                 "date": "2026-08-20T19:32:08Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Castelion hits $13B valuation to mass-produce hypersonic missiles",
-                "desc": "Founded in 2022, Castelion set out to manufacture hypersonic weapon systems at a lower cost and at faster speeds than traditional defense primes.",
-                "image": "https://techcrunch.com/wp-content/uploads/2023/10/image004.png?resize=1200,835",
-                "url": "https://techcrunch.com/2026/08/20/castelion-hits-13b-valuation-to-mass-produce-hypersonic-missiles/",
-                "source": "TechCrunch",
-                "date": "2026-08-20T19:01:41Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Silicon Valley Doesn't Get Why You Hate AI",
-                "desc": "Technology leaders don’t seem to understand society’s gripes about AI, but boy, are they posting through it.",
-                "image": "https://media.wired.com/photos/6a8606ab1997359abc4212b4/191:100/w_1280,c_limit/Model-Behavior-Silicon-Valley-Doesnt-Understand-AI-Backlash-Business.jpg",
-                "url": "https://www.wired.com/story/silicon-valley-doesnt-get-why-you-hate-ai/",
-                "source": "WIRED",
-                "date": "2026-08-20T18:49:00Z",
-                "priority": "STANDARD"
             }
         ],
         "entertainment": [
+            {
+                "title": "Tupac Jurors See Keffe D’s First Public Interview About Killing",
+                "desc": "Tupac Shakur murder trial jurors watched Keffe D tell BET he had cancer, had “nothing else to lose,” and wanted to tell the truth about the shooting.",
+                "image": "https://www.rollingstone.com/wp-content/uploads/2026/08/tupac-trial-day-5.jpg?crop=0px%2C62px%2C1800px%2C1014px&resize=1600%2C900",
+                "url": "https://www.rollingstone.com/music/music-news/tupac-shakur-murder-trial-keffe-d-bet-suge-knight-1235613138/",
+                "source": "Rolling Stone",
+                "date": "2026-08-21T23:01:54Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Mama June's Daughter Pumpkin Says Her OnlyFans Got Her Kid Rejected From School",
+                "desc": "Mama June's daughter Pumpkin says her X-rated online presence cost her daughter a spot at a private elementary school ... telling TMZ the school pulled the kid's acceptance after discovering her social media posts.",
+                "image": "https://imagez.tmz.com/image/3b/16by9/2026/08/21/3bf5941bcadd434f8d83ff54aefb3c00_xl.jpg",
+                "url": "https://www.tmz.com/2026/08/21/mama-june-daughter-pumpkin-blames-onlyfans-for-private-school-rejecting-her-child/",
+                "source": "TMZ",
+                "date": "2026-08-21T23:00:54Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Son of former RHOA star Kim Zolciak arrested on serious charges",
                 "desc": "Alpharetta police confirmed that 15-year-old Kroy Biermann Jr. is being charged as an adult with aggravated sodomy and aggravated sexual battery.",
@@ -3776,27 +3794,72 @@
                 "source": "TMZ",
                 "date": "2026-08-21T00:20:49Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "‘Yellowstone’ creator Taylor Sheridan’s $330M ranch purchase led to new deal with Paramount",
-                "desc": "Taylor Sheridan, 56, planned to retire after 'Yellowstone,' but buying the $330M Four Sixes Ranch forced him to sign a massive deal with Paramount.",
-                "image": "https://pagesix.com/wp-content/uploads/sites/3/2026/08/138024626.jpg?quality=75&strip=all&w=1200",
-                "url": "https://pagesix.com/2026/08/20/entertainment/taylor-sheridans-330m-four-sixes-ranch-purchase-led-to-a-new-exclusive-deal-with-paramount/",
-                "source": "Page Six",
-                "date": "2026-08-21T00:14:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Netflix's Anime NYC Line Up Is Ridiculously Stacked",
-                "desc": "Netlfix opened the floodgates with a new look at anime from 'Cyberpunk: Edgerunners 2' to the glorious return of 'Blue Eye Samurai,' coming to the streamer later this year and early 2027.",
-                "image": "https://gizmodo.com/app/uploads/2026/08/Netflix-Anime-Blue-Eye-Samurai-Fool-Night-Cyberpunk-Edgerunners-2-Bass-X-Machina-1200x675.jpg",
-                "url": "https://gizmodo.com/netflixs-anime-nyc-line-up-is-ridiculously-stacked-2000800920",
-                "source": "Gizmodo",
-                "date": "2026-08-21T00:00:28Z",
-                "priority": "STANDARD"
             }
         ],
         "sports": [
+            {
+                "title": "2026 NFL Preseason, Week 2: What We Learned from Friday's games",
+                "desc": "NFL.com's Bobby Kownack breaks down the key takeaways from Friday's action in Week 2 of the 2026 NFL preseason.",
+                "image": "https://static.www.nfl.com/image/upload/t_editorial_landscape_12_desktop/league/c21jnssjfw00uofgloms",
+                "url": "https://www.nfl.com/news/2026-nfl-preseason-week-2-what-we-learned-friday-games",
+                "source": "NFL.com",
+                "date": "2026-08-21T23:03:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Last strike of Iowa no-hitter sparks outrage",
+                "desc": "California's Little League team lost 1-0 to Iowa after a controversial strike-three call with the bases loaded sealed a combined no-hitter.",
+                "image": "https://nypost.com/wp-content/uploads/sites/2/2026/08/IOWA-WIN.jpg?quality=75&strip=all&w=1200",
+                "url": "https://nypost.com/2026/08/21/sports/little-league-world-series-last-strike-of-iowa-no-hitter-sparks-outrage/",
+                "source": "New York Post",
+                "date": "2026-08-21T23:03:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Lakers legends react to Jeanie Buss family ownership drama",
+                "desc": "Robert Horry, Byron Scott, Michael Cooper and Matt Barnes speak out on the Lakers ownership fight, Buss family turmoil and Jeanie Buss’ future.",
+                "image": "https://nypost.com/wp-content/uploads/sites/2/2026/08/138125264.jpg?quality=75&strip=all&w=1200",
+                "url": "https://nypost.com/2026/08/21/sports/lakers-legends-react-to-jeanie-buss-family-ownership-drama/",
+                "source": "New York Post",
+                "date": "2026-08-21T23:02:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Report: Rashod Bateman faces three charges from June incident with ex-girlfriend",
+                "desc": "Ravens wide receiver Rashod Bateman faces three charges from a June 3 incident, TMZ Sports reports.",
+                "image": "https://nbcsports.brightspotcdn.com/dims4/default/0339c89/2147483647/strip/true/crop/7254x4080+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F43%2Fdf%2Fe093a10b458bb8401130246c565f%2Fdownload.jpg",
+                "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-rashod-bateman-faces-three-charges-from-june-incident-with-ex-girlfriend",
+                "source": "NBC Sports",
+                "date": "2026-08-21T22:33:48Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Miami's Lionel Messi fined by MLS for slapping opponent",
+                "desc": "Inter Miami's Lionel Messi and Ian Fray have been fined undisclosed amounts for making contact in the head and neck area of opponents in separate incidents during second-half stoppage time in a 2-2 draw against Philadelphia, MLS said Friday.",
+                "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0821%2Fr1705055_1296x729_16%2D9.jpg",
+                "url": "https://www.espn.com/soccer/story/_/id/49684889/lionel-messi-mls-fine-philadelphia-union-ian-fray",
+                "source": "ESPN",
+                "date": "2026-08-21T22:23:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ravens' Rashod Bateman arrested in June and charged with family violence",
+                "desc": "Police said Bateman used an object to break the windshield of the victim’s car, along with the driver’s-side window. The glass shattering caused multiple small lacerations to the victim’s face.",
+                "image": "https://www.thebanner.com/resizer/v2/V22H6PXPWVCGBLQZZ7NOSZE5E4.jpg?auth=5c5bea743c0dd0bda7b17fa59d81c2a161fa3cef9c6317e6ade19485fc22adc7&width=1280&height=720&smart=true&quality=85",
+                "url": "https://www.thebanner.com/sports/ravens-nfl/ravens-wide-receiver-rashod-bateman-arrest-E7SNTQ7ZFRDGJJDNHFU7DFCRPI/",
+                "source": "The Baltimore Banner",
+                "date": "2026-08-21T22:22:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Miami Heat on verge of landing 3-point whiz Klay Thompson",
+                "desc": "The pathway for the Heat's first major move since the trade for Giannis Antetokounmpo was cleared on Friday with guard Klay Thompson negotiating a buyout from the Dallas Mavericks.",
+                "image": "https://www.sun-sentinel.com/wp-content/uploads/2024/06/TNS-SPORTS-BKN-FBN-KURTENBACH-COLUMN-SJ-e1787340951114.jpg?w=2605&h=2063",
+                "url": "https://www.sun-sentinel.com/2026/08/21/klay-thompson-negotiates-buyout-from-mavericks-clearing-pathway-to-heat/",
+                "source": "Sun Sentinel",
+                "date": "2026-08-21T22:15:03Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Mavericks agree to buy out Klay Thompson's contract, with sharpshooter reportedly joining Heat",
                 "desc": "Klay Thompson was owed $17 million during the 2026-27 NBA season.",
@@ -4273,71 +4336,8 @@
                 "source": "Daily Norseman",
                 "date": "2026-08-21T13:15:17Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Apparent sex toy thrown onto court during another WNBA game",
-                "desc": "A WNBA game between the Sparks and Dream was interrupted Thursday when a fan threw an apparent sex toy onto the court and fled security.",
-                "image": "https://nypost.com/wp-content/uploads/sites/2/2026/08/newspress-collage-1ybxb2fks-1787313142840.jpg?quality=75&strip=all&1787298785&w=1200",
-                "url": "https://nypost.com/2026/08/21/sports/apparent-sex-toy-thrown-onto-court-during-another-wnba-game-and-alleged-hurler-caught-fleeing/",
-                "source": "New York Post",
-                "date": "2026-08-21T13:08:27Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Another sex toy was thrown during a WNBA game, and Dream's Angel Reese absolutely lost it",
-                "desc": "Angel Reese was quick to spot the perpetrator after a sex toy appeared on the court during the WNBA Dream-Sparks game in Los Angeles last night.",
-                "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/angel-reese-atlanta-dream.jpg",
-                "url": "https://www.foxnews.com/outkick-sports/sex-toy-thrown-wnba-game-dreamangel-reese-lost-it",
-                "source": "Fox News",
-                "date": "2026-08-21T13:07:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Shaquille O'Neal Understands Why Buss Family Wants To Sell Remaining Shares In Lakers",
-                "desc": "Shaquille O'Neal understands why the Buss family wants to sell their remaining shares in the Los Angeles Lakers.",
-                "image": "https://lakersnation.com/wp-content/uploads/2026/04/Shaquille-ONeal-2.jpeg",
-                "url": "https://lakersnation.com/shaquille-oneal-understands-why-buss-family-wants-to-sell-remaining-shares-in-lakers/",
-                "source": "Lakers Nation",
-                "date": "2026-08-21T13:00:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "‘What the f*ck are we doing?’: Reinier de Ridder says something has to be done about extreme weight cutting in MMA",
-                "desc": "Reinier de Ridder is much happier fighting at 205 pounds but he says the whole weight cutting culture in MMA has to change.",
-                "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/08/gettyimages-2194407864.jpg?quality=90&strip=all&crop=0%2C4.7755597302078%2C100%2C78.534031413613&w=1200",
-                "url": "https://www.mmafighting.com/ufc/506111/what-the-fck-are-we-doing-reinier-de-ridder-says-something-has-to-be-done-about-extreme-weight-cutting-in-mma",
-                "source": "MMA Fighting",
-                "date": "2026-08-21T13:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "David Ornstein confirms financial details of Savinho to Tottenham",
-                "desc": "That’s a lot of money, and crucially not MY money.",
-                "image": "https://platform.cartilagefreecaptain.sbnation.com/wp-content/uploads/sites/60/2026/08/gettyimages-2287728565.jpg?quality=90&strip=all&crop=0%2C10.729057198914%2C100%2C78.541885602173&w=1200",
-                "url": "https://cartilagefreecaptain.sbnation.com/tottenham-hotspur-transfers-rumors/73029/tottenham-hotspur-transfer-news-rumors-ornstein-confirms-savinho-contract-details",
-                "source": "Cartilage Free Captain",
-                "date": "2026-08-21T12:20:49Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "NBA Power Rankings updated after Peyton Watson trade with Cavs up, Nuggets down",
-                "desc": "Let’s rank every team in the NBA coming into the 2026-27 season.",
-                "image": "https://platform.sbnation.com/wp-content/uploads/sites/2/2026/08/gettyimages-2273964268.jpg?quality=90&strip=all&crop=0%2C5.7768924302789%2C100%2C78.526946701712&w=1200",
-                "url": "https://www.sbnation.com/nba/1125557/nba-power-rankings-after-peyton-watson-trade-cavs-up-nuggets-down",
-                "source": "SB Nation",
-                "date": "2026-08-21T12:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Broncos vs. Packers: 3 storylines to watch for in Week 2 of NFL preseason",
-                "desc": "Here are three storylines to watch tonight when the Denver Broncos host the Green Bay Packers.",
-                "image": "https://platform.milehighreport.com/wp-content/uploads/sites/108/2026/08/gettyimages-2234714053.jpg?quality=90&strip=all&crop=0%2C10.756036433447%2C100%2C78.487927133107&w=1200",
-                "url": "https://www.milehighreport.com/denver-broncos-preseason/182535/broncos-vs-packers-3-storylines-to-watch-for-in-week-2-of-nfl-preseason",
-                "source": "Mile High Report",
-                "date": "2026-08-21T12:00:00Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-08-22T10:13:46.312619Z"
+    "lastGlobalSync": "2026-08-22T11:13:03.254989Z"
 }
