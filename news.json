@@ -571,6 +571,15 @@
                 "priority": "STANDARD"
             },
             {
+                "title": "रुपये पर दबाव, कच्चे तेल और एमपीसी के संकेत से बॉन्ड यील्ड में बढ़त",
+                "desc": "Government Bond Yield: डीलरों ने बताया कि कच्चे तेल की कीमतों में बढ़ोतरी और महीने के आखिर में आयातकों की डॉलर मांग के कारण रुपया भी दबाव में रहा",
+                "image": "https://hindibusinessstandard.imagibyte.sortdcdn.net/wp-content/uploads/2024/12/anshu-2024-12-22T223553.289.jpg",
+                "url": "https://hindi.business-standard.com/markets/share-market/pressure-on-the-rupee-bond-yields-rise-due-to-crude-oil-prices-and-mpc-signals-id-546409",
+                "source": "बिजनेस स्टैंडर्ड",
+                "date": "2026-08-21T16:39:21Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "tata steel gail agreement : टाटा स्टील के 17 प्रतिष्ठानों में होगी पीएनजी की आपूर्ति, गेल और टाटा स्टील के बीच समझौता",
                 "desc": "जमशेदपुर : गेल (इंडिया) लिमिटेड और टाटा स्टील ने जमशेदपुर स्थित टाटा स्टील के 17 प्रतिष्ठानों में प�",
                 "image": "https://pub-d4c12e30ad484bb189543ae7dbd12ad3.r2.dev/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-21-at-9.18.01-PM.jpeg",
@@ -1072,15 +1081,6 @@
                 "url": "https://navbharattimes.indiatimes.com/business/share-market/share-news/moderna-share-cancer-surge-135-percent-vaccine-intismeran-mrna-trial/articleshow/133353640.cms",
                 "source": "Navbharat Times",
                 "date": "2026-08-19T16:34:41Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "लगातार क्‍यों गिर रहा बाजार? कल टूटा तो फिर आएगा बड़ा संकट!",
-                "desc": "शेयर बाजार में भारी गिरावट लगातार हो रही है. पिछले सात सत्रों से शेयर बाजार गिर रहा है और निवेशकों के लाखों करोड़ रुपये डूब चुके हैं. अब निवेशकों को एक और डर सता रहा है.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202608/6a85d1bcc4581-stock-market-crash-fear-195431228-16x9.jpg",
-                "url": "https://www.aajtak.in/business/news/story/why-sensex-nifty-fall-from-seven-session-big-fear-await-tutd-dskc-2625796-2026-08-19",
-                "source": "AajTak",
-                "date": "2026-08-19T15:55:16Z",
                 "priority": "STANDARD"
             }
         ],
@@ -2172,6 +2172,42 @@
     "en": {
         "general": [
             {
+                "title": "Pixel Watch 5 lets you customize double pinch to dismiss alarms",
+                "desc": "The double pinch gesture on the Pixel Watch 5 benefits from being able to “Customize actions” across music and alarms.",
+                "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/Pixel-Watch-5-Double-Pinch.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+                "url": "https://9to5google.com/2026/08/21/pixel-watch-5-double-pinch-customize/",
+                "source": "9to5Google",
+                "date": "2026-08-21T20:17:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ed Martin is leaving DOJ to focus on ‘legal battles’ in upcoming elections, Trump says",
+                "desc": "Trump loyalist Ed Martin, a “Stop the Steal” organizer and advocate and attorney for Jan. 6 defendants, who later served in the Justice Department, is leaving the administration to focus on upcoming elections.",
+                "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-08/260821-ed-martin-ew-303p-e84106.jpg",
+                "url": "https://www.nbcnews.com/politics/justice-department/trump-loyalist-ed-martin-leaving-justice-department-pardon-attorney-rcna593793",
+                "source": "NBC News",
+                "date": "2026-08-21T20:16:47Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+                "desc": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
+                "image": "https://techcrunch.com/wp-content/uploads/2026/08/Nvidia-VP-of-product-Adel-El-Hallak.jpg?resize=1200,898",
+                "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+                "source": "TechCrunch",
+                "date": "2026-08-21T19:43:39Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "New NASA Pictures Reveal SpaceX Crash's Devastation On The Moon's Magnificent Desolation",
+                "desc": "The more and more rockets humanity launches, the more and more likely we are to litter the lunar surface.",
+                "image": "https://www.jalopnik.com/img/gallery/new-nasa-pictures-reveal-spacex-crashs-devastation-on-the-moons-magnificent-desolation/l-intro-1787340476.jpg",
+                "url": "https://www.jalopnik.com/2241871/nasa-pictures-spacex-crash/",
+                "source": "Jalopnik",
+                "date": "2026-08-21T19:29:08Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Klay Thompson Reportedly to Sign with Heat After Agreeing to Mavericks Contract Buyout",
                 "desc": "The Dallas Mavericks announced Friday they are buying out the final year of Klay Thompson's contract.",
                 "image": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2246880829_large_cropped.jpg?w=1120&h=630",
@@ -2674,45 +2710,54 @@
                 "source": "The Hollywood Reporter",
                 "date": "2026-08-21T13:25:07Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "This iOS 27 Shortcut Stopped My Mindless Scrolling",
-                "desc": "I could just delete the addictive social media apps, but what’s the fun in that?",
-                "image": "https://www.cnet.com/wp-content/uploads/sites/2/260820_YT_OMT-Ep_185_Hidden-Shortcut-Trick-to-Blocking-Addictive-Apps_v1.jpg",
-                "url": "https://www.cnet.com/tech/mobile/this-ios-27-shortcut-stopped-my-mindless-scrolling/",
-                "source": "CNET",
-                "date": "2026-08-21T12:27:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "U.S., Canada near final trade deal as Trump tariff deadline looms",
-                "desc": "Businesses have warned that Trump's new 50% duties could cripple U.S. their sales if they take effect.",
-                "image": "https://image.cnbcfm.com/api/v1/image/108352257-1787243975253-gettyimages-2290660212-AFP_C66A67P.jpeg?v=1787244111&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/08/21/trump-canada-tariffs-trade-deal-deadline.html",
-                "source": "CNBC",
-                "date": "2026-08-21T12:17:29Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "F1 Dutch GP: Antonelli pips Norris in practice amid poor showing for Red Bull",
-                "desc": "The F1 championship leader topped the sole practice session upon returning from the summer break at the Dutch GP",
-                "image": "https://cdn-7.motorsport.com/images/amp/YN7v1va6/s6/andrea-kimi-antonelli-mercedes-2.jpg",
-                "url": "https://www.autosport.com/f1/news/f1-dutch-gp-antonelli-pips-norris-in-practice-in-poor-showing-for-red-bull/10847862/",
-                "source": "Autosport",
-                "date": "2026-08-21T11:50:44Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "What happened in only Dutch GP F1 2026 practice session",
-                "desc": "Kimi Antonelli kicked off the second half of F1’s 2026 season on top, beating Lando Norris’s McLaren to the top spot in Dutch GP practice",
-                "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/size/w1200/2026/08/XPB_1430268_HiRes.jpg",
-                "url": "https://www.the-race.com/formula-1/what-happened-in-only-dutch-gp-f1-2026-practice-session/",
-                "source": "The Race",
-                "date": "2026-08-21T11:47:15Z",
-                "priority": "STANDARD"
             }
         ],
         "business": [
+            {
+                "title": "Nearly 40,000 bottles of eye drops recalled nationwide over possible contamination",
+                "desc": "Prestige Brand Holdings is recalling 39,060 bottles of certain Clear Eyes drops over sterility concerns, according to a Food and Drug Administration report.",
+                "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/07/0/0/woman-eye-drops.jpg?ve=1&tl=1",
+                "url": "https://www.foxbusiness.com/lifestyle/nearly-40000-eye-drops-recalled-nationwide-over-possible-contamination",
+                "source": "Fox Business",
+                "date": "2026-08-21T20:11:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Pro Farmer estimates 2026 U.S. corn crop at 15.344 billion bushels; soybeans at 4.572 billion bushels",
+                "desc": "Average U.S. corn yield seen at 173.2 bu. per acre; soybeans at 53.3 bu. per acre",
+                "image": "https://assets.farmjournal.com/dims4/default/944bcf5/2147483647/strip/true/crop/2500x1406+0+258/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk1-prod-farm-journal.s3.us-east-2.amazonaws.com%2Fbrightspot%2Fcc%2F64%2Fb0f03f894fd09044472437079753%2F2026ests.jpg",
+                "url": "https://www.profarmer.com/news/pro-farmer-estimates-2026-u-s-corn-crop-15-344-billion-bushels-soybeans-4-572-billion-bushels",
+                "source": "Pro Farmer",
+                "date": "2026-08-21T19:44:59Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Fannie Mae dismisses senior staff in another leadership purge",
+                "desc": "Fannie Mae fires at least 10 senior executives in abrupt leadership shakeup, with sources citing AI-driven cuts and warning of further staff reductions.",
+                "image": "https://www.scotsmanguide.com/files/sites/2/2026/08/fannie-mae-purge.jpg",
+                "url": "https://www.scotsmanguide.com/news/fannie-mae-dismisses-senior-staff-in-another-leadership-purge/",
+                "source": "Scotsman Guide",
+                "date": "2026-08-21T19:30:30Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Bitcoin soars to nearly $80,000-but crypto’s new favorite coin, Hyperliquid, is stealing its thunder",
+                "desc": "Bitcoin’s rally to $78,200 coincided with a record run for Hyperliquid as active traders increasingly use the platform to place leveraged bets on crypto prices.",
+                "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-1340690121-e1787340151203.jpg?resize=1200,600",
+                "url": "https://fortune.com/2026/08/21/bitcoin-cryptos-new-favorite-coin-hyperliquid-thunder/",
+                "source": "Fortune",
+                "date": "2026-08-21T19:26:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "California Passes Restrictive Replacement Tire Law In The Name Of Efficiency",
+                "desc": "The new regulations will significantly reduce the number of tire options available for Californians, and other states could follow suit soon after.",
+                "image": "https://www.jalopnik.com/img/gallery/california-passes-restrictive-replacement-tire-law-in-the-name-of-efficiency/l-intro-1787168885.jpg",
+                "url": "https://www.jalopnik.com/2240366/regulators-pass-new-rules-for-efficient-california-tires/",
+                "source": "Jalopnik",
+                "date": "2026-08-21T19:25:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Buc-ee’s CEO eyes 'conservative' states for new locations",
                 "desc": "Buc-ee's co-founder and CEO Arch Aplin III recently said the company seeks expansion opportunities in \"conservative, business-friendly states.\"",
@@ -3207,54 +3252,54 @@
                 "source": "Futurism",
                 "date": "2026-08-20T18:41:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Are These Top Stocks The Next AI Productivity Beneficiaries?",
-                "desc": "The next ‘top AI stocks’ may be outside the tech sector as beneficiaries through productivity enhancements. Click here to see the top 5 stocks.",
-                "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2281395196/image_2281395196.jpg?io=getty-c-w1536",
-                "url": "https://seekingalpha.com/article/4938882-are-these-top-stocks-the-next-ai-productivity-beneficiaries",
-                "source": "Seeking Alpha",
-                "date": "2026-08-20T18:30:48Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Cox customers to be switched to Spectrum following major merger",
-                "desc": "Charter Communications is now the biggest broadband and video company in the country after closing its acquisitions of Cox Communications and Liberty Broadband Corporation.",
-                "image": "https://ewscripps.brightspotcdn.com/dims4/default/3546619/2147483647/strip/true/crop/2000x1050+0+142/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Fb2%2F36%2Fa7dcea3f4072859066b33c93f3c8%2Fap22220543858120.jpg",
-                "url": "https://www.abc15.com/news/state/cox-customers-to-be-switched-to-spectrum-following-major-merger",
-                "source": "ABC15 Arizona",
-                "date": "2026-08-20T17:06:20Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Clear Eyes eye drops recalled nationwide over contamination risk, FDA says",
-                "desc": "The recall affects 15mL bottles of Clear Eyes' Maximum Itchy Eye Relief.",
-                "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/20/cb034487-d75c-45de-91ed-0bba73bc9267/thumbnail/1200x630/6163eb067c27e9a6c282c6f672f66703/gettyimages-1078384974.jpg",
-                "url": "https://www.cbsnews.com/news/clear-eyes-eye-drops-recall-contamination/",
-                "source": "CBS News",
-                "date": "2026-08-20T17:04:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Starbucks lays off 224, including workers refusing to move to Nashville",
-                "desc": "The Seattle-based coffee giant is laying off 224 workers, including more than 100 who had been asked to move to its new Nashville office.",
-                "image": "https://images.seattletimes.com/wp-content/uploads/2026/08/08202026_tzr_tzr_085111.jpg?d=1200x630",
-                "url": "https://www.seattletimes.com/business/starbucks/starbucks-lays-off-224-including-workers-refusing-to-move-to-nashville/",
-                "source": "The Seattle Times",
-                "date": "2026-08-20T17:00:20Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Three things to know : NPR",
-                "desc": "The U.S. federal debt hit a record $40 trillion this week. The debt has doubled since 2017, and just paying interest on the accumulated debt now costs the government more than $1 trillion a year.",
-                "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8216x4622+0+428/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb6%2Fa0%2F506bb6d54c868aa88475ac2c643a%2Fgettyimages-2290607514.jpg",
-                "url": "https://www.npr.org/2026/08/20/nx-s1-5939473/40-trillion-federal-debt",
-                "source": "NPR",
-                "date": "2026-08-20T16:50:41Z",
-                "priority": "STANDARD"
             }
         ],
         "entertainment": [
+            {
+                "title": "Kim Zolciak, Kroy Biermann's son, 15, arrested for felony sex crimes",
+                "desc": "Reality star Kim Zolciak and ex-husband Kroy Biermann's 15-year-old son has been arrested for alleged aggravated sexual battery and aggravated sodomy.",
+                "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/08/21/USAT/91407401007-getty-images-679806988.jpg?crop=1597,898,x413,y159&width=1597&height=898&format=pjpg&auto=webp",
+                "url": "https://www.usatoday.com/story/entertainment/celebrities/2026/08/21/kim-zolciak-son-kj-kroy-biermann-arrested-sodomy/91405520007/",
+                "source": "USA Today",
+                "date": "2026-08-21T20:04:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Mark Ruffalo Eviscerates Ellisons' Paramount Merger, Citing Gaza Genocide",
+                "desc": "Mark Ruffalo lambasted the Paramount-Warner Bros. merger Friday, eviscerating Larry and David Ellison over their business ties.",
+                "image": "https://www.thewrap.com/wp-content/uploads/2026/08/Untitled-design-2026-08-21T124126.012.jpg",
+                "url": "https://www.thewrap.com/industry-news/deals-ma/mark-ruffalo-david-larry-ellison-paramount-warner-merger/",
+                "source": "TheWrap",
+                "date": "2026-08-21T20:03:19Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Fired Exec Chris Aronson Sues Paramount For Millions Citing Age Discrimination",
+                "desc": "Chris Aronson is not going quietly into the Paramount night. The ex-distribution exec wants millions for being fired over breach of contract & age discrimination",
+                "image": "https://deadline.com/wp-content/uploads/2026/08/Chris-Aronson.jpg?w=1024",
+                "url": "https://deadline.com/2026/08/chris-aronson-sues-paramount-age-discrimination-1237047629/",
+                "source": "Deadline",
+                "date": "2026-08-21T19:51:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The best Amazon deals this weekend include up to 70% off Yeti, Shark, Hanes and more",
+                "desc": "These major discounts on top brands are tough to pass up — we found big savings on fall style must-haves, smart TVs, vacuums, kitchenware and more.",
+                "image": "https://s.yimg.com/lo/mysterio/api/77f04ec0aa5a5d4d152f78c1fd6cb00051a631d1c3c8a653df6df28880d55196/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Famazon-ru-images_0571.png",
+                "url": "https://shopping.yahoo.com/deals/article/the-best-amazon-deals-this-weekend-include-up-to-70-off-yeti-shark-hanes-and-more-170200147.html",
+                "source": "Yahoo",
+                "date": "2026-08-21T19:34:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Exclusive note on WWE's plans for CM Punk vs. Kevin Owens",
+                "desc": "Whatever happens on SmackDown tonight, it's unlikely to result in a lengthy CM Punk vs. Kevin Owens Undisputed WWE Championship feud.",
+                "image": "https://www.f4wonline.com/wp-content/uploads/2026/08/punkowenssd.jpg",
+                "url": "https://www.f4wonline.com/news/wwe/exclusive-note-on-wwes-plans-for-cm-punk-vs-kevin-owens/",
+                "source": "F4W/WON",
+                "date": "2026-08-21T19:28:29Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Pig Caught Running Through Streets Of West Hollywood Ends Up Adopted By A Celebrity",
                 "desc": "A man was riding his bike in West Hollywood when he spotted a pig running loose in the streets. The entire city quickly became invested in the pig's journey.",
@@ -3749,54 +3794,18 @@
                 "source": "NBC News",
                 "date": "2026-08-20T22:56:41Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Hayden Panettiere's ex Brian Hickerson breaks silence after her death",
-                "desc": "Hayden Panettiere's ex-boyfriend Brian Hickerson breaks his silence through his lawyer after her death in Greenville, South Carolina, citing an ongoing police investigation.",
-                "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/panettiere-hickerson.jpg",
-                "url": "https://www.foxnews.com/entertainment/hayden-panettieres-on-and-off-boyfriend-brian-hickerson-breaks-silence-after-stars-death",
-                "source": "Fox News",
-                "date": "2026-08-20T22:51:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Anna Faris Opens Up About Challenging 'Religious' Son On Right-Wing Politics",
-                "desc": "The “Scary Movie” star shares her 14-year-old son Jack with her ex-husband, Chris Pratt.",
-                "image": "https://s.yimg.com/lo/mysterio/api/241766c51582d0d051f60ef2ba35cd38185768596455b6dcb3cb51919d72638d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_huffington_post_584%2F688dfdcd4f7b5ccc2444ce5138924388.jpg",
-                "url": "https://nz.news.yahoo.com/anna-faris-opens-challenging-religious-224401522.html",
-                "source": "Yahoo News New Zealand",
-                "date": "2026-08-20T22:44:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Anna Faris Opens Up About Challenging 'Religious' Son On Right-Wing Politics",
-                "desc": "The “Scary Movie” star shares her 14-year-old son Jack with her ex-husband, Chris Pratt.",
-                "image": "https://img.huffingtonpost.com/asset/6a876b57190000730c6baece.jpeg?cache=gmxGllwyzT&ops=500_281%2Cscalefit_1200_630",
-                "url": "https://www.huffpost.com/entry/anna-faris-challenging-religious-son-right-wing-politics-chris-pratt_n_6a8760eee4b0ca44601bcadc",
-                "source": "HuffPost",
-                "date": "2026-08-20T22:44:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Dave Bautista Is Kratos in 'God of War'",
-                "desc": "He takes over for Ryan Hurst, who injured himself on the set of the Prime Video adaptation",
-                "image": "https://gizmodo.com/app/uploads/2026/08/Dave-Bautista-Dune-1200x675.jpg",
-                "url": "https://gizmodo.com/dave-bautista-is-kratos-in-god-of-war-2000801315",
-                "source": "Gizmodo",
-                "date": "2026-08-20T22:38:35Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Perez Hilton granted visitation with kids under supervision",
-                "desc": "Perez Hilton has reportedly been granted supervised visitation with his children after a live-streamed self-harm incident.",
-                "image": "https://pagesix.com/wp-content/uploads/sites/3/2026/08/138021745.jpg?quality=75&strip=all&w=1200",
-                "url": "https://pagesix.com/2026/08/20/parents/perez-hilton-granted-visitation-with-kids-under-supervision/",
-                "source": "Page Six",
-                "date": "2026-08-20T22:37:00Z",
-                "priority": "STANDARD"
             }
         ],
         "sports": [
+            {
+                "title": "Conor McGregor 'looked old' at UFC 329",
+                "desc": "Conor McGregor must be out of his mind, at least according to Max Holloway.",
+                "image": "https://mmajunkie.usatoday.com/gcdn/authoring/authoring-images/2026/07/15/SMMA/90927669007-2285712595.jpg?crop=2725,1531,x4,y355&width=2725&height=1531&format=pjpg&auto=webp",
+                "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/08/21/max-holloway-conor-mcgregor-delusional-old-ufc-329-fight/91408110007/",
+                "source": "MMA Junkie",
+                "date": "2026-08-21T19:30:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Klay Thompson Reportedly to Sign with Heat After Agreeing to Mavericks Contract Buyout",
                 "desc": "The Dallas Mavericks announced Friday they are buying out the final year of Klay Thompson's contract.",
@@ -3804,6 +3813,15 @@
                 "url": "https://bleacherreport.com/articles/25300442-klay-thompson-reportedly-sign-heat-after-agreeing-mavericks-contract-buyout",
                 "source": "Bleacher Report",
                 "date": "2026-08-21T19:19:29Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Rory McIlroy gives his honest opinion on the crowds at Bellerive during the BMW Championship",
+                "desc": "Rory McIlroy is in fine shape after two rounds of the BMW Championship heading into the weekend at Bellerive.",
+                "image": "https://cdn3.hitc.com/uploads/1/2026/08/GettyImages-2290802853-scaled.jpg",
+                "url": "https://www.hitc.com/rory-mcilroy-gives-his-honest-opinion-on-the-crowds-at-bellerive-during-the-bmw-championship/",
+                "source": "hitc.com",
+                "date": "2026-08-21T19:16:21Z",
                 "priority": "STANDARD"
             },
             {
@@ -4318,26 +4336,8 @@
                 "source": "NFL.com",
                 "date": "2026-08-21T00:06:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Falcons-Colts joint practices Day 2: A better day for Atlanta",
-                "desc": "It was a pretty good Day 2 of Falcons-Colts joint practices! Here’s everything you need to know.",
-                "image": "https://platform.thefalcoholic.com/wp-content/uploads/sites/161/2026/08/gettyimages-2291196930.jpg?quality=90&strip=all&crop=0%2C10.756863114317%2C100%2C78.486273771366&w=1200",
-                "url": "https://www.thefalcoholic.com/atlanta-falcons-training-camp/95304/falcons-colts-joint-practices-day-2-kevin-stefanski-michael-penix-bijan-robinson",
-                "source": "The Falcoholic",
-                "date": "2026-08-20T23:53:14Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Mariners to promote top prospect Kade Anderson to Major Leagues",
-                "desc": "Welcome to the K-Dot era.",
-                "image": "https://platform.lookoutlanding.com/wp-content/uploads/sites/101/2026/08/gettyimages-2222153885.jpg?quality=90&strip=all&crop=0%2C10.729057198914%2C100%2C78.541885602173&w=1200",
-                "url": "https://www.lookoutlanding.com/seattle-mariners-roster/148005/mariners-to-promote-top-prospect-kade-anderson-to-major-leagues",
-                "source": "Lookout Landing",
-                "date": "2026-08-20T23:35:10Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-08-22T07:23:49.265630Z"
+    "lastGlobalSync": "2026-08-22T08:18:07.742148Z"
 }
