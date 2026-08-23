@@ -2172,6 +2172,24 @@
     "en": {
         "general": [
             {
+                "title": "Paramount hits back at actor Mark Ruffalo over unhinged, 'antisemitic' rant against Warner Bros merger",
+                "desc": "Paramount accused actor Mark Ruffalo of using \"antisemitic tropes\" in a social media rant against the company's $110B merger with Warner Bros.",
+                "image": "https://nypost.com/wp-content/uploads/sites/2/2026/08/138179071.jpg?quality=75&strip=all&w=1200",
+                "url": "https://nypost.com/2026/08/22/us-news/paramount-hits-back-at-actor-mark-ruffalo-over-unhinged-antisemitic-rant-against-warner-bros-merger/",
+                "source": "New York Post",
+                "date": "2026-08-22T20:09:46Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Anthony Hernandez vs. Gregory Rodrigues",
+                "desc": "Follow along for live updates and round-by-round scoring for UFC Fight Night 285 in Sacramento.",
+                "image": "https://mmajunkie.usatoday.com/gcdn/authoring/authoring-images/2026/08/22/SMMA/91421836007-ufc-fight-night-285-main-card-live-results-thumb-handwritten-type-red-tape.jpg?crop=1919,1080,x0,y0&width=1919&height=1080&format=pjpg&auto=webp",
+                "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/08/22/ufc-sacramento-anthony-hernandez-vs-gregory-rodrigues-live-updates-results--live/91421671007/",
+                "source": "MMA Junkie",
+                "date": "2026-08-22T20:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Tropical Storm Moke advances toward Hawaii as winds strengthen",
                 "desc": "The National Hurricane Center says Tropical Storm Moke has formed in the Pacific Ocean. It is on track to bring another round of heavy rain and wind to Hawaii as residents are still recovering from Hurricane Lala.",
                 "image": "https://dims.apnews.com/dims4/default/53913e8/2147483647/strip/true/crop/3000x1999+0+469/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F37%2Fce%2F46401e53195cc37765ae6fd24b3f%2F04b1bcabe5c44d2983fcb039200da985",
@@ -2692,27 +2710,36 @@
                 "source": "Fortune",
                 "date": "2026-08-21T23:50:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Boeing workers reject contract offer at crucial moment for company",
-                "desc": "Boeing’s engineering and technicians union voted Friday to reject the company’s contract offer and authorize its negotiating team to call for a strike.",
-                "image": "https://images.seattletimes.com/wp-content/uploads/2026/08/08212026_TZR_Boeing_Everett-2024-KL_tzr_122750.jpg?d=1200x630",
-                "url": "https://www.seattletimes.com/business/boeing-aerospace/boeing-workers-reject-contract-offer-at-crucial-moment-for-company/",
-                "source": "The Seattle Times",
-                "date": "2026-08-21T23:49:06Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Stars and Stripes editor, reporter fired for insubordination after doing CBS interview",
-                "desc": "The Pentagon on Friday fired the editor-in-chief of Stars and Stripes and a top reporter for insubordination after they spoke publicly against any interference by the Defense Department in the military news outlet that has a long history of editorial independence.",
-                "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/08/2026-08-17T213627Z_635397676_RC2HCHAMZBKK_RTRMADP_3_USA-ARMS-AI-1024x658.jpg",
-                "url": "https://www.pbs.org/newshour/politics/stars-and-stripes-editor-reporter-fired-for-insubordination-after-doing-cbs-interview",
-                "source": "PBS",
-                "date": "2026-08-21T23:42:26Z",
-                "priority": "STANDARD"
             }
         ],
         "business": [
+            {
+                "title": "Trump’s stock disclosure shows more than 1,000 trades in June",
+                "desc": "The transactions totaled between $78.1 million and $263.1 million in the filing published by the US Office of Government Ethics.",
+                "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-2291329696-e1787429504201.jpg?resize=1200,600",
+                "url": "https://fortune.com/2026/08/22/trump-stock-market-trading-disclosure-june-vanguard-etf/",
+                "source": "Fortune",
+                "date": "2026-08-22T20:15:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Video Appears to Show Peacock Being Attacked by Mail Carrier",
+                "desc": "A popular fixture in one California neighborhood is at the center of a postal investigation. Home security video reviewed by the Los Angeles Times appears to show a mail carrier...",
+                "image": "https://cdn.newser.com/image/1706890-12-20260822152903.jpeg",
+                "url": "https://www.newser.com/story/395123/video-appears-to-show-peacock-being-attacked-by-mail-carrier.html",
+                "source": "Newser",
+                "date": "2026-08-22T19:53:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The simple fixes conservatives say could make life cheaper in America",
+                "desc": "Former Vice President Mike Pence’s conservative group, Advancing American Freedom, blames government for America’s “unaffordability crisis.” Their new report proposes easing zoning, boosting oil/gas, and overhauling Social Security, but breaks with Trump on tariffs.",
+                "image": "https://nypost.com/wp-content/uploads/sites/2/2026/08/138210119.jpg?quality=75&strip=all&w=1200",
+                "url": "https://nypost.com/2026/08/22/us-news/the-simple-fixes-conservatives-say-could-make-life-cheaper-for-americans/",
+                "source": "New York Post",
+                "date": "2026-08-22T19:21:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Red Lobster brings back Endless Shrimp after Chapter 11 bankruptcy",
                 "desc": "Red Lobster is bringing back Endless Shrimp after the seafood chain filed for Chapter 11 bankruptcy, saying it rebuilt the dine-in experience with stronger financial discipline.",
@@ -3225,36 +3252,45 @@
                 "source": "Fortune",
                 "date": "2026-08-21T14:37:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Walmart to finally start accepting Apple Pay and Google Pay",
-                "desc": "Are pigs flying? Walmart has finally caved on its refusal to support Apple Pay and Google Pay.",
-                "image": "https://techcrunch.com/wp-content/uploads/2015/07/shutterstock_186861932.jpg?w=1000",
-                "url": "https://techcrunch.com/2026/08/21/walmart-to-finally-start-accepting-apple-pay-and-google-pay/",
-                "source": "TechCrunch",
-                "date": "2026-08-21T14:30:23Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Court overturns DOT termination of Delta",
-                "desc": "Delta and Aeromexico can continue their partnership in the largest international market from the U.S. after court ruling.",
-                "image": "https://runway-media-production.global.ssl.fastly.net/us/originals/2023/06/LAX-Planes35.jpg",
-                "url": "https://thepointsguy.com/news/delta-air-lines-aeromexico-joint-venture-termination-order-dismissed/",
-                "source": "The Points Guy",
-                "date": "2026-08-21T14:25:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Walmart to Begin Accepting Apple Pay in U.S. Stores",
-                "desc": "After years of holding out, Walmart today announced that it will finally begin accepting tap-to-pay options like Apple Pay in some of its Walmart and Sam's Club stores in the U.S. starting Monday, August 24. The retailer plans to roll out tap-to-pay support to all of its U.S. stores by the end of 2026 and to its gas stations by mid-2027.",
-                "image": "https://images.macrumors.com/t/OUFe6SCTOf7l9TmS70LKxyNevO4=/1600x/article-new/2025/01/Apple-Pay-Walmart-Feature.jpg",
-                "url": "https://www.macrumors.com/2026/08/21/walmart-to-begin-accepting-apple-pay-in-us/",
-                "source": "MacRumors",
-                "date": "2026-08-21T14:09:21Z",
-                "priority": "STANDARD"
             }
         ],
         "entertainment": [
+            {
+                "title": "TV Schedule: What To Watch The Week Of August 23, 2026",
+                "desc": "TVLine offers a look at the week ahead: A handy roundup of new TV premieres and finales to help you plan your viewing for August 23-29.",
+                "image": "https://www.tvline.com/img/gallery/what-to-watch-week-of-august-23-2026-tv-shows-movies/l-intro-1787354804.jpg",
+                "url": "https://www.tvline.com/2239886/what-to-watch-week-of-august-23-2026-tv-shows-movies/",
+                "source": "TVLine",
+                "date": "2026-08-22T20:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Taylor Sheridan Accused of Stealing 'Yellowstone' From 2016 Pitch",
+                "desc": "Taylor Sheridan was accused of stealing 'Yellowstone' from a 2016 pitch in a copyright lawsuit filed Friday.",
+                "image": "https://variety.com/wp-content/uploads/2026/08/GettyImages-1245361163.jpg?crop=0px%2C74px%2C4746px%2C2670px&resize=1000%2C563",
+                "url": "https://variety.com/2026/tv/news/taylor-sheridan-accused-stealing-yellowstone-lawsuit-1236840854/",
+                "source": "Variety",
+                "date": "2026-08-22T19:56:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Sydney Sweeney shows off Wonder Woman costume as boyfriend Scooter Braun dresses as Superman",
+                "desc": "Sydney Sweeney wore a revealing Wonder Woman costume alongside boyfriend Scooter Braun as Superman during a themed summer getaway.",
+                "image": "https://pagesix.com/wp-content/uploads/sites/3/2026/08/138208233.jpg?quality=75&strip=all&w=1200",
+                "url": "https://pagesix.com/2026/08/22/celebrity-news/sydney-sweeney-shows-off-wonder-woman-costume-as-boyfriend-scooter-braun-dresses-as-superman/",
+                "source": "Page Six",
+                "date": "2026-08-22T19:55:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Motown 'unsung hero' Janie Bradford, co-writer of 'Money,' dies at 87",
+                "desc": "Janie Bradford Hobbs, the pioneering Motown songwriter who co-wrote the legendary hit \"Money,\" has died at 87.",
+                "image": "https://nypost.com/wp-content/uploads/sites/2/2026/08/COMP-29.jpg?quality=75&strip=all&w=1200",
+                "url": "https://nypost.com/2026/08/22/entertainment/janie-bradford-hobbs-motown-songwriter-who-co-wrote-money-dies-at-87/",
+                "source": "New York Post",
+                "date": "2026-08-22T19:33:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Wendy Williams demands freedom from guardianship during rare outing",
                 "desc": "Former talk show host Wendy Williams fired off a 3-word plea during a rare NYC outing amid her court-appointed guardianship battle and frontotemporal dementia diagnosis.",
@@ -3758,45 +3794,54 @@
                 "source": "TMZ",
                 "date": "2026-08-21T18:41:38Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Hoda Kotb talks love life, meeting 'very handsome' man on plane",
-                "desc": "Hoda Kotb says she and a mystery man made the \"weirdest connection\" that had them \"both crying.\"",
-                "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/08/21/USAT/91406700007-getty-images-1490471994.jpg?crop=3998,2249,x0,y900&width=3200&height=1801&format=pjpg&auto=webp",
-                "url": "https://www.usatoday.com/story/entertainment/celebrities/2026/08/21/hoda-kotb-married-handsome-man-plane-connection/91406633007/",
-                "source": "USA Today",
-                "date": "2026-08-21T18:31:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The Teen TV Show Even Old People Will Obsess Over",
-                "desc": "Everything we can’t stop loving, hating, and thinking about this week in pop culture.",
-                "image": "https://www.thedailybeast.com/resizer/v2/H67YOIXRCVDTPNHEUREATPNBFM.png?smart=true&auth=3c01aecc3f59d66f294bc747dacd462512814d1c8b4142dda9aeb23beed6d261&width=1200&height=630",
-                "url": "https://www.thedailybeast.com/obsessed/sterling-point-the-teen-tv-show-even-old-people-will-obsess-over/",
-                "source": "thedailybeast.com",
-                "date": "2026-08-21T18:31:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Best New Movies and TV Aug 21-23",
-                "desc": "An Anthony Bourdain (coming-of-age) biopic, vampire rock star Lestat de Lioncourt in concert, and Conan O’Brien travel shenanigans are on the menu this weekend. Here are the best movies and TV shows to watch now.",
-                "image": "https://pyxis.nymag.com/v1/imgs/37a/a92/7125dba45c908f3d26b6edcccf9c98537f-streamliner-8-21-2026.1x.rsocial.w1200.jpg",
-                "url": "https://www.vulture.com/article/what-to-watch-this-weekend-best-new-movies-and-tv-aug-21-23.html",
-                "source": "Vulture",
-                "date": "2026-08-21T18:23:22Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Michelle Pfeiffer Reveals If She Is Retiring From Film",
-                "desc": "Michelle Pfeiffer clarified reports of her retirement after previously claiming that she “never” wanted to “star in another movie.”",
-                "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/05/GettyImages-22701054001.jpg?w=1296&h=730&crop=1",
-                "url": "https://www.hollywoodreporter.com/movies/movie-news/michelle-pfeiffer-reveals-career-plans-never-star-in-movie-1236678525/",
-                "source": "The Hollywood Reporter",
-                "date": "2026-08-21T18:15:47Z",
-                "priority": "STANDARD"
             }
         ],
         "sports": [
+            {
+                "title": "5 takeaways from Detroit Lions’ preseason win against Washington Commanders",
+                "desc": "5 takeaways from the Detroit Lions’ 17-13 victory in the only home preseason game in 2026. Who is starting to separate themselves in these position battles?",
+                "image": "https://platform.prideofdetroit.com/wp-content/uploads/sites/127/2026/08/gettyimages-2291578885.jpg?quality=90&strip=all&crop=0%2C2.8064616104924%2C100%2C78.524215886627&w=1200",
+                "url": "https://www.prideofdetroit.com/detroit-lions-analysis/170138/5-takeaways-detroit-lions-preseason-win-washington-commanders",
+                "source": "Pride Of Detroit",
+                "date": "2026-08-22T20:15:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Falcons - Colts preseason instant recap: Atlanta dominates the day",
+                "desc": "The Falcons destroy the Colts 34-6 en route to a fun Saturday afternoon.",
+                "image": "https://platform.thefalcoholic.com/wp-content/uploads/sites/161/2026/08/gettyimages-2290739260.jpg?quality=90&strip=all&crop=0%2C10.736242696289%2C100%2C78.527514607421&w=1200",
+                "url": "https://www.thefalcoholic.com/atlanta-falcons-scores-results/95316/falcons-colts-preseason-instant-recap-tyler-goodson-jack-strand",
+                "source": "The Falcoholic",
+                "date": "2026-08-22T20:10:08Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Matt Rhule Talks Biggest Storylines After Nebraska Wraps Up Fall Camp With Scrimmage",
+                "desc": "Rhule offered clarity regarding the depth chart at several positions of significant importance following Saturday's scrimmage.",
+                "image": "https://images2.minutemediacdn.com/image/upload/c_crop,x_66,y_121,w_1900,h_1068/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/all_huskers/01m0nc47pc9mam1qkba8.jpg",
+                "url": "https://www.si.com/college/nebraska/football/matt-rhule-talks-biggest-storylines-after-huskers-wrap-up-fall-camp-with-scrimmage-01m0nc0jxe5e",
+                "source": "Sports Illustrated",
+                "date": "2026-08-22T19:57:36Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "5 Detroit Lions who helped their roster chances versus Washington Commanders",
+                "desc": "These 5 Detroit Lions players helped their roster chances against the Washington Commanders.",
+                "image": "https://platform.prideofdetroit.com/wp-content/uploads/sites/127/2026/08/gettyimages-2291003232.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+                "url": "https://www.prideofdetroit.com/detroit-lions-analysis/170141/5-detroit-lions-who-helped-their-roster-chances-versus-washington-commanders",
+                "source": "Pride Of Detroit",
+                "date": "2026-08-22T19:47:39Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Breanna Stewart wants a safe space as transgender debate sparks rallies at Fever games",
+                "desc": "Breanna Stewart has always seen the WNBA as an inclusive places that has served as a safe space for both its fans and the players. That’s been challenged lately.",
+                "image": "https://dims.apnews.com/dims4/default/8d6a907/2147483647/strip/true/crop/6139x4091+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F55%2Fdb%2Fae38a96d73213ac292283a9c08e9%2Fb945385a05aa4b1794b4e8560aab8c28",
+                "url": "https://apnews.com/article/wnba-transgender-stewart-liberty-fever-c0cfa44508b8ae4898019970bc4605d7",
+                "source": "AP News",
+                "date": "2026-08-22T19:27:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Diamondbacks' Ketel Marte was at casino during Friday's game amid questions of unexplained absence and IL stint",
                 "desc": "D-Backs manager Torey Lovullo explained that injured players are not required to be with the team, but learned of Marte's casino appearance after Friday's game.",
@@ -4291,53 +4336,8 @@
                 "source": "Los Angeles Times",
                 "date": "2026-08-21T23:57:20Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "NFL player arrested in Georgia, accused of smashing child’s mother’s car",
-                "desc": "Baltimore Ravens player and Georgia native Rashod Bateman's child was in the car at the time.",
-                "image": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FEH4XRIDAS5DHNHFEPOVVHLS7TQ.jpg?auth=2ebc290185c6190673303dd8bbf85be913d0f41e3aaa0e4a5b58ebed42b9305e&width=1200&height=630&smart=true",
-                "url": "https://www.wsbtv.com/news/local/nfl-player-arrested-georgia-accused-smashing-childs-mothers-car/2CFMDQPHSFCKHLY4BRHRFMESDE/",
-                "source": "WSB-TV",
-                "date": "2026-08-21T23:56:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Geno Smith perfect in his only drive, throwing a TD",
-                "desc": "Jets starting quarterback Geno Smith made his preseason debut on Friday night.",
-                "image": "https://nbcsports.brightspotcdn.com/dims4/default/abc6be3/2147483647/strip/true/crop/6000x3375+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Feb%2F5b%2F451a47c64fc3b6900be951324b83%2F2290831611.jpg",
-                "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/geno-smith-perfect-in-his-only-drive-throwing-a-td",
-                "source": "NBC Sports",
-                "date": "2026-08-21T23:35:28Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "2026 NFL Preseason, Week 2: What We Learned from Friday's games",
-                "desc": "NFL.com's Bobby Kownack breaks down the key takeaways from Friday's action in Week 2 of the 2026 NFL preseason.",
-                "image": "https://static.www.nfl.com/image/upload/t_editorial_landscape_12_desktop/league/c21jnssjfw00uofgloms",
-                "url": "https://www.nfl.com/news/2026-nfl-preseason-week-2-what-we-learned-friday-games",
-                "source": "NFL.com",
-                "date": "2026-08-21T23:03:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Last strike of Iowa no-hitter sparks outrage",
-                "desc": "California's Little League team lost 1-0 to Iowa after a controversial strike-three call with the bases loaded sealed a combined no-hitter.",
-                "image": "https://nypost.com/wp-content/uploads/sites/2/2026/08/IOWA-WIN.jpg?quality=75&strip=all&w=1200",
-                "url": "https://nypost.com/2026/08/21/sports/little-league-world-series-last-strike-of-iowa-no-hitter-sparks-outrage/",
-                "source": "New York Post",
-                "date": "2026-08-21T23:03:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Lakers legends react to Jeanie Buss family ownership drama",
-                "desc": "Robert Horry, Byron Scott, Michael Cooper and Matt Barnes speak out on the Lakers ownership fight, Buss family turmoil and Jeanie Buss’ future.",
-                "image": "https://nypost.com/wp-content/uploads/sites/2/2026/08/138125264.jpg?quality=75&strip=all&w=1200",
-                "url": "https://nypost.com/2026/08/21/sports/lakers-legends-react-to-jeanie-buss-family-ownership-drama/",
-                "source": "New York Post",
-                "date": "2026-08-21T23:02:00Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-08-23T07:25:34.708714Z"
+    "lastGlobalSync": "2026-08-23T08:19:16.699729Z"
 }
