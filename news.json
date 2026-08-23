@@ -2,6 +2,15 @@
     "hi": {
         "general": [
             {
+                "title": "मुंबई: गणेश आगमन के दौरान भारी प्रतिमा गिरने से 2 की मौत, 5 घायल",
+                "desc": "मुंबई के भुलेश्वर में गणेश आगमन के दौरान भारी प्रतिमा गिर गई. हादसे में दो लोगों की मौत हुई, जबकि दो बच्चियों समेत पांच लोग घायल हैं.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202608/6a8a237049c52-massive-ganesh-idol-falls-in-bhuleshwar-223210521-16x9.png",
+                "url": "https://www.aajtak.in/india/maharashtra/story/mumbai-bhuleshwar-ganesh-idol-accident-dead-injured-ntc-dhrj-dskc-2627948-2026-08-23",
+                "source": "AajTak",
+                "date": "2026-08-22T22:33:45Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "मुंबई में बड़ा हादसा, 22 फीट ऊंची गणेश प्रतिमा गिरने से दो लोगों की मौत; पांच घायल",
                 "desc": "दक्षिण मुंबई में गणेश की प्रतिमा गिरने से दो लोगों की मौत हो गई और पांच अन्य लोग घायल हो गए। घायलों में दो बच्चे भी शामिल हैं। प्रतिमा पंडाल में स्थापित करने लिए लाई जा रही थी।",
                 "image": "https://www.jagranimages.com/images/2026/08/23/template/image/jagran-897-1787429734040_v.webp",
@@ -530,15 +539,6 @@
                 "url": "https://www.aajtak.in/entertainment/news/story/arjun-rampal-marries-long-time-girlfriend-gabriella-demetriades-kareena-kapoorsparks-pregnancy-rumours-tmovj-dskc-2627267-2026-08-21",
                 "source": "AajTak",
                 "date": "2026-08-21T17:25:55Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "3 घंटे की मिन्नतें, फिर 3 खौफनाक मौतें, iPhone की जिद ने उजाड़ दिया पूरा परिवार",
-                "desc": "छत्रपति संभाजीनगर में iPhone को लेकर माता-पिता से विवाद के बाद 19 वर्षीय कुणाल पहाड़ी पर पहुंच गया. उसे बचाने पहुंचे पिता भी पहाड़ी से गिर गए. पति और बेटे को गिरता देख मां ने भी छलांग लगा दी. करीब तीन घंटे तक पुलिस, फायर ब्रिगेड और ग्रामीणों ने बचाने की कोशिश की, लेकिन परिवार के तीनों सदस्यों की मौत हो गई.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202608/6a888ecf2916d-father-and-mother-lost-their-lives-while-trying-to-save-their-son-who-had-set-out-to-commit-suicide-214545929-16x9.jpg",
-                "url": "https://www.aajtak.in/india/maharashtra/story/chhatrapati-sambhajinagar-tisgaon-family-tragedy-mobile-iphone-dispute-three-deaths-lclar-strc-2627253-2026-08-21",
-                "source": "AajTak",
-                "date": "2026-08-21T17:23:31Z",
                 "priority": "STANDARD"
             }
         ],
@@ -2172,6 +2172,51 @@
     "en": {
         "general": [
             {
+                "title": "Alex Palou takes pole for the Freedom 250 Grand Prix with a chance to lock up the championship",
+                "desc": "Alex Palou earned pole position for the Freedom 250 Grand Prix in Washington, D.C. The four-time series champion can clinch a fifth career title on Sunday.",
+                "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/alex-palou-with-helmet.jpg",
+                "url": "https://www.foxnews.com/outkick-sports/alex-palou-takes-pole-freedom-250-grand-prix-chance-lock-championship",
+                "source": "Fox News",
+                "date": "2026-08-22T23:05:28Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Anna Paquin makes stark claim after Hayden Panettiere's death",
+                "desc": "\"True Blood\" actress Anna Paquin reflected on the challenges former child stars face following the news of Hayden Panettiere's death on Aug. 16.",
+                "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/08/22/USAT/91425654007-getty-images-1437545300.jpg?crop=2958,1664,x218,y165&width=2958&height=1664&format=pjpg&auto=webp",
+                "url": "https://www.usatoday.com/story/entertainment/celebrities/2026/08/22/anna-paquin-hayden-panettiere-death-tribute/91424392007/",
+                "source": "USA Today",
+                "date": "2026-08-22T23:02:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Fedorov decries corruption in Defense Ministry, doubles down on calls for elections",
+                "desc": "Former Defense Minister Mykhailo Fedorov detailed what he described as widespread corruption within Ukraine's Defense Ministry in a wide-ranging interview with Channel 24 released Aug. 22, while reiterating his call for Ukraine to prepare for elections even as war continues.",
+                "image": "https://assets.kyivindependent.com/content/images/2026/07/PRV_3132_20260716-093447.jpg",
+                "url": "https://kyivindependent.com/fedorov-interview-aug-22/",
+                "source": "The Kyiv Independent",
+                "date": "2026-08-22T22:52:23Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Moke forecast to reach peak intensity soon; storm center should pass couple of hundred miles south of Big Island on Sunday",
+                "desc": "Tropical storm now expected to begin weakening Sunday, but still expected to bring up to 15 inches of rain to some places of the Big Island and cause trade winds to be enhanced and gusty; Hawai‘i County to open shelters at 8 p.m. today.",
+                "image": "https://cdn.bigislandnow.com/file/bigislandnow/2026/08/Moke-11-am-Aug-22-update-8-22-26-BIN-feature-pic-1024x576.jpg",
+                "url": "https://bigislandnow.com/2026/08/22/moke-forecast-to-reach-peak-intensity-soon-storm-center-should-pass-couple-of-hundred-miles-south-of-big-island-on-sunday/",
+                "source": "Big Island Now",
+                "date": "2026-08-22T22:27:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Iran threatens neighbors against economic measures and Egypt tries to revive US-Iran talks",
+                "desc": "The hard-line new leader of Iran’s top security body is threatening neighbors against joining new U.S. efforts to squeeze Tehran’s economy and saying the U.S. has increased global nuclear insecurity.",
+                "image": "https://dims.apnews.com/dims4/default/5dfa95e/2147483647/strip/true/crop/3000x1999+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F41%2Fc1%2F8439c1e2bb549e44eef388b0b6da%2F7546a8441a2b46ec8906918fcf9524bb",
+                "url": "https://apnews.com/article/middle-east-iran-israel-golan-467d9b2970e0b9855ac9a68ef90c8e75",
+                "source": "AP News",
+                "date": "2026-08-22T22:23:00Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Report: Steelers will keep both Will Howard, Drew Allar on the 53-player roster",
                 "desc": "Mason Rudolph is the second-best quarterback on the Steelers' roster.",
                 "image": "https://nbcsports.brightspotcdn.com/dims4/default/2da65d2/2147483647/strip/true/crop/7202x4051+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F71%2F28%2Ff8e08e6a4dfebe97a010f99ff53d%2F2290536595.jpg",
@@ -2665,51 +2710,6 @@
                 "source": "CBS News",
                 "date": "2026-08-22T12:35:04Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Europe's devastating wildfires unveil deadly new threat - buried bombs from WWI and WWII",
-                "desc": "Droughts across Europe have also been churning up military vehicles and weapons from the era, with shrinking rivers revealing German warships, a Wehrmacht motorbike, and a bomb.",
-                "image": "https://images.euronews.com/articles/stories/09/88/46/89/1200x675_cmsv2_05b977e7-26a5-57d9-a4fb-0739013b05d3-9884689.jpg",
-                "url": "https://www.euronews.com/my-europe/2026/08/22/europes-devastating-wildfires-unveil-deadly-new-threat-buried-bombs-from-wwi-and-wwii",
-                "source": "Euronews.com",
-                "date": "2026-08-22T12:14:17Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Why cases are rising across the US",
-                "desc": "Unlike other respiratory illnesses, such as the flu, COVID-19 has more than a single yearly \"surge.\" Here is why.",
-                "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/08/21/USAT/91411491007-getty-images-2198381125.jpg?crop=2119,1193,x0,y110&width=2119&height=1193&format=pjpg&auto=webp",
-                "url": "https://www.usatoday.com/story/news/health/2026/08/22/covid-summer-surge-2026-cases-rising-across-us/91391753007/",
-                "source": "USA Today",
-                "date": "2026-08-22T12:02:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Near-total lunar eclipse will be most visible from the Americas",
-                "desc": "It's the moon's turn to pull a disappearing act. After being shut out of this month's total solar eclipse, the Americas will have the best seats when Earth's shadow briefly envelops the moon.",
-                "image": "https://dims.apnews.com/dims4/default/15f9fd3/2147483647/strip/true/crop/3847x2563+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F1e%2F332d3729e549c016ec02aef3dba4%2Faa9f9d5f75a44d5d844940e5200f2d49",
-                "url": "https://apnews.com/article/lunar-eclipse-moon-sun-3c47d7a9f1a7f1a5e6c96456e44395b8",
-                "source": "AP News",
-                "date": "2026-08-22T12:01:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "It’s a miracle: Natalie Harp has turned Republicans into feminists",
-                "desc": "A Democrat’s remarks have resulted in impassioned defenses of the Trump aide. The right has discovered misogyny",
-                "image": "https://i.guim.co.uk/img/media/2c16f78a23a0ebebfa0d0b99a8598cb7c5dda6e8/685_0_6847_5477/master/6847.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=3596a7830913d80d6529c9dae5f6453c",
-                "url": "https://www.theguardian.com/commentisfree/2026/aug/22/natalie-harp-republicans-feminists",
-                "source": "The Guardian",
-                "date": "2026-08-22T12:01:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'The Five Heartbeats' Star Michael Wright Dead at 70",
-                "desc": "Actor Michael Wright, best known for his roles in \"Sugar Hill\" and \"The Five Heartbeats,\" has died in California, according to his family.",
-                "image": "https://imagez.tmz.com/image/17/16by9/2026/08/22/17043c23fdbf452fab7205023e8c4982_xl.jpg",
-                "url": "https://www.tmz.com/2026/08/22/michael-wright-dead/",
-                "source": "TMZ",
-                "date": "2026-08-22T11:52:27Z",
-                "priority": "STANDARD"
             }
         ],
         "business": [
@@ -2774,6 +2774,15 @@
                 "url": "https://www.foxnews.com/food-drink/red-lobster-brings-back-endless-shrimp-promotion-helped-push-chain-toward-bankruptcy",
                 "source": "Fox News",
                 "date": "2026-08-22T18:56:09Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Is Dave Ramsey Right About Claiming Social Security at 62? The Math, Tested",
+                "desc": "Should you claim Social Security at 62 and invest checks? Learn how Ramsey's advice compares with waiting, break-even math, survivor benefits, and earnings limits.",
+                "image": "https://hermes.media.static.aol.com/media/2026/08/22/07fe6b6b-a75c-37b9-91e0-cbfafd93f177/0d253a50-e058-4cda-a0f0-514dc3368a83.jpg",
+                "url": "https://www.aol.com/articles/dave-ramsey-claiming-social-security-093000000.html",
+                "source": "AOL.com",
+                "date": "2026-08-22T18:45:24Z",
                 "priority": "STANDARD"
             },
             {
@@ -3243,18 +3252,18 @@
                 "source": "Yahoo Autos",
                 "date": "2026-08-21T15:14:38Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Alfalfa sprouts linked to reported illnesses from 2 different bacteria",
-                "desc": "Minnesota health officials are warning consumers not to eat certain brands of alfalfa sprouts that have been tied to an unusual outbreak involving different disease-causing bacteria.",
-                "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-08/260821-alfalfa-sprouts-mn-1000-2012e4.jpg",
-                "url": "https://www.nbcnews.com/health/health-news/sprouts-e-coli-salmonella-illnesses-minnesota-wisconsin-rcna593710",
-                "source": "NBC News",
-                "date": "2026-08-21T14:56:26Z",
-                "priority": "STANDARD"
             }
         ],
         "entertainment": [
+            {
+                "title": "Crystal Hefner claims she was 'brainwashed' while married to Hugh Hefner, reveals strict Playboy mansion rules",
+                "desc": "Crystal Hefner said she felt \"absolutely brainwashed\" by her late husband Hugh Hefner, detailing her strict 6 p.m. curfew at the Playboy Mansion.",
+                "image": "https://pagesix.com/wp-content/uploads/sites/3/2026/08/138224936.jpg?quality=75&strip=all&w=1200",
+                "url": "https://pagesix.com/2026/08/22/entertainment/crystal-hefner-claims-she-was-brainwashed-while-married-to-hugh-hefner-reveals-strict-playboy-mansion-rules/",
+                "source": "Page Six",
+                "date": "2026-08-22T22:50:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Wendy Williams pleads for freedom in rare public sighting",
                 "desc": "Wendy Williams was spotted walking in New York City when a member of the paparazzi asked her to tell fans what she has been going through recently.",
@@ -3785,18 +3794,63 @@
                 "source": "USA Today",
                 "date": "2026-08-21T20:04:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Mark Ruffalo Eviscerates Ellisons' Paramount Merger, Citing Gaza Genocide",
-                "desc": "Mark Ruffalo lambasted the Paramount-Warner Bros. merger Friday, eviscerating Larry and David Ellison over their business ties.",
-                "image": "https://www.thewrap.com/wp-content/uploads/2026/08/Untitled-design-2026-08-21T124126.012.jpg",
-                "url": "https://www.thewrap.com/industry-news/deals-ma/mark-ruffalo-david-larry-ellison-paramount-warner-merger/",
-                "source": "TheWrap",
-                "date": "2026-08-21T20:03:19Z",
-                "priority": "STANDARD"
             }
         ],
         "sports": [
+            {
+                "title": "Wyndham Clark’s girlfriend shares huge relationship step amid BMW Championship",
+                "desc": "Wyndham Clark’s girlfriend Emily Tanner revealed they are moving in together in Scottsdale as the golfer leads the BMW Championship by five strokes.",
+                "image": "https://nypost.com/wp-content/uploads/sites/2/2026/08/newspress-collage-9jz1bfw5t-1787437135321.jpg?quality=75&strip=all&1787422755&w=1200",
+                "url": "https://nypost.com/2026/08/22/sports/wyndham-clarks-girlfriend-shares-huge-relationship-step-amid-bmw-championship/",
+                "source": "New York Post",
+                "date": "2026-08-22T23:11:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Missouri star transfer Mark Mitchell has committed to Kentucky",
+                "desc": "Mark Pope went fishing for another M&M and reeled him in, setting up arguably the most dangerous frontcourt in college basketball.",
+                "image": "https://on3static.com/uploads/dev/assets/cms/2026/08/15090141/Mark-Mitchell.png",
+                "url": "https://www.on3.com/teams/kentucky-wildcats/news/missouri-star-transfer-mark-mitchell-has-committed-to-kentucky/",
+                "source": "On3",
+                "date": "2026-08-22T23:06:41Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Alex Palou takes pole for the Freedom 250 Grand Prix with a chance to lock up the championship",
+                "desc": "Alex Palou earned pole position for the Freedom 250 Grand Prix in Washington, D.C. The four-time series champion can clinch a fifth career title on Sunday.",
+                "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/alex-palou-with-helmet.jpg",
+                "url": "https://www.foxnews.com/outkick-sports/alex-palou-takes-pole-freedom-250-grand-prix-chance-lock-championship",
+                "source": "Fox News",
+                "date": "2026-08-22T23:05:28Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Browns' Watson calls fans' boos 'personal,' not based on play",
+                "desc": "Browns quarterback Deshaun Watson was booed in his first home game since suffering a right Achilles tendon injury in October 2024 and said he thought the reaction from the crowd was \"disrespectful\" and felt \"personal.\"",
+                "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0822%2Fr1705507_2_1296x729_16%2D9.jpg",
+                "url": "https://www.espn.com/nfl/story/_/id/49695585/browns-watson-calls-fans-boos-personal-not-based-play",
+                "source": "ESPN",
+                "date": "2026-08-22T23:03:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "New NFL Rumors on Drew Allar, Will Howard's Futures with Steelers After Loss to Jets",
+                "desc": "Friday's preseason shutout loss to the New York Jets didn't change the Pittsburgh Steelers' plans to keep two young quarterbacks on their roster, the Pittsburgh Post-Gazette's Gerry Dulac reported Saturday.",
+                "image": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/ap_images/2026-08/d1b183b986d0452b933ce0513130401b/Steelers_Football__3811_6890x3876_(0,0).jpg?w=1120&h=630",
+                "url": "https://bleacherreport.com/articles/25481409-new-nfl-rumors-drew-allar-will-howards-futures-steelers-after-loss-jets",
+                "source": "Bleacher Report",
+                "date": "2026-08-22T22:58:21Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Bills DT Ed Oliver mourns son after accidental drowning",
+                "desc": "Oliver is also dealing with an undisclosed injury as the Bills practiced and played against the Browns this week.",
+                "image": "https://static01.nyt.com/athletic/uploads/wp/2025/10/27121639/EdOliver-scaled.jpg?width=1200&height=630&fit=cover",
+                "url": "https://www.nytimes.com/athletic/7531390/2026/08/22/ed-oliver-son-death-buffalo-bills/",
+                "source": "The New York Times",
+                "date": "2026-08-22T22:30:45Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Buffalo Bills' other Allen makes a statement in a laugher vs. Browns",
                 "desc": "Here are Sal Maiorana's observations after a dominant 31-7 Bills preseason victory over the Browns.",
@@ -3813,6 +3867,15 @@
                 "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/deshaun-watson-boos-are-a-disrespectful-thing-has-nothing-to-do-with-performance",
                 "source": "NBC Sports",
                 "date": "2026-08-22T21:56:37Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Three Takeaways from Matt Rhule Announcing Anthony Colandrea as Nebraska's Starting Quarterback",
+                "desc": "The UNLV transfer will be the sixth starting quarterback of Rhule's tenure in Lincoln.",
+                "image": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_23,w_1148,h_645/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/all_huskers/01m0njrgeej9qz144nxp.jpg",
+                "url": "https://www.si.com/college/nebraska/football/three-takeaways-anthony-colandrea-is-huskers-starting-quarterback-01m0ngb7hk23",
+                "source": "Sports Illustrated",
+                "date": "2026-08-22T21:45:18Z",
                 "priority": "STANDARD"
             },
             {
@@ -4273,71 +4336,8 @@
                 "source": "MLB Trade Rumors",
                 "date": "2026-08-22T13:16:21Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Seahawks News: Injuries set to test Seahawks depth at WR",
-                "desc": "Dang. This hurts a little.",
-                "image": "https://platform.fieldgulls.com/wp-content/uploads/sites/81/2026/08/gettyimages-2287643638.jpg?quality=90&strip=all&crop=10.9405%2C0%2C78.119%2C61.319340329835&w=1200",
-                "url": "https://www.fieldgulls.com/seattle-seahawks-news/172927/seahawks-news-injuries-set-to-test-seahawks-depth-at-wr",
-                "source": "Field Gulls",
-                "date": "2026-08-22T13:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Fernando Mendoza’s performance could make Raiders’ QB timeline move even faster",
-                "desc": "Raiders coach Klint Kubiak declined to name Kirk Cousins the starting QB, leaving the door open for No. 1 draft pick Fernando Mendoza to start.",
-                "image": "https://nypost.com/wp-content/uploads/sites/2/2026/08/raiqb.jpg?quality=75&strip=all&1787330044&w=1200",
-                "url": "https://nypost.com/2026/08/22/sports/fernando-mendozas-performance-could-make-raiders-qb-timeline-move-even-faster/",
-                "source": "New York Post",
-                "date": "2026-08-22T13:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "UFC Sacramento predictions",
-                "desc": "Anthony Hernandez looks to bounce back from a tough loss, while Gregory Rodrigues can cement himself as a contender with a big win at UFC Sacramento.",
-                "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2025/08/gettyimages-2229310656.jpg?quality=90&strip=all&crop=0%2C4.5816954505186%2C100%2C78.534031413613&w=1200",
-                "url": "https://www.mmafighting.com/ufc/505891/ufc-sacramento-predictions",
-                "source": "MMA Fighting",
-                "date": "2026-08-22T13:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "10 Detroit Lions to watch in preseason Game 2 vs. Commanders",
-                "desc": "10 Detroit Lions players you must watch during their preseason game vs. the Washington Commanders.",
-                "image": "https://platform.prideofdetroit.com/wp-content/uploads/sites/127/2026/08/reuters-tagreuters.com2026newsml_MT1USATODAY29216163287035839.jpg?quality=90&strip=all&crop=0%2C10.737556072878%2C100%2C78.524887854244&w=1200",
-                "url": "https://www.prideofdetroit.com/detroit-lions-analysis/170069/10-detroit-lions-watch-preseason-game-2-washington-commanders",
-                "source": "Pride Of Detroit",
-                "date": "2026-08-22T13:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Market Movers: The Chiefs’ Bulls and Bears as Training Camp Ends",
-                "desc": "Here are the current trends of the Kansas City Chiefs’ roster with training camp in the rearview mirror.",
-                "image": "https://platform.arrowheadpride.com/wp-content/uploads/sites/12/2026/08/gettyimages-2290101577.jpg?quality=90&strip=all&crop=0%2C2.1312774949592%2C100%2C78.51960031633&w=1200",
-                "url": "https://www.arrowheadpride.com/kansas-city-chiefs-preseason/208097/chiefs-market-movers-training-camp-ends",
-                "source": "Arrowhead Pride",
-                "date": "2026-08-22T13:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Fantasy Baseball Waiver Wire: Kade Anderson is here, Griffin Conine is raking",
-                "desc": "Eric Samulski and James Schiano discuss their favorite fantasy baseball waiver wire adds for the weekend.",
-                "image": "https://nbcsports.brightspotcdn.com/dims4/default/79de2af/2147483647/strip/true/crop/1920x1080+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F303%2F55%2Fnbc_roto_kadeanderson_260821.jpg",
-                "url": "https://www.nbcsports.com/fantasy/baseball/news/fantasy-baseball-waiver-wire-kade-anderson-is-here-griffin-conine-is-raking",
-                "source": "NBC Sports",
-                "date": "2026-08-22T12:18:17Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Klay Thompson buyout nets Mavericks small bit of salary cap relief",
-                "desc": "Getting nothing of value in exchange for Thompson is one of the remnants of Nico Harrison’s “vision.”",
-                "image": "https://platform.mavsmoneyball.com/wp-content/uploads/sites/104/2026/08/gettyimages-2267847546.jpg?quality=90&strip=all&crop=0%2C8.5822441523221%2C100%2C82.835511695356&w=1200",
-                "url": "https://www.mavsmoneyball.com/mavericks-roster/61761/why-the-mavericks-couldnt-get-more-than-the-smallest-slice-of-salary-cap-relief-for-klay-thompson",
-                "source": "Mavs Moneyball",
-                "date": "2026-08-22T12:03:00Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-08-23T10:14:26.166014Z"
+    "lastGlobalSync": "2026-08-23T11:12:40.644101Z"
 }
