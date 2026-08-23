@@ -2,6 +2,15 @@
     "hi": {
         "general": [
             {
+                "title": "मुंबई में बड़ा हादसा, 22 फीट ऊंची गणेश प्रतिमा गिरने से दो लोगों की मौत; पांच घायल",
+                "desc": "दक्षिण मुंबई में गणेश की प्रतिमा गिरने से दो लोगों की मौत हो गई और पांच अन्य लोग घायल हो गए। घायलों में दो बच्चे भी शामिल हैं। प्रतिमा पंडाल में स्थापित करने लिए लाई जा रही थी।",
+                "image": "https://www.jagranimages.com/images/2026/08/23/template/image/jagran-897-1787429734040_v.webp",
+                "url": "https://www.jagran.com/news/national-major-accident-in-mumbai-two-dead-five-injured-after-ganesh-idol-falls-40349293.html",
+                "source": "Jagran",
+                "date": "2026-08-22T20:40:00Z",
+                "priority": "CRITICAL_ALERT"
+            },
+            {
                 "title": "कंगना रनौत ने तापसी पन्नू को बुलाया ‘सस्ती कॉपी’, बोलीं- उसने सारी हदें पार कर दीं",
                 "desc": "तापसी पन्नू ने हाल ही में कंगना रनौत को लेकर कहा था कि कंगना का नजरिए बताता है कि कौन कहां से आता है। तापसी के इस बयान पर कंगना रनौत का गुस्सा फूटा है। उन्होंने तापसी पन्नू को सस्ती कॉपी कहकर बुलाया है। , Bollywood Hindi News - Hindustan",
                 "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/08/22/1600x900/logo/kangana_taapsee_22_08_02_1787423136247_1787423141964_48766a12-c8d8-4a7c-a7f7-c1857451a3b7.png",
@@ -531,15 +540,6 @@
                 "source": "AajTak",
                 "date": "2026-08-21T17:23:31Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "आईफोन तो खरीद लिया, EMI बन गई जंजाल; बाप-बेटे की पहाड़ी से गिरकर दर्दनाक मौत, मां भी चल बसीं",
-                "desc": "लोगों ने उसे मनाने के लिए यहां तक कह दिया कि वे उसे नया आईफोन 15 प्रो दिला देंगे लेकिन कुणाल पर इस बात का कोई असर नहीं हुआ और वह कंधे उचकाते हुए लगातार यही दोहराता रहा कि मुझे मरना ही होगा, यही एकमात्र रास्ता बचा है।, India News in Hindi - Hindustan",
-                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/08/21/1600x900/logo/Maharashtra_Teen_Jumps_To_Death_From_Hill_1787332236922_1787332263955_718901ea-cf17-4e20-92ea-cd66ebea4715.jpg",
-                "url": "https://www.livehindustan.com/national/iphone-emi-behind-teen-parents-deaths-in-maharashtra-hill-horror-chhatrapati-sambhajinagar-201787331595590.html",
-                "source": "Hindustan",
-                "date": "2026-08-21T17:15:32Z",
-                "priority": "STANDARD"
             }
         ],
         "business": [
@@ -559,6 +559,15 @@
                 "url": "https://hindi.cnbctv18.com/share-market/nse-fno-expiry-25-august-2026-otm-stock-options-physical-settlement-warning-191620.htm",
                 "source": "CNBC TV18",
                 "date": "2026-08-22T16:22:49Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Uber पर लगा ₹9,226 करोड़ का भारी जुर्माना! इस वजह से हुई इतनी बड़ी कार्रवाई",
+                "desc": "Uber पर नीदरलैंड्स के डेटा प्रोटेक्शन नियामक ने ड्राइवरों के अकाउंट को कथित तौर पर बिना पर्याप्त चेतावनी और मानवीय समीक्षा के ऑटोमेटेड सिस्टम से सस्पेंड या डिएक्टिवेट करने के मामले में 825 मिलियन यूरो यानी करीब ₹9,226 करोड़ का जुर्माना लगाया है। नियामक ने इसे GDPR के तहत गंभीर उल्लंघन बताया है। , Business Hindi News - Hindustan",
+                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/08/22/1600x900/logo/Uber__1787415012859_1787415012984_5db3cf69-d345-4771-8be6-82fdfc72ff51.jpg",
+                "url": "https://www.livehindustan.com/business/uber-fine-9226-crore-driver-account-suspension-gdpr-europe-check-details-201787413497683.html",
+                "source": "Hindustan",
+                "date": "2026-08-22T16:22:09Z",
                 "priority": "STANDARD"
             },
             {
@@ -1073,18 +1082,18 @@
                 "source": "AajTak",
                 "date": "2026-08-20T12:59:53Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Rule Change: 1 अक्‍टूबर से लागू होंगे FD के नए नियम... डेली अपडेट, समान दरें और बहुत कुछ",
-                "desc": "अगर आप भी बड़ी रकम एफडी में निवेश करते हैं तो आपके लिए 1 अक्‍टूबर से नया नियम लागू हो रहा है. आरबीआई ने बैंकों को निर्देश दिया है कि किसी भी कीमत पर ये नियम लागू हो जाने चाहिए.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/photo_gallery/202608/6a86ed478f767-666-days-special-fd-200319363-16x9.jpg",
-                "url": "https://www.aajtak.in/business/utility/photo/bank-fixed-deposit-fd-rules-change-from-october-rbi-update-tutd-2626420-2026-08-20",
-                "source": "AajTak",
-                "date": "2026-08-20T12:58:12Z",
-                "priority": "STANDARD"
             }
         ],
         "entertainment": [
+            {
+                "title": "कंगना रनौत ने तापसी पन्नू को बुलाया ‘सस्ती कॉपी’, बोलीं- उसने सारी हदें पार कर दीं",
+                "desc": "तापसी पन्नू ने हाल ही में कंगना रनौत को लेकर कहा था कि कंगना का नजरिए बताता है कि कौन कहां से आता है। तापसी के इस बयान पर कंगना रनौत का गुस्सा फूटा है। उन्होंने तापसी पन्नू को सस्ती कॉपी कहकर बुलाया है। , Bollywood Hindi News - Hindustan",
+                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/08/22/1600x900/logo/kangana_taapsee_22_08_02_1787423136247_1787423141964_48766a12-c8d8-4a7c-a7f7-c1857451a3b7.png",
+                "url": "https://www.livehindustan.com/entertainment/bollywood/kangna-ranaut-slams-taapsee-pannu-for-question-her-upbringing-call-her-sasti-copy-again-201787421108044.html",
+                "source": "Hindustan",
+                "date": "2026-08-22T18:27:04Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "'ये रिश्ता क्या कहलाता है' फेम मोहसिन खान ने की सगाई, मंगेतर तमन्ना का दिखाया चेहरा, डायमंड रिंग ने खींचा ध्यान",
                 "desc": "'ये रिश्ता क्या कहलाता है' फेम मोहसिन खान ने तमन्ना के साथ अपनी सगाई की खूबसूरत तस्वीरें शेयर की हैं। एक्टर मोहसिन खान की मंगेतर रेड गाउन में अपनी डायमंड की एंगेजमेंट रिंग फ्लॉन्ट करती दिखीं, जो चर्चा में है।",
@@ -1615,15 +1624,6 @@
                 "source": "Navbharat Times",
                 "date": "2026-08-21T10:24:35Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "1.88 लाख की शैंपेन, 10 हजार की मछली... अर्पिता के रेस्टोरेंट का महंगा खाना, कीमत सुन उड़ेंगे होश",
-                "desc": "सलमान खान की बहन अर्पिता खान के मुंबई स्थित रेस्टोरेंट मर्सी के खाने की कीमतें मिडिल क्लास के लिए काफी महंगी हैं. पास्ता, सीफूड और शैंपेन के आसमान छूते रेट्स चौंकाते हैं.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202608/6a8815575694a-arpita-khan-restaurant-mercii-expensive-food-210732321-16x9.jpg",
-                "url": "https://www.aajtak.in/entertainment/bollywood-news/story/arpita-khan-restaurant-mercii-expensive-food-10000-fish-champagne-1-lakh-netizens-shocked-tmovh-dskc-2626922-2026-08-21",
-                "source": "AajTak",
-                "date": "2026-08-21T10:22:13Z",
-                "priority": "STANDARD"
             }
         ],
         "sports": [
@@ -1670,6 +1670,15 @@
                 "url": "https://navbharattimes.indiatimes.com/sports/boxing/former-world-boxing-champion-zolani-tete-shot-dead-south-africa/articleshow/133428026.cms",
                 "source": "Navbharat Times",
                 "date": "2026-08-22T17:05:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "हॉकी वर्ल्ड कप में नीदरलैंड्स से हारकर वेंटिलेटर पर टीम इंडिया की उम्मीदें, अब ऐसे सेमीफाइनल में पहुंचेगा भारत",
+                "desc": "हॉकी विश्व कप 2026 में नीदरलैंड्स ने भारत को 3-1 से हरा दिया। डच टीम के लिए टेलगेनकैंप, होडेमेकर्स और वान डैम ने गोल दागे। भारत के लिए हरमनप्रीत सिंह ने एकमात्र गोल किया। इस हार से भारत की सेमीफाइनल की राह कठिन हो गई है।",
+                "image": "https://static.langimg.com/nbt/thumb/133427639/ind-vs-ned-highlights.jpg?imgsize=495127&width=1600&height=900&resizemode=75",
+                "url": "https://navbharattimes.indiatimes.com/sports/hockey/news/ind-vs-ned-highlights-hockey-world-cup-2026-india-lose-against-netherlands-road-to-semi-final/articleshow/133427479.cms",
+                "source": "Navbharat Times",
+                "date": "2026-08-22T16:18:44Z",
                 "priority": "STANDARD"
             },
             {
@@ -2157,20 +2166,65 @@
                 "source": "Hindustan",
                 "date": "2026-08-21T00:12:44Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "ऑस्ट्रेलिया के लिए 40 से ज्यादा मैच, अब इस ऑलराउंडर ने पुर्तगाल के लिए ठोकी अपनी पहली इंटरनेशनल सेंचुरी, चौके-छक्कों से बनाए 90 रन",
-                "desc": "पूर्व ऑस्ट्रेलियाई ऑलराउंडर मोजेस हेनरिक्स ने पुर्तगाल के लिए 51 गेंदों में 111 रनों की तूफानी शतकीय पारी खेलकर टीम को चेकिया के खिलाफ 91 रनों से जीत दिलाई।",
-                "image": "https://static.langimg.com/nbt/thumb/133385960/moises.jpg?imgsize=497117&width=1600&height=900&resizemode=75",
-                "url": "https://navbharattimes.indiatimes.com/sports/cricket/cricket-news/former-australia-all-rounder-moises-henriques-smashes-51-ball-century-for-portugal-in-t20-world-cup-qualifier/articleshow/133385729.cms",
-                "source": "Navbharat Times",
-                "date": "2026-08-20T18:18:36Z",
-                "priority": "STANDARD"
             }
         ]
     },
     "en": {
         "general": [
+            {
+                "title": "US Postal Service shares mail-in ballot restrictions despite court ruling",
+                "desc": "US President Donald Trump has called for restrictions on mail-in voting as part of bid to exert control over elections.",
+                "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/AP26209687195824-1787430318.jpg?resize=1920%2C1440",
+                "url": "https://www.aljazeera.com/news/2026/8/22/us-postal-service-shares-mail-in-ballot-restrictions-despite-court-ruling",
+                "source": "Al Jazeera",
+                "date": "2026-08-22T20:59:03Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump administration's 75-country visa ban was illegal, judge rules",
+                "desc": "The U.S. stopped issuing visas for citizens of 75 countries because it said they were likely to need public assistance. A judge ruled the policy illegally discriminated on the basis of nationality.",
+                "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8023x4513+0+418/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc6%2F5d%2Fa89f809d4a75a3f216dfcc2ecc60%2Fap26084563885466.jpg",
+                "url": "https://www.npr.org/2026/08/22/nx-s1-5941765/trump-immigration-visa-ban-75-countries",
+                "source": "NPR",
+                "date": "2026-08-22T20:53:19Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Missing NYC grandma Alisa Goods found dead in drainage ditch as surveillance footage captures her final moments",
+                "desc": "The Manhattan grandmother Alisa Goods who went missing in Las Vegas was found dead in a drainage ditch area near an airport – as cops reveal the final moments of her \"collapsing\" on the day she vanished were caught on camera.",
+                "image": "https://nypost.com/wp-content/uploads/sites/2/2026/08/goods-comp.jpg?quality=75&strip=all&w=1200",
+                "url": "https://nypost.com/2026/08/22/us-news/missing-nyc-grandma-alisa-goods-found-dead-in-drainage-ditch-as-surveillance-footage-captures-her-final-moments/",
+                "source": "New York Post",
+                "date": "2026-08-22T20:44:23Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Tropical Storm Moke expected to bring up to 15 inches of rain in Hawaii: Maps and projected path",
+                "desc": "Hawaii is still cleaning up from Hurricane Lala, which dumped massive amounts of rain on the islands.",
+                "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/22/f91a03af-b309-479c-a064-b1bbc5340ed9/thumbnail/1200x630/23f131ac54770cf084165986e23020ff/screenshot-2026-08-22-at-4-23-17-pm.png",
+                "url": "https://www.cbsnews.com/news/tropical-storm-moke-rain-hawaii-big-island/",
+                "source": "CBS News",
+                "date": "2026-08-22T20:37:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Paramount, California AG said to plan meeting on settling WBD suit",
+                "desc": "Paramount and the California A.G. office are set to meet Monday to discuss a settlement of the antitrust lawsuit over Paramount's Warner Bros. Discovery deal.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108334165-17839619082026-06-30t125836z_380056246_rc2fciazx5cx_rtrmadp_0_warner-bros-dis-m-a-paramount-britain.jpeg?v=1783961940&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/08/22/paramount-california-ag-said-to-plan-meeting-on-settling-wbd-suit-.html",
+                "source": "CNBC",
+                "date": "2026-08-22T20:34:13Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Judge denies Karmelo Anthony's appeal for a new trial in killing of Austin Metcalf",
+                "desc": "The decision comes after both prosecutors and Anthony's new defense team revealed more details in a tense two-day hearing.",
+                "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/07/07/c6b763c5-4ef0-4f41-8906-e41b4aab7d7f/thumbnail/1200x630/ffbe1f2e61cd4fd79091cf41f07fb1d6/cbstexas-karmelo-anthony-new-main-1.jpg",
+                "url": "https://www.cbsnews.com/texas/news/karmelo-anthony-new-trial-decision-austin-metcalf-8-22-2026/",
+                "source": "CBS News",
+                "date": "2026-08-22T20:30:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Paramount hits back at actor Mark Ruffalo over unhinged, 'antisemitic' rant against Warner Bros merger",
                 "desc": "Paramount accused actor Mark Ruffalo of using \"antisemitic tropes\" in a social media rant against the company's $110B merger with Warner Bros.",
@@ -2656,63 +2710,18 @@
                 "source": "Seeking Alpha",
                 "date": "2026-08-22T11:05:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Missing New York City grandmother found dead near airport in Las Vegas",
-                "desc": "The body of a missing 63-year-old grandmother from New York City was found near Harry Reid International Airport in Las Vegas, police said Friday.",
-                "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-08/260821-vegas-airport-vsb-2040-f77747.jpg",
-                "url": "https://www.nbcnews.com/news/us-news/missing-new-york-city-grandmother-found-dead-las-vegas-rcna593833",
-                "source": "NBC News",
-                "date": "2026-08-22T00:12:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "TikTok agrees to $400M settlement with US Department of Justice",
-                "desc": "TikTok has reached a $400 million settlement with the U.S. Department of Justice, ending a 2024 lawsuit alleging the company violated federal children’s privacy laws.",
-                "image": "https://dims.apnews.com/dims4/default/1a310ae/2147483647/strip/true/crop/6720x4478+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F23%2F44%2F5fd1d9f3e7d8d22e242ef163b99b%2F2838cb82a3aa4afdb4bb7de57eda8ec2",
-                "url": "https://apnews.com/article/tiktok-doj-settlement-children-privacy-coppa-7d92b65fa23968b8ce13ea3b5c52e7a4",
-                "source": "AP News",
-                "date": "2026-08-22T00:08:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Why Ebola outbreak in Congo is recording so many cases and deaths",
-                "desc": "The Ebola outbreak that is spreading at unprecedented speed with no sign of slowing in Congo has not peaked yet and could be three times the current known size.",
-                "image": "https://dims.apnews.com/dims4/default/c338f05/2147483647/strip/true/crop/8256x5501+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F21%2F1d%2F7cd717445ca846ce964d8073b0e7%2F9d9d9801489b4d87907a7f539f83fdf6",
-                "url": "https://apnews.com/article/ebola-congo-bundibugyo-abb93b8f7383ec3f68091acb4828be1a",
-                "source": "AP News",
-                "date": "2026-08-22T00:06:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Editor of US newspaper Stars and Stripes reportedly fired under Trump",
-                "desc": "Editor-in-chief Erik Slavin has suggested his firing was retaliation for speaking out about editorial independence.",
-                "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a88c2ea-1787347690.jpg?resize=1920%2C1440",
-                "url": "https://www.aljazeera.com/news/2026/8/21/editor-of-us-military-newspaper-stars-and-stripes-says-he-was-fired",
-                "source": "Al Jazeera",
-                "date": "2026-08-21T23:54:53Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Microsoft has been served a 'Grand Theft Auto 6' court subpoena by Take-Two (UPDATE)",
-                "desc": "The hunt for the GTA6 leakers is heating up, as Take-Two shareholders lose billions.",
-                "image": "https://cdn.mos.cms.futurecdn.net/EpffPfhDajDqsqMvwB9qLn-1637-80.jpg",
-                "url": "https://www.windowscentral.com/gaming/microsoft-has-been-served-a-court-subpoena-by-take-two-over-grand-theft-auto-6",
-                "source": "Windows Central",
-                "date": "2026-08-21T23:53:43Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Amazon hiked prices on Echo, Fire TV, Kindle, eero to offset ‘significant increases’ in memory costs",
-                "desc": "The e-commerce company's hardware price hikes follow similar moves by Apple, Dell, and Microsoft Xbox.",
-                "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-2201505685-e1787356134569.jpg?resize=1200,600",
-                "url": "https://fortune.com/2026/08/21/exclusive-amazon-quietly-hiked-prices-echo-fire-tv-kindle-eero-significant-increases-memory-costs/",
-                "source": "Fortune",
-                "date": "2026-08-21T23:50:00Z",
-                "priority": "STANDARD"
             }
         ],
         "business": [
+            {
+                "title": "Paramount, California AG said to plan meeting on settling WBD suit",
+                "desc": "Paramount and the California A.G. office are set to meet Monday to discuss a settlement of the antitrust lawsuit over Paramount's Warner Bros. Discovery deal.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108334165-17839619082026-06-30t125836z_380056246_rc2fciazx5cx_rtrmadp_0_warner-bros-dis-m-a-paramount-britain.jpeg?v=1783961940&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/08/22/paramount-california-ag-said-to-plan-meeting-on-settling-wbd-suit-.html",
+                "source": "CNBC",
+                "date": "2026-08-22T20:34:13Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Trump’s stock disclosure shows more than 1,000 trades in June",
                 "desc": "The transactions totaled between $78.1 million and $263.1 million in the filing published by the US Office of Government Ethics.",
@@ -2783,6 +2792,15 @@
                 "url": "https://www.usatoday.com/story/travel/airline-news/2026/08/22/american-airlines-laptop-fire-dfw/91421669007/",
                 "source": "USA Today",
                 "date": "2026-08-22T16:12:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Tesla will launch Cybercab on September 3",
+                "desc": "Tesla Cybercab is set to launch in Austin, Texas, on September 3, as the company has officially started sending out invitations to a dedicated event it will hold in the city where its headquarters is located.",
+                "image": "https://www.teslarati.com/wp-content/uploads/2026/04/tesla-cybercab-gloss-finish-1000x600.jpeg",
+                "url": "https://www.teslarati.com/tesla-cybercab-launch-official-date-austin/",
+                "source": "Teslarati",
+                "date": "2026-08-22T16:06:16Z",
                 "priority": "STANDARD"
             },
             {
@@ -3234,27 +3252,36 @@
                 "source": "TechCrunch",
                 "date": "2026-08-21T14:39:24Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Ken Griffin says Citadel unwound more than 80% of risk tied to Situational Awareness portfolio",
-                "desc": "In a letter to clients, Griffin addressed the firm's purchase of assets from Situational Awareness for the first time.",
-                "image": "https://image.cnbcfm.com/api/v1/image/108291124-1776177476672-gettyimages-2270816604-IMF_WORLD_BANK.jpeg?v=1776177506&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/08/21/citadel-situational-awareness-ken-griffin.html",
-                "source": "CNBC",
-                "date": "2026-08-21T14:39:24Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "$100 billion in tariff refunds have wiped out all the revenue the import taxes brought in since May",
-                "desc": "In June, the Trump administration saw a more than $25 billion loss in net customs revenue as a result of tariff refunds outpacing revenue.",
-                "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-2285232675-e1787241878269.jpg?resize=1200,600",
-                "url": "https://fortune.com/2026/08/21/100-billion-dollars-tariff-refunds-cancelled-out-tariff-revenue-since-may/",
-                "source": "Fortune",
-                "date": "2026-08-21T14:37:00Z",
-                "priority": "STANDARD"
             }
         ],
         "entertainment": [
+            {
+                "title": "Hayden Panettiere's Mom Says She's Glad Estate Will Likely Go to Granddaughter",
+                "desc": "Hayden Panettiere's mom says she's glad her late daughter's estate will likely go to Kaya -- Hayden's 11-year-old daughter ... adding she's truly \"exceptional.\"",
+                "image": "https://imagez.tmz.com/image/14/16by9/2026/08/22/140c46127ae04cb2a1c77f8c3b8cbb68_xl.jpg",
+                "url": "https://www.tmz.com/2026/08/22/hayden-panettiere-mother-happy-estate-goes-to-grandchild/",
+                "source": "tmz.com",
+                "date": "2026-08-22T21:11:28Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Dolores Catania sparks debate over near-white dress at son's wedding",
+                "desc": "'Real Housewives of New Jersey' star Dolores Catania sparked online backlash after appearing to wear white to her son's wedding in Portugal.",
+                "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/mother_of_groom.jpg",
+                "url": "https://www.foxnews.com/lifestyle/reality-star-accused-upstaging-bride-too-close-white-gown-sons-wedding",
+                "source": "Fox News",
+                "date": "2026-08-22T21:09:12Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Kim Zolciak Denies Son, 15, S*****ly Assaulted a Female Classmate, Claims He ‘Passed’ Polygraph",
+                "desc": "Kim Zolciak issued a statement denying allegations against her 15-year-old son, Kroy Biermann, Jr., and emphasized reliance on evidence in this case. Kroy Biermann Jr. charges are serious. In her Kim ...",
+                "image": "https://s.yimg.com/lo/mysterio/api/ab22783fd1b6a3a953891c58baea1e59768c8d90ac5e8d663144c16efa7c5979/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fin_touch_weekly_videos_831%2Fcbf18d960f094398258c2c7fdd8b1372.png",
+                "url": "https://www.yahoo.com/entertainment/videos/kim-zolciak-denies-son-15-210751108.html",
+                "source": "Yahoo",
+                "date": "2026-08-22T21:07:51Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "TV Schedule: What To Watch The Week Of August 23, 2026",
                 "desc": "TVLine offers a look at the week ahead: A handy roundup of new TV premieres and finales to help you plan your viewing for August 23-29.",
@@ -3767,36 +3794,72 @@
                 "source": "F4W/WON",
                 "date": "2026-08-21T19:28:29Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Pig Caught Running Through Streets Of West Hollywood Ends Up Adopted By A Celebrity",
-                "desc": "A man was riding his bike in West Hollywood when he spotted a pig running loose in the streets. The entire city quickly became invested in the pig's journey.",
-                "image": "https://assets3.thrillist.com/v1/image/3209094/1200x675/crop;;webp=auto;jpeg_quality=85.jpg",
-                "url": "https://www.thedodo.com/daily-dodo/pig-caught-running-through-streets-of-west-hollywood-ends-up-adopted-by-a-celebrity",
-                "source": "The Dodo",
-                "date": "2026-08-21T19:02:17Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Princess Diana's Driver Henri Paul May Not Have Been Drunk at Time of Crash",
-                "desc": "Princess Diana died because a drunk driver careened into a pillar -- so the official story goes, but a new show casts doubt on that ... and even raises the specter of foul play.",
-                "image": "https://imagez.tmz.com/image/ec/16by9/2026/08/14/ec27482db0f94c04a1f1761c6110779b_xl.png",
-                "url": "https://www.tmz.com/2026/08/21/henri-paul-possibly-wasnt-drunk-when-driving-princess-diana/",
-                "source": "TMZ",
-                "date": "2026-08-21T19:00:59Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Hayden Panettiere Death: Boyfriend's Brother Says Brian Used Narcan on Her",
-                "desc": "Hayden Panettiere's boyfriend Brian Hickerson gave her Narcan after he and his brother Zach Hickerson found her unconscious the day she died ... at least according to Zach.",
-                "image": "https://imagez.tmz.com/image/d7/16by9/2026/08/21/d77f6d34293947f79c3d0f9693454aa8_xl.jpg",
-                "url": "https://www.tmz.com/2026/08/21/hayden-panettiere-boyfriend-brian-gave-her-narcan/",
-                "source": "TMZ",
-                "date": "2026-08-21T18:41:38Z",
-                "priority": "STANDARD"
             }
         ],
         "sports": [
+            {
+                "title": "Yankees' Ryan Weathers Removed With Left Forearm Discomfort",
+                "desc": "Yankees left-hander Ryan Weathers was pulled from a start on Saturday with forearm discomfort.",
+                "image": "https://cdn.mlbtraderumors.com/files/2026/08/RyanWeathers-1024x683.jpg",
+                "url": "https://www.mlbtraderumors.com/2026/08/yankees-ryan-weathers-removed-with-left-forearm-discomfort.html",
+                "source": "MLB Trade Rumors",
+                "date": "2026-08-22T21:17:40Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Deshaun Watson calls boos from Browns fans ‘a disrespectful thing’ after preseason loss",
+                "desc": "Watson, playing in Cleveland for the first time since October 2024, finished 5-of-12 for 35 yards and an interception.",
+                "image": "https://static01.nyt.com/athletic/uploads/wp/2026/08/22163029/AP26234603239786-scaled.jpg?width=1200&height=630&fit=cover",
+                "url": "https://www.nytimes.com/athletic/7531745/2026/08/22/browns-fans-deshaun-watson-booed-bills/",
+                "source": "The New York Times",
+                "date": "2026-08-22T21:01:26Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Mavericks Notes: Thompson, Buyout, Schmitz, Biberovic",
+                "desc": "Details on Klay Thompson's buyout agreement, why he picked the Mavs over the Lakers in 2024, and more from Dallas.",
+                "image": "https://cdn.hoopsrumors.com/files/2026/07/Klay-Thompson-900x600.jpg",
+                "url": "https://www.hoopsrumors.com/2026/08/mavericks-notes-thompson-buyout-schmitz-biberovic.html",
+                "source": "Hoops Rumors",
+                "date": "2026-08-22T20:57:08Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Chinese humanoid robots break human records at Beijing's robot games",
+                "desc": "Chinese humanoid robots have set records including beating Usain Bolt's 100-meter sprint record at the World Humanoid Robot Games in Beijing.",
+                "image": "https://dims.apnews.com/dims4/default/a59ba71/2147483647/strip/true/crop/5404x3601+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F29%2Fe1%2F154fcfc6dad2a6a88bf3d33859ba%2F08c5e467f79f4f4682b04c2164c20ada",
+                "url": "https://apnews.com/article/china-humanoid-robot-games-us-86cb8e310843151a77057e4cb764b4e2",
+                "source": "AP News",
+                "date": "2026-08-22T20:42:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The Clemson Insider",
+                "desc": "Latest sports new from Clemson",
+                "image": "https://www.theclemsoninsider.com/wp-content/uploads/2026/08/Camp_0854-X4-e1786809527418-1024x600.jpg",
+                "url": "https://www.theclemsoninsider.com/2026/08/22/key-defender-suspended-from-team/",
+                "source": "The Clemson Insider",
+                "date": "2026-08-22T20:37:28Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Cleveland fans boo Deshaun Watson as he struggles in return",
+                "desc": "Watson struggled in front of a hostile home crowd.",
+                "image": "https://nbcsports.brightspotcdn.com/dims4/default/d34566f/2147483647/strip/true/crop/5325x2995+0+277/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fbd%2F92%2Fd0ebfae245288944e50cd467eb72%2F2291571403.jpg",
+                "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cleveland-fans-boo-deshaun-watson-as-he-struggles-in-return",
+                "source": "NBC Sports",
+                "date": "2026-08-22T20:34:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Bills tackle Ed Oliver’s son has died, team announces",
+                "desc": "The Buffalo Bills are mourning the death of defensive tackle Ed Oliver’s 2-year-old son, the team announced Saturday.",
+                "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-08/260822-Ed-Oliver-ch-1545-9c153f.jpg",
+                "url": "https://www.nbcnews.com/news/us-news/buffalo-bills-ed-olivers-son-died-team-announces-rcna593927",
+                "source": "NBC News",
+                "date": "2026-08-22T20:19:32Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "5 takeaways from Detroit Lions’ preseason win against Washington Commanders",
                 "desc": "5 takeaways from the Detroit Lions’ 17-13 victory in the only home preseason game in 2026. Who is starting to separate themselves in these position battles?",
@@ -4273,71 +4336,8 @@
                 "source": "NBC Sports",
                 "date": "2026-08-22T11:35:37Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Winners and losers from F1's Dutch GP sprint race",
-                "desc": "Formula 1's first (and last) ever sprint race at the Dutch Grand Prix was hardly a classic, but it did produce some winners and losers",
-                "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/size/w1200/2026/08/XPB_1430770_HiRes.jpg",
-                "url": "https://www.the-race.com/formula-1/winners-losers-from-f1-dutch-gp-sprint-race/",
-                "source": "The Race",
-                "date": "2026-08-22T11:27:34Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Woman claims NY Liberty tried to change her 'XX-XY' paid scoreboard message for halftime of Fever game",
-                "desc": "New York Liberty refunded a fan's scoreboard message thanking Jennifer Sey and XX-XY Athletics ahead of a WNBA game against the Indiana Fever.",
-                "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/ny-liberty.jpg",
-                "url": "https://www.foxnews.com/outkick-sports/woman-claims-ny-liberty-tried-change-xx-xy-paid-scoreboard-message-halftime-fever-game",
-                "source": "Fox News",
-                "date": "2026-08-22T11:26:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Five things to watch in the Eagles' second preseason game vs. the Patriots",
-                "desc": "The Philadelphia Eagles will be playing in their second preseason game Saturday night against the New England Patriots. Here are our five things to watch.",
-                "image": "https://media.phillyvoice.com/media/images/2026-07-30T162424Z_1283159403_.2e16d0ba.fill-1200x630-c0.jpg",
-                "url": "https://www.phillyvoice.com/five-things-watch-eagles-second-preseason-game-vs-patriots-makai-lemon-darius-cooper/",
-                "source": "PhillyVoice",
-                "date": "2026-08-22T11:25:48Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Fantasy Football 2026: 5 players I can’t stop drafting",
-                "desc": "These five players present a mix of high upside and sleeper status given their ADPs for the 2026 fantasy football season.",
-                "image": "https://media.pff.com/2026/08/Denzel-Boston-PS-scaled.jpg?w=1200&h=675",
-                "url": "https://www.pff.com/news/fantasy-football-2026-5-players-i-cant-stop-drafting",
-                "source": "PFF",
-                "date": "2026-08-22T11:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "2026 NFL Preseason Week 2 Recap: Immediate fantasy football takeaways from Friday's games",
-                "desc": "Friday's NFL preseason action underscored several fantasy-relevant topics, including the Jets leaning into first-round rookie Omar Cooper Jr. and the Steelers starting Jaylen Warren.",
-                "image": "https://media.pff.com/2025/11/Warren-Jaylen-Feature-scaled.jpg?w=1200&h=675",
-                "url": "https://www.pff.com/news/2026-nfl-preseason-week-2-recap-immediate-fantasy-football-takeaways-from-fridays-games",
-                "source": "PFF",
-                "date": "2026-08-22T00:17:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Josh McDaniels has ideal response as to whether Tom Brady helped Seahawks",
-                "desc": "Patriots offensive coordinator Josh McDaniels worked in New England for each of the six Super Bowls that Tom Brady won there.",
-                "image": "https://nbcsports.brightspotcdn.com/dims4/default/d1c5609/2147483647/strip/true/crop/2367x1331+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd1%2F5d%2Fb4740bf8495da96bbbd84e86cfde%2F1451414768.jpg",
-                "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/josh-mcdaniels-has-ideal-response-as-to-whether-tom-brady-helped-seahawks",
-                "source": "NBC Sports",
-                "date": "2026-08-22T00:07:28Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "If Dodgers are put up for sale, Patrick Soon-Shiong is interested",
-                "desc": "Mark Walter won a competition to buy the Dodgers. Now the runner-up is interested in buying the Dodgers if Walter decides to sell the team.",
-                "image": "https://ca-times.brightspotcdn.com/dims4/default/0b873a2/2147483647/strip/true/crop/5811x3051+0+213/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fc8%2F15%2Fb02894e04762b8657e59d31e57bf%2F1518721-me-bass-esports-announcement-12-mjc.jpg",
-                "url": "https://www.latimes.com/sports/dodgers/story/2026-08-21/if-dodgers-are-put-up-for-sale-patrick-soon-shiong-is-interested",
-                "source": "Los Angeles Times",
-                "date": "2026-08-21T23:57:20Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-08-23T08:19:16.699729Z"
+    "lastGlobalSync": "2026-08-23T09:19:00.569578Z"
 }
