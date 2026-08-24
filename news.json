@@ -2,6 +2,15 @@
     "hi": {
         "general": [
             {
+                "title": "ट्रेन में मिले सूटकेस का खौफनाक सच: चेन्नई के घर से जुड़े हत्या के तार, दो संदिग्ध फरार",
+                "desc": "आगरा में ट्रेन के सूटकेस में मिले सड़े-गले शरीर के अंगों की गुत्थी सुलझ गई है, जिसकी जांच चेन्नई तक पहुंची।\nपुलिस ने ओडिशा की हयुथन निशा 38 के रूप में पीड़िता की पहचान की है और दो संदिग्धों की तलाश जारी है।",
+                "image": "https://www.jagranimages.com/images/2026/08/24/template/image/Chennai-Death--1787525595291_v.webp",
+                "url": "https://www.jagran.com/news/national-agra-train-suitcase-body-parts-chennai-murder-link-uncovered-40350263.html",
+                "source": "Jagran",
+                "date": "2026-08-23T22:55:00Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "पहले इजरायल के कब्जे को गलत बताया, फिर ट्रंप की नीति पर पलटे अमेरिकी राजदूत",
                 "desc": "अमेरिकी राजदूत टॉम बराक ने गोलान हाइट्स पर इजरायल के कब्जे की बात कही थी. विवाद बढ़ने पर उन्होंने सफाई दी कि ट्रंप की 2019 वाली नीति में कोई बदलाव नहीं हुआ है.",
                 "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202608/6a8b6c8d42ecd-tom-barrack-235623644-16x9.jpg",
@@ -530,15 +539,6 @@
                 "url": "https://www.livehindustan.com/cricket/aus-vs-ban-ricky-ponting-urges-pat-cummins-to-move-on-from-marnus-labuschagne-calls-for-change-201787420070364.html",
                 "source": "Hindustan",
                 "date": "2026-08-22T17:41:17Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "ओडिशा तट के पास कार्गो जहाज डूबा, 24 मेंबर थे सवार, 22 अभी लापता",
-                "desc": "बंगाल की खाड़ी में ओडिशा तट से 240 समुद्री मील दूर ‘ओशन विनर’ मालवाहक जहाज डूब गया. जहाज में 24 क्रू सदस्य सवार थे, जिनकी तलाश के लिए भारतीय तटरक्षक बल और नौसेना ने संयुक्त बचाव अभियान शुरू किया है.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202608/6a89dccaa20b2-ocean-winner-ship-sinks-22304585-16x9.png",
-                "url": "https://www.aajtak.in/india/news/story/panama-cargo-ship-odisha-paradip-coast-chinese-myanmar-bangladesh-crew-rescue-ntc-apdy-dskc-2627909-2026-08-22",
-                "source": "AajTak",
-                "date": "2026-08-22T17:32:19Z",
                 "priority": "STANDARD"
             }
         ],
@@ -2172,6 +2172,60 @@
     "en": {
         "general": [
             {
+                "title": "NFL preseason Week 2 overreactions: Shedeur Sanders will start for Browns, Jets' defense is fixed",
+                "desc": "Not everything that unfolded in the second batch of preseason action is worth reading into.",
+                "image": "https://sportshub.cbsistatic.com/i/r/2026/08/23/28329bdc-d7da-4e77-960b-8c82a8e364df/thumbnail/1200x675/7d5ff420faf23e486b78c7634467cf7d/gettyimages-2291601190-1-1.jpg",
+                "url": "https://www.cbssports.com/nfl/news/nfl-preseason-week-2-overreactions-shedeur-sanders-browns-jets-defense/",
+                "source": "CBS Sports",
+                "date": "2026-08-23T23:15:08Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Sean Grayson, ex-deputy convicted of fatally shooting Sonya Massey, dies, attorney says",
+                "desc": "Sean Grayson, the former Illinois sheriff’s deputy convicted of fatally shooting Sonya Massey in her home in 2024 after she called 911 to report a prowler, has died, his attorney said Sunday.",
+                "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-10/251028-sonya-massey-rs-ac638e.jpg",
+                "url": "https://www.nbcnews.com/news/us-news/sean-grayson-ex-deputy-convicted-fatally-shooting-sonya-massey-dies-pr-rcna594044",
+                "source": "NBC News",
+                "date": "2026-08-23T23:13:47Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Former Phoenix officers admit involvement in violent traffic stop, court docs say",
+                "desc": "Two Former Phoenix police officers allegedly admitted to their involvement in a violent traffic stop, according to newly released court paperwork.",
+                "image": "https://gray-kpho-prod.gtv-cdn.com/resizer/v2/EA5ES3C34ZDJLLTPMDIGPOVQ3Y.jpg?auth=25a4aec34365a5d3aa4623e14cd6222c01d1b818690dd0aa0d3e33fbeef6be01&width=1200&height=600&smart=true",
+                "url": "https://www.azfamily.com/2026/08/23/former-phoenix-officers-admit-involvement-violent-traffic-stop-court-docs-say/",
+                "source": "AZ Family",
+                "date": "2026-08-23T23:03:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "U.S. Navy sailor on USS Lincoln says dad was arrested by immigration officials",
+                "desc": "Historically rare, immigration arrests of military spouses and parents have become more common under the second Trump administration.",
+                "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/24/bdae50d0-c5a7-417a-bb92-b7d68d0ac3eb/thumbnail/1200x630/182bcc9b44782a50e2c80f14ea3e53cd/avilas.png",
+                "url": "https://www.cbsnews.com/news/uss-lincoln-sailor-dad-immigration-arrest-luis-manuel-aviles-roa/",
+                "source": "CBS News",
+                "date": "2026-08-23T22:46:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Sean Grayson, former Sangamon County deputy convicted in killing of Sonya Massey, dies in prison, attorney says",
+                "desc": "Grayson, 32, was found guilty last October of second-degree murder for the shooting of Sonya Massey and was serving a 20-year sentence.",
+                "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/01/29/7219a293-125a-460b-97f4-8562e110b2e9/thumbnail/1200x630/34fbc5f7c38b9dfc849f4993dd6d663f/cbsn-fusion-details-on-sean-graysons-20-year-sentence-for-killing-sonya-massey-thumbnail.jpg",
+                "url": "https://www.cbsnews.com/chicago/news/sean-grayson-former-sangamon-county-deputy-dies-in-prison/",
+                "source": "CBS News",
+                "date": "2026-08-23T22:35:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "SoCal weather forecast: Hottest week of the year is ahead",
+                "desc": "SoCal forecasters warn region faces its hottest week of the year, with triple-digit temperatures expected across L.A. and valley areas.",
+                "image": "https://ca-times.brightspotcdn.com/dims4/default/e95cc57/2147483647/strip/true/crop/3300x1733+0+234/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F29%2F43%2F793866e342fe9d931a4b8b85c640%2F1565816-et-just-like-heaven-concert-ces-1115.jpg",
+                "url": "https://www.latimes.com/california/story/2026-08-23/socal-weather-forecast-hottest-week-of-year-ahead",
+                "source": "Los Angeles Times",
+                "date": "2026-08-23T22:33:39Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Hurricane-hit Hawaii braces for heavy rains from Tropical Storm Moke",
                 "desc": "Tropical Storm Moke is passing to the south of Hawaii's Big Island, close enough to dump a foot or more of rain on communities dealing with the aftermath of Hurricane Lala.",
                 "image": "https://dims.apnews.com/dims4/default/abbd936/2147483647/strip/true/crop/2000x1333+0+334/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F2f%2F41%2F1e30e48964608c6685d313728dec%2Fcc5fc524d9a241b7a2a178b86b82f544",
@@ -2656,63 +2710,27 @@
                 "source": "AOL.com",
                 "date": "2026-08-23T13:48:38Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Dutch F1 grand prix red flagged after huge Max Verstappen crash",
-                "desc": "Verstappen's final Formula 1 home race ended after one lap as the Red Bull driver suffered a colossal accident",
-                "image": "https://cdn-8.motorsport.com/images/amp/0o5AOXwY/s6/crashed-car-of-red-bull-racing-3.jpg",
-                "url": "https://www.motorsport.com/f1/news/dutch-f1-grand-prix-red-flagged-after-huge-max-verstappen-crash/10848600/",
-                "source": "Motorsport.com",
-                "date": "2026-08-23T13:30:11Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The explosion of ticks and Alpha-gal syndrome",
-                "desc": "This year, ER visits for tick bites have increased dramatically, corresponding with a new threat: a rise in Alpha-gal syndrome (AGS), where one bite from a lone star tick can make you violently allergic to red meat. How can you best avoid tick bites?",
-                "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/22/73032481-eb52-48a7-9552-e2239f40ec3a/thumbnail/1200x630/fa782297a8bb0c3f637e3d2e048b65ba/lone-star-tick-getty-2279885741-1280.jpg",
-                "url": "https://www.cbsnews.com/news/the-explosion-of-ticks-and-alpha-gal-syndrome/",
-                "source": "CBS News",
-                "date": "2026-08-23T13:16:56Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Hawaii's Big Island now faces another foot of rain just after Lala's deadly flooding and landslides",
-                "desc": "After destructive flooding from Lala last weekend, another tropical storm will soak parts of Hawaii again. Here's what you need to know.",
-                "image": "https://weather.com/api/payload/v1/og/article/2026/08/23/storms/hurricane/hawaii-tropical-storm-moke-forecast",
-                "url": "https://weather.com/2026/08/23/storms/hurricane/hawaii-tropical-storm-moke-forecast",
-                "source": "The Weather Channel",
-                "date": "2026-08-23T13:11:26Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Holding election in wartime would risk destroying Ukraine, says Zelenskyy",
-                "desc": "President sharply criticises proposal, saying ‘elections right now are a tsunami for the state that will split Ukraine’",
-                "image": "https://i.guim.co.uk/img/media/125d91e786f9cb71270d91c213096e4a92d6289b/638_0_3065_2451/master/3065.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=47d5161939490c6e33dca66d94a2d39c",
-                "url": "https://www.theguardian.com/world/2026/aug/23/ukraine-election-wartime-risk-russia-zelenskyy",
-                "source": "The Guardian",
-                "date": "2026-08-23T12:33:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Walmart isn't losing any retail war",
-                "desc": "Let's chill out on this Walmart quarter.",
-                "image": "https://s.yimg.com/lo/mysterio/api/E54582E90F90FCBB101238569A545DE6F813AB6664C9B9948D70C5308DA27EF3/subgraphmysterio/resizefill_w1200_h757;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-08%2Fb4edd9fc-b6cc-4d2a-9c12-b5a19a85789b",
-                "url": "https://finance.yahoo.com/markets/article/walmart-isnt-losing-any-retail-war-123000472.html",
-                "source": "Yahoo Finance",
-                "date": "2026-08-23T12:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "A mom stricken by postpartum psychosis shares her story of hope",
-                "desc": "About two weeks after giving birth, Bridget María Chesterton was curled up on the bathroom floor, saying things that made little sense.",
-                "image": "https://dims.apnews.com/dims4/default/f4a1ff0/2147483647/strip/true/crop/4032x2687+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F45%2F80%2Faf1031ea4f70a947f1571a02d767%2Fe57c579eb7e8440cbf273493ef2be402",
-                "url": "https://apnews.com/article/lindsay-clancy-postpartum-psychosis-depression-d16d8a6345276e146104e3c065189c25",
-                "source": "AP News",
-                "date": "2026-08-23T12:12:00Z",
-                "priority": "STANDARD"
             }
         ],
         "business": [
+            {
+                "title": "Randi Weingarten pushes Target boycott over ICE and sparks fresh fury",
+                "desc": "AFT President Randi Weingarten urged a nationwide back-to-school boycott of Target for its silence on ICE operations in Minnesota. Weingarten launched the “Shop Smart, Not Target” campaign after sending letters to Target CEO Michael Fiddelke in February and March.",
+                "image": "https://nypost.com/wp-content/uploads/sites/2/2026/08/138324218.jpg?quality=75&strip=all&w=1200",
+                "url": "https://nypost.com/2026/08/23/us-news/american-federation-of-teachers-launches-boycott-against-target-claims-retailer-remained-silent-on-ice/",
+                "source": "New York Post",
+                "date": "2026-08-23T22:43:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Fromm recalls thousands of dog food cases over possible metal contamination",
+                "desc": "Fromm Family Foods recalled nearly 5,800 cases of two wet dog foods sold in the U.S. and Canada after complaints of potential metal contamination.",
+                "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/08/0/0/dog-eating-from-bowl-stock-image.jpg?ve=1&tl=1",
+                "url": "https://www.foxbusiness.com/lifestyle/dog-food-recalled-across-us-canada-after-complaints-metal-contamination",
+                "source": "Fox Business",
+                "date": "2026-08-23T22:33:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "American Airlines flight lands safely at DFW after laptop fire injury",
                 "desc": "American Airlines Flight 2398 landed safely at DFW after a laptop fire caused smoke in the cabin. The FAA says lithium battery thermal runaway is under investigation.",
@@ -3234,27 +3252,27 @@
                 "source": "New York Post",
                 "date": "2026-08-22T11:33:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "9% Yields With Well-Covered And Growing Dividends For Early Retirement",
-                "desc": "Analyzing the top 9% yield dividend growers that raise payouts regularly and also the risks to keep in mind before investing. Click here to read more.",
-                "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1439964619/image_1439964619.jpg?io=getty-c-w1536",
-                "url": "https://seekingalpha.com/article/4939306-9-percent-yields-with-well-covered-growing-dividends-for-early-retirement",
-                "source": "Seeking Alpha",
-                "date": "2026-08-22T11:05:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Hunter Dobbins isn't only injury concern as Cardinals face roster moves after bruising loss",
-                "desc": "Hunter Dobbins left the game abruptly in the fifth with right forearm tightness, and center fielder Everson Pereira had to undergo exams for a possible broken hand in 7-6 loss.",
-                "image": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/e/8a/e8a87fab-d9ee-41e3-9df1-9802c475a0f5/6a891bc7ba276.preview.jpg?crop=1730%2C908%2C25%2C103&resize=1200%2C630&order=crop%2Cresize",
-                "url": "https://www.stltoday.com/sports/professional/mlb/cardinals/article_e8a87fab-d9ee-41e3-9df1-9802c475a0f5.html",
-                "source": "STLtoday.com",
-                "date": "2026-08-22T11:00:00Z",
-                "priority": "STANDARD"
             }
         ],
         "entertainment": [
+            {
+                "title": "29 Actors Who Nearly Quit After Bad On-Set Experiences",
+                "desc": "Discover which 29 actors nearly quit Hollywood after terrible on-set experiences, burnout, or sudden exposure to fame that pushed them to their breaking point.",
+                "image": "https://img.buzzfeed.com/buzzfeed-static/static/2026-08/14/17/thumb/yY6MfjF2G.jpg?crop=2999:1570;0,0%26downsize=1250:*",
+                "url": "https://www.buzzfeed.com/hannahmarder/roles-that-made-actors-want-to-quit-the-industry-1",
+                "source": "buzzfeed.com",
+                "date": "2026-08-23T23:16:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Fans of Disneyland demand PeopleMover return after Tomorrowland overhaul",
+                "desc": "Disneyland's Tomorrowland overhaul announced recently at the D23 fan convention has reignited calls from many fans to bring back the PeopleMover, which closed in 1995.",
+                "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/DISNEYLAND-TOMORROWLAND-PEOPLEMOVER-FANS-REACT-NEW-RIDE-TRAVEL-1.jpg",
+                "url": "https://www.foxnews.com/travel/disneyland-fans-beg-return-beloved-60s-attraction-shuttered-decades-ago",
+                "source": "Fox News",
+                "date": "2026-08-23T21:55:41Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "'Donna Reed Show' Star, Elvis Co-Star Was 82",
                 "desc": "Shelley Fabares, the actress known for her roles in 'The Donna Reed Show' and several Elvis Presley movies, has died. She was 82.",
@@ -3776,27 +3794,27 @@
                 "source": "Variety",
                 "date": "2026-08-22T19:56:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Sydney Sweeney shows off Wonder Woman costume as boyfriend Scooter Braun dresses as Superman",
-                "desc": "Sydney Sweeney wore a revealing Wonder Woman costume alongside boyfriend Scooter Braun as Superman during a themed summer getaway.",
-                "image": "https://pagesix.com/wp-content/uploads/sites/3/2026/08/138208233.jpg?quality=75&strip=all&w=1200",
-                "url": "https://pagesix.com/2026/08/22/celebrity-news/sydney-sweeney-shows-off-wonder-woman-costume-as-boyfriend-scooter-braun-dresses-as-superman/",
-                "source": "Page Six",
-                "date": "2026-08-22T19:55:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Motown 'unsung hero' Janie Bradford, co-writer of 'Money,' dies at 87",
-                "desc": "Janie Bradford Hobbs, the pioneering Motown songwriter who co-wrote the legendary hit \"Money,\" has died at 87.",
-                "image": "https://nypost.com/wp-content/uploads/sites/2/2026/08/COMP-29.jpg?quality=75&strip=all&w=1200",
-                "url": "https://nypost.com/2026/08/22/entertainment/janie-bradford-hobbs-motown-songwriter-who-co-wrote-money-dies-at-87/",
-                "source": "New York Post",
-                "date": "2026-08-22T19:33:00Z",
-                "priority": "STANDARD"
             }
         ],
         "sports": [
+            {
+                "title": "NFL preseason Week 2 overreactions: Shedeur Sanders will start for Browns, Jets' defense is fixed",
+                "desc": "Not everything that unfolded in the second batch of preseason action is worth reading into.",
+                "image": "https://sportshub.cbsistatic.com/i/r/2026/08/23/28329bdc-d7da-4e77-960b-8c82a8e364df/thumbnail/1200x675/7d5ff420faf23e486b78c7634467cf7d/gettyimages-2291601190-1-1.jpg",
+                "url": "https://www.cbssports.com/nfl/news/nfl-preseason-week-2-overreactions-shedeur-sanders-browns-jets-defense/",
+                "source": "CBS Sports",
+                "date": "2026-08-23T23:15:08Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "6 winners and 5 losers from the Chiefs’ second preseason game",
+                "desc": "Who stood out in good and bad ways during the Kansas City Chiefs’ second exhibition game?",
+                "image": "https://platform.arrowheadpride.com/wp-content/uploads/sites/12/2026/08/reuters-tagreuters.com2026newsml_MT1USATODAY29646535392356232.jpg?quality=90&strip=all&crop=0%2C4.6834816490052%2C100%2C74.659886078104&w=1200",
+                "url": "https://www.arrowheadpride.com/kansas-city-chiefs-analysis/208484/6-winners-5-losers-chiefs-second-preseason-game",
+                "source": "Arrowhead Pride",
+                "date": "2026-08-23T23:00:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Scottie Scheffler caught hand, foot and mouth disease after win at FedEx St. Jude Championship",
                 "desc": "Despite battling the illness this week, Scottie Scheffler still finished T12 at the BMW Championship.",
@@ -4318,26 +4336,8 @@
                 "source": "Liverpool.com",
                 "date": "2026-08-23T08:41:14Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Josh Allen is \"very, very sad and angry\" with how news of Ed Oliver's son passing emerged",
-                "desc": "Many were aware that Bills defensive tackle Ed Oliver's young son died earlier ithis summer.",
-                "image": "https://nbcsports.brightspotcdn.com/dims4/default/5d2e8c0/2147483647/strip/true/crop/5250x2953+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F52%2Ff3%2F097a1470476aaede44aa5a9a17c8%2F1197560063.jpg",
-                "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/josh-allen-is-very-very-sad-and-angry-with-how-news-of-ed-olivers-son-passing-emerged",
-                "source": "NBC Sports",
-                "date": "2026-08-23T00:04:07Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Shedeur Sanders didn't appreciate the booing of Deshaun Watson",
-                "desc": "There was a theory that quarterback Deshaun Watson got his preseason start last week because the game was not being played in Cleveland.",
-                "image": "https://nbcsports.brightspotcdn.com/dims4/default/48edcf0/2147483647/strip/true/crop/5661x3184+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F9f%2F93%2F72bdfb904a80a16978db9b32851b%2F2026-08-22t212858z-151082737-mt1usatoday29645532-rtrmadp-3-nfl-buffalo-bills-at-cleveland-browns.jpg",
-                "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/shedeur-sanders-didnt-appreciate-the-booing-of-deshaun-watson",
-                "source": "NBC Sports",
-                "date": "2026-08-22T23:50:32Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-08-24T10:28:58.428415Z"
+    "lastGlobalSync": "2026-08-24T11:18:44.764885Z"
 }
