@@ -625,6 +625,15 @@
                 "priority": "STANDARD"
             },
             {
+                "title": "Today FIIs Data: फिर हुआ कमाल, विदेशी और घरेलू दोनों निवेशकों ने जानिए कितने हजार करोड़ का निवेश किया?",
+                "desc": "Today FIIs Data: NSE पर मौजूद आंकड़ों के मुताबिक, FIIs/FPI ने इक्विटी में ₹1,593.53 करोड़ की नेट खरीदारी की, जबकि DIIs ने ₹230.26 करोड़ के शेयरों की नेट खरीदारी की है.",
+                "image": "https://images.cnbctv18.com/hindicnbctv18/2026/08/FIIs-DIIs-Fund-Flow-2026-08-ac25a049612b41bc9afad35250ad8748.png?im=FitAndFill,width=1200,height=675",
+                "url": "https://hindi.cnbctv18.com/share-market/today-fiis-diis-fund-flow-foreign-investors-net-buy-1593-crore-rupees-diis-buy-230-crore-rupees-in-equities-192091.htm",
+                "source": "CNBC TV18",
+                "date": "2026-08-25T14:43:00Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Indian Economy: भारत बनेगा 55 ट्रिलियन डॉलर की अर्थव्यवस्था, टारगेट हासिल करने में ये फैक्‍टर करेंगे काम",
                 "desc": "Indian Economy by 2047: भारत की नजर 2047 तक 55 ट्रिलियन डॉलर की अर्थव्‍यवस्‍था बनने पर है। इस टारगेट को हासिल करने के लिए उसे एआई में अपनी युवा आबादी का फायदा उठाना होगा। इसके अलावा उसे सनराइज सेक्‍टर में दबदबा बनाने की भी जरूरत है। मुख्‍य आर्थिक सलाहकार कृष्‍णमूर्ति वी सुब्रमण्‍यम ने यह राय रखी है।",
                 "image": "https://static.langimg.com/nbt/thumb/133513772/krishnamurthy-v-subramanian.jpg?imgsize=147516&width=1600&height=900&resizemode=75",
@@ -1072,15 +1081,6 @@
                 "url": "https://www.livehindustan.com/auto/maruti-baleno-facelift-expected-to-come-with-4-engine-gearbox-combinations-level-1-adas-201787491254523.html",
                 "source": "Hindustan",
                 "date": "2026-08-23T13:59:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "RO मार्केट की कॉर्पोरेट जंग में अर्बन कंपनी की बड़ी जीत! Kent को हटना पड़ा पीछे, क्या है 'फिल्टर' का पूरा विवाद?",
-                "desc": "अर्बन कंपनी ने केंट RO सिस्टम्स के खिलाफ मानहानि का मुकदमा जीता, जिसके बाद केंट को अपने विवादित विज्ञापन हटाने पड़े।\nयह मामला अर्बन कंपनी के नेटिव वॉटर प्यूरीफायर की फिल्टर लाइफ पर केंट के झूठे दावों से संबंधित था।",
-                "image": "https://www.jagranimages.com/images/2026/08/23/template/image/Urban-Company-Wins-Defamation-Suit-Against-Kent-RO-1787492144588_v.webp",
-                "url": "https://www.jagran.com/business/share-market-urban-company-wins-defamation-suit-against-kent-ro-in-delhi-40349937.html",
-                "source": "Jagran",
-                "date": "2026-08-23T13:36:00Z",
                 "priority": "STANDARD"
             }
         ],
@@ -2172,6 +2172,96 @@
     "en": {
         "general": [
             {
+                "title": "Jennifer Garner 'panicked' about money and her career after Ben Affleck divorce",
+                "desc": "Jennifer Garner recalled feeling “panicked” about her finances following her and Ben Affleck’s divorce on Tuesday’s episode of the “Aspire” podcast with Emma Grede.",
+                "image": "https://pagesix.com/wp-content/uploads/sites/3/2026/08/138473419.jpg?quality=75&strip=all&w=1200",
+                "url": "https://pagesix.com/2026/08/25/celebrity-news/jennifer-garner-panicked-about-money-and-her-career-after-ben-affleck-divorce/",
+                "source": "Page Six",
+                "date": "2026-08-25T21:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "49ers owner Jed York texted woman he believed was a prostitute before his arrest",
+                "desc": "San Francisco 49ers owner Jed York used an alias when he sent text messages over two days to a woman he believed to be a prostitute before he was arrested in a sting operation in Ohio, according to a police incident report.",
+                "image": "https://dims.apnews.com/dims4/default/487a692/2147483647/strip/true/crop/3012x2007+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa2%2Fd8%2Fbfe2b7f5027b35d4aa3264bea273%2F345d0e1002274b9d9f9ffbb9118c9011",
+                "url": "https://apnews.com/article/49ers-jed-york-arrest-ce6424a4979f9417592a275ea6b88f02",
+                "source": "AP News",
+                "date": "2026-08-25T21:22:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump threatens to demolish Kennedy Center if $250m renovation not done",
+                "desc": "US president’s lawyers in court filing say Washington arts complex must undergo repairs or risk demolition",
+                "image": "https://i.guim.co.uk/img/media/f6f6a2e61b84e6099a3c1a24cd294072f330ff21/683_0_6827_5464/master/6827.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dfa7561f3bb6bcc5b589788d0e2bcec6",
+                "url": "https://www.theguardian.com/us-news/2026/aug/25/trump-kennedy-center-demolish",
+                "source": "The Guardian",
+                "date": "2026-08-25T21:10:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Geralt Returns in The Witcher 3: Wild Hunt - Songs of the Past and Remastered",
+                "desc": "The Witcher 3: Wild Hunt Remastered launches September 29 with an array of improvements and modernizations. New expansion Songs of the Past is coming in 2027.",
+                "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/08/The_Witcher_3_SoP_16x9_Master_Image-7c33e67ed30ccaef1ab5.jpg",
+                "url": "https://news.xbox.com/en-us/2026/08/25/witcher-3-remastered-and-songs-of-the-past/",
+                "source": "XBOX Wire",
+                "date": "2026-08-25T21:02:11Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "College student fatally shot by Pennsylvania police was at 'the wrong house': Mother",
+                "desc": "A college student was fatally shot by a police officer after apparently ringing the doorbell of a residence he thought was his friend's house, his parents said.",
+                "image": "https://i.abcnewsfe.com/a/28719a61-7e78-49c1-901f-1c1e75ee5ead/glenwood-pysher-01-ht-jt-260825_1787676721313_hpMain_16x9.jpg?w=1600",
+                "url": "https://abcnews.com/US/college-student-fatally-shot-pennsylvania-police-wrong-house/story?id=135930941",
+                "source": "ABC News - Breaking News, Latest News and Videos",
+                "date": "2026-08-25T20:58:46Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Diplomats from Iran and Oman meet as Strait of Hormuz remains closed 6 months into Iran war",
+                "desc": "Iran and Oman say their top diplomats have met to discuss a phased approach to managing ship traffic through the Strait of Hormuz.",
+                "image": "https://dims.apnews.com/dims4/default/0d23663/2147483647/strip/true/crop/1280x853+0+54/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F81%2F52%2Fc675d9c4883cf076b130922baae7%2F30f3f28fe4334f90a49282e1a247f300",
+                "url": "https://apnews.com/article/middle-east-iran-israel-hormuz-pakistan-august-25-2026-1a4fa2e3812c458a25a561b38dc89f09",
+                "source": "AP News",
+                "date": "2026-08-25T20:53:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "South Carolina U.S. Senate runoff election will test Trump's endorsement",
+                "desc": "The primary runoff in South Carolina between Sen. Darline Graham and Rep. Ralph Norman is another test of President Trump's influence. He's backing Darline, sister of the late Sen. Lindsey Graham.",
+                "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+313/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa4%2F9e%2Fdf83bb16411b9fc5b101a951b079%2Fgettyimages-2291479182.jpg",
+                "url": "https://www.npr.org/2026/08/25/nx-s1-5943041/south-carolina-senate-runoff-graham-norman-trump-endorsement",
+                "source": "NPR",
+                "date": "2026-08-25T20:47:54Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Dolly Parton, country music icon, dies at 80",
+                "desc": "Dolly Parton, who rose from a loving if impoverished upbringing in the mountains of East Tennessee to become the “Queen of Country” music, a Hollywood star and a beloved American icon, has died, her family announced Tuesday.",
+                "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-10/251014-dolly-parton-ch-0726-fe9293.jpg",
+                "url": "https://www.nbcnews.com/news/us-news/dolly-parton-county-music-icon-dies-80-rcna236277",
+                "source": "NBC News",
+                "date": "2026-08-25T20:41:19Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Apple Maps Ads Are Here, and There's No Way to Turn Them Off",
+                "desc": "Ads in Apple Maps are live in the United States and Canada, which means iPhone and iPad users will see them when searching for locations and when viewing Suggested Places. Apple announced plans to bring ads to the Maps app in March, and said the feature would roll out starting in late summer. Apple confirmed to 9to5Mac that ads began showing up for users over the last few days, with ad placement to ramp up in the coming weeks.",
+                "image": "https://images.macrumors.com/t/j4M7u8VagoUlrRrNhsdb3hrnqQc=/2000x/article-new/2026/08/apple-maps-ads-live.jpg",
+                "url": "https://www.macrumors.com/2026/08/25/apple-maps-ads-live/",
+                "source": "MacRumors",
+                "date": "2026-08-25T20:40:09Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Pennsylvania reports first 2 US measles deaths in 2026",
+                "desc": "Pennsylvania health officials report that two unvaccinated residents have died after being infected with measles.",
+                "image": "https://dims.apnews.com/dims4/default/6bd0903/2147483647/strip/true/crop/3000x1999+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F8d%2F0e%2F5d7815eb20c5dfb5f05e170a6bdf%2Ff037a5077cae4bae911cb0d0c1600148",
+                "url": "https://apnews.com/article/measles-deaths-pennsylvania-16c6c527c13e88ac3cdea57ffdbd2e19",
+                "source": "AP News",
+                "date": "2026-08-25T20:35:00Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Big Ten Passes Rule Change Banning NFL Players from Returning to CFB, Potential Discipline Revealed",
                 "desc": "The Big Ten unanimously passed a rule on Tuesday that will prevent NFL players from returning to college and suiting up for a team in the conference, according to ESPN's Pete Thamel.",
                 "image": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2026-08/2252854290_large_cropped.jpg?w=1120&h=630",
@@ -2620,96 +2710,6 @@
                 "source": "Variety",
                 "date": "2026-08-25T14:00:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Galaxy S27 Ultra redesign detailed in renders, price hike rumored",
-                "desc": "Samsung’s new Galaxy S27 Ultra is getting a massive redesign and, thanks to the latest leak, we’ve got a better...",
-                "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/galaxy-s27-ultra-onl-2.webp?resize=1200,628",
-                "url": "https://9to5google.com/2026/08/25/samsung-galaxy-s27-ultra-redesign-renders/",
-                "source": "9to5Google",
-                "date": "2026-08-25T14:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The Perfect Smartwatch For A Select Group Of People",
-                "desc": "Pebble Time 2 is a smartwatch designed to push back against the trend, and it does so beautifully.",
-                "image": "https://www.engadget.com/img/gallery/pebble-time-2-review-the-perfect-smartwatch-for-a-select-group-of-people/l-intro-1787658110.jpg",
-                "url": "https://www.engadget.com/2243490/pebble-time-2-review/",
-                "source": "Engadget",
-                "date": "2026-08-25T14:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Watch Live: Lindsay Clancy trial resumes with prosecution psychologist calling her \"criminally responsible\"",
-                "desc": "Lindsay Clancy's murder trial resumed Tuesday in Massachusetts with more testimony from a forensic psychologist hired by the prosecution.",
-                "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/25/ccd9fa2e-37f6-4d82-9416-01827dc452d9/thumbnail/1200x630/f935b2e661d165c54aff43596f258067/clancy.jpg",
-                "url": "https://www.cbsnews.com/boston/news/lindsay-clancy-trial-watch-live-day-20/",
-                "source": "CBS News",
-                "date": "2026-08-25T13:55:47Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Two people in Pennsylvania have died from measles",
-                "desc": "Two people have died due to measles in Pennsylvania, the state Department of Health said Tuesday. Both were unvaccinated.",
-                "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-930111236-20250326210010180.jpg?c=16x9&q=w_800,c_fill",
-                "url": "https://www.cnn.com/2026/08/25/health/measles-deaths-pennsylvania",
-                "source": "CNN",
-                "date": "2026-08-25T13:50:49Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "8-year-old girl dies from brain-eating amoeba in Louisiana",
-                "desc": "Lillian Smart died after she likely contracted the infection from swimming in Lake Claiborne, a lake in the northern part of Louisiana.",
-                "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/08/25/USAT/91453913007-getty-images-1351744616.jpg?crop=5998,3374,x0,y312&width=3200&height=1801&format=pjpg&auto=webp",
-                "url": "https://www.usatoday.com/story/news/nation/2026/08/25/lillian-smart-death-brain-eating-amoeba-louisiana/91453048007/",
-                "source": "USA Today",
-                "date": "2026-08-25T13:50:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Supreme Court's order doesn't change elections yet. But it could bring 'chaos'",
-                "desc": "The Supreme Court's decision clearing one obstacle to the enactment of President Donald Trump's order on mail voting may not mean the order ultimately takes effect for November midterm elections.",
-                "image": "https://dims.apnews.com/dims4/default/bc23e9b/2147483647/strip/true/crop/2511x1673+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F9b%2Fa0%2Ff583aa9cd1608f3be280c1d99769%2Fcea7a79b66b34367b13139f56a4318dd",
-                "url": "https://apnews.com/article/elections-mail-voting-supreme-court-midterms-3780d57190a317e63fd19583c8ebb143",
-                "source": "AP News",
-                "date": "2026-08-25T13:44:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Five more arrests in Middlesbrough A66 wrong",
-                "desc": "The new arrests include a 16-year-old boy and two men held on suspicion of being in an organised crime group.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/68ab/live/93348dd0-9f24-11f1-b109-879e35c24276.png",
-                "url": "https://www.bbc.com/news/articles/cevwjww8p08o",
-                "source": "BBC",
-                "date": "2026-08-25T12:38:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Trump hopes sanctions will topple Iran's regime - its leaders are betting otherwise",
-                "desc": "The US says new sanctions are an \"economic D-Day\", but Tehran's leaders have survived restrictions before.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/3a97/live/68e58ff0-a057-11f1-b109-879e35c24276.jpg",
-                "url": "https://www.bbc.com/news/articles/cr50n9gnljgo",
-                "source": "BBC",
-                "date": "2026-08-25T12:37:53Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'Just a hobby, won't be big': Linus Torvalds introduced Linux 35 years ago - and almost called it Freax",
-                "desc": "It's been 35 years since Finnish graduate student Linus Torvalds drafted a brief note saying he was starting a hobby operating system. The world will never be the same.",
-                "image": "https://www.zdnet.com/a/img/resize/089241e0d7f03f185b38d7e63a978d9a04251e42/2026/08/25/10d0f0e2-7037-4b02-8a27-d3f222bcaf2e/lt-2.jpg?auto=webp&fit=crop&height=675&width=1200",
-                "url": "https://www.zdnet.com/article/just-a-hobby-linus-torvalds-introduced-linux-35-years-ago-almost-called-it-freax/",
-                "source": "ZDNET",
-                "date": "2026-08-25T12:21:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Secret Service aware of Iranian state media video threatening life of Barron Trump",
-                "desc": "The U.S. Secret Service has confirmed it is aware that Iranian state media has aired a video that appears to threaten the life of Barron Trump, President Donald Trump’s youngest son.",
-                "image": "https://dims.apnews.com/dims4/default/fc32a32/2147483647/strip/true/crop/2170x1446+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F95%2F14%2F6265221bfb2e2a7a9dfc8ebb686b%2Ffc0a1c1057894feca14eb7e0c76f9c2c",
-                "url": "https://apnews.com/article/barron-trump-iran-secret-service-ab7e49986b167f16d75c66581c30e5d9",
-                "source": "AP News",
-                "date": "2026-08-25T11:57:00Z",
-                "priority": "STANDARD"
             }
         ],
         "business": [
@@ -2765,6 +2765,15 @@
                 "url": "https://deadline.com/2026/08/rob-bonta-paramount-warner-bros-settlement-1237049993/",
                 "source": "Deadline",
                 "date": "2026-08-25T18:41:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'Contrary To Law' Polestar Still Doesn't Understand Why It's Banned From Selling Cars In The U.S. But Volvo Isn't",
+                "desc": "With vehicles shared between the two brands, using the same software, and even built on the same production lines, the ban remains a head-scratcher.",
+                "image": "https://www.jalopnik.com/img/gallery/contrary-to-law-polestar-still-doesnt-understand-why-its-banned-from-selling-cars-in-the-u-s-but-volvo-isnt/l-intro-1787681631.jpg",
+                "url": "https://www.jalopnik.com/2243964/polestar-doesnt-understand-why-its-banned-from-united-states/",
+                "source": "Jalopnik",
+                "date": "2026-08-25T18:30:24Z",
                 "priority": "STANDARD"
             },
             {
@@ -3243,18 +3252,36 @@
                 "source": "TechCrunch",
                 "date": "2026-08-24T20:45:33Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Whiskey-soaked 'Succession:' Jack Daniel's heirs in bitter family feud as $15B hostile bid looms",
-                "desc": "The billionaire heirs to the Jack Daniel’s fortune are embroiled in a bitter family feud -- with a pair of rebel brothers blasting their relatives and company brass as a $15 billion hostile takeover bid looms.",
-                "image": "https://nypost.com/wp-content/uploads/sites/2/2026/08/138382033.jpg?quality=75&strip=all&w=1200",
-                "url": "https://nypost.com/2026/08/24/business/whiskey-soaked-succession-jack-daniels-heirs-in-bitter-family-feud-as-15b-hostile-bid-looms/",
-                "source": "New York Post",
-                "date": "2026-08-24T20:43:00Z",
-                "priority": "STANDARD"
             }
         ],
         "entertainment": [
+            {
+                "title": "Jennifer Garner 'panicked' about money and her career after Ben Affleck divorce",
+                "desc": "Jennifer Garner recalled feeling “panicked” about her finances following her and Ben Affleck’s divorce on Tuesday’s episode of the “Aspire” podcast with Emma Grede.",
+                "image": "https://pagesix.com/wp-content/uploads/sites/3/2026/08/138473419.jpg?quality=75&strip=all&w=1200",
+                "url": "https://pagesix.com/2026/08/25/celebrity-news/jennifer-garner-panicked-about-money-and-her-career-after-ben-affleck-divorce/",
+                "source": "Page Six",
+                "date": "2026-08-25T21:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Soraya Roberts Was A Great Critic And A Great Hang",
+                "desc": "A not-insignificant part of my job is fielding phone calls from freelance writers who have questions. The questions can vary—Have you heard of any job openings? Are you interested in this pitch? An editor at another publication is trying to screw me, what should I do? Can you help me get a credential to this…",
+                "image": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/08/Fuji-Superia-400-Disposable-2-Summer-2022-P2-12.jpg",
+                "url": "https://defector.com/soraya-roberts-was-a-great-critic-and-a-great-hang",
+                "source": "Defector",
+                "date": "2026-08-25T20:57:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Sarah Michelle Gellar reflects on Dolly Parton’s support for ‘Buffy the Vampire Slayer’",
+                "desc": "Sarah Michelle Gellar shared her appreciation for the late Dolly Parton, who served as an uncredited producer on ‘Buffy the Vampire Slayer.’",
+                "image": "https://ew.com/thmb/wAJPf2ynPtcTcy9ZiJjvgNeiCFQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Sarah-Michelle-Gellar-Dolly-Parton-082526-717e96c71f7046fba11849f26563ab61.jpg",
+                "url": "https://ew.com/sarah-michelle-gellar-reflects-dolly-parton-support-for-buffy-the-vampire-slayer-12068087",
+                "source": "Entertainment Weekly",
+                "date": "2026-08-25T20:47:33Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Khloe Kardashian's BFF Khadijah Using Loans From Friends To Pay Bills Amid Divorce",
                 "desc": "Khloe Kardashian's close friend Khadijah Haqq claims she is struggling to make ends meet amid her bitter divorce from her ex, Bobby McCray, and she's relying on her friends for financial help.",
@@ -3767,36 +3794,63 @@
                 "source": "TMZ",
                 "date": "2026-08-25T08:00:31Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Rosie O’Donnell Has a Brutal Response to Donald Trump Calling Her ‘Slob’",
-                "desc": "Rosie O’Donnell had a simple answer for Donald Trump after the White House attacked her: look in the mirror. The comedian turned the president’s insult back on him with a pointed social media post, ke...",
-                "image": "https://s.yimg.com/lo/mysterio/api/c2ce939487cef623d5c12423d2bd7501dadd3cd1d664928089d231d8591f967e/lightyear_networkapi/resizefill_w640_h360%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmandatory_995%2Fcd9aa57c9d139de027bc5ade24a6158e.jpg",
-                "url": "https://www.yahoo.com/entertainment/celebrity/articles/rosie-o-donnell-brutal-response-072920824.html",
-                "source": "Yahoo",
-                "date": "2026-08-25T07:29:20Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Watch Jelly Roll Guest Host 'Jimmel Kimmel Live'",
-                "desc": "Jelly Roll guest-hosted 'Jimmy Kimmel Live' and used the opportunity to urge Donald Trump to lose weight.",
-                "image": "https://www.rollingstone.com/wp-content/uploads/2026/08/jellyrollkimmel.jpg?w=1600&h=900&crop=1",
-                "url": "https://www.rollingstone.com/music/music-news/jelly-roll-donald-trump-jimmy-kimmel-live-guest-host-1235614456/",
-                "source": "Rolling Stone",
-                "date": "2026-08-25T07:22:04Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Australia’s music industry bans AI songs from charts",
-                "desc": "Australia’s recorded music industry says tracks wholly generated by AI will be barred from official charts as burgeoning generative technologies threaten artists’ livelihoods.",
-                "image": "https://dims.apnews.com/dims4/default/bce902c/2147483647/strip/true/crop/4746x3162+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ffa%2Fab%2Fb36be075b7ec7d126714d246b6c6%2F9a539b41cc0543da9b26795b203176a7",
-                "url": "https://apnews.com/article/australia-ai-generated-music-charts-ban-aria-9bfb0c91166ae4405a6df1a3c4891687",
-                "source": "AP News",
-                "date": "2026-08-25T06:42:00Z",
-                "priority": "STANDARD"
             }
         ],
         "sports": [
+            {
+                "title": "49ers owner Jed York texted woman he believed was a prostitute before his arrest",
+                "desc": "San Francisco 49ers owner Jed York used an alias when he sent text messages over two days to a woman he believed to be a prostitute before he was arrested in a sting operation in Ohio, according to a police incident report.",
+                "image": "https://dims.apnews.com/dims4/default/487a692/2147483647/strip/true/crop/3012x2007+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa2%2Fd8%2Fbfe2b7f5027b35d4aa3264bea273%2F345d0e1002274b9d9f9ffbb9118c9011",
+                "url": "https://apnews.com/article/49ers-jed-york-arrest-ce6424a4979f9417592a275ea6b88f02",
+                "source": "AP News",
+                "date": "2026-08-25T21:22:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Charles Barkley says WNBA players 'just don't like' Caitlin Clark and Sophie Cunningham",
+                "desc": "Charles Barkley says WNBA players don't like Caitlin Clark or Sophie Cunningham, citing jealousy, race and sexuality as factors behind the hostility toward the Fever stars.",
+                "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/charles-barkley-caitlin-clark-sophie-cunningham-indiana-fever.jpg",
+                "url": "https://www.foxnews.com/outkick-sports/charles-barkley-says-wnba-players-just-dont-like-caitlin-clark-sophie-cunningham",
+                "source": "Fox News",
+                "date": "2026-08-25T21:05:43Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "World humanoid robot games show runners breaking records, bursting into flames",
+                "desc": "Record-breaking robot races are less substantial than household chore challenges.",
+                "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/World-Humanoid-Robot-Games-2026-1152x648.jpg",
+                "url": "https://arstechnica.com/ai/2026/08/world-humanoid-robot-games-show-runners-breaking-records-bursting-into-flames/",
+                "source": "Ars Technica",
+                "date": "2026-08-25T20:59:03Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "8 Winners, 4 Losers From Day 19 of Jaguars Training Camp: Parker Washington Gets a Boost",
+                "desc": "The Jacksonville Jaguars saw Parker Washington have a top-level performance on Tuesday, but he wasn't the only star of Day 19 of training camp.",
+                "image": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_2850,h_1603/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/jaguar_report/01m0x8s4xjjv5s2pq7dq.jpg",
+                "url": "https://www.si.com/nfl/jaguars/onsi/jacksonville-8-winners-4-losers-from-day-19-of-training-camp-parker-washington-gets-a-boost",
+                "source": "Sports Illustrated",
+                "date": "2026-08-25T20:51:18Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Cardinals To Place Masyn Winn On Injured List",
+                "desc": "The Cardinals lose their starting shortstop to a thumb injury and turn back to a former top prospect after a couple months in Triple-A.",
+                "image": "https://cdn.mlbtraderumors.com/files/2026/08/2026-08-19T013142Z_887498479_MT1USATODAY29615033_RTRMADP_3_MLB-ST-LOUIS-CARDINALS-AT-CINCINNATI-REDS-1024x683.jpg",
+                "url": "https://www.mlbtraderumors.com/2026/08/cardinals-likely-to-place-masyn-winn-on-injured-list.html",
+                "source": "MLB Trade Rumors",
+                "date": "2026-08-25T20:49:41Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Enes Kanter Freedom, deemed to have ‘the potential to be a threat,’ barred from Sky arena after altercation",
+                "desc": "Enes Kanter Freedom was barred from the Wintrust Arena in Chicago after an incident during Sunday's game with Natasha Cloud, team owner Michael Alter said.",
+                "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/enes-kanter-freedom-natasha-cloud-chicago-sky_001.jpg",
+                "url": "https://www.foxnews.com/outkick-sports/enes-kanter-freedom-deemed-have-the-potential-threat-barred-from-sky-arena-after-altercation",
+                "source": "Fox News",
+                "date": "2026-08-25T20:48:41Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Big Ten Passes Rule Change Banning NFL Players from Returning to CFB, Potential Discipline Revealed",
                 "desc": "The Big Ten unanimously passed a rule on Tuesday that will prevent NFL players from returning to college and suiting up for a team in the conference, according to ESPN's Pete Thamel.",
@@ -4282,62 +4336,8 @@
                 "source": "NBC Sports",
                 "date": "2026-08-25T13:35:47Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "based golf company in hot water over controversial ad",
-                "desc": "The Frisco-based company removed its video and offered an apology on social media late Monday night.",
-                "image": "https://s.hdnux.com/photos/01/67/12/43/31238348/3/rawImage.jpg",
-                "url": "https://www.chron.com/news/article/callaway-good-good-golf-ad-22402413.php",
-                "source": "Chron",
-                "date": "2026-08-25T13:34:33Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "NFL news roundup: Commanders cut safety Will Harris; Jets name starting kicker",
-                "desc": "NFL.com keeps you up to date with all of the latest league news from around the NFL. Visit NFL.com's transaction hub for a daily breakdown.",
-                "image": "https://static.www.nfl.com/image/upload/t_editorial_landscape_12_desktop/league/sqyaymc5b2vr6sx2jad4",
-                "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-tuesday-aug-25",
-                "source": "NFL.com",
-                "date": "2026-08-25T13:29:51Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Bill Belichick’s North Carolina Experiment Is Going From Bad to Worse",
-                "desc": "Bill Belichick enters his second season at North Carolina facing major questions after the Tar Heels went 4-8 in his first year.",
-                "image": "https://images.deadspin.com/tr:w-1200,h-675,fo-auto/1787664315022",
-                "url": "https://deadspin.com/bill-belichicks-north-carolina-experiment-is-going-from-bad-to-worse/",
-                "source": "Deadspin",
-                "date": "2026-08-25T13:28:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Matt LaFleur jokes about fighting brother, Mike, during Packers-Cardinals joint practices",
-                "desc": "With the Packers and Cardinals set to meet for joint practices this week, Matt LaFleur has a different solution to handling any squabbles that might take place.",
-                "image": "https://static.www.nfl.com/image/upload/t_editorial_landscape_12_desktop/league/blk24hki5mzmcnuk6omb",
-                "url": "https://www.nfl.com/news/matt-lafleur-jokes-about-fighting-brother-mike-during-packers-cardinals-joint-practices",
-                "source": "NFL.com",
-                "date": "2026-08-25T12:43:56Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Travers fair odds: A classic wagering opportunity awaits",
-                "desc": "The latest horse racing news from Horse Racing Nation!",
-                "image": "https://image-uploader.horseracingnation.com/resized/615x615/SAR-R13-TRAVERS-STAKES-FAIR-ODDS (1).jpg",
-                "url": "https://www.horseracingnation.com/news/Travers_fair_odds_A_classic_wagering_opportunity_awaits_123",
-                "source": "Horse Racing Nation",
-                "date": "2026-08-25T12:32:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Triathlon coach, 31, savaged by alligator as beast clamped onto his arm during race training",
-                "desc": "Jonathan Bruney, 31, was swimming in the Savannah River in Augusta, Georgia, with several other athletes for a race rehearsal on Sunday when he suddenly felt a blow to his right arm.",
-                "image": "https://nypost.com/wp-content/uploads/sites/2/2026/08/bruney-triathlon-coach-alligator-attack-comp.jpg?quality=75&strip=all&w=1200",
-                "url": "https://nypost.com/2026/08/25/us-news/triathlon-coach-31-savaged-by-alligator-as-beast-clamped-onto-his-arm-during-race-training/",
-                "source": "New York Post",
-                "date": "2026-08-25T12:27:00Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-08-26T08:32:09.395109Z"
+    "lastGlobalSync": "2026-08-26T09:31:32.869014Z"
 }
