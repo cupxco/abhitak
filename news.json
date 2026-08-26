@@ -2,6 +2,15 @@
     "hi": {
         "general": [
             {
+                "title": "अहमदाबाद वंदे भारत एक्सप्रेस पर पथराव, यूपी की राज्यपाल सवार थीं; पत्थर मारने वाला युवक दबोचा",
+                "desc": "मुंबई-अहमदाबाद वंदे भारत एक्सप्रेस ट्रेन नंबर 22961 पर उत्तान स्टेशन के पास पथराव किया गया। इसी ट्रेन में उत्तर प्रदेश की राज्यपाल अनंदिबेन पटेल सफर कर रही थीं, जो सुरक्षित रहीं।",
+                "image": "https://www.jagranimages.com/images/2026/08/25/template/image/jagran-897-1787681813659_v.webp",
+                "url": "https://www.jagran.com/news/national-surat-mumbai-ahmedabad-vande-bharat-express-pelted-with-stones-40352309.html",
+                "source": "Jagran",
+                "date": "2026-08-25T18:19:00Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "क्या भारत ने किराना हिल्स पर हमला किया था? पूर्व CDS अनिल चौहान ने उठाया राज से पर्दा",
                 "desc": "पूर्व CDS जनरल अनिल चौहान के मुताबिक, ऑपरेशन सिंदूर के दौरान सरगोधा के आसपास रडार तलाश रहा एक भारतीय लोइटरिंग म्यूनिशन लक्ष्य नहीं मिलने पर किराना हिल्स में गिर गया होगा। हालांकि, उन्होंने इसे जानबूझकर किया गया हमला नहीं बताया।",
                 "image": "https://resize.indiatv.in/resize/newbucket/1200_-/2026/08/kirana-hills-attack-1787677654.jpg",
@@ -530,15 +539,6 @@
                 "url": "https://navbharattimes.indiatimes.com/tv/news/himanshi-khurana-publicly-asks-asim-riaz-i-have-cctv-footage-recordings-everything/articleshow/133474899.cms",
                 "source": "Navbharat Times",
                 "date": "2026-08-24T17:59:19Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "आदिवासी हॉस्टल में हो रहा छात्राओं का प्रेग्नेंसी टेस्ट! राहुल गांधी ने फडणवीस को लिखी चिट्ठी",
-                "desc": "महाराष्ट्र के आदिवासी छात्र सरकारी हॉस्टलों में 30 साल की उम्र सीमा और नियमों के विरोध में 10 दिनों से भूख हड़ताल पर हैं. राहुल गांधी ने मुख्यमंत्री देवेंद्र फडणवीस को पत्र लिखकर दखल देने की बात की है. चिट्ठी में उन्होंने हॉस्टलों की खराब स्थिति, असुरक्षा, और महिलाओं के प्रेग्नेंसी टेस्ट जैसे मुद्दे उठाए हैं.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202608/6a8c7fbf7c9a3-rahul-gandhi-letter-to-maharashtra-cm-fadnavis-243033852-16x9.png",
-                "url": "https://www.aajtak.in/india/maharashtra/story/rahul-gandhi-letter-to-maharashtra-cm-fadnavis-tribal-students-hostel-rules-ntc-drmt-dskc-2629140-2026-08-24",
-                "source": "Aaj Tak News",
-                "date": "2026-08-24T17:34:38Z",
                 "priority": "STANDARD"
             }
         ],
@@ -1628,6 +1628,15 @@
         ],
         "sports": [
             {
+                "title": "प्लेइंग 11 से बाहर फिर भी फील्ड पर आकर काटा बवाल, श्रीलंकाई खिलाड़ी से भिड़े सरफराज खान, कहा- डरो मत और खेलो",
+                "desc": "श्रीलंका के खिलाफ दूसरे टेस्ट में सबस्टिट्यूट फील्डर के तौर पर उतरे सरफराज खान ने श्रीलंकाई कप्तान धनंजय डी सिल्वा को 'डरो मत, समय बर्बाद मत करो' कहकर मजेदार स्लेजिंग की।",
+                "image": "https://static.langimg.com/nbt/thumb/133520692/sarfaraz-khan.jpg?imgsize=310505&width=1600&height=900&resizemode=75",
+                "url": "https://navbharattimes.indiatimes.com/sports/cricket/cricket-news/sarfaraz-khan-teases-dhananjaya-de-silva-from-short-leg-in-viral-stump-mic-incident/articleshow/133520317.cms",
+                "source": "Navbharat Times",
+                "date": "2026-08-25T17:32:02Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "2 दिन और सिर्फ 750 गेंद का टेस्ट मैच, फिर भी ऑस्ट्रेलिया की पिच पास, गावस्कर ने कहा- दोहरा रवैया निर्लज्ज है",
                 "desc": "पूर्व दिग्गज सुनील गावस्कर ने मैके में ऑस्ट्रेलिया-बांग्लादेश टेस्ट दो दिन में खत्म होने पर पिच की आलोचना की और पश्चिमी मीडिया के दोहरे रवैये को कटघरे में खड़ा किया।",
                 "image": "https://static.langimg.com/nbt/thumb/133519455/sunil-gavaskar.jpg?imgsize=468430&width=1600&height=900&resizemode=75",
@@ -2157,20 +2166,74 @@
                 "source": "Navbharat Times",
                 "date": "2026-08-24T00:30:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "रिंकू ने 414 की स्ट्राइक रेट से बनाए रन, टीम की छठी जीत, जीशान-स्वास्तिक का शानदार प्रदर्शन; टॉप-5 बल्लेबाज-गेंदबाज",
-                "desc": "यूपी टी20 लीग 2026 के 16वें मैच में मेरठ ने गोरखपुर की टीम को 10 विकेट से हरा दिया। रिंकू सिंह की टीम की ये लगातार छठी जीत रही। वहीं सबसे ज्यादा रन बनाने वाले बल्लेबाजों की लिस्ट में स्वास्तिक टॉप पर बने हुए हैं तो वहीं जीशान के नाम सबसे ज्यादा विकेट है।",
-                "image": "https://images.jansatta.com/2026/08/RinkuSingh19-2.jpg",
-                "url": "https://www.jansatta.com/khel/up-t20-league-rinku-singh-team-won-6th-match-meerut-mavericks-beat-gorakhpur-lions-zeeshan-ansari-swastik-chhikara/4673842/",
-                "source": "Jansatta",
-                "date": "2026-08-23T18:36:29Z",
-                "priority": "STANDARD"
             }
         ]
     },
     "en": {
         "general": [
+            {
+                "title": "Starbase Louisiana: SpaceX announces enormous $100 billion Starbase launch site",
+                "desc": "A new spaceport will bring 10 launch pads to Louisiana's Gulf Coast and support thousands of Starship launches per year.",
+                "image": "https://cdn.mos.cms.futurecdn.net/9Bevg3vpHBwtcUVNSDdbAZ-2560-80.jpg",
+                "url": "https://www.space.com/space-exploration/private-spaceflight/spacex-announces-enormous-usd100-billion-starbase-louisiana-starship-launch-site",
+                "source": "Space",
+                "date": "2026-08-25T18:27:22Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "SpaceX will build a second, $100B 'Starbase' spaceport in Louisiana",
+                "desc": "The company says it will start construction in 2027 and that a Starship rocket could take flight as soon as 2029.",
+                "image": "https://techcrunch.com/wp-content/uploads/2026/05/20260511_Wet_Dress_Actual_2_259bcb3ae9.jpg?resize=1200,899",
+                "url": "https://techcrunch.com/2026/08/25/spacex-will-build-a-second-100b-starbase-spaceport-in-louisiana/",
+                "source": "TechCrunch",
+                "date": "2026-08-25T18:26:55Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump threatens to rename Lake Ontario as 'Lake America'",
+                "desc": "The Republican president posted about the possibility of the name switch on social media.",
+                "image": "https://www.detroitnews.com/gcdn/authoring/authoring-images/2026/08/23/PDTN/91435280007-presto-image-91421610007.JPG?crop=2669,1501,x2,y102&width=2669&height=1501&format=pjpg&auto=webp",
+                "url": "https://www.detroitnews.com/story/news/politics/2026/08/25/trump-lake-ontario-america-canada-trade-war/91453409007/",
+                "source": "The Detroit News",
+                "date": "2026-08-25T18:26:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Anime Open World Ananta Launches as a PS5 Console Exclusive 8 Weeks After GTA 6",
+                "desc": "Clash of the titans - Ananta, the anime-inspired open world not to be confused with the already-available NTE, could release just eight weeks after GTA 6. P...",
+                "image": "https://images.pushsquare.com/08764a5af365e/large.jpg",
+                "url": "https://www.pushsquare.com/news/2026/08/anime-open-world-ananta-launches-as-a-ps5-console-exclusive-8-weeks-after-gta-6",
+                "source": "Push Square",
+                "date": "2026-08-25T18:20:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump administration to revoke visas of short",
+                "desc": "The state department says the number of revocations \"remains dynamic\" and would be carried out on a rolling basis.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/1889/live/151e1fa0-a0b0-11f1-8229-b91d73b62f74.jpg",
+                "url": "https://www.bbc.com/news/articles/c9qrg82dvjqo",
+                "source": "BBC",
+                "date": "2026-08-25T18:12:09Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump administration says it might demolish the Kennedy Center if court blocks renovations",
+                "desc": "The Trump administration is, for the first time, threatening the demolition of the Kennedy Center if the arts institution isn’t allowed to follow its plans for the site, including adding President Donald Trump’s name to the front of the building.",
+                "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-08/260825-Kennedy-Center-ch-1312-32c107.jpg",
+                "url": "https://www.nbcnews.com/politics/trump-administration/trump-administration-says-might-demolish-kennedy-center-court-blocks-r-rcna594350",
+                "source": "NBC News",
+                "date": "2026-08-25T17:53:41Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "SpaceX announces launching pad construction in Louisiana",
+                "desc": "It's official: SpaceX is coming to Louisiana. Gov. Jeff Landry and state leaders gathered in Abbeville to unveil the long-rumored project, which has been in development for months.",
+                "image": "https://kubrick.htvapps.com/vidthumb/05fc6690-4673-4ce4-a19c-6d4beb6a20eb/thumb_1280x720.0000001.jpg?crop=1.00xw%3A1.00xh%3B0%2C0&resize=1200%3A*",
+                "url": "https://www.wdsu.com/article/spacex-announcement-louisiana-tuesday/73513862",
+                "source": "WDSU",
+                "date": "2026-08-25T17:49:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Big Ten Reportedly Passes Rule Change Banning NFL Players from Returning to CFB Rosters",
                 "desc": "The Big Ten unanimously passed a rule on Tuesday that will prevent NFL players from returning to college and suiting up for a team in the conference, according to ESPN's Pete Thamel.",
@@ -2647,72 +2710,54 @@
                 "source": "MLB.com",
                 "date": "2026-08-24T22:47:49Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Reggie Watts Dropped From Podcast Intro & Comedy Festivals After Report Alleging Disturbing Behavior in Romantic Relationships",
-                "desc": "A recent piece brought to light several claims of \"reckless\" drug use, psychological abuse & more.",
-                "image": "https://s.yimg.com/lo/mysterio/api/dc38441f522edbd501d075f3ccc20bbad754b9288c4e96480e5cf126d0fc0d27/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbillboard_547%2F50dd28e5efaf536180c8483022a79f1a.jpg",
-                "url": "https://www.yahoo.com/entertainment/celebrity/articles/reggie-watts-dropped-podcast-intro-224648925.html",
-                "source": "Yahoo",
-                "date": "2026-08-24T22:46:48Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Lockerbie bombing trial postponed days before it was due to start",
-                "desc": "The trial of a Libyan man is delayed for a third time, after new evidence on the 37-year-old case came to light three days ago.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/9057/live/3d1ddb50-cf68-11ef-94cb-5f844ceb9e30.jpg",
-                "url": "https://www.bbc.com/news/articles/cq63rmj1zl1o",
-                "source": "BBC",
-                "date": "2026-08-24T22:13:36Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Paramount CEO David Ellison's WBD acquisition can't clear final hurdle",
-                "desc": "An antitrust challenge by a group of state attorneys general has left Paramount CEO David Ellison hunting for avenues to get his deal for WBD done.",
-                "image": "https://image.cnbcfm.com/api/v1/image/108238393-1765214232072-108238393-1765211822234-gettyimages-2250111360-PARAMOUNT_NYSE.jpeg?v=1770743687&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/08/24/paramount-ceo-david-ellison-wbd-acquisition-final-hurdle.html",
-                "source": "CNBC",
-                "date": "2026-08-24T21:55:43Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'RHOBH' Alum Kim Richards Seen in Rare Outing After Eviction Drama",
-                "desc": "Kim Richards was spotted in a rare public sighting months after her eviction drama with sister Kyle Richards ... spending time near the beach in Santa Monica ... and looking none too pleased.",
-                "image": "https://imagez.tmz.com/image/b1/16by9/2026/08/24/b189df7c26f84526a3b63e89c436150c_xl.jpg",
-                "url": "https://www.tmz.com/2026/08/24/kim-richards-spotted-after-sister-kyle-sued-for-eviction/",
-                "source": "TMZ",
-                "date": "2026-08-24T21:30:23Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Massachusetts woman wanted in police officer husband’s death believed to be dead",
-                "desc": "Karen Solomon, a Massachusetts mental health advocate for law enforcement who was being sought in connection with the death of her police officer husband, appears to have been found dead Monday, ending a multiday search.",
-                "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-08/260821-karen-solomon-ch-1010-67c796.jpg",
-                "url": "https://www.nbcnews.com/news/us-news/karen-solomon-dead-rcna593720",
-                "source": "NBC News",
-                "date": "2026-08-24T21:29:16Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Reno Hawk Fire updates Monday: 32 homes destroyed, containment at 27%",
-                "desc": "The Hawk Fire continues to burn in northwest Reno on Monday. Here's what to know.",
-                "image": "https://www.rgj.com/gcdn/authoring/authoring-images/2026/08/24/PREN/91437096007-img-5756.jpeg?crop=4031,2269,x0,y377&width=3200&height=1802&format=pjpg&auto=webp",
-                "url": "https://www.rgj.com/story/news/2026/08/24/reno-hawk-fire-monday-updates-community-meeting-set-for-7-p-m/91438678007/",
-                "source": "Reno Gazette Journal",
-                "date": "2026-08-24T21:26:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Spider-Man: Brand New Day is officially the highest-grossing Marvel movie at the US box office after dethroning Avengers: Endgame",
-                "desc": "Brand New Day is still in theaters",
-                "image": "https://s.yimg.com/lo/mysterio/api/0d7c7072b5b3d600cbe773302a5ec4243ee03af58795b1d63c240bf13de65e45/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftotal_film_411%2F8a3f16af2e3e9a8435e69eb141e07c27.jpg",
-                "url": "https://www.yahoo.com/entertainment/movies/articles/spider-man-brand-day-officially-211959846.html",
-                "source": "Yahoo",
-                "date": "2026-08-24T21:19:59Z",
-                "priority": "STANDARD"
             }
         ],
         "business": [
+            {
+                "title": "Airport worker hit and killed on tarmac by taxiing passenger plane in 'unfortunate incident' as probe launched",
+                "desc": "A RUNWAY marshal has died after he was allegedly struck by a taxiing plane at one of Canada's busiest airports.\nThe employee was hit by the...",
+                "image": "https://www.the-sun.com/wp-content/uploads/sites/6/2026/08/newspress-collage-y8rd1bao1-1787680435834.jpg?quality=90&strip=all&1787666134&w=1920&h=1080&crop=1",
+                "url": "https://www.the-sun.com/news/16895909/airport-worker-killed-plane-montreal-canada/",
+                "source": "the-sun.com",
+                "date": "2026-08-25T17:58:53Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Poland’s Name Appears in U.S. F-15EX Deal, Warsaw Denies Procurement Plans",
+                "desc": "Warsaw says it doesn't have F-15EX procurement plans for now, but an AH-64 Apache precedent makes the development intriguing. Warsaw denies F-15EX plans for now, but an Apache precedent makes the development intriguing.",
+                "image": "https://www.twz.com/wp-content/uploads/2026/08/F-15EX-Eagle-II-flies-over-the-Gulf-of-America.jpg?w=1200",
+                "url": "https://www.twz.com/air/polands-name-appears-in-u-s-f-15ex-deal-warsaw-denies-procurement-plans",
+                "source": "TWZ",
+                "date": "2026-08-25T17:53:10Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "SpaceX announces launching pad construction in Louisiana",
+                "desc": "It's official: SpaceX is coming to Louisiana. Gov. Jeff Landry and state leaders gathered in Abbeville to unveil the long-rumored project, which has been in development for months.",
+                "image": "https://kubrick.htvapps.com/vidthumb/05fc6690-4673-4ce4-a19c-6d4beb6a20eb/thumb_1280x720.0000001.jpg?crop=1.00xw%3A1.00xh%3B0%2C0&resize=1200%3A*",
+                "url": "https://www.wdsu.com/article/spacex-announcement-louisiana-tuesday/73513862",
+                "source": "WDSU",
+                "date": "2026-08-25T17:49:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Wendy's CEO Just Admitted What Customers Have Been Saying This Entire Time: 'I Knew It!'",
+                "desc": "Wendy's CEO recently did an interview with The Wall Street Journal where he admitted Wendy's has diminished in quality, confirming customers' suspicion.",
+                "image": "https://www.thetakeout.com/img/gallery/wendys-ceo-just-admitted-what-customers-have-been-saying-this-entire-time-i-knew-it/l-intro-1787679742.jpg",
+                "url": "https://www.thetakeout.com/2243909/wendys-ceo-admit-lower-quality-customer-reaction/",
+                "source": "The Takeout",
+                "date": "2026-08-25T17:44:33Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Vegas Hotels Worry About Losing Canadian Tourism Amid Trump Trade Wars",
+                "desc": "Despite President Donald Trump's Truth Social post that \"WE DON'T NEED CANADA, THEY NEED US!,\" Las Vegas is doing its best to court Canadian visitors.",
+                "image": "https://i.insider.com/6a8db52979f11f0a89f906c5?width=1200&format=jpeg",
+                "url": "https://www.businessinsider.com/canada-us-trump-trade-wars-tourism-hotels-las-vegas-2026-8",
+                "source": "Business Insider",
+                "date": "2026-08-25T17:42:07Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Burger King's New Chicken Nugget Makeover Took A Page (Or Two) From McDonald's",
                 "desc": "Burger King is totally changing its chicken nuggets, but the new item looks a lot like an old favorite from its fiercest competitor, McDonald's.",
@@ -3207,54 +3252,36 @@
                 "source": "Ars Technica",
                 "date": "2026-08-24T19:42:50Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Another group of people spotted emerging from an NYC manhole",
-                "desc": "A video captured the group emerging from a manhole near Penn Station on Tuesday, following similar incidents in Brooklyn earlier this year.",
-                "image": "https://api-prod.gothamist.com/images/358801/fill-1200x650|format-webp|webpquality-85/",
-                "url": "https://gothamist.com/news/another-group-of-people-spotted-emerging-from-an-nyc-manhole",
-                "source": "Gothamist",
-                "date": "2026-08-24T19:36:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Air taxi unveiled at LA Live, site of planned vertiport ahead of 2028 Olympics",
-                "desc": "One of L.A.'s first air taxis was unveiled at L.A. Live, where Archer Aviation and AEG plan to construct a vertiport.",
-                "image": "https://cdn.abcotvs.com/dip/images/19728511_air_taxi_dtla.jpg?w=1600",
-                "url": "https://abc7.com/post/air-taxi-unveiled-monday-la-live-site-planned-vertiport-ahead-2028-olympics/19728443/",
-                "source": "ABC7 Los Angeles",
-                "date": "2026-08-24T19:31:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Founder Comes Clean Over $6M Payment That Got Forbes Editor Fired",
-                "desc": "Forbes has launched an independent investigation into the payment.",
-                "image": "https://www.thedailybeast.com/resizer/v2/JTHH7R5C5BDDZKDTYYD2U3B44Q.jpg?smart=true&auth=55de7c64a6102096f890e354434b01cc2069b5d537853a64e94f5ce25606c989&width=1200&height=630",
-                "url": "https://www.thedailybeast.com/founder-comes-clean-over-6m-payment-that-got-forbes-editor-fired/",
-                "source": "The Daily Beast",
-                "date": "2026-08-24T19:27:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "WIBC Traffic Reporter Matt Bair Dies at 48",
-                "desc": "“We are heartbroken by his loss and are holding his family, friends and everyone who loved him close in our thoughts. Matt was so much...",
-                "image": "https://wibc.com/wp-content/uploads/sites/99/2026/08/17875976907523-e1787599544958.jpg?quality=80&strip=all&crop=1px%2C17px%2C959px%2C548px&resize=1680%2C960",
-                "url": "https://wibc.com/895319/wibc-traffic-reporter-matt-bair-dies-at-48/",
-                "source": "WIBC 93.1 FM",
-                "date": "2026-08-24T19:26:59Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Nvidia Makes Aggressive Move Ahead of Earnings",
-                "desc": "Rising component costs are testing Nvidia's powerful AI economics",
-                "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-makes-aggressive-move-ahead-191307970.html",
-                "source": "Yahoo Finance",
-                "date": "2026-08-24T19:13:07Z",
-                "priority": "STANDARD"
             }
         ],
         "entertainment": [
+            {
+                "title": "Dolly Parton dies at 80",
+                "desc": "Remembering Dolly Parton, who died peacefully at 80, leaving a legacy of music, kindness, and inspiration for all.",
+                "image": "https://themusicuniverse.com/wp-content/uploads/2026/08/dollypartonrip.jpg",
+                "url": "https://themusicuniverse.com/dolly-parton-dies-at-80/",
+                "source": "The Music Universe",
+                "date": "2026-08-25T17:55:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Jennifer Garner admits financial panic after her Ben Affleck divorce",
+                "desc": "Jennifer Garner says she \"panicked\" about financial stability after her divorce from Ben Affleck, realizing she needed to support herself and their three children.",
+                "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/jennifer-garner-.jpg",
+                "url": "https://www.foxnews.com/entertainment/jennifer-garner-panicked-financial-stability-divorce-ben-affleck",
+                "source": "Fox News",
+                "date": "2026-08-25T17:37:57Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Lindsay Clancy reporter sparks blacklash for grinning at camera, forcing Vanity Fair to pull her credentials",
+                "desc": "Vanity Fair cut ties with reporter Brittany Romano after she was caught smiling and winking during the Lindsay Clancy triple-murder trial.",
+                "image": "https://nypost.com/wp-content/uploads/sites/2/2026/08/comp-LIVE_-MA-v.-Lindsay-Clancy-Day-19-_-Accused-Killer-Mom-Trial-7-12-3-screenshot.jpg?quality=75&strip=all&w=1200",
+                "url": "https://nypost.com/2026/08/25/us-news/reporter-at-lindsay-clancy-trial-sparks-blacklash-for-winking-at-camera-forcing-vanity-fair-to-pull-her-credentials/",
+                "source": "New York Post",
+                "date": "2026-08-25T17:27:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Everything We Know So Far",
                 "desc": "Will Trent Season 5 is officially in production. Here's everything we know heading into its early 2027 premiere on ABC.",
@@ -3767,36 +3794,63 @@
                 "source": "Deadline",
                 "date": "2026-08-24T20:03:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "'How To Lose A Guy In 10 Days' Sequel In Works At Paramount",
-                "desc": "A 'How To Lose a Guy in 10 Days' sequel is in early development at Paramount, a source close to the project confirms to Deadline.",
-                "image": "https://deadline.com/wp-content/uploads/2024/07/how-to-lose-a-guy-sequel-kate-hudson-matthew-mccounaughey.jpg?w=1024",
-                "url": "https://deadline.com/2026/08/how-to-lose-a-guy-in-10-days-2-in-works-paramount-1237049193/",
-                "source": "Deadline",
-                "date": "2026-08-24T19:53:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "NBC News anchor announces exit after 10 years, leaves next steps a mystery",
-                "desc": "NBC News anchor Joseph Olmo announced on-air that he is quitting and switching professions after nearly 10 years in broadcast journalism.",
-                "image": "https://nypost.com/wp-content/uploads/sites/2/2026/08/138399432.jpg?quality=75&strip=all&w=1200",
-                "url": "https://nypost.com/2026/08/24/media/nbc-news-anchor-announces-exit-after-10-years-leaves-next-steps-a-mystery/",
-                "source": "New York Post",
-                "date": "2026-08-24T19:49:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Machine Gun Kelly Unexpectedly Shows Up at Lil Durk's Federal Trial",
-                "desc": "Machine Gun Kelly made an unexpected appearance at Lil Durk's federal trial ... showing up at the courthouse to listen in on the proceedings.",
-                "image": "https://imagez.tmz.com/image/31/16by9/2026/08/24/31e5247ee6e845c9b534402f0c5fd193_xl.jpg",
-                "url": "https://www.tmz.com/2026/08/24/mgk-shows-up-to-lil-durk-trial/",
-                "source": "TMZ",
-                "date": "2026-08-24T19:47:17Z",
-                "priority": "STANDARD"
             }
         ],
         "sports": [
+            {
+                "title": "College football Week 0 best bets: Why I'm betting Bill Belichick's UNC team",
+                "desc": "Bet on UNC? It's one of our college football handicappers' favorite Week 0 bets.",
+                "image": "https://s.yimg.com/lo/mysterio/api/1facf585627612f4a4ab6554c4b041e49e92291ffd4c8b4400d44b27fc871ac5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-08%2F32687787-07be-4b0b-b7a9-5c16948cc9d8",
+                "url": "https://sports.yahoo.com/college-football/betting/article/college-football-week-0-best-bets-why-im-betting-bill-belichicks-unc-team-183023843.html",
+                "source": "Yahoo Sports",
+                "date": "2026-08-25T18:30:23Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Bucs Offensive Studs And Duds: 8/25",
+                "desc": "The Bucs did battle with the Jaguars on Tuesday morning. How did Tampa Bay's offense fare? Find out who were the biggest studs and duds.",
+                "image": "https://www.pewterreport.com/wp-content/uploads/2026/08/Mayfield-Baker-Bucs-Jaguars-camp-heave.jpg",
+                "url": "https://www.pewterreport.com/bucs-offensive-studs-and-duds-8-25/",
+                "source": "Pewter Report",
+                "date": "2026-08-25T18:23:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Sounders make Dejan Joveljić signing official",
+                "desc": "Striker arrives on a $6 million transfer and signs a four-year contract extension.",
+                "image": "https://storage.ghost.io/c/3b/1b/3b1bf1ed-99b4-491a-8ed0-5ce99bdabf77/content/images/size/w1200/2026/08/20260824_Dejan_Joveljic_Fiechtner_102-1.jpg",
+                "url": "https://www.sounderatheart.com/2026/08/sounders-make-dejan-joveljic-signing-official/",
+                "source": "Sounder at Heart",
+                "date": "2026-08-25T17:59:12Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Detroit Lions reveal new white and black rivalry uniforms",
+                "desc": "The Detroit Lions will wear their new rivalry uniforms Nov. 1 when they host the Minnesota Vikings.",
+                "image": "https://www.freep.com/gcdn/authoring/authoring-images/2025/11/17/PDTF/87311601007-111625-lionspre-035.jpg?crop=5729,3223,x0,y298&width=3200&height=1801&format=pjpg&auto=webp",
+                "url": "https://www.freep.com/story/sports/nfl/lions/2026/08/25/detroit-lions-rivalry-uniforms-new-jerseys/91455023007/",
+                "source": "Detroit Free Press",
+                "date": "2026-08-25T17:54:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Vuelta a Espana: Tadej Pogacar opens Vuelta lead with record-breaking stage four win",
+                "desc": "Tadej Pogacar takes a huge step towards winning the Velta a Espana for the first time as he cruises to a resounding victory in the fourth stage on Tuesday.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6af8/live/f7c31000-a0a5-11f1-9d94-5b9b42fe99e5.jpg",
+                "url": "https://www.bbc.com/sport/cycling/articles/cg598r38811o",
+                "source": "BBC",
+                "date": "2026-08-25T17:44:24Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Why Warriors adding guard Brandon Williams is a wise move",
+                "desc": "Dalton Johnson breaks down the Golden State Warriors' move to add guard Brandon Williams in NBA free agency.",
+                "image": "https://media.nbcsportsbayarea.com/2026/08/Brandon-Williams-Reuters-2.jpg?quality=85&strip=all&resize=1200%2C675",
+                "url": "https://www.nbcsportsbayarea.com/nba/golden-state-warriors/brandon-williams-wise-free-agency-move/1958565/",
+                "source": "NBC Sports Bay Area & California",
+                "date": "2026-08-25T17:36:54Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Everything I Saw at Day 19 of Jaguars Training Camp: Defense Thumps Buccaneers",
                 "desc": "The Jacksonville Jaguars were able to turn in a productive day of practice against the Tampa Bay Buccaneers on Tuesday, and here is everything we saw.",
@@ -4282,62 +4336,8 @@
                 "source": "Boston Herald",
                 "date": "2026-08-24T21:53:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Joey Porter landing spots: Possible destinations for disgruntled Steelers CB",
-                "desc": "Porter has been holding in as he hopes to land a new contract.",
-                "image": "https://sportshub.cbsistatic.com/i/r/2026/08/24/56f52a98-3eb9-4b87-b307-bc2afacad174/thumbnail/1200x675/de7e820044dfc1332589d6e04b39c91f/porterjr.jpg",
-                "url": "https://www.cbssports.com/nfl/news/steelers-at-an-impasse-with-joey-porter-jr-cowboys-among-possible-landing-spots-for-emerging-cornerback/",
-                "source": "CBS Sports",
-                "date": "2026-08-24T21:44:27Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Roger Federer Opens Up About Following Serena Williams in Tennis Comeback Ahead of US Open Return",
-                "desc": "Roger Federer is returning to the U.S. Open on Tuesday, albeit in a single-set exhibition against Andy Roddick and a set of doubles with John McEnroe against Roddick and Andre Agassi.",
-                "image": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2026-08/2291351945_large_cropped.jpg?w=1119&h=630",
-                "url": "https://bleacherreport.com/articles/25482626-roger-federer-opens-about-following-serena-williams-tennis-comeback-ahead-us-open-return",
-                "source": "Bleacher Report",
-                "date": "2026-08-24T21:40:57Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "What Kayshon Boutte trade to Texans means for the Patriots",
-                "desc": "The Patriots have parted ways with the fourth-year wide receiver.",
-                "image": "https://platform.patspulpit.com/wp-content/uploads/sites/121/2026/08/gettyimages-2257293248.jpg?quality=90&strip=all&crop=7.7138793945313%2C5.2346038639559%2C92.286120605469%2C72.469803148342&w=1200",
-                "url": "https://www.patspulpit.com/new-england-patriots-analysis/134570/kayshon-boutte-jaylen-reed-trade-texans-breakdown-draft-salary-cap-roster",
-                "source": "Pats Pulpit",
-                "date": "2026-08-24T21:21:20Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Top targets and fades for the first 8 rounds of 2026 fantasy football drafts",
-                "desc": "Dalton Del Don takes a look at the best players to pursue and avoid in each of the first eight rounds of 2026 fantasy football drafts.",
-                "image": "https://static01.nyt.com/athletic/uploads/wp/2026/08/24151001/GettyImages-2246026159.jpg?width=1200&height=630&fit=cover",
-                "url": "https://www.nytimes.com/athletic/7535813/2026/08/24/fantasy-football-targets-fades-by-round/",
-                "source": "The New York Times",
-                "date": "2026-08-24T21:11:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "WNBA reportedly says Enes Kanter Freedom and Royce White are ineligible, but won't explain why",
-                "desc": "Enes Kanter Freedom and Royce White are reportedly ineligible for the 2027 WNBA Draft, but the league won't explain how it defines 'woman' under its CBA.",
-                "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/enes-kanter-freedom-wintrust-arena.jpg",
-                "url": "https://www.foxnews.com/outkick-sports/wnba-reportedly-says-enes-kanter-freedom-royce-white-ineligible-wont-explain-why",
-                "source": "Fox News",
-                "date": "2026-08-24T21:03:31Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Fulham 2-3 Chelsea, Premier League: Post-match reaction, ratings",
-                "desc": "Your best source for quality Chelsea news, rumors, analysis, stats and scores from the fan perspective.",
-                "image": "https://platform.weaintgotnohistory.sbnation.com/wp-content/uploads/sites/178/2026/08/gettyimages-2291879887.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C78.525540330099&w=1200",
-                "url": "https://weaintgotnohistory.sbnation.com/premier-league/171325/fulham-2-3-chelsea-premier-league-post-match-reaction-ratings",
-                "source": "We Ain't Got No History",
-                "date": "2026-08-24T20:54:12Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-08-26T05:24:57.626963Z"
+    "lastGlobalSync": "2026-08-26T06:32:08.213401Z"
 }
