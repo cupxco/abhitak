@@ -2172,6 +2172,33 @@
     "en": {
         "general": [
             {
+                "title": "As U.S.-Canada trade war escalates, Ontario Premier Doug Ford says Trump is \"treating us like we're Communist China\"",
+                "desc": "As a U.S.-Canada trade war sparks cross-border insults, Ontario Premier Doug Ford told CBS News he's hopeful the two sides can reach an agreement — but cautioned that \"no deal is better than a bad deal.\"",
+                "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/25/6e70d4bb-f60e-4bdd-a657-b85d41286e96/thumbnail/1200x630/f0179755e9c7619d48dca7818208a837/cbsn-fusion-ontario-premier-doug-ford-want-fair-trade-deal-canada-tariffs-us-thumbnail.jpg",
+                "url": "https://www.cbsnews.com/news/u-s-canada-trade-war-trump-ontario-doug-ford-china/",
+                "source": "CBS News",
+                "date": "2026-08-25T23:10:08Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Instagram head Adam Mosseri testifies in defense of Meta in child safety trial",
+                "desc": "The social media giant is being sued by four states who allege it designed Facebook and Instagram to hook kids — and lied to the public about the risks.",
+                "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2632x1481+0+137/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe6%2Ff6%2F718f30824a7e8bdbd02ffe379f77%2Fgettyimages-2291482471.jpg",
+                "url": "https://www.npr.org/2026/08/25/nx-s1-5944266/adam-mosseri-instagram-meta-child-safety-trial",
+                "source": "NPR",
+                "date": "2026-08-25T22:50:57Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Constitutional law professor explains Supreme Court's ruling on mail-in voting",
+                "desc": "The Supreme Court on Monday issued an emergency order that allows the Trump administration to move forward, for now, with plans to restrict mail-in voting ahead of the midterm elections in November. Opponents say it will bring chaos to the election process only days before ballots in some states are mailed out. Liz Landers discussed more with Steve Vladeck of the Georgetown University Law Center.",
+                "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/08/ballot-1024x683.jpg",
+                "url": "https://www.pbs.org/newshour/show/constitutional-law-professor-explains-supreme-courts-ruling-on-mail-in-voting",
+                "source": "PBS",
+                "date": "2026-08-25T22:45:45Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Jennifer Garner Admits She ‘Panicked’ About Money and Her Career After Ben Affleck Divorce",
                 "desc": "Jennifer Garner has admitted she worried about supporting herself and her children after her marriage to Ben Affleck ended, because she had put her career on the backburner. The Five Star Weekend actr...",
                 "image": "https://s.yimg.com/lo/mysterio/api/b363ed4a5ff0ceb798661216edf1492a3369435b5c399e69b5e36402040ff061/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fin_touch_weekly_articles_766%2Fe3bbf44d7259cc0fe28048403eaec2bd.jpg",
@@ -2683,36 +2710,27 @@
                 "source": "AP News",
                 "date": "2026-08-25T15:24:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Canada hits back at U.S. with tariffs as trade war deepens : NPR",
-                "desc": "The measures come after President Trump imposed 50% tariffs on many Canadian goods and threatened more after trade talks broke down on Friday.",
-                "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5388x3029+0+454/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbf%2F92%2Fb030006d4fe8bd8d19ed0af0d537%2Fgettyimages-2291340888.jpg",
-                "url": "https://www.npr.org/2026/08/25/nx-s1-5944240/canada-us-tariffs",
-                "source": "NPR",
-                "date": "2026-08-25T15:20:18Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Backbone Pro Xbox 25th Anniversary Edition: Price, release date, and colorways",
-                "desc": "Backbone's Xbox 25th Anniversary Edition controller ships Oct. 20 for $159.99, with three heritage colorways sold as a surprise blind box.",
-                "image": "https://helios-i.mashable.com/imagery/articles/02Z2SNQpKbDclNLJlaTNyTh/hero-image.fill.size_1200x675.v1787212105.png",
-                "url": "https://mashable.com/entertainment/backbone-pro-xbox-25th-anniversary-edition",
-                "source": "Mashable",
-                "date": "2026-08-25T15:19:21Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Former senior Russian official warns \"unknown sources\" could attack U.K. factories making drones for Ukraine",
-                "desc": "Former senior Russian diplomat says U.K. factories making drones for Ukraine \"could be attacked - not by Russia, but from unknown sources.\"",
-                "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/25/d0cbdc81-de8a-4cbf-8379-355ea3993376/thumbnail/1200x630g2/92eb070a3b54addf1e18cfd5eefd4e5c/uk-ukraine-drone-2266545415.jpg",
-                "url": "https://www.cbsnews.com/news/ukraine-war-russia-uk-threat-drone-factories-attacks-unknown-sources/",
-                "source": "CBS News",
-                "date": "2026-08-25T15:18:21Z",
-                "priority": "STANDARD"
             }
         ],
         "business": [
+            {
+                "title": "Instagram head Adam Mosseri testifies in defense of Meta in child safety trial",
+                "desc": "The social media giant is being sued by four states who allege it designed Facebook and Instagram to hook kids — and lied to the public about the risks.",
+                "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2632x1481+0+137/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe6%2Ff6%2F718f30824a7e8bdbd02ffe379f77%2Fgettyimages-2291482471.jpg",
+                "url": "https://www.npr.org/2026/08/25/nx-s1-5944266/adam-mosseri-instagram-meta-child-safety-trial",
+                "source": "NPR",
+                "date": "2026-08-25T22:50:57Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "California high-speed rail faces $231B funding crisis as watchdog warns",
+                "desc": "California’s high-speed rail could run out of money by 2027 as Inspector General Benjamin Belnap warns of funding woes in a letter to Gavin Newsom.",
+                "image": "https://nypost.com/wp-content/uploads/sites/2/2026/08/138498922.jpg?quality=75&strip=all&w=1200",
+                "url": "https://nypost.com/2026/08/25/us-news/california-high-speed-rail-faces-231b-funding-crisis-as-watchdog-warns/",
+                "source": "New York Post",
+                "date": "2026-08-25T22:47:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Intuit Stock: QuickBooks Maker Posts Mixed Report",
                 "desc": "Intuit handily beat Wall Street's targets for its fiscal fourth quarter but disappointed with its guidance. Intuit stock fell.",
@@ -3234,27 +3252,27 @@
                 "source": "New York Post",
                 "date": "2026-08-24T21:21:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Investigation opened into Oklahoma flight attendant's death",
-                "desc": "Family confirmed to KOCO 5 that a Southwest Airlines flight attendant from Moore was recently found dead in Hawaii.",
-                "image": "https://kubrick.htvapps.com/htv-prod/images/543a2346-5f6a-4404-9123-4180ef038612.png?crop=1.00xw%3A1.00xh%3B0%2C0&resize=1200%3A*",
-                "url": "https://www.koco.com/article/jenny-lupton-moore-oklahoma-flight-attendent-death-hawaii/73512709",
-                "source": "KOCO",
-                "date": "2026-08-24T21:10:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Zillow and Redfin settle FTC antitrust case",
-                "desc": "Zillow and Redfin reached a settlement with the FTC, which requires Redfin to reenter the rental advertising business.",
-                "image": "https://techcrunch.com/wp-content/uploads/2026/08/Zillow-website-1.jpg?w=1200",
-                "url": "https://techcrunch.com/2026/08/24/zillow-and-redfin-settle-ftc-antitrust-case/",
-                "source": "TechCrunch",
-                "date": "2026-08-24T20:45:33Z",
-                "priority": "STANDARD"
             }
         ],
         "entertainment": [
+            {
+                "title": "Sam Register Leaving As Warner Bros. Animation President",
+                "desc": "Sam Register, President of Warner Bros. Animation, Cartoon Network Studios & Hanna-Barbera Studios Europe, is departing after 3 decades at the company.",
+                "image": "https://deadline.com/wp-content/uploads/2026/08/Sam-Register_eff052.jpg?w=1024",
+                "url": "https://deadline.com/2026/08/sam-register-leaving-warner-bros-animation-president-1237050433/",
+                "source": "Deadline",
+                "date": "2026-08-25T23:03:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Chris Hansen Not Backing Down Over 'Primetime' Feud With A24",
+                "desc": "Chris Hansen still has a bone to pick over the upcoming film based on his pedo-catching days ... and he shared a receipt to back up his claim that A24 was trying to do him dirty.",
+                "image": "https://imagez.tmz.com/image/76/16by9/2026/08/25/76d8d49ee77a4fa9b0f5ce45b1c7fe7e_xl.jpg",
+                "url": "https://www.tmz.com/2026/08/25/chris-hansen-still-fighting-with-a24-over-primetime-movie/",
+                "source": "TMZ",
+                "date": "2026-08-25T22:50:40Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Inside Miley Cyrus' close bond with godmother Dolly Parton",
                 "desc": "Following Dolly Parton's heartbreaking death Tuesday at the age of 80, Page Six is breaking down her close bond with goddaughter Miley Cyrus.",
@@ -3280,6 +3298,15 @@
                 "url": "https://pagesix.com/2026/08/25/celebrity-news/jennifer-garner-panicked-about-money-and-her-career-after-ben-affleck-divorce/",
                 "source": "Page Six",
                 "date": "2026-08-25T21:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Woman's Cute Bow Tattoo Looks Wildly Inappropriate",
+                "desc": "A woman's innocent tattoo design has gone viral after people pointed out it looks wildly inappropriate. See why everyone's doing a double-take.",
+                "image": "https://img.buzzfeed.com/buzzfeed-static/static/2026-08/25/19/thumb/YtkJVF0cP.jpg?crop=3000:1571;0,179%26downsize=1250:*",
+                "url": "https://www.buzzfeed.com/kristatorres/cute-tattoo-looks-phallic",
+                "source": "BuzzFeed",
+                "date": "2026-08-25T21:10:24Z",
                 "priority": "STANDARD"
             },
             {
@@ -3767,36 +3794,81 @@
                 "source": "TV Insider",
                 "date": "2026-08-25T12:07:41Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Perez Hilton suffered broken bones night of suicide attempt, brother-in-law reveals",
-                "desc": "Perez Hilton suffered broken bones during the night of his suicide attempt, his brother-in-law, Tom, revealed on a podcast.",
-                "image": "https://pagesix.com/wp-content/uploads/sites/3/2026/08/138455539.jpg?quality=75&strip=all&w=1200",
-                "url": "https://pagesix.com/2026/08/25/celebrity-news/perez-hilton-suffered-broken-bones-night-of-suicide-attempt-brother-in-law-reveals/",
-                "source": "Page Six",
-                "date": "2026-08-25T12:04:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Who Is Brittany Romano? ‘Green Dress Lady’ in Lindsay Clancy Trial Audience",
-                "desc": "Brittany Romano faced backlash after a viral courtroom clip from the Lindsay Clancy trial. She has since responded to criticism online.",
-                "image": "https://assets.newsweek.com/wp-content/uploads/2026/08/twin-img-49.png?w=1200&crop=1",
-                "url": "https://www.newsweek.com/brittany-romano-lindsay-clancy-trial-12362927",
-                "source": "Newsweek",
-                "date": "2026-08-25T11:32:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Fi Thriller Fiercely Divides Critics in First Reactions",
-                "desc": "The first reactions to Ridley Scott's new action sci-fi thriller 'The Dog Stars' have surfaced online following early press screenings.",
-                "image": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2026/08/jacob-elordi-in-the-dog-stars.jpg?w=1600&h=900&fit=crop",
-                "url": "https://movieweb.com/ridley-scott-dog-stars-first-reactions/",
-                "source": "MovieWeb",
-                "date": "2026-08-25T11:30:15Z",
-                "priority": "STANDARD"
             }
         ],
         "sports": [
+            {
+                "title": "Seahawks S Bud Clark out for season with ankle injury",
+                "desc": "Clark was a candidate to help replace Coby Bryant, who left for the Bears in free agency. Ty Okada is the favorite to start in that spot.",
+                "image": "https://static01.nyt.com/athletic/uploads/wp/2026/08/25173946/2026-08-25T082437Z_2029015546_MT1USATODAY29653252_RTRMADP_3_NFL-SEATTLE-SEAHAWKS-AT-TENNESSEE-TITANS-scaled.jpg?width=1200&height=630&fit=cover",
+                "url": "https://www.nytimes.com/athletic/7538841/2026/08/25/seahawks-injury-bud-clark-rookie/",
+                "source": "The New York Times",
+                "date": "2026-08-25T23:13:04Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "With Aaron Donald undecided, Rams prepping for 53-player rosters with and without him",
+                "desc": "The Rams open the season in 16 days, and defensive tackle Aaron Donald still has not reached a decision about his return.",
+                "image": "https://nbcsports.brightspotcdn.com/dims4/default/aa0d05c/2147483647/strip/true/crop/2543x1430+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff7%2F74%2F772bd3974b1c9c5bf58414c088fd%2Fhttps-api-imagn.com%2Frest%2Fdownload%2FimageID%3D19358083",
+                "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/with-aaron-donald-undecided-rams-prepping-for-53-player-rosters-with-and-without-him",
+                "source": "NBC Sports",
+                "date": "2026-08-25T22:59:04Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Chicago Sky owner defends Enes Kanter Freedom's ejection",
+                "desc": "Chicago Sky owner Michael Alter said Enes Kanter Freedom became a \"potential threat\" when he stepped toward the court during an altercation with Natasha Cloud.",
+                "image": "https://www.chicagotribune.com/wp-content/uploads/2026/08/ctc-z-2291751804_265935491.jpg?w=3014&h=2009",
+                "url": "https://www.chicagotribune.com/2026/08/25/chicago-sky-michael-alter-enes-kanter-freedom/",
+                "source": "Chicago Tribune",
+                "date": "2026-08-25T22:57:42Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Joe Espada To Remain Astros' Manager For Rest Of Season",
+                "desc": "The Astros will retain Joe Espada for the remainder of the 2026 campaign.",
+                "image": "https://cdn.mlbtraderumors.com/files/2026/08/JoeEspada-1024x683.jpg",
+                "url": "https://www.mlbtraderumors.com/2026/08/joe-espada-to-remain-astros-manager-for-rest-of-season.html",
+                "source": "MLB Trade Rumors",
+                "date": "2026-08-25T22:47:03Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Spouses Svitolina and Monfils reach US Open mixed doubles semifinals",
+                "desc": "Elina Svitolina and Gael Monfils have both gone far but never all the way to the U.S. Open title. Maybe the married couple can finally win a trophy together.",
+                "image": "https://dims.apnews.com/dims4/default/c69cddd/2147483647/strip/true/crop/3000x1999+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F53%2Ffe%2F01637c264f3e957f898162fe953f%2F64bcc22ad0c643c4ae413d53346338f6",
+                "url": "https://apnews.com/article/us-open-mixed-doubles-b08f9a5350775586ea0efe25144664be",
+                "source": "AP News",
+                "date": "2026-08-25T22:43:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Paul Finebaum forecasts the end of 'bully' Bill Belichick",
+                "desc": "Bill Belichick was hoping for a fresh start this college football season, but Paul Finebaum believes it’s just the beginning of the end",
+                "image": "https://cdn1.thecomeback.com/wp-content/uploads/sites/94/2026/08/AA-Correct-Size-6-2.jpg",
+                "url": "https://awfulannouncing.com/college-football/paul-finebaum-bill-belichick-down-in-flames.html",
+                "source": "Awful Announcing",
+                "date": "2026-08-25T22:37:38Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Dae'Quan Wright clears waivers, paving way to join LSU",
+                "desc": "Dae'Quan Wright is going back to school.",
+                "image": "https://nbcsports.brightspotcdn.com/dims4/default/f0aa63d/2147483647/strip/true/crop/3000x1688+0+156/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd5%2Fbe%2F0e5cda22469ab05953bd876efe88%2F2240674180.jpg",
+                "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/daequan-wright-clears-waivers-paving-way-to-join-lsu",
+                "source": "NBC Sports",
+                "date": "2026-08-25T22:35:34Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "US Olympic hero Nancy Hogshead launches petition calling for WNBA to restrict gender eligibility",
+                "desc": "Olympic gold medalist Nancy Hogshead launched a Change.org petition urging the WNBA to clarify eligibility rules to biological females only, gaining over 11,000 signatures.",
+                "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/nancy-hogshead.jpg",
+                "url": "https://www.foxnews.com/outkick-sports/us-olympic-hero-nancy-hogshead-launches-petition-calling-wnba-restrict-gender-eligibility",
+                "source": "Fox News",
+                "date": "2026-08-25T22:32:18Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Sky ban Kanter Freedom from arena after clash with Cloud",
                 "desc": "Chicago Sky owner Michael Alter said Enes Kanter Freedom has been banned from Wintrust Arena after showing he has the potential to be a threat when he was tossed from a game Sunday for a verbal altercation with a Sky player.",
@@ -4264,80 +4336,8 @@
                 "source": "NBC Sports",
                 "date": "2026-08-25T14:39:22Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Warriors Sign Former Mavs Guard Brandon Williams to Contract, Updated Roster, Salary Cap",
-                "desc": "The Golden State Warriors have signed free agent guard Brandon Williams to a one-year, $2.6 million contract, according to ESPN's Shams Charania.",
-                "image": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2026-08/2269432355_large_cropped.jpg?w=1120&h=630",
-                "url": "https://bleacherreport.com/articles/25483609-warriors-sign-former-mavs-guard-brandon-williams-contract-updated-roster-salary-cap",
-                "source": "Bleacher Report",
-                "date": "2026-08-25T14:30:42Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Zohran Mamdani secures 1,000 U.S. Open tickets at $100 each for NYers amid surging resale prices",
-                "desc": "The mayor's decision follows skyrocketing prices in all ticket categories as the event gets ever more popular and desirable.",
-                "image": "https://static01.nyt.com/athletic/uploads/wp/2026/08/25090229/Zohran-Mamdani-US-Open-1-scaled.jpg?width=1200&height=630&fit=cover",
-                "url": "https://www.nytimes.com/athletic/7537535/2026/08/25/us-open-ticket-prices-zohran-mamdani-resident-affordable/",
-                "source": "The New York Times",
-                "date": "2026-08-25T14:30:25Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "NFC North, AFC South teams reveal \"Rivalries\" uniforms",
-                "desc": "The NFL's second wave of \"Rivalries\" uniforms were unveiled on Tuesday.",
-                "image": "https://nbcsports.brightspotcdn.com/dims4/default/dbfa4cf/2147483647/strip/true/crop/2560x1440+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F2a%2F89%2F86b433b048e292bd2e2d7a776bfc%2Ffxufuqjjdfiebf3sfurr.webp",
-                "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfc-north-afc-south-teams-reveal-rivalries-uniforms",
-                "source": "NBC Sports",
-                "date": "2026-08-25T14:22:52Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "East Palestine trailer park owner clears the air on Jed York arrest",
-                "desc": "One of the most stunning aspects of the news regarding 49ers owner Jed York's recent prostitution-related arrest was that it happened at a trailer park.",
-                "image": "https://nbcsports.brightspotcdn.com/dims4/default/e86093a/2147483647/strip/true/crop/5034x2832+0+262/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa9%2F2f%2F7700a6e14c1e8bbf3671871553f9%2Fdownload.jpg",
-                "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/east-palestine-trailer-park-owner-clears-the-air-on-jed-york-arrest",
-                "source": "NBC Sports",
-                "date": "2026-08-25T14:22:52Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "New playoff, no LIV players: PGA Tour CEO looks forward at season-ending championship",
-                "desc": "The new playoff structure, set to begin in 2028, will take place over the course of three weeks.",
-                "image": "https://s.yimg.com/lo/mysterio/api/25ac930b5fde45f2a7c2e3c4766053d3999a7b4605cd0156d64ba0c044b95d1e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-08%2F3b8551f1-0e51-4e22-83b5-d692f6b10403",
-                "url": "https://sports.yahoo.com/golf/article/new-playoff-no-liv-players-pga-tour-ceo-looks-forward-at-season-ending-championship-134005695.html",
-                "source": "Yahoo Sports",
-                "date": "2026-08-25T14:13:25Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Brandon Williams, Warriors agree to NBA contract, per agents",
-                "desc": "The Golden State Warriors agreed to a one-year, $2.6 million contract with free-agent guard Brandon Williams, his agents confirmed to ESPN.",
-                "image": "https://media.nbcsportsbayarea.com/2026/08/Brandon-Williams-Reuters.jpg?quality=85&strip=all&resize=1200%2C675",
-                "url": "https://www.nbcsportsbayarea.com/nba/golden-state-warriors/brandon-williams-free-agent-contract/1958536/",
-                "source": "NBC Sports Bay Area & California",
-                "date": "2026-08-25T14:07:16Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "College sports' eligibility crisis is sprawling well beyond LSU, football and basketball - 'It's beyond unfair. It's heartless.'",
-                "desc": "While some players who previously signed contracts in the NFL or NBA have been able to win state court rulings to return to college, others have been left in limbo and are caught in the \"NCAA Trap.\"",
-                "image": "https://s.yimg.com/lo/mysterio/api/179ebbe5955f66047d8fbbd57e6a949b139cc72be6ea2504ca3f3b5fc8457326/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2F20260825-ysd-big-ten_4416.jpg",
-                "url": "https://sports.yahoo.com/college-football/article/college-sports-eligibility-crisis-is-sprawling-well-beyond-lsu-football-and-basketball--its-beyond-unfair-its-heartless-125759462.html",
-                "source": "Yahoo Sports",
-                "date": "2026-08-25T14:04:40Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Jeanty ankle sprain 'more low than high'",
-                "desc": "NFL Network's Ian Rapoport reports Ashton Jeanty's ankle sprain is \"more low than high.\"",
-                "image": "https://nbcsports.brightspotcdn.com/dims4/default/67ab1ca/2147483647/strip/true/crop/100x56+0+39/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F0b%2F85%2F7afe125d4754aaf76112f04b530f%2Fjeanty.jpg",
-                "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-08-25/jeanty-ankle-sprain-more-low-than-high",
-                "source": "NBC Sports",
-                "date": "2026-08-25T14:01:53Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-08-26T10:25:12.275444Z"
+    "lastGlobalSync": "2026-08-26T11:20:16.297459Z"
 }
