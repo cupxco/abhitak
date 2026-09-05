@@ -2,12 +2,93 @@
     "hi": {
         "general": [
             {
+                "title": "सऊदी, ओमान, बहरीन का विदेशी मजदूरों पर बड़ा एक्शन, 336,000 को निकाला, जानें किन देशों के सबसे ज्यादा लोग",
+                "desc": "सऊदी अरब, ओमान, बहरीन और जॉर्डन ने इस साल बड़ी संख्या में विदेशी कामगारों को देश से निकाला है। संयुक्त अरब अमीरात ने भी रेजिडेंसी नियमों के उल्लंघन पर सख्ती दिखाई है।",
+                "image": "https://static.langimg.com/nbt/thumb/133782989/saudi-news.jpg?imgsize=197229&width=1600&height=900&resizemode=75",
+                "url": "https://navbharattimes.indiatimes.com/world/middle-east/saudi-arabia-oman-bahrain-deport-336000-foreign-workers-in-2026-mostly-african-countries/articleshow/133782938.cms",
+                "source": "Navbharat Times",
+                "date": "2026-09-05T01:02:19Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "हाईवे पर लॉरी से कार की भीषण टक्कर, 8 युवकों की मौके पर ही मौत... केरल में बड़ा हादसा",
+                "desc": "हादसे की जानकारी मिलते ही स्थानीय लोग घटनास्थल पर पहुंचे और उन्होंने पुलिस को सूचना दी. इसके बाद कार से सभी मृतकों को बाहर निकाला गया.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202609/6a9b6394843be-kushinagar-truck-accident-043252134-16x9.jpg",
+                "url": "https://www.aajtak.in/india/news/story/car-rams-parked-lorry-in-kerala-thrissur-eight-killed-ntc-rmxk-dskc-2636626-2026-09-05",
+                "source": "AajTak",
+                "date": "2026-09-05T00:36:46Z",
+                "priority": "CRITICAL_ALERT"
+            },
+            {
+                "title": "आज का मौसम 5 सितंबर: अगले 6 घंटे में 17 राज्यों में प्रचंड बारिश का अलर्ट, 60 की स्पीड से हवा; IMD अपडेट जारी",
+                "desc": "देश में मानसून के तेज प्रहार के बीच मौसम विभाग ने एक और अलर्ट जारी कर दिया है। मौसम विभाग की भविष्यवाणी के मुताबिक आज यानी 5 सितंबर को दिल्ली, यूपी, बिहार समेत 17 राज्यों में भारी बारिश-आंधी की चेतावनी जारी की गई है। इस दौरान 60 किलोमीटर प्रति घंटे की रफ्तार से तेज हवा के झोंके चल सकते हैं।",
+                "image": "https://static.langimg.com/nbt/thumb/133782599/weather-today-5-september.jpg?imgsize=154031&width=1600&height=900&resizemode=75",
+                "url": "https://navbharattimes.indiatimes.com/india/today-weather-5-september-2026-storm-and-rain-alert-in-17-statest-in-the-next-6-hours-wind-speed-up-to-60-kmph-delhi-up-bihar-mp-temperature/articleshow/133782001.cms",
+                "source": "Navbharat Times",
+                "date": "2026-09-05T00:28:35Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "केरल में दर्दनाक हादसा: त्रिशूर में खड़े ट्रक से टकराई कार, तमिलनाडु के 8 छात्रों की मौत",
+                "desc": "राष्ट्रीय राजमार्ग-66 पर शुक्रवार देर रात एक भीषण सड़क दुर्घटना में आठ लोगों की मौत हो गई। कार एक खड़ी लॉरी से जा टकराई। सात लोगों की मौके पर ही मौत हो गई, जबकि एक घायल अस्पताल में इलाज के दौरान दम तोड़ गया।",
+                "image": "https://www.jagranimages.com/images/2026/09/05/template/image/jagran-897-1788567909589_v.webp",
+                "url": "https://www.jagran.com/news/national-car-crashes-into-stationary-truck-in-thrissur-8-students-from-tamil-nadu-killed-40362817.html",
+                "source": "Jagran",
+                "date": "2026-09-05T00:25:00Z",
+                "priority": "CRITICAL_ALERT"
+            },
+            {
+                "title": "'पीएम मोदी ने पहले ही चेताया था', बेल्जियम के प्रधानमंत्री ने बताई बड़ी गलती; चीन पर इशारा",
+                "desc": "बेल्जियम के प्रधानमंत्री बार्ट डी वेवर ने कहा कि आर्थिक और सामरिक निर्भरता को लेकर प्रधानमंत्री मोदी ने पहले ही सावधान किया था लेकिन यूरोप नहीं माना। उन्होंने चीन से खतरों की ओर भी इशारा किया।, India News in Hindi - Hindustan",
+                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/09/05/1600x900/logo/India-Belgium-0_1788567749166_9fc6c55e-1510-4a2a-b1a8-3bd1c66f4904_1788567757024_68d6d99d-7d35-4895-96c3-a0b58efaf519_5e704e58-7b9a-4660-9e3b-4a4b4ad6c139_80d9331c-86e3-4b8e-9d76-861673f7c24f.jpg",
+                "url": "https://www.livehindustan.com/national/belgium-bart-de-weve-tells-their-mistake-as-pm-modi-warned-before-china-201788566945542.html",
+                "source": "Hindustan",
+                "date": "2026-09-05T00:24:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Friday Box Office Report: 'मिर्जापुर' के सैलाब में बही 'टॉक्सिक', सीना ताने खड़ी रही 'इरुमुडी'",
+                "desc": "वीकेंड में तो हमेशा ही फिल्मों के कलेक्शन में शानदार उछाल आता है। लेकिन हम वीकेंड से पहले यानी फ्राइडे बॉक्स ऑफिस पर रिपोर्ट पर एक नजर डालते हैं।, Bollywood Hindi News - Hindustan",
+                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/09/04/1600x900/logo/Friday_box_office_report_1788543818828_527f07c6-d8c2-4097-949a-8504881d68c6_1788543830360_8e3af353-7bc9-4bc0-bb33-3c820faeaba9_ff5a8494-14f2-439a-80fb-541bfe648ba4_ae12c185-3321-4c44-bd89-3cfc439b8df4.jpg",
+                "url": "https://www.livehindustan.com/entertainment/bollywood/friday-box-office-report-mirzapur-the-movie-blast-on-day-1-know-toxic-irumudi-collection-201788543561444.html",
+                "source": "Hindustan",
+                "date": "2026-09-04T23:44:38Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Aaj ka Rashifal 5 September 2026 : वृषभ और कर्क समेत कई राशियों को आज धन योग का मिलेगा लाभ, जानें कैसा रहेगा आपका दिन",
+                "desc": "Horoscope Today 5 September 2026 : आज गुरु ग्रह अपनी उच्च राशि कर्क में अकेले विराजमान है। इसी के साथ चंद्रमा आज भी अपनी उच्च राशि वृषभ से संचार करते हुए मिथुन राशि में प्रवेश करेंगे। ऐसे में आज मंगल और चंद्रमा की युति मिथुन राशि में होने से धन योग का संयोग बनेगा। ऐसे में आज का दिन मेष से मीन तक सभी राशियों के लिए कैसा रहेगा, आइए जानते हैं आज का राशिफल विस्तार पूर्वक।",
+                "image": "https://static.langimg.com/nbt/thumb/133758621/horoscope-today-5-september-2026-kark-and-vrishabha-with-many-zodiac-sign-people-can-enjoy-with-dhan-yog.jpg?imgsize=2030310&width=1600&height=900&resizemode=75",
+                "url": "https://navbharattimes.indiatimes.com/astro/rashifal/bolen-sitare/horoscope-today-5-september-2026-kark-and-vrishabha-with-many-zodiac-sign-people-can-enjoy-with-dhan-yog/articleshow/133758621.cms",
+                "source": "Navbharat Times",
+                "date": "2026-09-04T22:36:24Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'ईरान के न्यूक्लियर बंकर पर जल्द हमला...', ट्रंप ने पिकैक्स माउंटेन का जिक्र कर फिर दी धमकी",
+                "desc": "पिकैक्स माउंटेन ईरान के उन कुछ ठिकानों में से एक है, जिनका संबंध ईरान के परमाणु कार्यक्रम से है. इस जंग में अब तक अमेरिका और इजरायल के इसे निशाना नहीं बनाया.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202609/6a9b39443d326-donald-trump-242929257-16x9.png",
+                "url": "https://www.aajtak.in/world/story/donald-trump-says-united-states-could-strike-iran-pickaxe-mountain-ntc-rmxk-dskc-2636621-2026-09-05",
+                "source": "AajTak",
+                "date": "2026-09-04T21:42:26Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "बेंगलुरु में बड़ी कार्रवाई, खरगे की रैली के बाद 'शुद्धिकरण' को लेकर उत्तराखंड भाजपा नेताओं पर FIR दर्ज",
                 "desc": "बेंगलुरु में उत्तराखंड भाजपा सदस्यों और अन्य लोगों के खिलाफ एक 'जीरो एफआईआर' दर्ज की गई। यह मामला कांग्रेस अध्यक्ष मल्लिकार्जुन खरगे की रैली के बाद एक जगह पर कथित 'शुद्धिकरण' किए जाने से जुड़ा है।",
                 "image": "https://www.jagranimages.com/images/2026/09/05/template/image/jagran-897-1788548312691_v.webp",
                 "url": "https://www.jagran.com/news/national-fir-lodged-in-bengaluru-against-uttarakhand-bjp-members-over-purification-ritual-40362792.html",
                 "source": "Jagran",
                 "date": "2026-09-04T18:58:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "बलूच विद्रोहियों ने मार गिराए 25 पाकिस्तानी सैनिक, बीएलए ने बलूचिस्तान में दो हमलों की ली जिम्मेदारी",
+                "desc": "बलूच लिबरेशन आर्मी बीएलए ने शुक्रवार को प्रांत के जियारत और सुराब जिलों में पाकिस्तानी बलों को निशाना बनाकर किए गए दो हमलों की जिम्मेदारी ली।",
+                "image": "https://www.jagranimages.com/images/2026/09/05/template/image/jagran-897-1788548080865_v.webp",
+                "url": "https://www.jagran.com/world/pakistan-baloch-rebels-killed-25-pakistani-soldiers-40362790.html",
+                "source": "Jagran",
+                "date": "2026-09-04T18:54:00Z",
                 "priority": "STANDARD"
             },
             {
@@ -459,87 +540,6 @@
                 "source": "Navbharat Times",
                 "date": "2026-09-04T05:36:41Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "'मोहन भागवत के कार्यक्रम में धोखे से बुलाया', RSS चीफ के न्यूयॉर्क इवेंट पर नया विवाद, धार्मिक नेताओं ने लगाया आरोप",
-                "desc": "अमेरिका के न्यूयॉर्क में RSS प्रमुख के कार्यक्रम में शामिल होने वाले कुछ धार्मिक नेताओं ने आरोप लगाया है कि उनके साथ धोखा किया गया। इन नेताओं ने बयान जारी कर आयोजकों पर सही जानकारी न देने का आरोप लगाया है।",
-                "image": "https://static.langimg.com/nbt/thumb/133752630/mohan-bhagwat-new-york-event.jpg?imgsize=451736&width=1600&height=900&resizemode=75",
-                "url": "https://navbharattimes.indiatimes.com/world/america/mohan-bhagwat-new-york-event-religious-leaders-apologizes-for-joining-rss-chief-program/articleshow/133752508.cms",
-                "source": "Navbharat Times",
-                "date": "2026-09-04T05:22:52Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "भारत में हो रहा इंतजार, साउथ अफ्रीका में हुई एंट्री... क्या ये होगी फॉक्सवैगन की सबसे सस्ती SUV",
-                "desc": "फॉक्सवैगन ने साउथ अफ्रीका में अपनी नई एसयूवी को पेश किया है. ये कार ब्राजील में आने वाली टेरा का ही बदला हुआ रूप है. वैसे फॉक्सवैगन भारतीय बाजार में भी एक नई एसयूवी लाने वाली है, जो 4 मीटर से छोटी होगी. पोलो के बाद ये कंपनी की पहली कार होगी, जो इस सेगमेंट में आएगी. आइए जानते हैं फॉक्सवैगन की एसयूवी में क्या कुछ खास है.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202609/6a9926948272b-volkswagen-tera-034934995-16x9.jpg",
-                "url": "https://www.aajtak.in/auto/news/story/volkswagen-tengo-launch-south-africa-cheapest-suv-auam-dskc-2635329-2026-09-04",
-                "source": "AajTak",
-                "date": "2026-09-04T05:13:09Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "VIDEO: यात्री आराम से बैठे थे और खंभे से भिड़ गया IndiGo प्लेन, श्रीनगर एयरपोर्ट पर बड़ा कांड",
-                "desc": "IndiGo फ्लाइट एक बार फिर चर्चा में है और वजह हादसा या तकनीकी खामी ही है। जम्मू और कश्मीर के श्रीनगर एयरपोर्ट पर विमान पार्किंग के दौरान खंभे से टकरा गया। फिलहाल, हादसा क्यों हुआ, इसकी जांच की जा रही है।, India News in Hindi - Hindustan",
-                "image": "https://www.livehindustan.com/lh-img/smart/img/2026/09/04/1600x900/generated_3794222855026131034_1788501945119_640e1b55-b001-4ff5-9634-550cfe2b044a_1788501982771_21e89d86-f7d4-4123-8923-f17893ca9eab_296b63ae-df65-4e9c-abf6-7ab96fd4f3d2_d70f8881-6a94-46b9-95f5-e8f69ae7b74e.gif",
-                "url": "https://www.livehindustan.com/national/srinagar-airport-indigo-plane-with-passengers-collided-with-a-pole-201788498131385.html",
-                "source": "Hindustan",
-                "date": "2026-09-04T05:10:47Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "श्रीनगर एयरपोर्ट पर पोल से टकराया IndiGo विमान, बड़ा हादसा टला",
-                "desc": "श्रीनगर एयरपोर्ट पर इंडिगो की फ्लाइट के साथ मामूली हादसा हुआ है. नवी मुंबई से श्रीनगर पहुंची फ्लाइट 6E 225 पार्किंग के दौरान वीडीजीएस पोल से टकरा गई. विमान में सवार सभी यात्री और क्रू मेंबर सुरक्षित हैं और किसी के घायल होने की खबर नहीं है.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202609/6a9a51d17e194-indigo-040619966-16x9.png",
-                "url": "https://www.aajtak.in/india/jammu-kashmir/story/indigo-flight-hits-pole-srinagar-airport-aircraft-parking-incident-ntc-mnrd-smsr-smsr-2635908-2026-09-04",
-                "source": "AajTak",
-                "date": "2026-09-04T05:06:54Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "प्रदर्शनकारी लड़की के पिता से मारपीट का दावा करने वाले स्वतंत्र भारद्वाज के बारे में दिल्ली पुलिस ने क्या कहा?",
-                "desc": "सीजेपी आंदोलन के दौरान एक प्रदर्शनकारी के पिता पर हमले की बात कहने वाले स्वतंत्र भारद्वाज से जुड़ा पूरा मामला क्या है और दिल्ली पुलिस इस पर क्या कह रही है?",
-                "image": "https://ichef.bbci.co.uk/news/1200/branded_hindi/80ac/live/5074e980-a808-11f1-b827-bd84ee94d213.png",
-                "url": "https://www.bbc.com/hindi/articles/ce8x24ydx29o",
-                "source": "BBC",
-                "date": "2026-09-04T05:01:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "श्रीनगर एयरपोर्ट पर इंडिगो की फ्लाइट का बड़ा हादसा, ब्रेक सिस्टम हुआ फेल",
-                "desc": "मुंबई से श्रीनगर पहुंची इंडिगो की फ्लाइट 6E 225 बड़े हादसे का शिकार हो गई. पार्किंग के समय विमान का ब्रेंक सिस्टम फेल हो गया जिससे वो रुक नहीं पाया.",
-                "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/09/04/25de9f009ff7c8fcad840bdeadc6e3171788498850423355_original.jpg?impolicy=abp_cdn&imwidth=1200",
-                "url": "https://www.abplive.com/news/india/mumbai-srinagar-indigo-flight-accident-brake-system-failed-3184185",
-                "source": "ABP News",
-                "date": "2026-09-04T04:56:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "धोनी को खोजने वाला क्रिकेटर... विकेट के पीछे से पाकिस्तानी स्टार जावेद म‍ियांदाद को 'रुला' द‍िया",
-                "desc": "1988 में वेस्टइंडीज के खिलाफ एक पारी में 5 स्टंपिंग और पूरे मैच में 6 स्टंपिंग का रिकॉर्ड, वर्ल्ड कप में जावेद मियांदाद के साथ मजेदार किस्सा और धोनी के टैलेंट की खोज, जानिए ऐसे खिलाड़ी के बारे में.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202609/6a993b598a5c4-kiran-more--mahendra-singh-dhoni-031811802-16x9.jpg",
-                "url": "https://www.aajtak.in/sports/cricket/story/cricketer-kiran-more-birthday-dhoni-discovery-javed-miandad-banter-record-tspok-dskc-2635355-2026-09-04",
-                "source": "AajTak",
-                "date": "2026-09-04T04:50:58Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "12 छक्के, 281 का स्ट्राइक रेट, दासुन शनाका ने सबसे तेज सेंचुरी ठोक बनाया इतिहास",
-                "desc": "Fastest Hundreds in CPL: दासुन शनाका ने 12 छक्कों से सजी शतकीय पारी खेल रिकॉर्ड बना दिया. उन्होंने कैरेबियन प्रीमियर लीग में सबसे तेज सेंचुरी का कीर्तिमान बनाया है.",
-                "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/09/04/d9a48b791a56274931bc59cccbebdfdb1788488965986975_original.jpg?impolicy=abp_cdn&imwidth=1200",
-                "url": "https://www.abplive.com/sports/cricket/dasun-shanaka-39-balls-hundred-makes-history-fastest-century-in-cpl-history-3184122",
-                "source": "ABP News",
-                "date": "2026-09-04T02:32:27Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'18 सैनिकों की मौत, मुझसे चूक हुई...', ईरान युद्ध में जवानों की मौत पर डोनाल्ड ट्रंप के मंत्री ने मांगी माफी",
-                "desc": "अमेरिका में डोनाल्ड ट्रंप के वाणिज्य मंत्री हॉवर्ड लुटिक ने ईरान युद्ध को लेकर माफी मांगी है. हॉवर्ड लुटिक ने माना है कि उनसे चूक हुई है और अब तक 18 जवानों की इस युद्ध में जान गई.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202609/6a9a2998f27a4-us-commerce-secretary-howard-lutnick-041443425-16x9.png",
-                "url": "https://www.aajtak.in/world/story/us-iran-war-donald-trump-commerce-secretary-lutnick-apologize-over-death-ntc-apdy-dskc-2635813-2026-09-04",
-                "source": "AajTak",
-                "date": "2026-09-04T01:58:48Z",
-                "priority": "STANDARD"
             }
         ],
         "business": [
@@ -550,6 +550,15 @@
                 "url": "https://navbharattimes.indiatimes.com/business/business-news/trump-threatens-to-stop-trading-with-these-countries-unless-fed-reserve-lowers-interest-rates/articleshow/133770743.cms",
                 "source": "Navbharat Times",
                 "date": "2026-09-04T16:41:54Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "एक महीने में LG इंडिया का शेयर 12% उछला, मजबूत बिक्री और मार्जिन से ग्रोथ की उम्मीद बढ़ी",
+                "desc": "LG Electronics India Share: पहली तिमाही में 15% राजस्व वृद्धि और प्रीमियम टीवी सेगमेंट की मजबूत मांग के चलते एलजी इलेक्ट्रॉनिक्स का शेयर एक महीने में 12% चढ़ा है",
+                "image": "https://hindibusinessstandard.imagibyte.sortdcdn.net/wp-content/uploads/2026/09/LG-Electronics-India-LG.jpg",
+                "url": "https://hindi.business-standard.com/markets/lg-electronics-india-shares-rise-on-strong-growth-and-margins-id-549649",
+                "source": "बिजनेस स्टैंडर्ड",
+                "date": "2026-09-04T15:56:05Z",
                 "priority": "STANDARD"
             },
             {
@@ -613,6 +622,15 @@
                 "url": "https://www.aajtak.in/auto/news/story/royal-enfield-himalayan-440-price-features-specs-auam-dskc-2636516-2026-09-04",
                 "source": "aajtak.in",
                 "date": "2026-09-04T14:26:25Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "भारत में धूम मचाएंगे ये OPPO फोन, 8000mAh बैटरी के साथ मिलेंगे 200MP के दो कैमरे",
+                "desc": "चीन के बाद अब OPPO Find X10 Series फोन भारत में धूम मचाने आ रहे हैं। इस सीरीज में तीन मॉडल Find X10, Find X10 Pro और Find X10 Pro Max शामिल होंगे। खबर है कि फाइंड X10 और ओप्पो फाइंड X10 प्रो मैक्स मॉडल को भारत की एक सर्टिफिकेशन साइट पर देखा गया है।, Gadgets Hindi News - Hindustan",
+                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/09/04/1600x900/logo/OPPO_Find_X10_Pro_Max_1788530547096_87b059ae-2f47-49f4-a06a-18c429afd7bf_1788530558779_e1e0e17c-e6fe-4f83-8609-1f0158d9948b_351fe04c-af38-42dc-95d5-d272cce61c09_54e5cca3-90d0-4aee-8beb-c9da51948e87.jpg",
+                "url": "https://www.livehindustan.com/gadgets/oppo-find-x10-and-oppo-find-x10-pro-max-india-launch-soon-spotted-on-certification-site-201788529946574.html",
+                "source": "Hindustan",
+                "date": "2026-09-04T14:04:39Z",
                 "priority": "STANDARD"
             },
             {
@@ -1064,27 +1082,18 @@
                 "source": "Hindustan",
                 "date": "2026-09-03T13:33:12Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "100 साल से इस देश में थी टाटा की ये कंपनी, अब राष्ट्रपति ने कहा- हमारे यहां से समेट लो कारोबार",
-                "desc": "टाटा ग्रुप की एक कंपनी को केन्‍या से कारोबार समेटने के लिए कहा गया है. वहां के राष्‍ट्रपति वि‍लियम रूटो का कहना है कि टाटा की इस कंपनी के होने या नहीं होने का देश को कोई फायदा नहीं है.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202609/6a9975d03c509-kenya-president-william-ruto-032738937-16x9.jpg",
-                "url": "https://www.aajtak.in/business/news/story/president-orders-tata-chemicals-to-end-operations-from-kenya-tutd-dskc-2635598-2026-09-03",
-                "source": "Aaj Tak News",
-                "date": "2026-09-03T13:32:14Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Gold Silver Price Today: अमेरिका से खबर आते ही कीमतों में तूफानी तेजी, सोना ₹1.55 लाख के पार, चांदी ₹4400 महंगी",
-                "desc": "सोने और चांदी की कीमतों में 10 दिन की गिरावट के बाद 3 सितंबर को अचानक तेजी आई। ग्लोबल मार्केट और भारतीय बाजार दोनों में कीमतों में भारी उछाल दर्ज किया गया, जिसका कारण ट्रंप के बयान को बताया जा रहा है।",
-                "image": "https://www.jagranimages.com/images/2026/09/03/template/image/Gold-1788441490455_v.webp",
-                "url": "https://www.jagran.com/business/commodity-gold-silver-price-hike-trump-statement-fuels-surge-on-sept-3-40361378.html",
-                "source": "Jagran",
-                "date": "2026-09-03T13:22:00Z",
-                "priority": "STANDARD"
             }
         ],
         "entertainment": [
+            {
+                "title": "Teacher's Day: ‘तारे जमीन पर’ से ‘सुपर 30’ तक, इन 5 फिल्मों में दिखी गुरु-शिष्य के रिश्ते का असली मतलब",
+                "desc": "एक टीचर और स्टुडेंट का रिश्ता होता ही ऐसा हैं जो स्टुडेंड को अपने मंजिल तक पहुंचने में सहयोग करते हैं. बॉलीवुड में भी ऐसी कई सारी फिल्म हैं जो टीजर की कहानी दिखाई गई है, जिन्होंने अपने छात्रों की जिंदगी बदल दी.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/photo_gallery/202609/6a9aab1070914-5-films-describes-teachers-day-best-042707492-16x9.jpg",
+                "url": "https://www.aajtak.in/entertainment/news/photo/5-bollywood-films-showcase-relationship-of-students-and-teachers-teachers-day-special-tmov-2636123-2026-09-05",
+                "source": "AajTak",
+                "date": "2026-09-05T01:00:08Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "'महाभारत' के अभिमन्यु मयूर वर्मा ने पहचान छिपाकर विदेश में बसाया था घर, एक्टिंग छोड़ अब चलाते हैं रेस्टोरेंट",
                 "desc": "'महाभारत' में अभिमन्यु का किरदार निभाकर फेमस होने वाले एक्टर मयूर वर्मा की कहानी शायद बहुत कम लोग जानते हैं। एक्टर ने एक वक्त पर टीवी और फिल्म इंडस्ट्री छोड़ दिया औरअब वो विदेश में पत्नी के साथ मिलकर रेस्टोरेंट चलाते हैं।",
@@ -1146,6 +1155,15 @@
                 "url": "https://www.aajtak.in/entertainment/bollywood-news/story/salman-khan-angry-again-paparazzi-video-viral-bigg-boss-20-promo-shoot-tmovj-dskc-2636528-2026-09-04",
                 "source": "AajTak",
                 "date": "2026-09-04T15:20:03Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "न पवन, न खेसारी.... निरहुआ के लिए Udit Narayan ने गाया ये हिट भोजपुरी गाना; आज भी दिलों पर चलाता है छुरियां",
+                "desc": "दो दशक पहले उदित नारायण Udit Narayan ने निरहुआ Nirahua को एक कल्ट भोजपुरी गीत दिया था जो अमर हो गया।",
+                "image": "https://www.jagranimages.com/images/2026/09/04/template/image/Udit-Narayan-Bhojpuri-Song-1788534144984_v.webp",
+                "url": "https://www.jagran.com/entertainment/bollywood-mann-ke-sawariya-ban-gaila-bhojpuri-song-udit-narayan-sang-for-nirahua-with-kalpana-patowary-40362594.html",
+                "source": "Jagran",
+                "date": "2026-09-04T15:20:00Z",
                 "priority": "STANDARD"
             },
             {
@@ -1606,27 +1624,27 @@
                 "source": "Aaj Tak News",
                 "date": "2026-09-03T09:50:03Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "'वेब सीरीज से बेहतर है फिल्म', आ गया 'मिर्जापुर द मूवी' का फर्स्ट रिव्यू",
-                "desc": "'मिर्जापुर द मूवी' को रिलीज होने में चंद घंटे बचे है उससे पहले इसका फर्स्ट रिव्यू आ गया है. इस फिल्म को ओटीटी के सीजन 2 और 3 से काफी बेहतर बताया जा रहा है.",
-                "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/09/03/a220ce349cf7c93e1bd3f0c8593d271b1788423632477209_original.jpeg?impolicy=abp_cdn&imwidth=1200",
-                "url": "https://www.abplive.com/entertainment/bollywood/mirzapur-the-movie-first-review-out-pankaj-tripathi-ali-fazal-film-better-than-season-2-and-3-according-to-viral-post-3183827",
-                "source": "ABP News",
-                "date": "2026-09-03T09:25:33Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "प्रियंका चोपड़ा पुरानी यादों में खोईं, लंदन में स्टोर बंद कराकर निक जोनस ने खरीदी थी उनके लिए परफेक्ट रिंग",
-                "desc": "हिंदी फिल्मों के बाद अब हॉलीवुड में बड़ा नाम बन चुकीं प्रियंका चोपड़ा ने अपनी पर्सनल लाइफ से जुड़ी दिलचस्प बात शेयर की है। एक्ट्रेस ने सोशल मीडिया पोस्ट के जरिए उस पल को याद किया है जब उन्होंने पति निक जोनस को अपना नंबर शेयर किया था।",
-                "image": "https://static.langimg.com/nbt/thumb/133731332/priyanka-chopra-gave-her-number-nick-jonas.jpg?imgsize=213004&width=1600&height=900&resizemode=75",
-                "url": "https://navbharattimes.indiatimes.com/entertainment/hollywood-news/priyanka-chopra-remembers-the-summer-of-2017-reveals-when-she-gave-nick-jonas-her-number/articleshow/133731017.cms",
-                "source": "Navbharat Times",
-                "date": "2026-09-03T09:12:22Z",
-                "priority": "STANDARD"
             }
         ],
         "sports": [
+            {
+                "title": "IND vs AFG T20: अभिषेक-संजू देखा, अभिषेक-वैभव भी आजमा लिया... अब ओपनिंग में संजू-वैभव की बारी?",
+                "desc": "संजू सैमसन की टीम इंडिया में वापसी के साथ टॉप ऑर्डर का समीकरण फिर चर्चा में है. अभिषेक शर्मा के साथ संजू और वैभव दोनों की ओपनिंग देखी जा चुकी है, लेकिन संजू-वैभव की जोड़ी अब तक नहीं आजमाई गई.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202609/6a994d09bf69f-vaibhav-sooryavanshi-sanju-samson-033340160-16x9.jpg",
+                "url": "https://www.aajtak.in/sports/cricket/story/sanju-samson-vaibhav-sooryavanshi-opening-pair-bmsp-dskc-2635449-2026-09-05",
+                "source": "AajTak",
+                "date": "2026-09-05T01:00:04Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "लुआन-ड्रे प्रीटोरियस ने रचा इतिहास, T20I में शतक ठोकने वाले बने सबसे युवा खिलाड़ी",
+                "desc": "लुआन-ड्रे प्रीटोरियस ने उस समय इतिहास रचा जब उन्होंने नामीबिया के खिलाफ ट्राई सीरीज में शतक ठोका। वह फुल मेंबर टीमों में टी20 इंटरनेशनल में शतक लगाने वाले सबसे युवा खिलाड़ी बन गए हैं।, Cricket Hindi News - Hindustan",
+                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/09/05/1600x900/logo/Lhuan-Dre_Pretorius_1788569916243_8c49a777-9606-48d6-932a-eed5f661fdd5_1788569922117_8733efcd-705b-4e85-805d-ca67e8befd9a_0cccbfa6-a899-4670-9cb2-7392400fd238_9ccbcf5f-bc23-46f1-bd36-478602d6e8c0.jpg",
+                "url": "https://www.livehindustan.com/cricket/lhuandre-pretorius-made-history-in-t20i-cricket-becoming-the-youngest-player-to-score-a-century-full-members-201788568602508.html",
+                "source": "Hindustan",
+                "date": "2026-09-05T00:59:36Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "मानव सुथार ने अब इंग्लैंड में बरपाया कहर, 7 विकेट लेकर टीम को दिलाई बड़ी जीत",
                 "desc": "भारतीय स्पिनर मानव सुथार ने भारत और श्रीलंका की स्पिन-फ्रेंडली पिचों पर बेहतरीन प्रदर्शन करने के बाद, अब इंग्लैंड की परिस्थितियों में भी अपनी घातक स्पिन गेंदबाजी का लोहा मनवाया है। वह काउंटी चैंपियनशिप में शानदार प्रदर्शन कर रहे हैं।",
@@ -2148,29 +2166,101 @@
                 "source": "ABP News",
                 "date": "2026-09-03T14:39:01Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "चहल की जादुई गेंद पर चारों खाने चित हुए बेन स्टोक्स, घूमती डिलीवरी ने उड़ा दिया ऑफ स्टम्प, VIDEO",
-                "desc": "युजवेंद्र चहल ने अपना आखिरी इंटरनेशनल मुकाबला अगस्त 2023 में वेस्टइंडीज के खिलाफ लॉडरहिल में खेला था. उसके बाद उन्हें भारतीय टीम की ओर से खेलने का मौका नहीं मिला है. चहल फिलहाल काउंटी क्रिकेट में अपनी गेंदों से विपक्षी बल्लेबाजों को परास्त कर रहे हैं.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202609/6a9960cbd8c4f-chahal-vs-stokes-035758437-16x9.png",
-                "url": "https://www.aajtak.in/sports/cricket/story/yuzvendra-chahal-bowls-ben-stokes-northamptonshire-vs-durham-county-championship-tspoa-dskc-2635512-2026-09-03",
-                "source": "Aaj Tak News",
-                "date": "2026-09-03T14:32:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "रोहित शर्मा को लेकर BCCI का बड़ा बयान, चीफ सेलेक्टर अजीत अगरकर आए ही नहीं",
-                "desc": "रोहित शर्मा को लेकर बीसीसीआई सचिव देवजीत सैकिया ने कहा है कि वे अच्छा खेल रहे हैं, इंटरनेट पर जो खबरें चल रही हैं, उन पर ध्यान देने की जरूरत नहीं है। इस बीच अजीत अगरकर मीटिंग में नहीं पहुंचे।",
-                "image": "https://resize.indiatv.in/resize/newbucket/1200_-/2026/09/rohit-sharma-12-ap-1788438193.jpg",
-                "url": "https://www.indiatv.in/sports/cricket/bcci-secy-devajit-saikia-statement-on-rohit-sharma-chief-selector-ajit-agarkar-did-not-turn-up-2026-09-03-1241123",
-                "source": "India TV Hindi",
-                "date": "2026-09-03T12:25:09Z",
-                "priority": "STANDARD"
             }
         ]
     },
     "en": {
         "general": [
+            {
+                "title": "Ongoing UNC investigation could take out Bill Belichick, for cause",
+                "desc": "Question of whether Belichick knew about, and didn't report, certain issues under investigation could bring him down.",
+                "image": "https://nbcsports.brightspotcdn.com/dims4/default/ec002b1/2147483647/strip/true/crop/4124x2320+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F9f%2F87%2Ff3180d0944d9a592a145f203b87a%2F2292152698.jpg",
+                "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ongoing-unc-investigation-could-take-out-bill-belichick-with-cause",
+                "source": "NBC Sports",
+                "date": "2026-09-05T00:04:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Judge extends block on Trump order aiming to limit mail voting",
+                "desc": "A federal judge is extending a legal block on President Donald Trump’s plan to regulate mail ballots during the midterm elections. The order Friday from U.S.",
+                "image": "https://dims.apnews.com/dims4/default/203696e/2147483647/strip/true/crop/5485x3655+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F4c%2F32%2F2fac057a069f1866402f0f48b7ee%2Fc4e150de2353426ab33fd4f67d9c0535",
+                "url": "https://apnews.com/article/election-2026-trump-mail-voting-postal-service-ce207ff2d0533de05cc2d299e91a0198",
+                "source": "AP News",
+                "date": "2026-09-05T00:03:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Rescue of Nepal hydropower workers ‘triumph for humans and humanity’, tunnelling expert says",
+                "desc": "Arnold Dix, an Australian engineer and geologist who worked at Ground Zero after 9/11, says finding two workers alive in Trishuli 3A ‘gives us hope’",
+                "image": "https://i.guim.co.uk/img/media/c30f786f74bf332ae1cab1f9a58a2cda9381c311/10_0_1066_853/master/1066.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4ae6ee50d387d6b5ccd4c3c40df147b5",
+                "url": "https://www.theguardian.com/world/2026/sep/05/rescue-of-nepal-hydropower-workers-triumph-for-humans-and-humanity-tunnelling-expert-says",
+                "source": "The Guardian",
+                "date": "2026-09-05T00:01:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Lindsay Clancy judge says he’ll declare a mistrial, but grants defense one hour to appeal",
+                "desc": "Lindsay Clancy’s triple-murder trial ended in a mistrial Friday, following a last-minute appeal by her attorney to prevent the outcome after the jury failed to reach a unanimous verdict.",
+                "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-08/260823-lindsay-clancy-murder-ww-1805-e05d13.jpg",
+                "url": "https://www.nbcnews.com/news/us-news/lindsay-clancy-jury-hopelessly-deadlocked-mistrial-declared-rcna594052",
+                "source": "NBC News",
+                "date": "2026-09-04T23:01:11Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump shrugs off Iran conflict and calls it 'small potatoes'",
+                "desc": "President Donald Trump describes the conflict in Iran as \"small potatoes\" and says he agrees with Vice President JD Vance's assertion that months of on-and-off attacks in the Middle East are no longer a “war.”",
+                "image": "https://dims.apnews.com/dims4/default/e38b69f/2147483647/strip/true/crop/8640x5757+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff9%2F07%2F30c5a56fdea49154296660b4aaeb%2Fb895d5d4941f42568cd7d96a98674d9b",
+                "url": "https://apnews.com/article/trump-iran-vance-war-23a45a2c45c048a9e894baeab89c7a2f",
+                "source": "AP News",
+                "date": "2026-09-04T22:52:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "WNBA Commissioner Cathy Engelbert to retire in December after transformative and tumultuous tenure",
+                "desc": "WNBA Commissioner Cathy Engelbert is retiring at the end the year, bringing to a close her seven-plus years at the helm of the league and a stewardship that has been transformative and at times tumultuous.",
+                "image": "https://dims.apnews.com/dims4/default/889a938/2147483647/strip/true/crop/5538x3690+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F30%2F1f%2Ff475c85b2c51054f08e76198be59%2Fd4d5bbdb47294b33996912c95d828896",
+                "url": "https://apnews.com/article/engelbert-retiring-wnba-commissioner-1cdfcb8a9839e9b84257e68e0791fa46",
+                "source": "AP News",
+                "date": "2026-09-04T22:48:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Pro Football Hall of Fame makes sweeping changes after Bill Belichick fiasco",
+                "desc": "The longtime Patriots head coach was denied entry in his first year of eligibility",
+                "image": "https://platform.patspulpit.com/wp-content/uploads/sites/121/2026/09/gettyimages-2198255149.jpg?quality=90&strip=all&crop=0%2C3.8769330707738%2C100%2C78.542083708436&w=1200",
+                "url": "https://www.patspulpit.com/new-england-patriots-news/136159/pro-football-hall-of-fame-sweeping-bill-belichick-fiasco",
+                "source": "Pats Pulpit",
+                "date": "2026-09-04T22:41:40Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Bloom Energy, Illumina, Everpure Rise On S&P 500 Index Inclusion",
+                "desc": "AI energy play Bloom Energy will be added to the S&P 500 index on Sept. 21. Illumina and Everpure also will join. The three stocks rose.",
+                "image": "https://www.investors.com/wp-content/uploads/2018/07/Stock-BloomEnergy-01-company.jpg",
+                "url": "https://www.investors.com/news/bloom-energy-illumina-everpure-rise-sp-500-index-inclusion/",
+                "source": "Investor's Business Daily",
+                "date": "2026-09-04T22:39:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Retired general calls Trump's proposed arch near Arlington a 'sacrilege'",
+                "desc": "The Trump administration plans to break ground within two weeks on a 250-foot arch just beyond the gates of Arlington National Cemetery. Critics say it would disrupt historic sightlines intended to symbolize the nation’s reconciliation after the Civil War. Geoff Bennett spoke with retired Army Maj. Gen. Paul Eaton of VoteVets, a veterans organization supporting a lawsuit to stop the project.",
+                "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/arch-1024x683.jpg",
+                "url": "https://www.pbs.org/newshour/show/retired-general-calls-trumps-proposed-arch-near-arlington-a-sacrilege",
+                "source": "PBS",
+                "date": "2026-09-04T22:35:28Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Brooks and Capehart on Trump calling Iran war 'small potatoes'",
+                "desc": "David Brooks of The Atlantic and Jonathan Capehart of MS NOW join Geoff Bennett to discuss the week in politics, including President Trump’s remarks calling the conflict with Iran \"small potatoes,\" the president's influence over the midterm elections, how Democrats are campaigning and Sen. Susan Collins' remarks on choosing relevance in the GOP over standing on principle.",
+                "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/brooks-1024x576.jpg",
+                "url": "https://www.pbs.org/newshour/show/brooks-and-capehart-on-trump-calling-iran-war-small-potatoes",
+                "source": "PBS",
+                "date": "2026-09-04T22:30:15Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Senior aides to U.K.'s Nigel Farage step down in donation scandal where reporter posed as wealthy American's son",
                 "desc": "Two senior aides to Nigel Farage, the firebrand leader of the U.K.'s populist Reform party, have stepped down in the wake of an investigative news report.",
@@ -2620,99 +2710,99 @@
                 "source": "AP News",
                 "date": "2026-09-04T03:47:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Iran hits US military targets in the region as Washington probes deadly wedding strike",
-                "desc": "Oil prices again spiked this week after a few weeks of relative stability following the renewed fighting as Iran continues to maintain a stranglehold over the strategic Strait of Hormuz, responsible for roughly 20% of global oil shipping.",
-                "image": "https://images.euronews.com/articles/stories/09/90/07/78/1200x675_cmsv2_0918394c-7f1e-52bd-9e51-5743a4ee7388-9900778.jpg",
-                "url": "https://www.euronews.com/2026/09/04/iran-hits-us-military-targets-in-the-region-as-washington-probes-deadly-wedding-strike",
-                "source": "Euronews.com",
-                "date": "2026-09-04T03:42:41Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "NVIDIA Confirms DLSS 5 Support Extends To RTX 40 GPUs, But First Focusing On Model Optimization on RTX 50 Series",
-                "desc": "NVIDIA DLSS 5 is going to be released on older RTX 40 GPUs and will be available once the model is fully tuned on RTX 50 series.",
-                "image": "https://cdn.wccftech.com/wp-content/uploads/2026/09/NVIDIA-DLSS-5-RTX-40-GPUs.jpg",
-                "url": "https://wccftech.com/nvidia-dlss-5-rtx-40-gpus-support-confirmed/",
-                "source": "Wccftech",
-                "date": "2026-09-04T03:30:14Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Deadly downtown Minneapolis shooting started as a custody exchange",
-                "desc": "The deadly downtown Minneapolis shooting Wednesday started as a custody exchange, authorities say. Here's what else we know about the incident so far.",
-                "image": "https://kstp.com/wp-content/uploads/2026/09/0902-MPLS-LOWRY-TOWERS-SHOOTING-KSTP_BCMP01_1_mxf_00.01.52.54.jpg",
-                "url": "https://kstp.com/kstp-news/top-news/deadly-downtown-minneapolis-shooting-started-as-a-custody-exchange-heres-what-else-we-know/",
-                "source": "5 EYEWITNESS NEWS",
-                "date": "2026-09-04T03:08:54Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Six Sleeps Until iPhone 18 Pro: Here's What We Know",
-                "desc": "We are just six sleeps away from Apple's unveiling of its new-generation iPhone 18 Pro and iPhone 18 Pro Max models, not forgetting its first foldable iPhone. Apple is expected to introduce the devices at its annual iPhone fall event, which is this year carrying the tagline \"Surprise and shine\". The event takes place on Wednesday, September 9.",
-                "image": "https://images.macrumors.com/t/jCNVR8SQl5unuaxtHgSQuoD4BiE=/2500x/article-new/2026/09/iPhone-18-Pro-What-We-Know-Feature.jpg",
-                "url": "https://www.macrumors.com/2026/09/03/iphone-18-pro-heres-what-we-know/",
-                "source": "MacRumors",
-                "date": "2026-09-04T02:25:35Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Photos show ‘Wheel of Fortune’ announcer Jim Thornton in alleged pedophilia chatroom for nearly an hour on plane",
-                "desc": "Photos show \"Wheel of Fortune\" announcer Jim Thornton in an alleged pedophilia chatroom on a flight.",
-                "image": "https://pagesix.com/wp-content/uploads/sites/3/2026/09/139522349.jpg?quality=75&strip=all&w=1200",
-                "url": "https://pagesix.com/2026/09/03/celebrity-news/photos-show-wheel-of-fortune-announcer-jim-thornton-in-alleged-pedophilia-chatroom-for-nearly-an-hour-on-plane/",
-                "source": "Page Six",
-                "date": "2026-09-04T02:01:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Wheel of Fortune's Jim Thornton Denies Pedophile Chat Room Plane Messages",
-                "desc": "Following the suspension of Wheel of Fortune announcer Jim Thornton, his lawyer spoke out on claims he was in a pedophile chat room on a flight and denied he’s ever viewed child pornography.",
-                "image": "https://akns-images.eonline.com/eol_images/Entire_Site/20260903/ad140336-5ad6-4146-8193-880dacef8896_1788481068.jpg?fit=around%7C1200:1200&output-quality=90&crop=1200:1200;center,top",
-                "url": "https://www.eonline.com/news/1435740/wheel-of-fortunes-jim-thornton-denies-pedophile-chat-room-plane-messages",
-                "source": "E! News",
-                "date": "2026-09-04T01:41:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Federal prosecutor fired after investigating ICE officer for civil rights offenses in Minnesota shooting, sources say",
-                "desc": "A federal prosecutor in Minnesota who was investigating an ICE officer for possible civil rights crimes has been fired, four sources familiar with the matter told CBS News.",
-                "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/02/21/6b4efbda-a79c-4d57-92c3-cbf1c0e42d86/thumbnail/1200x630g8/8ae1471beee7c1d60a1a6f70250fb047/gettyimages-2235443593.jpg",
-                "url": "https://www.cbsnews.com/news/ice-minnesota-federal-prosecutor-fired-investigating-castro-sosa-celis/",
-                "source": "CBS News",
-                "date": "2026-09-04T01:37:48Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "UMass Upsets Rutgers as Massive Underdogs, Snaps Longest Losing Streak in CFB, Final Box Score Stats",
-                "desc": "Led by a stellar performance from quarterback William Watson III, UMass pulled off a shocking 37-21 upset victory over Rutgers to begin the 2026 college football season at SHI Stadium on Thursday night.",
-                "image": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/2026-09/image-(12).png?w=1120&h=630",
-                "url": "https://bleacherreport.com/articles/25495945-umass-upsets-rutgers-massive-underdogs-snaps-longest-losing-streak-cfb-final-box-score-stats",
-                "source": "bleacherreport.com",
-                "date": "2026-09-04T01:37:23Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Louisiana judge rules against NCAA in eligibility case",
-                "desc": "LSU coach Lane Kiffin’s chances of fielding former NFL players improved Thursday night when a Louisiana judge issued a preliminary injunction against the NCAA in a high-profile eligibility case.",
-                "image": "https://dims.apnews.com/dims4/default/e93463b/2147483647/strip/true/crop/4794x3194+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F78%2F5f%2Fc34f58f51415ce78b4225e230e46%2F6a80194597394993b2dee682014ad801",
-                "url": "https://apnews.com/article/ncaa-eligibility-kiffin-lsu-sec-ff59236793bdefab677ceb728599aa84",
-                "source": "AP News",
-                "date": "2026-09-04T01:31:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Big Brother Recap: Lala Evicted",
-                "desc": "The Big Brother 28 jury officially has its first member — did Lala, Taylor, or Devens leave the house on Thursday night?",
-                "image": "https://www.tvline.com/img/gallery/bb28-eviction-juror-1/l-intro-1788484482.jpg",
-                "url": "https://www.tvline.com/2250846/big-brother-recap-lala-evicted-latrice-first-juror-season-28/",
-                "source": "TVLine",
-                "date": "2026-09-04T01:25:09Z",
-                "priority": "STANDARD"
             }
         ],
         "business": [
+            {
+                "title": "The Heart Drug Pelacarsen Fails, Shocking Novartis and Cardiologists",
+                "desc": "Doctors were hopeful the drug, which was being tested in a large clinical trial by Novartis, was going to be a powerful new tool to fight heart disease.",
+                "image": "https://static01.nyt.com/images/2026/09/04/science/04sci-novartis/04sci-novartis-facebookJumbo.jpg",
+                "url": "https://www.nytimes.com/2026/09/04/science/heart-drug-fails-novartis-pelacarsen.html",
+                "source": "The New York Times",
+                "date": "2026-09-04T23:42:44Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "College student brutally robbed at LA 7/11 in early-morning attack",
+                "desc": "An 18-year-old Cal State student was attacked around 12:30 a.m. on early Aug. 30 at a 7-Eleven on Hollywood Blvd by two suspects inside the store.",
+                "image": "https://nypost.com/wp-content/uploads/sites/2/2026/09/139637068.jpg?quality=75&strip=all&w=1200",
+                "url": "https://nypost.com/2026/09/04/us-news/college-student-brutally-robbed-at-la-7-11-in-early-morning-attack/",
+                "source": "New York Post",
+                "date": "2026-09-04T23:28:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Bloom Energy, Illumina, Everpure Rise On S&P 500 Index Inclusion",
+                "desc": "AI energy play Bloom Energy will be added to the S&P 500 index on Sept. 21. Illumina and Everpure also will join. The three stocks rose.",
+                "image": "https://www.investors.com/wp-content/uploads/2018/07/Stock-BloomEnergy-01-company.jpg",
+                "url": "https://www.investors.com/news/bloom-energy-illumina-everpure-rise-sp-500-index-inclusion/",
+                "source": "Investor's Business Daily",
+                "date": "2026-09-04T22:39:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "American Airlines passenger duct-taped to seat, plane diverted after mid-flight outburst",
+                "desc": "A picture shows the man with multiple loops of tape around his wrists, torso and head.",
+                "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/09/04/2e2f299f-67b4-4840-9bc1-c186c0f04123/thumbnail/1200x630/0c10024316b801c3e68b80adcae440d5/aa-flight-unruly-passen-wcbsiycx-hi-res-still-00-00-0603.jpg",
+                "url": "https://www.cbsnews.com/texas/news/american-airlines-passenger-duct-taped-to-seat/",
+                "source": "CBS News",
+                "date": "2026-09-04T22:37:37Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Here’s where a massive solar storm could take down the US power grid",
+                "desc": "New research maps show where a severe solar storm could strike. See if your neighborhood would lose power.",
+                "image": "https://media.cnn.com/api/v1/images/stellar/prod/share-image.jpg?c=original",
+                "url": "https://www.cnn.com/interactive/2026/07/weather/solar-storms-power-grid/",
+                "source": "CNN",
+                "date": "2026-09-04T22:28:30Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Popular Squishy Toys Pulled From Market After Children Are Hospitalized With Serious Injuries",
+                "desc": "“Once it touches you, there’s no way to get it off.”",
+                "image": "https://static.boredpanda.com/blog/wp-content/uploads/2026/09/fb_image_6a9b394fa1e5b.png",
+                "url": "https://2.boredpanda.com/popular-squishy-toys-pulled-from-market/",
+                "source": "Bored Panda",
+                "date": "2026-09-04T22:11:42Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Passengers who helped restrain disruptive man on American Airlines flight describe chaos",
+                "desc": "A passenger on a flight to Newark Airport in New Jersey was so disruptive, he had to be duct-taped to his seat.",
+                "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/09/04/20b1ea6f-cd1a-4a8b-9d23-d7d901cab471/thumbnail/1200x630/7b697a64b9a8ffe4e0385dc07d505b3a/aa-flight-unruly-passen-wcbsiycx-hi-res-still-1.jpg",
+                "url": "https://www.cbsnews.com/newyork/news/american-airlines-disruptive-passenger-restrained-witnesses-dallas-newark/",
+                "source": "cbsnews.com",
+                "date": "2026-09-04T22:09:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Frozen berry blend sold at Walmart recalled over E. coli contamination risk",
+                "desc": "Great Value frozen Organic Triple Berry Blend sold at Walmart has been recalled over E. coli contamination risk, expanding an earlier blueberry recall from July.",
+                "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/09/0/0/triple-berry-belnd-package.gif?ve=1&tl=1",
+                "url": "https://www.foxbusiness.com/lifestyle/e-coli-blueberry-recall-expanding-frozen-mixed-berry-packages-sold-walmarts-16-states",
+                "source": "Fox Business",
+                "date": "2026-09-04T22:05:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Campbell's cuts 13% of salaried workforce and closes snack plants",
+                "desc": "Campbell's closed two snack plants and saw volumes fall 6% in that segment as the company projects net sales to decline up to 4% in fiscal 2027.",
+                "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/09/0/0/campbells-chicken-noodle-soup-cans.jpg?ve=1&tl=1",
+                "url": "https://www.foxbusiness.com/markets/campbells-cuts-13-salaried-workforce-closes-plants-part-turnaround-effort",
+                "source": "Fox Business",
+                "date": "2026-09-04T21:58:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Record-high diesel prices slam California economy from trucks to crops",
+                "desc": "Record-high diesel prices are squeezing California’s economy, driving up fuel and operational costs for local farmers, trucking fleets and supply chains.",
+                "image": "https://ca-times.brightspotcdn.com/dims4/default/0595437/2147483647/strip/true/crop/6000x3150+0+425/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F13%2F13%2Fb1e83c244f45af20a32bbdbb74c8%2F1568136-port-of-long-beach-ajs-07.jpg",
+                "url": "https://www.latimes.com/california/story/2026-09-04/record-high-diesel-fuel-prices-slam-california-economy",
+                "source": "Los Angeles Times",
+                "date": "2026-09-04T21:56:49Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Stocks fall after a surprisingly strong jobs report raises prospects of an interest rate hike",
                 "desc": "Stocks fell on Wall Street and Treasury yields rose after a surprisingly strong report on the job market appeared to increase chances that the U.S. central bank could raise interest rates later this month.",
@@ -3162,99 +3252,99 @@
                 "source": "CNBC",
                 "date": "2026-09-03T20:33:31Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Adobe names Anil Chakravarthy as CEO, replacing Shantanu Narayen",
-                "desc": "Adobe announced Anil Chakravarthy as its next CEO, replacing Shantanu Narayen, who announced his departure last March.",
-                "image": "https://image.cnbcfm.com/api/v1/image/108355107-1787834424220-gettyimages-2291687986-schneider-adobeoff260826_nppiC.jpeg?v=1787834460&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/09/03/adobe-anil-chakravarthy-ceo.html",
-                "source": "CNBC",
-                "date": "2026-09-03T20:23:22Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Google's New AI Weather Model Uses Live Satellite Data For Higher",
-                "desc": "WeatherNext 3 is also supposed to be much better at predicting precipitation.",
-                "image": "https://www.engadget.com/img/gallery/googles-new-ai-weather-model-uses-live-satellite-data-for-higher-resolution-forecasts/l-intro-1788464884.jpg",
-                "url": "https://www.engadget.com/2250687/googles-new-ai-weather-model-uses-live-satellite-data-for-higher-resolution-forecasts/",
-                "source": "Engadget",
-                "date": "2026-09-03T19:56:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Zuckerberg Told Trump a National AI Regulator Is a Flawed Idea",
-                "desc": "The previously unreported call marks the involvement of one of the world's top tech executives in a fraught White House policy debate.",
-                "image": "https://i.insider.com/6a99a1f5b56943d508c4b252?width=1200&format=jpeg",
-                "url": "https://www.businessinsider.com/zuckerberg-told-trump-a-national-ai-regulator-is-a-flawed-idea-2026-9",
-                "source": "Business Insider",
-                "date": "2026-09-03T19:51:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The Cybercab is Tesla's ‘fork in the road’ moment",
-                "desc": "The company is about to formally launch the gold two-seater, with no steering wheel or pedals -- a move that could change Tesla forever.",
-                "image": "https://techcrunch.com/wp-content/uploads/2026/09/tesla-cybercab-austin-giga-getty.jpg?resize=1200,805",
-                "url": "https://techcrunch.com/2026/09/03/the-cybercab-is-teslas-fork-in-the-road-moment/",
-                "source": "techcrunch.com",
-                "date": "2026-09-03T19:42:48Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Trump’s 100% tariff on drones will be disaster for the US, critics warn",
-                "desc": "Americans fear there are no cheap alternatives as tariffs suddenly hit drones.",
-                "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2255920263-1024x648.jpg",
-                "url": "https://arstechnica.com/tech-policy/2026/09/trumps-100-drone-tariff-has-cops-and-firefighters-panicking/",
-                "source": "Ars Technica",
-                "date": "2026-09-03T17:08:09Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Automakers urge Congress to quickly ban Chinese vehicles in U.S.",
-                "desc": "Major automakers in the U.S. are urging Congress to ban the domestic sale, import and manufacturing of Chinese connected vehicles, hardware and software.",
-                "image": "https://image.cnbcfm.com/api/v1/image/108333834-1783918441707-gettyimages-2283163436-_DSC4514JPG.jpeg?v=1783918460&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/09/03/chinese-vehicles-congress.html",
-                "source": "CNBC",
-                "date": "2026-09-03T16:51:13Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Squeezy Dumplings toys recalled following rash of injuries",
-                "desc": "Popular squishy toys have been recalled due to concerns that the beads they contain could pose health hazards.",
-                "image": "https://nypost.com/wp-content/uploads/sites/2/2026/09/139468291.jpg?quality=75&strip=all&w=1200",
-                "url": "https://nypost.com/2026/09/03/lifestyle/squeezy-dumplings-toys-recalled-following-rash-of-injuries/",
-                "source": "New York Post",
-                "date": "2026-09-03T16:45:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Battle over prediction markets heads to U.S. Supreme Court",
-                "desc": "It was inevitable, and it is necessary.",
-                "image": "https://nbcsports.brightspotcdn.com/dims4/default/7e74a4d/2147483647/strip/true/crop/3000x1688+0+143/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F6e%2Fb5%2F34841e67472693c3e4570398bdc4%2Fsupreme.jpg",
-                "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/battle-over-prediction-markets-heads-to-u-s-supreme-court",
-                "source": "NBC Sports",
-                "date": "2026-09-03T16:37:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Mortgage rates rise to 6.71%: Freddie Mac",
-                "desc": "Mortgage rates rose this week, according to data from Freddie Mac released Thursday. The average rate on the 30-year fixed mortgage is 6.71%, up from 6.66% last week.",
-                "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/03/0/0/home-sale-couple-open-house.jpg?ve=1&tl=1",
-                "url": "https://www.foxbusiness.com/economy/mortgage-rates-jump-highest-level-over-year",
-                "source": "Fox Business",
-                "date": "2026-09-03T16:35:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Cramer Warns Broadcom's $30 Billion AI Bet Depends on a Stock You Cannot Buy",
-                "desc": "Jim Cramer says Broadcom's AI revenue forecast is the jaw-drop number of the year, but the customer driving it is a company no retail investor can actually own, and that hidden dependency may be the only thing that matters for AVGO shareholders.",
-                "image": "https://247wallst.com/wp-content/uploads/2026/02/NVIDIAs-100-Billion-Bet-For-2026.jpg",
-                "url": "https://247wallst.com/investing/2026/09/03/cramer-warns-broadcoms-30-billion-ai-bet-depends-on-a-stock-you-cannot-buy/",
-                "source": "24/7 Wall St.",
-                "date": "2026-09-03T16:23:00Z",
-                "priority": "STANDARD"
             }
         ],
         "entertainment": [
+            {
+                "title": "Bruce Campbell has 5 years to live, he tells Adam Carolla on podcast",
+                "desc": "The Royal Oak-born actor and 'Evil Dead' star announced his cancer diagnosis earlier this year.",
+                "image": "https://www.detroitnews.com/gcdn/authoring/authoring-images/2026/06/06/PDTN/90433213007-0606-kk-fe-bruce-campbell-06.jpg?crop=4733,2662,x0,y0&width=3200&height=1800&format=pjpg&auto=webp",
+                "url": "https://www.detroitnews.com/story/entertainment/movies/2026/09/04/bruce-campbell-has-5-years-to-live-he-tells-adam-carolla-on-podcast/91614732007/",
+                "source": "The Detroit News",
+                "date": "2026-09-04T23:46:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Man dies at Burning Man as rain and mud plague Nevada event",
+                "desc": "A person died at Burning Man this week in Nevada, event organizers announced Thursday.",
+                "image": "https://s.hdnux.com/photos/01/67/20/64/31264061/4/rawImage.jpg",
+                "url": "https://www.sfgate.com/travel/burningman/article/burning-man-death-2026-22418499.php",
+                "source": "sfgate.com",
+                "date": "2026-09-04T23:38:40Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Silo Sets Season 4 Premiere Date, Teaser Trailer On Apple TV",
+                "desc": "We have a date for Silo's final chapter: Find out when the fourth and final season of the Apple TV sci-fi thriller premieres, and get a sneak peek.",
+                "image": "https://www.tvline.com/img/gallery/silo-sets-premiere-date-for-fourth-and-final-season-on-apple-tv-plus-get-a-sneak-peek/l-intro-1788563206.jpg",
+                "url": "https://www.tvline.com/2251616/silo-season-4-release-date-teaser-trailer-apple-tv/",
+                "source": "TVLine",
+                "date": "2026-09-04T23:15:20Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Inside look at JK Rowling’s superyacht, complete with pool",
+                "desc": "New photos obtained by The Post reveal an exclusive look at \"Harry Potter\" author J.K. Rowling's secret $150 million superyacht, complete with a private deck jacuzzi.",
+                "image": "https://nypost.com/wp-content/uploads/sites/2/2026/09/139649163.jpg?quality=75&strip=all&w=1200",
+                "url": "https://nypost.com/2026/09/04/us-news/inside-look-at-jk-rowlings-superyacht-complete-with-pool/",
+                "source": "nypost.com",
+                "date": "2026-09-04T23:11:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Shia LaBeouf's Alleged Stalker Pleads Guilty, Ordered Not To Contact Actor But Avoids Jail Time",
+                "desc": "Shia LaBeouf may be able to rest a little easier ... the woman who had a weird confrontation with him in a parking lot just pleaded guilty to stalking and has been ordered not to come near the actor as part of her sentence ... but she did avoid jail ... TMZ has learned.",
+                "image": "https://imagez.tmz.com/image/c7/16by9/2026/09/04/c70ac030e8fd44a8b66eb621bcb264af_xl.jpg",
+                "url": "https://www.tmz.com/2026/09/04/shia-labeouf-stalker-pleads-guilty/",
+                "source": "TMZ",
+                "date": "2026-09-04T23:00:46Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Inside the Telluride Brunch, from John Malkovich to Carrie Coon",
+                "desc": "Inside the Telluride Film Festival opening brunch with the lineup's stars and filmmakers.",
+                "image": "https://www.indiewire.com/wp-content/uploads/2026/09/IMG_3093-e1788562025629.jpeg?w=650",
+                "url": "https://www.indiewire.com/awards/industry/inside-telluride-brunch-john-malkovich-carrie-coon-1235214989/",
+                "source": "IndieWire",
+                "date": "2026-09-04T22:49:32Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "JK Rowling's superyacht Samsara reportedly docks in Marina del Rey, Los Angeles",
+                "desc": "J.K. Rowling's superyacht Samsara is reportedly docked in Marina del Rey with its name covered, according to the California Post. The luxury yacht is worth an estimated $150 million.",
+                "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/jk-rowling-yacht-fox-news_002.jpg",
+                "url": "https://www.foxnews.com/travel/mysterious-150m-superyacht-docks-la-hidden-name-magical-connection",
+                "source": "Fox News",
+                "date": "2026-09-04T22:48:39Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "YouTuber Jack Doherty arrested on domestic battery charge in Fort Lauderdale",
+                "desc": "YouTuber Jack Doherty has had another run-in with the law in South Florida.",
+                "image": "https://www.local10.com/resizer/v2/NR7GWZVYAVBHPA3NASN63IFOHA.jpg?auth=3e490b62e6db39d79ecd2d74f9a9915a4a97d2e284090d5936f0d3221549be4a&width=700",
+                "url": "https://www.local10.com/news/local/2026/09/04/youtuber-jack-doherty-arrested-on-domestic-battery-charge-in-fort-lauderdale/",
+                "source": "WPLG Local 10",
+                "date": "2026-09-04T22:31:30Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Nicolas Cage's 'Spider-Noir' Canceled by Prime Video After One Season",
+                "desc": "Prime Video/MGM+'s Spider-Noir starring Nicolas Cage has been canceled after one season.",
+                "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/05/Spider-Noir_S1__250225_EPSAAR_00349R_BW_f_3000-H-2026.jpg?w=1296&h=730&crop=1",
+                "url": "https://www.hollywoodreporter.com/tv/tv-news/nicolas-cage-spider-noir-canceled-prime-video-1236691236/",
+                "source": "The Hollywood Reporter",
+                "date": "2026-09-04T22:15:36Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "In The Liberation, Carrie Coon Plays an Unexpected Cult Member:",
+                "desc": "Guy Nattiv‘s Telluride-bound drama, 'The Liberation,' is inspired by the real-life story of his own maternal grandmother.",
+                "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/Odessa-Young-Carrie-Coon-and-Lily-James-in-THE-LIBERATION-_-Courtesy_-Bleecker-Street-H-2026.jpg?w=1296&h=730&crop=1",
+                "url": "https://www.hollywoodreporter.com/movies/movie-features/the-liberation-carrie-coon-cult-member-1236691217/",
+                "source": "The Hollywood Reporter",
+                "date": "2026-09-04T22:05:34Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Jennifer Lawrence Says ‘I Can’t Do a Lot’ of Botox Because ‘I Need to Have Movement in My Face’ as an Actor, So ‘I Get Baby Botox’",
                 "desc": "Jennifer Lawrence opened up to Vogue about her relationship to cosmetic procedures and said she resists going overboard when it comes to botox because she is a working actor and facial movement is of ...",
@@ -3704,99 +3794,99 @@
                 "source": "The Hollywood Reporter",
                 "date": "2026-09-03T23:03:39Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Inside the Met Gala's options following the Galliano fiasco",
-                "desc": "Inside the Met Gala's options following the John Galliano fiasco.",
-                "image": "https://pagesix.com/wp-content/uploads/sites/3/2026/09/139509102.jpg?quality=75&strip=all&w=1200",
-                "url": "https://pagesix.com/2026/09/03/style/inside-the-met-galas-options-following-the-galliano-fiasco/",
-                "source": "Page Six",
-                "date": "2026-09-03T23:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'Wheel of Fortune’ announcer Jim Thornton was questioned by cops for accidentally visiting inappropriate site on airplane",
-                "desc": "Jim Thornton was suspended from \"Wheel of Fortune\" after being questioned by cops for accidentally visiting a pedophilia support site on a plane, his attorney claims.",
-                "image": "https://pagesix.com/wp-content/uploads/sites/3/2026/09/139511530.jpg?quality=75&strip=all&w=1200",
-                "url": "https://pagesix.com/2026/09/03/celebrity-news/wheel-of-fortune-announcer-jim-thornton-was-questioned-by-cops-for-accidentally-visiting-inappropriate-site-on-airplane/",
-                "source": "pagesix.com",
-                "date": "2026-09-03T22:26:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Jonathan Meléndez of Camilo Séptimo and family killed inside their home",
-                "desc": "Camilo Séptimo musician Jonathan Meléndez, his pregnant wife, their daughter and nanny were reportedly found shot dead in Atizapán de Zaragoza. Two suspects were arrested.",
-                "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/mexico-city-los-deportes-images-septimo.jpg",
-                "url": "https://www.foxnews.com/entertainment/musician-pregnant-wife-3-year-old-daughter-shot-killed-inside-home",
-                "source": "Fox News",
-                "date": "2026-09-03T22:05:14Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Fox News cuts ties with Maria Bartiromo, weeks after she vanished from her own shows",
-                "desc": "Bartiromo, who hosted \"Sunday Morning Futures\" and \"Mornings with Maria,\" has been off the air since Aug. 9.",
-                "image": "https://ca-times.brightspotcdn.com/dims4/default/de731dd/2147483647/strip/true/crop/5482x2878+0+384/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F9b%2Fcd%2F0cff04bf41acb19306076a27290d%2Fet-maria-bartiromo-gettyimages-07.JPG",
-                "url": "https://www.latimes.com/entertainment-arts/business/story/2026-09-03/maria-bartiromo-is-out-at-fox-news",
-                "source": "Los Angeles Times",
-                "date": "2026-09-03T20:55:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Jennifer Aniston's close circle 'not sold' on 'opportunist' boyfriend Jim Curtis: sources",
-                "desc": "Jennifer Aniston’s friends are reportedly divided over her romance with Jim Curtis, with some worrying the hypnotist is an \"opportunist.\"",
-                "image": "https://pagesix.com/wp-content/uploads/sites/3/2026/09/139498682.jpg?quality=75&strip=all&w=1200",
-                "url": "https://pagesix.com/2026/09/03/celebrity-news/jennifer-anistons-close-circle-not-sold-on-opportunist-boyfriend-jim-curtis/",
-                "source": "Page Six",
-                "date": "2026-09-03T20:28:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Sydney Sweeney, Scooter Braun kiss on gondola ride in Venice, Italy",
-                "desc": "Sydney Sweeney and Scooter Braun were spotted kissing on a gondola ride in Venice, Italy in new photos obtained by Page Six.",
-                "image": "https://pagesix.com/wp-content/uploads/sites/3/2026/09/139493154.jpg?quality=75&strip=all&w=1200",
-                "url": "https://pagesix.com/2026/09/03/celebrity-news/sydney-sweeney-scooter-braun-kiss-on-gondola-ride-in-venice-italy/",
-                "source": "Page Six",
-                "date": "2026-09-03T20:18:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "John Rich says Jelly Roll knew backlash risk from political views",
-                "desc": "John Rich says Jelly Roll knowingly risked losing country music fans by sharing political views on \"Jimmy Kimmel Live!\", calling it proof of his authenticity.",
-                "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/john-rich-jelly-roll-fox-news_.jpg",
-                "url": "https://www.foxnews.com/entertainment/john-rich-claims-jelly-roll-knew-lose-half-fans-political-comments",
-                "source": "Fox News",
-                "date": "2026-09-03T20:16:25Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Minute Ovation At Venice World Premiere",
-                "desc": "Martin McDonagh’s Wild Horse Nine received an almost 15-minute ovation at the Venice Film Festival after its world premiere.",
-                "image": "https://deadline.com/wp-content/uploads/2026/09/Wild-Horse-Nine-Venice-1.jpg?w=1024",
-                "url": "https://deadline.com/2026/09/wild-horse-nine-14-minutes-ovation-venice-film-festival-1237066729/",
-                "source": "Deadline",
-                "date": "2026-09-03T19:54:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Wild Horse Nine With John Malkovich, Sam Rockwell Earns Venice Ovation",
-                "desc": "Martin McDonagh’s 'Wild Horse Nine,' a dark comedy starring John Malkovich and Sam Rockwell, earned a standing ovation at Venice Film Festival.",
-                "image": "https://variety.com/wp-content/uploads/2026/09/MAB_1643.jpg?w=1000&h=563&crop=1",
-                "url": "https://variety.com/2026/film/festivals/wild-horse-nine-john-malkovich-sam-rockwell-venice-premiere-1236850074/",
-                "source": "Variety",
-                "date": "2026-09-03T19:52:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Son of former RHOA star Kim Zolciak indicted on sex crime charges",
-                "desc": "Kroy Biermann Jr., 15, is being charged as an adult after an alleged incident at an Alpharetta gym.",
-                "image": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FL2Z4P5M73RGY5PZEARYTBOCLMU.png?auth=67652d4ff3e72dbdc9b09ba74d1c5c8b1dc19561e3bd350258142b3208e1f24f&width=1200&height=630&smart=true",
-                "url": "https://www.wsbtv.com/news/local/son-former-rhoa-star-kim-zolciak-indicted-sex-crime-charges/TCPTK327DNHLDGOYVQDMGECOVM/",
-                "source": "WSB-TV",
-                "date": "2026-09-03T19:42:50Z",
-                "priority": "STANDARD"
             }
         ],
         "sports": [
+            {
+                "title": "Shilo Sanders bankruptcy trial ends with $12 Million at stake, no verdict",
+                "desc": "The bankruptcy court trial of Deion Sanders' son Shilo ended Friday in Denver. The former Colorado player is trying to escape $12 million in debt.",
+                "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/05/01/USAT/89893077007-getty-images-1930879420.jpg?crop=4187,2355,x0,y0&width=3200&height=1800&format=pjpg&auto=webp",
+                "url": "https://www.usatoday.com/story/sports/ncaaf/2026/09/04/shilo-sanders-bankruptcy-trial-ends-deion-sanders-colorado-football-john-darjean/91616382007/",
+                "source": "USA Today",
+                "date": "2026-09-05T00:35:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ongoing UNC investigation could take out Bill Belichick, for cause",
+                "desc": "Question of whether Belichick knew about, and didn't report, certain issues under investigation could bring him down.",
+                "image": "https://nbcsports.brightspotcdn.com/dims4/default/ec002b1/2147483647/strip/true/crop/4124x2320+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F9f%2F87%2Ff3180d0944d9a592a145f203b87a%2F2292152698.jpg",
+                "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ongoing-unc-investigation-could-take-out-bill-belichick-with-cause",
+                "source": "NBC Sports",
+                "date": "2026-09-05T00:04:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Toledo vs Michigan State Prediction, Odds, Time, Expert Picks for College Football Week 1",
+                "desc": "Read Toledo Rockets vs Michigan State Spartans predictions, picks and odds in our college football betting preview for Friday, September 4.",
+                "image": "https://images.actionnetwork.com/blog/2026/09/toledo-rockets-vs-michigan-state-spartans-prediction-pick-odds-college-football-friday-september-4.jpg",
+                "url": "https://www.actionnetwork.com/ncaaf/toledo-rockets-vs-michigan-state-spartans-prediction-pick-odds-college-football-friday-september-4",
+                "source": "Action Network",
+                "date": "2026-09-04T23:08:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Digging Deeper Into Liverpool’s Comfortable 2-0 Victory Over Ipswich Town",
+                "desc": "Alexander Isak and Cody Gakpo starred as Liverpool eased past a not very good Ipswich Town in Premier League action.",
+                "image": "https://platform.liverpooloffside.sbnation.com/wp-content/uploads/sites/99/2026/09/gettyimages-2292013153.jpg?quality=90&strip=all&crop=0%2C6.3253423099668%2C100%2C76.212680005226&w=1200",
+                "url": "https://liverpooloffside.sbnation.com/liverpool-fc-match-coverage/83384/digging-deeper-liverpool-comfortable-2-0-victory-ipswich-town-epl-2026",
+                "source": "The Liverpool Offside",
+                "date": "2026-09-04T23:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "New report raises questions about Mark Walter-linked Dodgers finances",
+                "desc": "A Pablo Torre investigation details a $350 million loan linked to Mark Walter and examines connections surrounding his purchase of the Dodgers.",
+                "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/09/04/USAT/91614641007-magic-mark-walter.JPG?crop=3415,1922,x0,y269&width=3200&height=1801&format=pjpg&auto=webp",
+                "url": "https://www.usatoday.com/story/sports/mlb/dodgers/2026/09/04/mark-walter-self-dealing-dodgers-finances-pablo-torre-report/91613157007/",
+                "source": "USA Today",
+                "date": "2026-09-04T22:47:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Two Indiana players get TRO to return for 2026",
+                "desc": "Curt Cignetti apparently is an agent of chaos, too.",
+                "image": "https://nbcsports.brightspotcdn.com/dims4/default/d835c36/2147483647/strip/true/crop/6888x3875+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F48%2Ff7%2F9bcc6e6147f2acf96b04aac4a9fd%2F1558610806.jpg",
+                "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/two-indiana-players-get-tro-to-return-for-2026",
+                "source": "NBC Sports",
+                "date": "2026-09-04T22:41:56Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Pro Football Hall of Fame makes sweeping changes after Bill Belichick fiasco",
+                "desc": "The longtime Patriots head coach was denied entry in his first year of eligibility",
+                "image": "https://platform.patspulpit.com/wp-content/uploads/sites/121/2026/09/gettyimages-2198255149.jpg?quality=90&strip=all&crop=0%2C3.8769330707738%2C100%2C78.542083708436&w=1200",
+                "url": "https://www.patspulpit.com/new-england-patriots-news/136159/pro-football-hall-of-fame-sweeping-bill-belichick-fiasco",
+                "source": "Pats Pulpit",
+                "date": "2026-09-04T22:41:40Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Kawhi saga a win for player empowerment, a rare rebuke of NBA ownership",
+                "desc": "The NBA’s announcement Wednesday of severe penalties against the Los Angeles Clippers and owner Steve Ballmer for circumventing the salary cap reminded me of a …",
+                "image": "https://andscape.com/wp-content/uploads/2026/09/GettyImages-1164006730-e1788554545253.jpg",
+                "url": "https://andscape.com/features/clippers-kawhi-leonard-penalties-steve-ballmer-nba/",
+                "source": "Andscape",
+                "date": "2026-09-04T22:17:59Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "As Aaron Rodgers plans to retire, the next step is fatherhood",
+                "desc": "Aaron Rodgers will retire from football after the upcoming season.",
+                "image": "https://nbcsports.brightspotcdn.com/dims4/default/ef4caad/2147483647/strip/true/crop/4649x2615+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F97%2Fb9%2Fe5a117464a43807314134788acac%2F2289856474.jpg",
+                "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/as-aaron-rodgers-plans-to-retire-the-next-step-is-fatherhood",
+                "source": "NBC Sports",
+                "date": "2026-09-04T22:05:46Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "FIBA World Cup 2026 Results, Day 1 Group Box Scores, Highlights & Day 2 Schedule Before KO Bracket",
+                "desc": "The race to be crowned the best national team in women's basketball has started as the United States made its 2026 tournament debut in Berlin.",
+                "image": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2026-09/2292879440_large_cropped.jpg?w=1121&h=630",
+                "url": "https://bleacherreport.com/articles/25496009-fiba-world-cup-2026-results-day-1-group-box-scores-highlights-day-2-schedule-ko-bracket",
+                "source": "Bleacher Report",
+                "date": "2026-09-04T22:04:20Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Pirates Reinstate Konnor Griffin, Designate Christian Bethancourt For Assignment",
                 "desc": "The Bucs get their young star back on the field.",
@@ -4246,98 +4336,8 @@
                 "source": "bleacherreport.com",
                 "date": "2026-09-04T01:37:23Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Schefter: Swift left practice due to 'a cramp'",
-                "desc": "ESPN's Adam Schefter reports that Bears RB D'Andre Swift left practice early on Thursday due to “a cramp.”",
-                "image": "https://nbcsports.brightspotcdn.com/dims4/default/c081314/2147483647/strip/true/crop/800x450+0+315/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F33%2F98%2F8ef878974910accd0e27b0dbae4a%2Fswift-dandre-800-1080-1caac29072a0b3cb.jpg",
-                "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-09-03/schefter-swift-left-practice-due-to-a-cramp",
-                "source": "NBC Sports",
-                "date": "2026-09-04T01:31:41Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Greg Schiano on the hot seat after Rutgers loses to 29-point underdog UMass",
-                "desc": "Greg Schiano is officially on the hot seat at Rutgers.",
-                "image": "https://nbcsports.brightspotcdn.com/dims4/default/9973ea8/2147483647/strip/true/crop/6359x3577+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F25%2F4c%2Fb34f103d493eb19adf72d3090535%2F2293408243.jpg",
-                "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/greg-schiano-on-the-hot-seat-after-rutgers-loses-to-29-point-underdog-umass",
-                "source": "NBC Sports",
-                "date": "2026-09-04T01:25:07Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Seahawks' new ownership group has 12 limited partners",
-                "desc": "It's fitting that the new owners of the team known for the 12th man have a group of 12 limited partners.",
-                "image": "https://nbcsports.brightspotcdn.com/dims4/default/4a71dbb/2147483647/strip/true/crop/3917x2203+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F90%2F24%2F99bf08844889958832ed941468bb%2F461740918.jpg",
-                "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/seahawks-new-ownership-group-has-12-limited-partners",
-                "source": "nbcsports.com",
-                "date": "2026-09-04T01:08:32Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Enes Kanter Freedom lawsuit targets Chicago Sky after ejection, ban",
-                "desc": "Former NBA player Enes Kanter Freedom is suing the Chicago Sky after being ejected from Wintrust Arena and indefinitely banned.",
-                "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/08/25/USAT/91464448007-getty-images-2291749735.jpg?crop=2477,1396,x0,y126&width=2477&height=1396&format=pjpg&auto=webp",
-                "url": "https://www.usatoday.com/story/sports/wnba/sky/2026/09/03/enes-kanter-freedom-lawsuit-chicago-sky-wnba/91599833007/",
-                "source": "USA Today",
-                "date": "2026-09-04T00:51:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Fantasy Football Start 'Em, Sit 'Em for Week 1 (2026)",
-                "desc": "Fantasy football Start 'Em, Sit 'Em and lineup advice for all 2026 Week 1 matchups. Joey analyzes in-depth Week 1 matchups via game-by-game breakdowns.",
-                "image": "https://www.rotoballer.com/wp-content/uploads/2026/08/Joe-Burrow-fantasy-football-rankings-nfl-dfs-rotoballer-icon_edited-1220x813-1-1220x813.jpg",
-                "url": "https://www.rotoballer.com/fantasy-football-start-em-sit-em-for-week-1-2026/1920545",
-                "source": "rotoballer.com",
-                "date": "2026-09-04T00:37:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Aryna Sabalenka frustrated by reporter's question about parties",
-                "desc": "Aryna Sabalenka did not appreciate being asked about her busy schedule before the start of the U.S. Open after her second-round win.",
-                "image": "https://cdn1.thecomeback.com/wp-content/uploads/sites/94/2026/09/sabalenka.png",
-                "url": "https://awfulannouncing.com/tennis/aryna-sabalenka-angry-parties-question-us-open.html",
-                "source": "awfulannouncing.com",
-                "date": "2026-09-04T00:34:34Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Pablo Torre Feels Vindicated for His Clippers Reporting and Has Words for ESPN",
-                "desc": "“Pablo Torre Finds Out” host on the NBA’s historic ruling against the Clippers, Kawhi Leonard’s slap on the wrist and ESPN undermining his reporting.",
-                "image": "https://variety.com/wp-content/uploads/2026/09/6th-annual-awards-for-excellence-in-audio-intuit-dome-openin-1000x667-1.jpg?w=1000&h=563&crop=1",
-                "url": "https://variety.com/2026/sports/news/pablo-torre-clippers-nba-kawhi-leonard-steve-ballmer-espn-mark-walter-lakers-1236851177/",
-                "source": "Variety",
-                "date": "2026-09-04T00:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Melbourne's MCG is ready for first-ever NFL game with Rams-49ers",
-                "desc": "A debut Down Under has been a long time coming for the NFL. It’s fitting, that the Los Angeles Rams and the San Francisco 49ers will be playing their season-opening game next week at the Melbourne Cricket Ground — known locally as the MCG or, more commonly, just as The G.",
-                "image": "https://static.www.nfl.com/image/upload/t_editorial_landscape_12_desktop/league/qsiruxyp5qbcpatuywn4",
-                "url": "https://www.nfl.com/news/melbourne-s-mcg-is-ready-for-first-ever-nfl-game-with-rams-49ers",
-                "source": "NFL.com",
-                "date": "2026-09-03T22:11:35Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "49ers land in Melbourne ahead of next week's game vs. Rams",
-                "desc": "The 49ers are Down Under, having landed in Australia.",
-                "image": "https://nbcsports.brightspotcdn.com/dims4/default/9ae020e/2147483647/strip/true/crop/8256x4644+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F61%2Fe0%2Fece99a324ad8baf654933a044e26%2F2287898987.jpg",
-                "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-land-in-melbourne-ahead-of-next-weeks-game-vs-rams",
-                "source": "NBC Sports",
-                "date": "2026-09-03T22:11:09Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Lombardi out as UNC investigators probe allegations of drug use, sex among players, staff",
-                "desc": "Lawyers investigating UNC football questioned people about allegations involving assistant Steve Belichick and, separately, about a possible sexual relationship between at least one employee and at least one player, people familiar with the probe tell WRAL. GM Michael Lombardi resigned Thursday.",
-                "image": "https://images.wral.com/1d1fda9a-4ed3-5b07-a358-1587057841b8?w=1200&h=630&height=630",
-                "url": "https://www.wral.com/sports/north-carolina-lombardi-out-general-manager-tar-heels-september-2026/",
-                "source": "WRAL",
-                "date": "2026-09-03T22:07:30Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-09-05T09:41:01.034929Z"
+    "lastGlobalSync": "2026-09-05T13:06:59.096041Z"
 }
