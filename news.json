@@ -2,6 +2,96 @@
     "hi": {
         "general": [
             {
+                "title": "मलबे के अंदर से आ रही हैं बचाने की आवाज़ें",
+                "desc": "दिल्ली के सत्य निकेतन इलाक़े में रविवार दोपहर एक इमारत ढह गई. इमारत के मलबे में कई स्टूडेंट के दबे होने की आशंका जताई जा रही है.",
+                "image": "https://ichef.bbci.co.uk/news/1200/branded_hindi/5dfb/live/5ee04730-a9d9-11f1-a291-b542ee92de7c.jpg",
+                "url": "https://www.bbc.com/hindi/articles/cvgyqdyzrz2o",
+                "source": "BBC",
+                "date": "2026-09-06T08:56:24Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "कल का मौसम 7 सितंबर: 17 घंटे के भीतर 22 राज्यों में मूसलाधार बारिश का अलर्ट, 50 की स्पीड से हवा; IMD का अपडेट",
+                "desc": "देश में मानसून के कहर के बीच मौसम विभाग ने एक और नया अलर्ट जारी कर दिया है। मौसम विभाग ने कल यानी 7 सितंबर के लिए दिल्ली, यूपी, बिहार समेत 22 राज्यों में भारी बारिश-आंधी की चेतावनी जारी की है। वहीं, इस बारिश के दौरान 50 किलोमीटर प्रति घंटे की रफ्तार तक की तेज आंधी चलने की संभावना है।",
+                "image": "https://static.langimg.com/nbt/thumb/133831084/weather-tomorrow-7-september.jpg?imgsize=124751&width=1600&height=900&resizemode=75",
+                "url": "https://navbharattimes.indiatimes.com/india/tomorrow-weather-7-september-2026-thunderstorm-and-heavy-rain-alert-in-22-states-within-17-hours-wind-speed-up-to-50-kmph-delhi-up-bihar-temperature/articleshow/133830680.cms",
+                "source": "navbharattimes.indiatimes.com",
+                "date": "2026-09-06T08:43:48Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "₹5 लाख की इस कार ने निकाल दी सबकी हेकड़ी, बिक्री में बनी नंबर-1; अगस्त में 20,180 घरों तक पहुंची",
+                "desc": "मारुति सुजुकी की कारों को भारतीय मार्केट में खूब पसंद किया जाता है। अगर बीते महीने यानी अगस्त, 2026 की बात करें तो मारुति सुजुकी वैगनआर (Maruti Suzuki WagonR) देश की बेस्ट-सेलिंग हैचबैक कार बन गई।, Auto Hindi News - Hindustan",
+                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/09/06/1600x900/logo/maruti_wagonr_1710751608091_1788683332731_0c44d7fa-0975-42db-9d88-a4c16e93f912_f559fbd3-907f-45dc-bf08-774bc4118267_188f0de9-f33f-489b-bb3c-c056822e87bb.jpg",
+                "url": "https://www.livehindustan.com/auto/maruti-suzuki-wagonr-became-the-best-selling-hatchback-car-in-august-2026-201788683184174.html",
+                "source": "Hindustan",
+                "date": "2026-09-06T08:29:19Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "ब्रिक्स समिट से पहले भारत-चीन में बड़ी वार्ता, अरुणाचल में LAC पर मिल रहे दोनों देशों के सैन्य कमांडर",
+                "desc": "ब्रिक्स सम्मेलन से पहले अरुणाचल में भारत और चीन के कोर कमांडरों की अहम बैठक हो रही है. दोनों पक्ष वास्तविक नियंत्रण रेखा (LAC) पर शांति बनाए रखने और तनाव टालने पर बातचीत कर सकते हैं.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202609/6a9d1dde9277a-india-china-border-060129108-16x9.png",
+                "url": "https://www.aajtak.in/india/news/story/india-china-military-commanders-meeting-arunachal-lac-talks-ntc-dhrj-rpti-2637454-2026-09-06",
+                "source": "aajtak.in",
+                "date": "2026-09-06T08:03:42Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "चिलिमे सुरंग में फंसी 6 जिंदगियां, रेस्क्यू के लिए दौड़े...",
+                "desc": "नेपाल की चिलिमे सुरंग में 6 लोगों के फंसे होने की आशंका. बाढ़ के बीच फंसे लोगों के लिए सांसद खुद बचाव कार्य में जुटे, इंजीनियरिंग ज्ञान से मदद की तैयारी.",
+                "image": "https://wpmedia.prabhatkhabar.com/uploads/2026/09/06/1788679146565/sizes/six-lives-trapped-in-a-tunnel-in-nepal-3b4014-hero.webp",
+                "url": "https://www.prabhatkhabar.com/world/6-trapped-in-chilime-tunnel-nepal-amid-floods-lawmaker-rushes-to-aid-rescue",
+                "source": "Prabhat Khabar",
+                "date": "2026-09-06T07:32:46Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'शिक्षा-रोजगार मांगने पर गोली मार दी?', सीवान में घायल छात्रों से मिले राहुल गांधी, PM-CM से पूछे तीखे सवाल",
+                "desc": "कांग्रेस नेता राहुल गांधी ने बिहार के सीवान में प्रदर्शन के दौरान घायल हुए छात्रों से मुलाकात की. छात्रों ने पुलिस पर बिना उकसावे गोलीबारी और जरूरत से ज्यादा बल प्रयोग का आरोप लगाया. राहुल गांधी ने X पोस्ट में छात्रों की चोटों और टूटे सपनों को लेकर सवाल उठाए.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202609/6a9d11df45730-rahul-gandhi-bihar-students-061017573-16x9.png",
+                "url": "https://www.aajtak.in/india/news/story/rahul-gandhi-meets-injured-students-siwan-bihar-police-firing-ntc-apdy-dskc-2637424-2026-09-06",
+                "source": "Aaj Tak News",
+                "date": "2026-09-06T07:26:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "फराह खान के बच्चे पढ़ाई के लिए गए विदेश, इमोशनल हुईं डायरेक्टर, बोलीं- 'मेरे दिल के तीन टुकड़े'",
+                "desc": "फराह खान ने एक इमोशनल इंस्टाग्राम पोस्ट शेयर किया, जिसमें उन्होंने बताया कि उनके तीनों बच्चे - दिवा, अन्या और जार पढ़ाई के लिए विदेश चले गए। इसके अलावा, उन्होंने मजाक में यह भी कहा कि तस्वीरों में उनके पति शिरीष कुंदर गायब हैं।",
+                "image": "https://resize.indiatv.in/resize/newbucket/1200_-/2026/09/untitled-design-2026-09-06t120254-1788676345.jpg",
+                "url": "https://www.indiatv.in/entertainment/bollywood/farah-khan-gets-emotional-as-her-children-leave-for-abroad-to-study-calls-them-three-pieces-of-my-heart-2026-09-06-1241594",
+                "source": "India TV Hindi",
+                "date": "2026-09-06T07:11:34Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "मलबे से रोने की आवाज और फिर हुआ चत्मकार, 10 दिन बाद मलबे से कैसे जिंदा निकली महिला, जानें पूरी कहानी",
+                "desc": "रेस्क्यू टीम के मुताबिक, बाढ़ के तेज बहाव ने पूरे घर को करीब 100 मीटर ऊपर की ओर खिसका दिया था। घर की साढ़े तीन मंजिलें पूरी तरह कीचड़ और मलबे में दब गई थीं। सिर्फ ऊपर की मंजिल का कुछ हिस्सा ही बाहर दिखाई दे रहा था। बचाव के बाद चंडिका को इलाज के लिए काठमांडू के बीरेंद्र अस्पताल ले जाया गया, International Hindi News - Hindustan",
+                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/09/06/1600x900/logo/_nepal_women_news_1788676814088_56ec1fe8-8418-4eac-98f5-23a9bbeae8c6_1788676872975_54c92e54-f7ac-4da8-b051-ae56a62567f8_0349a6c8-b979-4f47-a3b5-d810cf00fd1b_db7185a9-00f4-4379-a498-ad783e5822e4.jpg",
+                "url": "https://www.livehindustan.com/international/nepal-flash-floods-chandrika-shrestha-was-rescued-10-days-after-nuwakot-trishuli-flood-201788675518977.html",
+                "source": "Hindustan",
+                "date": "2026-09-06T06:59:58Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'मिर्जापुर द मूवी': थिएटर में भिड़े फैंस, लात-घूसों-चप्पलों से की मारपीट, जमकर चली बेल्‍टें, Inside Video",
+                "desc": "'मिर्जापुर द मूवी' को फैंस का जबरदस्त रिस्पॉन्स मिल रहा है. बॉक्स ऑफिस पर फिल्म अच्छी कमाई कर रही है. फिल्म के भौकाल के बीच थिएटर से एक वीडियो वायरल हो रहा है, जिसने हर किसी को हैरान कर दिया है.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202609/6a9d069a2dc09-mirzapur-movie-theatre-inside-video-062212731-16x9.jpg",
+                "url": "https://www.aajtak.in/entertainment/bollywood-news/story/mirzapur-movie-theatre-inside-video-munna-guddu-fans-clash-with-belts-chappals-kicks-viral-tmovf-dskc-2637403-2026-09-06",
+                "source": "Aaj Tak News",
+                "date": "2026-09-06T06:56:52Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Panchayat 5 OTT Release: पंचायत 5 की ओटीटी रिलीज का चल गया पता, कब और कहां स्ट्रीम होगी कॉमेडी सीरीज?",
+                "desc": "ओटीटी की सबसे लोकप्रिय वेब सीरीज पंचायत 5 की ओटीटी रिलीज को लेकर लेटेस्ट अपडेट सामने आ गया है।",
+                "image": "https://www.jagranimages.com/images/2026/09/06/template/image/panchayat-5-ott-release-1788673970915_v.webp",
+                "url": "https://www.jagran.com/entertainment/web-series-review-panchayat-5-ott-release-jitendra-kumar-comdey-drama-web-series-will-be-streaming-prime-video-on-this-date-40364028.html",
+                "source": "Jagran",
+                "date": "2026-09-06T06:47:00Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "वैभव सूर्यवंशी ने मोहम्मद सिराज को दिन में दिखाए तारे, लगाई बाउंड्री की झड़ी, देखें VIDEO",
                 "desc": "दलीप ट्रॉफी फाइनल मुकाबले में सभी की नजरें 15 साल के युवा ओपनिंग बल्लेबाज वैभव सूर्यवंशी को लेकर सभी की नजरें थी जिसमें वह पहली पारी में 44 रन बनाकर आउट हुए, लेकिन उससे पहले उनकी आक्रामक बल्लेबाजी जरूर देखने को मिली।",
                 "image": "https://resize.indiatv.in/resize/newbucket/1200_-/2026/09/vaibhav-sooryavanshi-45-1788673320.jpg",
@@ -450,99 +540,63 @@
                 "source": "AajTak",
                 "date": "2026-09-05T11:54:21Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "100 करोड़ पार हनुमान अंश, फिल्म की ब्लॉकबस्टर कमाई के बाद बड़ा ऐलान, इस राज्य में हुई टैक्स-फ्री",
-                "desc": "हनुमान अंश के ऐतिहासिक बॉक्स ऑफिस कलेक्शन के बाद इसे उत्तराखंड में टैक्स-फ्री घोषित कर दिया गया है. मीडिया के जरिए मुख्यमंत्री पुष्कर सिंह धामी ने खुद ये ऐलान किया है.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202609/6a9bf82ad8c28-hanuman-ansh-declared-tax-free-050821500-16x9.jpg",
-                "url": "https://www.aajtak.in/entertainment/bollywood-news/story/hanuman-ansh-declared-tax-free-uttarakhand-cm-pushkar-singh-dhami-neem-karoli-baba-tmovj-dskc-2637105-2026-09-05",
-                "source": "AajTak",
-                "date": "2026-09-05T11:46:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "मिर्जापुर मूवी के हिट होने की चार बड़ी वजहें, इन्हीं गलतियों की वजह से पिट जाते हैं सीक्वल",
-                "desc": "Mirzapur The Movie: मिर्जापुर मूवी उन्हीं कुछ वजहों से बॉक्स ऑफिस पर हिट हुई है, जिन वजहों को नजरअंदाज करके ज्यादातर फिल्मों के सीक्वल पिट जाते हैं।, Bollywood Hindi News - Hindustan",
-                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/09/05/1600x900/logo/MPur_1788608169876_4d7f8921-59fc-45cd-8c17-537117bb4db8_1788608175138_4f8b84f0-1a17-4bef-a35a-66efca80ebf8_1e223179-c4bf-4ff4-891b-0bbf14956472_2d8580fe-462b-4f1c-b0b6-b9c03f4b60ce.jpg",
-                "url": "https://www.livehindustan.com/entertainment/bollywood/mistakes-that-mirzapur-the-movie-avoided-and-went-superhit-even-though-it-was-a-sequel-201788607101751.html",
-                "source": "Hindustan",
-                "date": "2026-09-05T11:40:40Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "पाकिस्तान के 25 सैनिकों को मारा, एक्शन फिल्म जैसा Video भी बनाया... BLA का मुनीर को खुला चैलेंज!",
-                "desc": "बलूचिस्तान लिबरेशन आर्मी (BLA) ने एक फिल्मी वीडिया जारी किया है जिसमें पाकिस्तानी सेना का एक ट्रक जलता हुआ दिख रहा है. साथ ही, BLA ने 25 पाकिस्तानी सैनिकों के मारे जाने का दावा किया है.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202609/6a9c06206e69b-bla-video-screengrab-050755498-16x9.jpeg",
-                "url": "https://www.aajtak.in/world/story/balochistan-violence-baloch-liberation-army-claims-pakistani-soilders-killed-ntc-acwi-rpti-2637102-2026-09-05",
-                "source": "AajTak",
-                "date": "2026-09-05T11:36:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Mirzapur The Movie Box Office: दूसरे दिन बॉक्स ऑफिस पर आई सुनामी! शनिवार शाम 4 बजे तक 'मिर्जापुर' ने कर डाली बंपर कमाई",
-                "desc": "अब फिल्म के दूसरे के दिन के शुरुआती कलेक्शन सामने आ चुके हैं। तो चलिए देखते हैं 'मिर्जापुर: द मूवी' ने दूसरे दिन 4 बजे तक कितनी कमाई कर ली है।, Bollywood Hindi News - Hindustan",
-                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/09/05/1600x900/logo/Mirzapur_The_Movie_Box_Office_1788607987939_7adf7eab-1e13-4440-a5dc-dadbe470b0e7_1788608022783_2bef8a34-9788-4bc6-afa6-4ba1b9df9c0f_e3c6e1fd-d781-49c2-92df-77f73c08704b_561170b0-b4e7-450c-a076-c1fb173095e9.jpg",
-                "url": "https://www.livehindustan.com/entertainment/bollywood/mirzapur-the-movie-box-office-collection-day-2-till-4-pm-pankaj-tripathi-ali-fazal-film-earnings-dropped-201788606537027.html",
-                "source": "Hindustan",
-                "date": "2026-09-05T11:34:35Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "बदल जाएगा RCB का नाम? चेयरमैन आर्यमान बिड़ला ने तोड़ी चुप्पी",
-                "desc": "Royal Challengers Bengaluru: फ्रेंचाइजी के चेयरमैन आर्यमान बिड़ला ने RCB के नाम बदलने को लेकर बात की. टीम के मालिकाना हक बदलने के बाद से ही नाम में बदलाव की चर्चा तेज है.",
-                "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/09/05/981b809d699069c9f2ed87c4b4e703fa17886078713141364_original.jpg?impolicy=abp_cdn&imwidth=1200",
-                "url": "https://www.abplive.com/sports/cricket/rcb-chairman-aryaman-birla-on-royal-challengers-bengaluru-name-change-news-know-details-3184815",
-                "source": "ABP News",
-                "date": "2026-09-05T11:33:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'उम्र महज एक आंकड़ा', ईशान किशन को 'भूखे' Mohammed Shami की भारतीय टीम में वापसी का विश्‍वास",
-                "desc": "ईस्‍ट जोन के कप्‍तान ईशान किशन ने दलीप ट्रॉफी फाइनल से पहले विश्‍वास जताया कि तेज गेंदबाज मोहम्‍मद शमी भारतीय टीम में वापसी कर पाएंगे। किशन ने कहा कि शमी में वापसी की भूख बाकी है।",
-                "image": "https://www.jagranimages.com/images/2026/09/05/template/image/shamiini-1788607730307_v.webp",
-                "url": "https://www.jagran.com/cricket/apni-baat-ishan-kishan-confident-of-ahead-of-duleep-trophy-final-that-mohammed-shami-makes-comeback-in-india-cricket-team-40363429.html",
-                "source": "Jagran",
-                "date": "2026-09-05T11:32:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Billionaire Babumoshai: 95 साल उम्र... नेटवर्थ- 55000 करोड़, ये हैं बंगाल के सबसे अमीर आदमी",
-                "desc": "Bengal Richest Person: सीमेंट सेक्टर से ताल्लुक रखने वाले पश्चिम बंगाल के सबसे अमीर इंसान बेनु गोपाल बांगुर 95 साल की उम्र के हैं और इनकी कुल संपत्ति 55000 करोड़ रुपये है.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/photo_gallery/202609/6a994f30e6c5a-bengal-richest-man-034251128-16x9.jpg",
-                "url": "https://www.aajtak.in/business/news/photo/bengal-richest-man-95-year-old-benu-gopal-bangur-networth-55000-crore-know-his-business-tutc-2635474-2026-09-05",
-                "source": "AajTak",
-                "date": "2026-09-05T10:26:32Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "भारतीय सेना को बड़ी सफलता, जम्मू-कश्मीर में लश्कर का पाकिस्तानी कमांडर ढेर",
-                "desc": "जम्मू-कश्मीर के बडगाम जिले के यूसमर्ग इलाके में भारतीय सेना ने लश्कर-ए-तैयबा के पाकिस्तानी कमांडर यासिर को मार गिराया है। इसे सुरक्षाबलों के लिए बड़ी सफलता माना जा रहा है।, India News in Hindi - Hindustan",
-                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/09/05/1600x900/logo/yasir_Indian_Army_1788602873544_0cc44c4e-ba64-44b1-9be0-2dfea2a467fb_1788602876993_30a201ba-6eee-4f32-882d-500feaefa321_c0989dc7-01d1-4b2c-9aa9-a630e16457f7_498e9f8f-9792-4681-8af6-6b2df8557b32.jpg",
-                "url": "https://www.livehindustan.com/national/jammu-kashmir-budgam-encounter-lashkar-pakistani-commander-yasir-killed-by-indian-army-201788602610295.html",
-                "source": "Hindustan",
-                "date": "2026-09-05T10:10:09Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "दलीप ट्रॉफी फाइनल में गदर काटेंगे वैभव सूर्यवंशी, मोहम्मद सिराज-देवदत्त पडिक्कल की भी एंट्री, केएल राहुल को आराम",
-                "desc": "दलीप ट्रॉफी फाइनल में एक तरफ वैभव सूर्यवंशी, ईशान किशन और तिलक वर्मा जैसे युवा भारतीय सितारों पर नजरें होंगी. दूसरी तरफ बीसीसीआई एशियन गेम्स के मद्देनजर टीम इंडिया की तैयारियों को मजबूत करने के लिए पर्दे के पीछे अपनी रणनीति को अंतिम रूप दे रहा है.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202609/6a9be3454d053-vaibhav-sooryavanshi-053911706-16x9.jpg",
-                "url": "https://www.aajtak.in/sports/cricket/story/duleep-trophy-2026-final-vaibhav-sooryavanshi-ishan-kishan-siraj-east-zone-vs-south-zone-tspoa-dskc-2637023-2026-09-05",
-                "source": "AajTak",
-                "date": "2026-09-05T09:44:53Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "अगस्त में इन कंपनियों की हुई बल्ले-बल्ले, 509% तक बढ़ी सेल्स, ये हैं टॉप-10 EV ब्रांड",
-                "desc": "इलेक्ट्रिक टू-व्हीलर्स की भारतीय बाजार में सेल्स बढ़ रही हैं. अगस्त महीने में ओला इलेक्ट्रिक को छोड़ दें, तो सभी इलेक्ट्रिक टू-व्हीलर कंपनियों की सेल्स में ईयर-ऑन-ईयर इजाफा हुआ है. सबसे ज्यादा इलेक्ट्रिक स्कूटर्स और बाइक टीवीएस ने बेचे हैं. वहीं बजाज ऑटो ने टीवीएस के साथ अपना गैप कम कर लिया है. आइए जानते हैं दूसरी कंपनियों का हाल.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202609/6a9be2863e7f4-ather-450-053600731-16x9.jpg",
-                "url": "https://www.aajtak.in/auto/news/story/top-10-electric-2w-brands-august-2026-tvs-bajaj-ather-hero-ola-auam-dskc-2637024-2026-09-05",
-                "source": "AajTak",
-                "date": "2026-09-05T09:44:33Z",
-                "priority": "STANDARD"
             }
         ],
         "business": [
+            {
+                "title": "इस 7-सीटर को नंबर-1 से हटाना नामुमकिन! इसे 18,516 लोगों ने खरीद डाला; 26 KM है माइलेज",
+                "desc": "भारतीय ग्राहकों के बीच 7-सीटर कारों की डिमांड बढ़ती ही जा रही है। बीते महीने यानी अगस्त, 2026 की बात करें तो एक बार फिर मारुति सुजुकी अर्टिगा (Maruti Suzuki Ertiga) देश की बेस्ट-सेलिगं 7-सीटर बन गई।, Auto Hindi News - Hindustan",
+                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/09/06/1600x900/logo/Maruti_Suzuki_Ertiga_Waiting_Period_April_2024_1713608067062_1788684989814_057f77d6-b56a-442e-9414-5bee22647023_c47f0479-a500-4103-a600-9da68606e9d3_153c6cb4-b98d-4645-8450-e2c34a3cac78.jpg",
+                "url": "https://www.livehindustan.com/auto/maruti-suzuki-ertiga-best-selling-7-seater-car-august-2026-201788684822305.html",
+                "source": "Hindustan",
+                "date": "2026-09-06T08:56:56Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "31 दिन में 20,180 घरों तक पहुंची यह कार, ₹5 लाख है कीमत; बिक्री में बनी नंबर-1; माइलेज 25 km+",
+                "desc": "मारुति सुजुकी की कारों को भारतीय मार्केट में खूब पसंद किया जाता है। अगर बीते महीने यानी अगस्त, 2026 की बात करें तो मारुति सुजुकी वैगनआर (Maruti Suzuki WagonR) देश की बेस्ट-सेलिंग हैचबैक कार बन गई।, Auto Hindi News - Hindustan",
+                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/09/06/1600x900/logo/Maruti_WagonR_1712474852719_1788712195363_1242109e-9081-4b8f-812c-00a11dbfb0fc_ed40dbd0-a0e0-4227-a233-4ecb6c0cb4b2_991cef38-cd0b-4491-8f08-325d4f8aecf6.jpg",
+                "url": "https://www.livehindustan.com/auto/maruti-suzuki-wagonr-became-the-best-selling-hatchback-car-in-august-2026-201788683184174.html",
+                "source": "Hindustan",
+                "date": "2026-09-06T08:29:19Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "100KM रेंज... 9 गियर! Mercedes की E-साइकिल भारत में लॉन्च",
+                "desc": "Mercedes-Benz Electric Bicycle: जर्मन कार निर्माता कंपनी मर्सिडीज बेंज ने भारतीय बाजार में EMotorad के साथ मिलकर अपना इलेक्ट्रिक बाइक रेंज लॉन्च किया है.",
+                "image": "https://cf-img-a-in.tosshub.com/sites/visualstory/wp/2026/09/Mercedes-AMG-Petronas-Electric-Bike-ampITG-1788682471524.jpg?size=*:675",
+                "url": "https://www.aajtak.in/visualstories/auto/mercedes-benz-india-launch-amg-petronas-e-bike-electric-bicyle-auaw-285411-06-09-2026",
+                "source": "Aaj Tak News",
+                "date": "2026-09-06T08:25:48Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Gold Price: सोने की रफ्तार थमी है, खत्म नहीं हुई! एक्सपर्ट बोले गोल्ड बनाएगा नया रिकॉर्ड",
+                "desc": "Gold Price Outlook: सोने के दाम आने वाले समय में रिकॉर्ड हाई तक पहुंच सकते हैं। ऐसा मानना है कि गोल्डमैन स्कैस से जुड़े सीनियर एक्सपर्ट टोनी किम का। , Personal-investments Hindi News - Hindustan",
+                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/09/06/1600x900/logo/gold_1762846380349_1762846386363_1788682107939_3ab6adac-ad2b-4e32-a557-c1ce54165e6c_8b2f1968-2ddf-4b0d-824f-23bf557dd2e4_55b252f1-c487-4a63-abec-12b6ff828a18.jpg",
+                "url": "https://www.livehindustan.com/business/personal-investments/gold-speed-came-down-but-no-ended-expert-says-it-will-touch-record-high-check-201788681295308.html",
+                "source": "Hindustan",
+                "date": "2026-09-06T08:11:17Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "डिजायर से छिन गया नंबर-1 का ताज, इस देसी SUV ने मार ली बाजी, जुलाई में 21,320 लोगों ने खरीदा",
+                "desc": "टाटा पंच को भारतीय ग्राहकों के बीच खूब पसंद किया जाता है। इसका अंदाजा इस बात से लगाया जा सकता है कि एक बार फिर टाटा पंच (Tata Punch) देश की बेस्ट-सेलिंग कार बन गई।, Auto Hindi News - Hindustan",
+                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/09/06/1600x900/logo/Tata_Punch_1770302432928_1770302443357_1788682116050_32f588ab-d383-49ce-ad5e-eec905b7a5dd_4e7ebc1e-5f97-4d62-b7bb-664f1ea95de7_37ed00d8-8144-48e6-8c34-886ebd225d3e.jpg",
+                "url": "https://www.livehindustan.com/auto/top10-best-selling-cars-august-2026-punch-wagonr-fronx-swift-ertiga-201788681910394.html",
+                "source": "Hindustan",
+                "date": "2026-09-06T08:09:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "UPI से नहीं जुड़ेगा Alipay+, भारत सरकार ने सुरक्षा चिंताओं के चलते लगाई रोक, जानें क्या थी चीन से जुड़ी वजह",
+                "desc": "जनवरी में UPI से जुड़ने के लिए आए Alipay+ के प्रस्ताव को सरकार ने ठंडे बस्ते में डाल दिया है। ऐसा भारतीय यूजर्स के डेटा और वित्तीय जानकारी की सुरक्षा के मध्यनजर किया गया है। रिपोर्ट्स के मुताबिक सरकार ऐप के चीनी कनेक्शन को भी नजरअंदाज नहीं कर सकती थी, जिसकी वजह से इस इंटीग्रेशन पर फिलहाल रोक लगा दी गई है।",
+                "image": "https://static.langimg.com/nbt/thumb/133829562/alipay-not-going-to-integrate-with-upi.jpg?imgsize=1207693&width=1600&height=900&resizemode=75",
+                "url": "https://navbharattimes.indiatimes.com/tech/gadgets-news/india-blocks-alipay-upi-cross-border-payments-national-security-data-concerns-china-connection-details/articleshow/133829414.cms",
+                "source": "Navbharat Times",
+                "date": "2026-09-06T07:22:32Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "IPO Alert: अभी तो खुला भी नहीं... GMP निकला 200 के पार, ये आईपीओ कराएगा कमाई!",
                 "desc": "IPO Alert: 8 सितंबर को खुलने वाला इलेक्ट्रिकल कंपनी का आईपीओ ओपनिंग से पहले ही निवेशकों को जोरदार कमाई कराने का सिग्नल दे रहा है. ग्रे-मार्केट में इसका GMP अभी से 200 रुपये के पार निकल चुका है.",
@@ -1028,63 +1082,72 @@
                 "source": "aajtak.in",
                 "date": "2026-09-05T04:30:08Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "एंकर निवेशकों से कंपनी ने जुटाए 84 करोड़ रुपये, GMP 37 रुपये, अगले हफ्ते से IPO ओपन",
-                "desc": "Pranav Constructions IPO: प्रणव कंस्ट्रक्शन लिमिटेड आईपीओ अगले हफ्ते खुलेगा। ग्रे मार्केट में कंपनी के आईपीओ की स्थिति काफी मजबूत है। , Share-market Hindi News - Hindustan",
-                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/09/05/1600x900/logo/IPO_1752384427454_1752384427808_1788582179024_c91b8ba2-a8b7-4206-892a-fc261eeff6f5_c50a76a4-5ce7-43ed-a9e9-3bcbfa5450f9_802d15fb-611f-4c75-94de-bf7d7d89e8b3.jpeg",
-                "url": "https://www.livehindustan.com/business/share-market/pranav-constructions-ipo-gmp-today-reached-37-rupee-anchor-investors-raised-84-crore-rupee-check-details-here-201788581968063.html",
-                "source": "Hindustan",
-                "date": "2026-09-05T04:25:25Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "इलेक्ट्रिक कार लेने में मत करना जल्दबाजी! बहुत जल्द आ रहीं ये 5 नई EV, 2 मॉडल तो बहुत सस्ती होंगी",
-                "desc": "देश के इलेक्ट्रिक फोर-व्हीलर सेगमेंट में आने वाले दिनों में कई दूसरे मॉडल की एंट्री होने वाली है। दरअसल, अगले कुछ महीने में टाटा, महिंद्रा, हुंडई और होंडा अपनी नई इलेक्ट्रिक कार भारत में लॉन्च करेंगी। इनमें से कई अफॉर्डेबल मॉडल भी होंगे।, Auto Hindi News - Hindustan",
-                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/09/05/1600x900/logo/Affordable_New_Electric_Cars_Launching_Soon_178858_1788581746830_4fdd5eef-955b-4ee8-bcf0-ecfa81aa9fd1_1788581746982_0341a1e0-0651-49d3-b3b5-f47a052d3661_c444b190-9e1e-4275-8b7f-981a40caf95d_937f8733-4bf3-41ca-98f6-619ce093c4f0.jpg",
-                "url": "https://www.livehindustan.com/auto/5-affordable-new-electric-cars-launching-soon-201788581294451.html",
-                "source": "Hindustan",
-                "date": "2026-09-05T04:16:09Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "NSE IPO: देश के सबसे बड़े आईपीओ को मिली मंजूरी, प्राइस बैंड, खुलने और लिस्टिंग की डेट, GMP? जानिए सबकुछ",
-                "desc": "नैशनल स्टॉक एक्सचेंज (NSE) के आईपीओ को आखिरकार सेबी की मंजूरी मिल गई है। दुनिया के सबसे बड़े डेरिवेटिव एक्सचेंज का आईपीओ भारत का अब तक का सबसे बड़ा इश्यू हो सकता है। यह आईपीओ मार्केट वैल्यू के हिसाब से कंपनी भारत की 10 सबसे बड़ी कंपनियों की लिस्ट में शामिल कर देगा।",
-                "image": "https://static.langimg.com/nbt/thumb/133787071/nse-ipo-news.jpg?imgsize=167414&width=1600&height=900&resizemode=75",
-                "url": "https://navbharattimes.indiatimes.com/business/share-market/share-news/sebi-gives-green-light-to-nse-ipo-know-price-band-launch-date-and-gmp/articleshow/133786958.cms",
-                "source": "Navbharat Times",
-                "date": "2026-09-05T04:08:38Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "NSE IPO को लेकर बड़ा अपडेट, इस दिन लिस्‍ट हो सकता हैं शेयर",
-                "desc": "एनएसई के आईपीओ को लेकर बड़ा अपडेट सामने आया है. इस आईपीओ की लिस्‍टि‍ंग 26 सितंबर से पहले कभी भी हो सकता है. इसके साथ ही 11 सितंबर को प्राइस बैंड का ऐलान हो सकता है.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202609/6a9ac54fea31d-nse-ipo-valuation-184656420-16x9.jpeg",
-                "url": "https://www.aajtak.in/business/news/story/nse-ipo-big-update-listing-date-price-band-other-details-tutd-dskc-2636495-2026-09-05",
-                "source": "AajTak",
-                "date": "2026-09-05T03:46:58Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "खत्म हो रही Flipkart Sale, मिल रहे बंपर ऑफर, कीमत ₹ 99 से शुरू",
-                "desc": "Flipkart Sale Kab Hai : फ्लिपकार्ट बिग बचत डेज सेल लाइव है, जहां स्मार्ट टीवी, वॉशिंग मशीन, स्मार्टफोन आदि को खरीदना चाहिए.",
-                "image": "https://cf-img-a-in.tosshub.com/sites/visualstory/wp/2026/09/Flipkart-pay-laterITG-1788313073509.jpg?size=*:675",
-                "url": "https://www.aajtak.in/visualstories/technology/flipkart-sale-phone-smart-tv-washing-machine-tws-discount-ttecr-285362-05-09-2026",
-                "source": "AajTak",
-                "date": "2026-09-05T03:44:23Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "इंसान नहीं AI ने हाईजैक की पूरी वेबसाइट! OpenAI के नए 'AI ब्रेकआउट' ने बढ़ाई पूरी दुनिया की चिंता, क्या छूट रहा कंट्रोल?",
-                "desc": "नाइटिंगेल कलेक्टिव की एक नई रिपोर्ट में खुलासा हुआ है कि OpenAI के AI एजेंट्स ने जर्मन प्लेटफॉर्म DseWiki को हैक कर अपने सीक्रेट मैसेज बोर्ड की तरह इस्तेमाल किया और पकड़े जाने से बचने के लिए 15,000 एडिट्स यानी वदलाव भी किए।",
-                "image": "https://static.langimg.com/nbt/thumb/133786379/openai-agents-hijacked-german-website-before-hugging-face-and-did-15000-edits-report-claim.jpg?imgsize=2341218&width=1600&height=900&resizemode=75",
-                "url": "https://navbharattimes.indiatimes.com/tech/ai-news/openai-agents-hijacked-german-website-before-hugging-face-and-did-15000-edits-report-claim/articleshow/133786379.cms",
-                "source": "Navbharat Times",
-                "date": "2026-09-05T03:43:57Z",
-                "priority": "STANDARD"
             }
         ],
         "entertainment": [
+            {
+                "title": "महात्‍मा गांधी के रूप में मनोज बाजपेयी को देख सब दंग, अनुभव सिन्‍हा-सुधीर मिश्रा की फिल्‍म के लिए ट्रांसफॉर्मेशन",
+                "desc": "मनोज बाजपेयी का महात्मा गांधी के किरदार में जबरदस्त ट्रांसफॉर्मेशन सामने आया है। सुधीर मिश्रा की हिस्टोरिकल ड्रामा फिल्म से सामने आए उनके फर्स्ट लुक ने फैंस को चौंका दिया है। आजादी के दौर की कहानी पर बनी इस फिल्म में मनोज पहली बार गांधी जी के किरदार में नजर आएंगे।",
+                "image": "https://static.langimg.com/nbt/thumb/133830580/manoj-bajpayee-as-mahatma-gandhi.jpg?imgsize=720620&width=1600&height=900&resizemode=75",
+                "url": "https://navbharattimes.indiatimes.com/entertainment/news-from-bollywood/manoj-bajpayee-as-mahatma-gandhi-transformation-anubhav-sinha-and-sudhir-mishra-upcoming-historical-drama-film/articleshow/133830319.cms",
+                "source": "Navbharat Times",
+                "date": "2026-09-06T08:13:28Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "महात्मा गांधी का रोल निभाएंगे मनोज बाजपेयी, घटाया 10 किलो वजन, फर्स्ट लुक देख चौंके फैन्स",
+                "desc": "बॉलीवुड के मशहूर एक्टर मनोज बाजपेयी अब महात्मा गांधी के रोल में नजर आएंगे. महात्मा गांधी के किरदार के लिए उन्होंने गजब का ट्रांसफॉर्मेशन किया है, जिसे देखकर फैन्स चौंक गए हैं.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202609/6a9d1ca9690a6-manoj-bajpayee-as-mahatma-dandhi-first-look-out-065619846-16x9.jpg",
+                "url": "https://www.aajtak.in/entertainment/bollywood-news/story/manoj-bajpayee-as-mahatma-gandhi-first-look-out-shoots-begins-in-lucknow-tmovf-dskc-2637449-2026-09-06",
+                "source": "Aaj Tak News",
+                "date": "2026-09-06T07:59:49Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'मिर्जापुर द मूवी' इंटीमेट सीन करने से नहीं हिचके 'मुन्ना भैया', बोले- बेड पर...",
+                "desc": "फिल्म में मुन्ना भैया का किरदार निभाने वाले दिव्येंदु शर्मा की तारीफ हो रही है. फिल्म में इंटीमेट सीन्स हैं, जिसे करने में वो बिल्कुल नहीं हिचके.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/photo_gallery/202609/6a9d16d598051-divyenndu-063128152-16x9.jpg",
+                "url": "https://www.aajtak.in/entertainment/bollywood-news/photo/mirzapur-the-movie-munna-bhaiya-aka-divyenndu-bold-intimate-scene-didnt-hesitate-tmovb-2637427-2026-09-06",
+                "source": "Aaj Tak News",
+                "date": "2026-09-06T07:38:03Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "फराह खान के बच्चे पढ़ाई के लिए गए विदेश, इमोशनल हुईं डायरेक्टर, बोलीं- 'मेरे दिल के तीन टुकड़े'",
+                "desc": "फराह खान ने एक इमोशनल इंस्टाग्राम पोस्ट शेयर किया, जिसमें उन्होंने बताया कि उनके तीनों बच्चे - दिवा, अन्या और जार पढ़ाई के लिए विदेश चले गए। इसके अलावा, उन्होंने मजाक में यह भी कहा कि तस्वीरों में उनके पति शिरीष कुंदर गायब हैं।",
+                "image": "https://resize.indiatv.in/resize/newbucket/1200_-/2026/09/untitled-design-2026-09-06t120254-1788676345.jpg",
+                "url": "https://www.indiatv.in/entertainment/bollywood/farah-khan-gets-emotional-as-her-children-leave-for-abroad-to-study-calls-them-three-pieces-of-my-heart-2026-09-06-1241594",
+                "source": "India TV Hindi",
+                "date": "2026-09-06T07:11:34Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'मिर्जापुर द मूवी': थिएटर में भिड़े फैंस, लात-घूसों-चप्पलों से की मारपीट, जमकर चली बेल्‍टें, Inside Video",
+                "desc": "'मिर्जापुर द मूवी' को फैंस का जबरदस्त रिस्पॉन्स मिल रहा है. बॉक्स ऑफिस पर फिल्म अच्छी कमाई कर रही है. फिल्म के भौकाल के बीच थिएटर से एक वीडियो वायरल हो रहा है, जिसने हर किसी को हैरान कर दिया है.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202609/6a9d069a2dc09-mirzapur-movie-theatre-inside-video-062212731-16x9.jpg",
+                "url": "https://www.aajtak.in/entertainment/bollywood-news/story/mirzapur-movie-theatre-inside-video-munna-guddu-fans-clash-with-belts-chappals-kicks-viral-tmovf-dskc-2637403-2026-09-06",
+                "source": "Aaj Tak News",
+                "date": "2026-09-06T06:56:52Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Netflix Trends: आज संडे को नेटफ्लिक्स पर सबसे ज्यादा देखी जा रही हैं ये 10 फिल्में, नंबर 1 ने सबको पछाड़ा",
+                "desc": "Netflix Trends नेटफ्लिक्स पर आज संडे को इन 10 फिल्मों का धमाका हो रहा है। देश में सबसे ज्यादा देखी जा रही हैं ये फिल्में। आलिया भट्ट की फिल्म कको पीछे कर ये एक्टर कर रहा है नंबर 1 पर राज।, Bollywood Hindi News - Hindustan",
+                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/09/06/1600x900/logo/yshefffdhnf_1788677096966_24f76785-979f-4979-a281-947de80ea6a7_1788677101138_6d7811e9-59aa-433c-a3b2-644f2a35cbce_3bf103ad-e777-42c8-adc6-62bf7f6511ae_e2a0e9d7-6c25-4578-8035-1eb7cfe7291e.jpg",
+                "url": "https://www.livehindustan.com/entertainment/bollywood/netflix-trendings-films-sunday-ajay-devgn-dhamaal-4-to-alia-bhatt-alpha-are-most-watched-film-today-201788676533911.html",
+                "source": "Hindustan",
+                "date": "2026-09-06T06:48:09Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Panchayat 5 OTT Release: पंचायत 5 की ओटीटी रिलीज का चल गया पता, कब और कहां स्ट्रीम होगी कॉमेडी सीरीज?",
+                "desc": "ओटीटी की सबसे लोकप्रिय वेब सीरीज पंचायत 5 की ओटीटी रिलीज को लेकर लेटेस्ट अपडेट सामने आ गया है।",
+                "image": "https://www.jagranimages.com/images/2026/09/06/template/image/panchayat-5-ott-release-1788673970915_v.webp",
+                "url": "https://www.jagran.com/entertainment/web-series-review-panchayat-5-ott-release-jitendra-kumar-comdey-drama-web-series-will-be-streaming-prime-video-on-this-date-40364028.html",
+                "source": "jagran.com",
+                "date": "2026-09-06T06:47:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "दुनिया देख पाएगा 'हनुमान अंश' सिंगर, नीम करोली बाबा की बरसी कृपा, CM मोहन यादव कराएंगे आंखों का इलाज",
                 "desc": "नीम करोली बाबा के जीवन पर बनी फिल्म हनुमान अंश ने 2 करोड़ की लागत में 111 करोड़ रुपये की कमाई की है. बुंदेली गायक सुनील लोधी के गाए भजन 'मैंने तेरे ही भरोसे' ने दर्शकों का दिल जीता है. मध्य प्रदेश के मुख्यमंत्री डॉ मोहन यादव ने सुनील से मुलाकात कर उनकी आंखों के इलाज का वादा किया.",
@@ -1092,6 +1155,15 @@
                 "url": "https://www.aajtak.in/entertainment/bollywood-news/story/neem-karoli-baba-hanuman-ansh-singer-sunil-lodhi-cm-mohan-yadav-eye-treatment-111-crore-box-office-magic-tmovb-dskc-2637395-2026-09-06",
                 "source": "Aaj Tak News",
                 "date": "2026-09-06T06:14:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'बिग बॉस 20' में मनोज तिवारी की बेटी की हुई एंट्री, सलमान खान ने ऋति को दी खास सलाह",
+                "desc": "सलमान खान के शो बिग बॉस सीजन 20 में मनोज तिवारी की बेटी नजर आने वाली हैं। दर्शक 6 सितंबर से इस शो को जियो हॉटस्टार और कलर्स टीवी पर देख सकते हैं।",
+                "image": "https://resize.indiatv.in/resize/newbucket/1200_-/2026/09/untitled-design-2026-09-06t110305-1788672756.jpg",
+                "url": "https://www.indiatv.in/entertainment/tv/manoj-tiwari-daughter-rhiti-makes-grand-entry-in-bigg-boss-20-salman-khan-special-advice-to-her-2026-09-06-1241579",
+                "source": "India TV Hindi",
+                "date": "2026-09-06T05:50:35Z",
                 "priority": "STANDARD"
             },
             {
@@ -1552,81 +1624,54 @@
                 "source": "AajTak",
                 "date": "2026-09-05T01:40:05Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Box Office: नीम करोली बाबा पर बनी 'हनुमान अंश' ने जन्माष्टमी पर भी मचाई गजब धूम, TOXIC की बजी बैंड",
-                "desc": "नीम करोली बाबा की कहानी सुनाती फिल्म 'हनुमान अंश' को थिएटरों में 29 दिन बीत चुके हैं और फिल्म रोड नया इतिहास रच रही है। जन्माष्टमी पर भी इस फिल्म ने थिएटरों में अपना कमाल दिखाया है। वहीं 10 दिन पहले रिलीज यश की फिल्म 'टॉक्सिक' की कमाई की बैंड बज गई है।",
-                "image": "https://static.langimg.com/nbt/thumb/133783641/hanuman-ansh-box-office-collection-day-29.jpg?imgsize=190278&width=1600&height=900&resizemode=75",
-                "url": "https://navbharattimes.indiatimes.com/entertainment/box-office/hanuman-ansh-box-office-collection-day-29-vs-yash-starrer-toxic-second-friday-performance/articleshow/133783418.cms",
-                "source": "Navbharat Times",
-                "date": "2026-09-05T01:25:37Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Mirzapur The Movie Box Office Day 1: पहले दिन बॉक्स ऑफिर पर मचा मिर्जापुर द मूवी का भौकाल, कितनी हुई कमाई?",
-                "desc": "मिर्जापुर द मूवी ने रिलीज होते ही बॉक्स ऑफिस पर गर्दा उड़ाने का काम किया है. हनुमान अंश की आंधी के बावजूद, मिर्जापुर को पहले दिन बेहतरीन ओपनिंग मिली है.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202609/6a9afa92e3b64-mirzapur-the-movie-box-office-day-1-040621133-16x9.png",
-                "url": "https://www.aajtak.in/entertainment/bollywood-news/story/mirzapur-the-movie-box-office-collection-day-1-ali-fazal-divyendu-sharma-pankaj-tripathi-ravi-kishan-tmovj-dskc-2636596-2026-09-05",
-                "source": "AajTak",
-                "date": "2026-09-05T01:19:57Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Teacher's Day: ‘तारे जमीन पर’ से ‘सुपर 30’ तक, इन 5 फिल्मों में दिखी गुरु-शिष्य के रिश्ते का असली मतलब",
-                "desc": "एक टीचर और स्टुडेंट का रिश्ता होता ही ऐसा हैं जो स्टुडेंड को अपने मंजिल तक पहुंचने में सहयोग करते हैं. बॉलीवुड में भी ऐसी कई सारी फिल्म हैं जो टीजर की कहानी दिखाई गई है, जिन्होंने अपने छात्रों की जिंदगी बदल दी.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/photo_gallery/202609/6a9aab1070914-5-films-describes-teachers-day-best-042707492-16x9.jpg",
-                "url": "https://www.aajtak.in/entertainment/news/photo/5-bollywood-films-showcase-relationship-of-students-and-teachers-teachers-day-special-tmov-2636123-2026-09-05",
-                "source": "AajTak",
-                "date": "2026-09-05T01:00:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'महाभारत' के अभिमन्यु मयूर वर्मा ने पहचान छिपाकर विदेश में बसाया था घर, एक्टिंग छोड़ अब चलाते हैं रेस्टोरेंट",
-                "desc": "'महाभारत' में अभिमन्यु का किरदार निभाकर फेमस होने वाले एक्टर मयूर वर्मा की कहानी शायद बहुत कम लोग जानते हैं। एक्टर ने एक वक्त पर टीवी और फिल्म इंडस्ट्री छोड़ दिया औरअब वो विदेश में पत्नी के साथ मिलकर रेस्टोरेंट चलाते हैं।",
-                "image": "https://static.langimg.com/nbt/thumb/133773492/mayur-verma.jpg?imgsize=203246&width=1600&height=900&resizemode=75",
-                "url": "https://navbharattimes.indiatimes.com/tv/news/br-chopra-mahabharat-abhimanyu-mayur-verma-settled-abroad-quit-acting-now-runs-restaurant/articleshow/133773161.cms",
-                "source": "Navbharat Times",
-                "date": "2026-09-04T18:04:09Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "‘Toxic’ की कमाई बढ़ाने का नया प्लान? यश की फिल्म की इंग्लिश में हुई एंट्री, बदला रनटाइम",
-                "desc": "कई भाषा में रिलीज होने के बाद सुपरस्टार यश की फिल्म टॉक्सिक अब इंग्लिश में भी दर्शक देख सकेंगे. फिल्म का रनटाइम 18 मिनट छोटा रखा गया है.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202609/6a9a4de580aab-toxic-box-04493650-16x9.jpg",
-                "url": "https://www.aajtak.in/entertainment/news/story/yash-toxic-english-version-box-office-release-with-shorter-duration-what-is-makers-plan-tmov-dskc-2635906-2026-09-04",
-                "source": "AajTak",
-                "date": "2026-09-04T17:30:06Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Mirzapur The Movie Box Office Day 1: बॉक्स ऑफिस पर कालीन भैया के भौकाल ने मचाया बवंडर, पहले दिन ही कमा डाले इतने करोड़",
-                "desc": "'मिर्जापुर: द मूवी' ने रिलीज के साथ ही बॉक्स ऑफिस पर अपना भौकाल दिखाना शुरू कर दिया है।, Bollywood Hindi News - Hindustan",
-                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/09/04/1600x900/logo/Mirzapur_The_Movie_1788540925913_1169070a-613c-4505-b136-e43e2a719eb7_1788540926053_70682265-5482-4cc7-930b-4156d3ccf45e_d3fb4d88-6b74-494e-8977-aab47084a7ff_a1e84aff-6ed8-4c1e-91f6-5920fcda20cf.jpg",
-                "url": "https://www.livehindustan.com/entertainment/bollywood/mirzapur-the-movie-box-office-collection-day-1-pankaj-tripathi-ali-fazal-film-earnings-24-cr-in-opening-day-201788540154352.html",
-                "source": "Hindustan",
-                "date": "2026-09-04T16:56:23Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "KBC 18: CRPF कमांडेंट ने दिया ₹1 करोड़ के सवाल का जवाब, बताया ट्रेनिंग के दौरान जंगल में खाने पड़ते हैं सांप",
-                "desc": "'कौन बनेगा करोड़पति 18' में इस बार CRPF के डिप्टी कमांडेंट मनोज कुमार यादव आए और हॉट सीट पर बैठे। वो 14 सवालों के जवाब देकर 15वें सवाल तक पहुंच गए, जो 1 करोड़ का था। हालांकि, उन्हें केवल 50 लाख ही मिल पाए। जानिए क्या था सवाल?",
-                "image": "https://static.langimg.com/nbt/thumb/133770277/kbc-18.jpg?imgsize=153059&width=1600&height=900&resizemode=75",
-                "url": "https://navbharattimes.indiatimes.com/tv/kaun-banega-crorepati/kbc-18-crpf-commandant-answers-1-crore-question-reveal-jungle-training/articleshow/133770034.cms",
-                "source": "Navbharat Times",
-                "date": "2026-09-04T16:20:32Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "आलिया भट्ट के बाद समय रैना के 'ह्यूमर' का शिकार हुए वरुण धवन, कहा 'जानवर'-एक्टिंग का उड़ाया मजाक",
-                "desc": "समय रैना ने अपने शो पर वरुण धवन और मेधा शंकर जैसे बॉलीवुड सेलेब्स को इनवाइट किया था. इंडियाज गॉट लेटेंट के लेटेस्ट एपिसोड में समय को वरुण की जमकर रोस्टिंग करते हुए देखा गया है. वो कभी उन्हें जानवर बुला रहे हैं, तो कभी उनकी एक्टिंग का मजाक उड़ा रहे हैं.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202609/6a9ae10444aac-samay-raina--varun-dhawan-041718419-16x9.jpg",
-                "url": "https://www.aajtak.in/entertainment/bollywood-news/story/samay-raina-roasts-varun-dhawan-medha-shankr-indias-got-latent-2-alia-bhatt-tmovj-dskc-2636574-2026-09-04",
-                "source": "AajTak",
-                "date": "2026-09-04T16:20:09Z",
-                "priority": "STANDARD"
             }
         ],
         "sports": [
+            {
+                "title": "मोहसिन नकवी देंगे एशिया कप ट्रॉफी, भारतीय टीम जीती तो क्या होगा? फाइनल से पहले बढ़ी हलचल",
+                "desc": "हरमनप्रीत कौर की अगुवाई वाली भारतीय टीम विमेंस एशिया कप 2026 में लगातार तीन मैच जीत चुकी है और उसका सेमीफाइनल में स्थान पक्का हो चुका है. भारतीय टीम जिस तरह से खेल रही है, ऐसे में वो खिताब जीतने की सबसे बड़ी दावेदार है.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202609/6a9d1980b4ab6-mohsin-naqvi-064251387-16x9.jpg",
+                "url": "https://www.aajtak.in/sports/cricket/story/mohsin-naqvi-trophy-controversy-womens-asia-cup-2026-final-dubai-tspoa-dskc-2637439-2026-09-06",
+                "source": "Aaj Tak News",
+                "date": "2026-09-06T07:53:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Duleep Trophy 2026: वैभव-अभिमन्यु की शतकीय साझेदारी से पहले सेशन में ईस्ट जोन मजबूत, सिराज ने जमकर लुटाए रन",
+                "desc": "दलीप ट्रॉफी 2026 के फाइनल की पहली पारी के पहले सेशन में ईस्ट जोन मजबूत स्थिति में नजर आई। ईस्ट जोन के लिए अभिमन्यु ने जहां अर्धशतक लगाया तो वहीं उन्होंने वैभव का साथ शतकीय साझेदारी भी की।",
+                "image": "https://images.jansatta.com/2026/09/Vaibhav85.jpg",
+                "url": "https://www.jansatta.com/khel/duleep-trophy-2026-vaibhav-sooryavanshi-abhimanyu-easwaran-hundred-run-partnership-east-zone-strong-in-first-session-vs-south-zone-mohammad-siraj/4691290/",
+                "source": "Jansatta",
+                "date": "2026-09-06T07:36:22Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "वैभव सूर्यवंशी का 2026 नॉकआउट मैचों में शानदार रिकॉर्ड, 8 पारियों में लगाए एक शतक और 5 अर्धशतक; बनाए 706 रन",
+                "desc": "साल 2026 में वैभव सूर्यवंशी ने नॉकआउट मैचों में जबरदस्त प्रदर्शन किया है। उन्होंने 7 नॉकआउट मैचों की 8 पारियों में एक शतक और 5 अर्धशतक की मदद से 706 रन बनाए। वो चार बार नाइनटीज पर आउट हुए और शतक के करीब पहुंचकर उसे पूरा करने से चूक गए।",
+                "image": "https://images.jansatta.com/2026/09/vaibhav76.jpg",
+                "url": "https://www.jansatta.com/khel/vaibhav-sooryavanshi-record-in-2026-knockouts-match-hit-one-hundred-5-fifty-in-8-innings-scored-706-runs-duleep-trophy-2026/4691267/",
+                "source": "Jansatta",
+                "date": "2026-09-06T07:10:39Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "दलीप ट्रॉफी में आया वैभव सूर्यवंशी का तूफान, मोहम्मद सिराज की गेंदों पर जड़े कड़क बाउंड्रीज, अर्धशतक से चूके",
+                "desc": "दलीप ट्रॉफी फाइनल 2026 में ईस्ट जोन के 15 साल के ओपनर वैभव सूर्यवंशी ने मोहम्मद सिराज के खिलाफ आक्रामक रुख अपनाते हुए 37 गेंदों पर 44 रन बनाए।",
+                "image": "https://static.langimg.com/nbt/thumb/133828692/vaibhav-sooryavanshi.jpg?imgsize=542371&width=1600&height=900&resizemode=75",
+                "url": "https://navbharattimes.indiatimes.com/sports/cricket/cricket-news/vaibhav-sooryavanshi-smashes-mohammed-siraj-duleep-trophy-final-44-runs-east-zone/articleshow/133828585.cms",
+                "source": "Navbharat Times",
+                "date": "2026-09-06T06:45:20Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "वैभव सूर्यवंशी से भिड़ गए तिलक वर्मा, बात 'पंच' तक पहुंची, अंपायर को करना पड़ा बीच-बचाव",
+                "desc": "ईस्ट जोन और साउथ जोन के बीच दलीप ट्रॉफी फाइनल में मैदान पर माहौल गरमा गया. वैभव सूर्यवंशी और तिलक वर्मा के बीच स्लेजिंग से शुरू हुआ मामला उस वक्त गंभीर हो गया, जब तिलक ने मुक्का मारने का इशारा किया. विवाद बढ़ता देख अंपायरों को बीच में आकर दोनों खिलाड़ियों को शांत कराना पड़ा.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202609/6a9d0a4ecf74c-vaibhav-sooryavanshi-vs-tilak-varma-063801236-16x9.jpg",
+                "url": "https://www.aajtak.in/sports/cricket/story/vaibhav-sooryavanshi-vs-tilak-varma-heated-argument-duleep-trophy-final-tspoa-dskc-2637407-2026-09-06",
+                "source": "Aaj Tak News",
+                "date": "2026-09-06T06:44:55Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "वैभव सूर्यवंशी ने मोहम्मद सिराज को दिन में दिखाए तारे, लगाई बाउंड्री की झड़ी, देखें VIDEO",
                 "desc": "दलीप ट्रॉफी फाइनल मुकाबले में सभी की नजरें 15 साल के युवा ओपनिंग बल्लेबाज वैभव सूर्यवंशी को लेकर सभी की नजरें थी जिसमें वह पहली पारी में 44 रन बनाकर आउट हुए, लेकिन उससे पहले उनकी आक्रामक बल्लेबाजी जरूर देखने को मिली।",
@@ -1661,6 +1706,15 @@
                 "url": "https://www.jansatta.com/khel/abhimanyu-easwaran-fifty-on-46-balls-100-runs-partnership-with-vaibhav-sooryavanshi-vs-south-zone-in-duleep-trophy-2026-final/4691179/",
                 "source": "Jansatta",
                 "date": "2026-09-06T06:03:35Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'लड़का खेल रहा है...' क्रांति गौड़ को बॉडी शेम कर रहे पाकिस्तानी फैंस की हुई किरकिरी, भारत की जीत ने कर दी बोलती बंद",
+                "desc": "महिला एशिया कप 2026 में भारत बनाम पाकिस्तान मैच के दौरान पाकिस्तानी फैंस ने भारतीय पेसर क्रांति गौड़ पर 'लड़का खेल रहा है' कहकर भद्दे तंज कसे। लेकिन भारत ने पाकिस्तान को 55 रन पर समेटकर 7 विकेट से करारी शिकस्त दी और ट्रोल्स की बोलती बंद कर दी।",
+                "image": "https://static.langimg.com/nbt/thumb/133826811/kranti-gaud-pakistan-cricket-fans.jpg?imgsize=461518&width=1600&height=900&resizemode=75",
+                "url": "https://navbharattimes.indiatimes.com/sports/cricket/asia-cup/pakistani-fans-trolls-kranti-gaud-ind-w-vs-pak-w-asia-cup-2026-backfire/articleshow/133826621.cms",
+                "source": "navbharattimes.indiatimes.com",
+                "date": "2026-09-06T05:19:18Z",
                 "priority": "STANDARD"
             },
             {
@@ -2112,65 +2166,29 @@
                 "source": "AajTak",
                 "date": "2026-09-05T02:00:04Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "इंग्लैंड ने किया T20I और वनडे टीम का ऐलान, इस धाकड़ तेज गेंदबाज की हुई वापसी",
-                "desc": "इंग्लैंड ने श्रीलंका के खिलाफ आगामी टी20 और वनडे सीरीज के लिए स्क्वॉड का ऐलान कर दिया है। दोनों ही स्क्वॉड में जिमी ओवरटन की वापसी हुई है। चोट के चलते वह भारत के खिलाफ नहीं खेले थे।, Cricket Hindi News - Hindustan",
-                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/09/05/1600x900/logo/England_Cricket_Team_1788571575468_3942922a-8a27-49c3-8dd0-4c886535deba_1788571575609_3fc0b3fc-f9bc-4175-9e25-23a5750d09ed_68cca9d6-242b-4544-bc3e-89e97dba84c7_ffc34215-fb93-41f8-addd-2ea8d52bc942.jpg",
-                "url": "https://www.livehindustan.com/cricket/england-announces-t20i-and-odi-squads-vs-sri-lanka-jamie-overton-returns-to-both-201788570391541.html",
-                "source": "Hindustan",
-                "date": "2026-09-05T01:33:40Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "IND vs AFG T20: अभिषेक-संजू देखा, अभिषेक-वैभव भी आजमा लिया... अब ओपनिंग में संजू-वैभव की बारी?",
-                "desc": "संजू सैमसन की टीम इंडिया में वापसी के साथ टॉप ऑर्डर का समीकरण फिर चर्चा में है. अभिषेक शर्मा के साथ संजू और वैभव दोनों की ओपनिंग देखी जा चुकी है, लेकिन संजू-वैभव की जोड़ी अब तक नहीं आजमाई गई.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202609/6a994d09bf69f-vaibhav-sooryavanshi-sanju-samson-033340160-16x9.jpg",
-                "url": "https://www.aajtak.in/sports/cricket/story/sanju-samson-vaibhav-sooryavanshi-opening-pair-bmsp-dskc-2635449-2026-09-05",
-                "source": "AajTak",
-                "date": "2026-09-05T01:00:04Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "लुआन-ड्रे प्रीटोरियस ने रचा इतिहास, T20I में शतक ठोकने वाले बने सबसे युवा खिलाड़ी",
-                "desc": "लुआन-ड्रे प्रीटोरियस ने उस समय इतिहास रचा जब उन्होंने नामीबिया के खिलाफ ट्राई सीरीज में शतक ठोका। वह फुल मेंबर टीमों में टी20 इंटरनेशनल में शतक लगाने वाले सबसे युवा खिलाड़ी बन गए हैं।, Cricket Hindi News - Hindustan",
-                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/09/05/1600x900/logo/Lhuan-Dre_Pretorius_1788569916243_8c49a777-9606-48d6-932a-eed5f661fdd5_1788569922117_8733efcd-705b-4e85-805d-ca67e8befd9a_0cccbfa6-a899-4670-9cb2-7392400fd238_9ccbcf5f-bc23-46f1-bd36-478602d6e8c0.jpg",
-                "url": "https://www.livehindustan.com/cricket/lhuandre-pretorius-made-history-in-t20i-cricket-becoming-the-youngest-player-to-score-a-century-full-members-201788568602508.html",
-                "source": "Hindustan",
-                "date": "2026-09-05T00:59:36Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "मानव सुथार ने अब इंग्लैंड में बरपाया कहर, 7 विकेट लेकर टीम को दिलाई बड़ी जीत",
-                "desc": "भारतीय स्पिनर मानव सुथार ने भारत और श्रीलंका की स्पिन-फ्रेंडली पिचों पर बेहतरीन प्रदर्शन करने के बाद, अब इंग्लैंड की परिस्थितियों में भी अपनी घातक स्पिन गेंदबाजी का लोहा मनवाया है। वह काउंटी चैंपियनशिप में शानदार प्रदर्शन कर रहे हैं।",
-                "image": "https://resize.indiatv.in/resize/newbucket/1200_-/2026/09/india-tv-2026-09-04t231207-1788543697.jpg",
-                "url": "https://www.indiatv.in/sports/cricket/manav-suthar-stars-with-7-wickets-in-match-as-hampshire-slump-to-innings-rout-2026-09-04-1241376",
-                "source": "India TV Hindi",
-                "date": "2026-09-04T18:01:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "वैभव सूर्यवंशी से सचिन तेंदुलकर जैसी उम्मीद, बीसीसीआई उनके करियर के हर कदम पर नजर रख रहा है",
-                "desc": "वैभव सूर्यवंशी अभी 15 साल के ही हैं और सिर्फ 6 ही इंटरनेशनल मैच खेले हैं। बीसीसीआई उनसे सचिन तेंदुलकर जैसे लंबे करियर की उम्मीद कर रही है और इसके लिए प्लानिंग भी चल रही है।",
-                "image": "https://static.langimg.com/nbt/thumb/133772238/vaibhav-sooryavanshi.jpg?imgsize=115600&width=1600&height=900&resizemode=75",
-                "url": "https://navbharattimes.indiatimes.com/sports/cricket/cricket-news/bcci-vaibhav-sooryavanshi-sachin-tendulkar-long-term-career-plan/articleshow/133771933.cms",
-                "source": "Navbharat Times",
-                "date": "2026-09-04T17:23:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "मोहम्मद शमी जड़ेंगे 'शतक', 5 सिंतबर को CAB से मिलेगा खास सम्मान",
-                "desc": "भारतीय तेज गेंदबाज मोहम्मद शमी को एक खास सम्मान मिलने वाला है। उन्हें बंगाल क्रिकेट संघ 100 प्रथम श्रेणी मैच खेलने की खास उपलब्धि मिलने पर शनिवार को चेन्नई में सम्मानित करेगा।, Cricket Hindi News - Hindustan",
-                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/09/04/1600x900/logo/Mohammed_Shami_1788539673137_e12c416e-bef2-4921-a197-aac2004d4fa1_1788539673789_8a8b5afd-2414-4762-b618-aecb39677160_bc018a2a-ee43-43ce-9f4c-8d7aeb797364_cacfbf32-1f94-47da-8cab-8d584c107161.jpeg",
-                "url": "https://www.livehindustan.com/cricket/cab-to-felicitate-mohammed-shami-on-his-100th-first-class-match-201788539306891.html",
-                "source": "Hindustan",
-                "date": "2026-09-04T16:50:31Z",
-                "priority": "STANDARD"
             }
         ]
     },
     "en": {
         "general": [
+            {
+                "title": "UN votes to endorse new map projection that shows Africa's size more accurately",
+                "desc": "Africa has long been represented as smaller than its real size in maps, which are largely based on an ancient projection.",
+                "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/09/06/2376d52c-6abb-4f23-b697-fd48a8d72c32/thumbnail/1200x630/6547c4e55179c654e63f6a86aa34e753/2026-09-04t134411z-1-lwd030004092026rp1-rtrwnev-d-0300-africa-map-un-mp4-00-03-29-11-still001.jpg",
+                "url": "https://www.cbsnews.com/news/united-nations-map-vote-change-africa-size/",
+                "source": "CBS News",
+                "date": "2026-09-06T07:29:22Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Fighting escalates in Strait of Hormuz as Iran claims strike on US ship",
+                "desc": "Iran says it struck an unmanned U.S. vessel trying to enter the Strait of Hormuz, the latest salvo in a new flare-up of fighting between the two countries.",
+                "image": "https://dims.apnews.com/dims4/default/2cf0e37/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc2%2F02%2F59affd348701aaff358a8ec7010c%2F49362fe7898047c3a0e76cb94b304a0c",
+                "url": "https://apnews.com/article/iran-us-war-strait-hormuz-ship-attack-a52beec77dc90af3d040d0553837ad20",
+                "source": "AP News",
+                "date": "2026-09-06T07:03:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Category 4 Hurricane Lowell holding steady; tropical storm conditions possible by late Monday for Kauaʻi County",
                 "desc": "Rainfall forecast for Big Island unchanged, with 2 to 6 inches expected and isolated totals up to 10 inches possible in some areas; Lowell expected to turn north Sunday followed by a north-northeastward motion and increase in forward speed Sunday night and Monday.",
@@ -2691,24 +2709,6 @@
                 "url": "https://www.foxnews.com/travel/american-airlines-passenger-duct-taped-seat-alleged-racist-homophobic-midair-outburst",
                 "source": "Fox News",
                 "date": "2026-09-05T09:37:59Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Flock cameras draw opposition from across the political spectrum",
-                "desc": "As political races heat up heading into the midterms, candidates from both parties are increasingly joining the fray to voice concerns over Flock surveillance cameras.",
-                "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+163/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff2%2Fd6%2Fa9fc735e49d48fb5f01013f9bf60%2Fgettyimages-2293086514.jpg",
-                "url": "https://www.npr.org/2026/09/05/nx-s1-5955778/flock-surveillance-camera-opposition-politics",
-                "source": "NPR",
-                "date": "2026-09-05T09:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Data centers have Republicans and Democrats on the same page : NPR",
-                "desc": "Democrats and Republicans have found common ground in this campaign season. Both parties have poured millions into ads attacking data centers as the public continues to protest the AI facilities.",
-                "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8256x4644+0+430/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7f%2Fe7%2F2abca8bf42febc8d6380d47838b3%2Fgettyimages-2286058283.jpg",
-                "url": "https://www.npr.org/2026/09/05/nx-s1-5913671/ai-data-center-campaign-spending",
-                "source": "NPR",
-                "date": "2026-09-05T09:00:00Z",
                 "priority": "STANDARD"
             }
         ],
@@ -3256,6 +3256,15 @@
         ],
         "entertainment": [
             {
+                "title": "Amanda Seyfried, Susan Sarandon, Pamela Anderson, and More Joined Miu Miu for Venice Film Festival’s Most Glamorous Dinner",
+                "desc": "There are plenty of glitzy parties at Venice Film Festival, but none with quite the same sparkle as Miu Miu’s annual dinner at Ca' Corner della Regina.",
+                "image": "https://assets.vogue.com/photos/6a9d1649e9287536c3aab31c/16:9/w_1280,c_limit/miu%20miu.jpg",
+                "url": "https://www.vogue.com/slideshow/miu-miu-fondazione-prada-dinner-venice-film-festival-2026",
+                "source": "Vogue",
+                "date": "2026-09-06T07:40:15Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Influencer dies after penis enlargement injection during Bangkok vacation",
                 "desc": "British-Nigerian influencer Igo 'Tiny' Obiribwo, 43, died less than 24 hours after the cosmetic procedure; an inquest found hyaluronic acid reached his lungs and caused a fatal pulmonary embolism",
                 "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/06/SkX1vuuqOze/SkX1vuuqOze_0_287_1440_811_0_large.jpg",
@@ -3785,18 +3794,27 @@
                 "source": "TheWrap",
                 "date": "2026-09-05T01:20:20Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "'Below Deck' Fires Nathan Gallagher After He Skips Court Date",
-                "desc": "Bravo has fired 'Below Deck's Nathan Gallagher after the Akira One crew member skipped out on his court date for domestic violence allegations.",
-                "image": "https://deadline.com/wp-content/uploads/2026/05/NathanGallagher-e1788569884932.jpg?w=1024",
-                "url": "https://deadline.com/2026/09/below-deck-maroons-nathan-gallagher-skips-court-date-1237068759/",
-                "source": "Deadline",
-                "date": "2026-09-05T01:18:00Z",
-                "priority": "STANDARD"
             }
         ],
         "sports": [
+            {
+                "title": "UCLA surges late to open Bob Chesney era with win over Cal",
+                "desc": "UCLA defeats California 45-24 in its first game under coach Bob Chesney, scoring 21 unanswered points behind big performances from Wayne Knight and Anthony Woods.",
+                "image": "https://ca-times.brightspotcdn.com/dims4/default/493f9d5/2147483647/strip/true/crop/6993x3671+1+471/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F2a%2F88%2F3304694a4fe9bd86fbb69682173d%2F1568369-sp-ncaa-fb-ucla-cal-gv-22.jpg",
+                "url": "https://www.latimes.com/sports/ucla/story/2026-09-05/ucla-football-cal-bob-chesney-nico-iamaleava",
+                "source": "Los Angeles Times",
+                "date": "2026-09-06T08:50:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'College GameDay' forced indoors due to lightning at Baton Rouge",
+                "desc": "ESPN celebrated the 500th road show for College GameDay in Baton Rouge, but Mother Nature spoiled the plans.",
+                "image": "https://cdn1.thecomeback.com/wp-content/uploads/sites/94/2026/09/gamedayindoors-1024x512.png",
+                "url": "https://awfulannouncing.com/espn/college-gameday-forced-indoors-due-to-lightning-at-baton-rouge.html",
+                "source": "Awful Announcing",
+                "date": "2026-09-06T06:56:48Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "UCLA coach Bob Chesney makes winning debut versus Cal",
                 "desc": "The Bruins scored the game's final 21 points to pull away from the Golden Bears on Saturday.",
@@ -3831,6 +3849,15 @@
                 "url": "https://apnews.com/article/us-open-day-seven-results-0296b0fbc76e848f17a55bddd44e5b13",
                 "source": "AP News",
                 "date": "2026-09-06T05:13:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Porsche driver hospitalized after crash at Laguna Seca",
+                "desc": "A Porsche driver was hospitalized after losing brakes and crashing through a fence at Laguna Seca WeatherTech Raceway.",
+                "image": "https://kubrick.htvapps.com/htv-prod/images/f6f2025b-1a2e-404b-8a4f-c16c2e510000.png?crop=0.998xw%3A1.00xh%3B0.00163xw%2C0&resize=1200%3A*",
+                "url": "https://www.ksbw.com/article/porsche-driver-hospitalized-after-crash-at-laguna-seca/73623915",
+                "source": "ksbw.com",
+                "date": "2026-09-06T04:39:00Z",
                 "priority": "STANDARD"
             },
             {
@@ -4309,35 +4336,8 @@
                 "source": "Chicago Sun-Times",
                 "date": "2026-09-05T04:45:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "LSU blinks, for now, on the issue of putting former NFL players on the roster",
-                "desc": "Dae’Quan Wright and Zxavian Harris weren't added to the team by Friday's deadline.",
-                "image": "https://nbcsports.brightspotcdn.com/dims4/default/fda37a4/2147483647/strip/true/crop/5197x2923+0+271/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F29%2F19%2F9a9a5f3340e687c35294320720f2%2F2182876553.jpg",
-                "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lsu-blinks-for-now-on-the-issue-of-putting-former-nfl-players-on-the-roster",
-                "source": "NBC Sports",
-                "date": "2026-09-05T04:31:55Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "USC football totally dominates Fresno State with a shutout",
-                "desc": "The Trojans did not experience the same late letdown that they did in their season opener.",
-                "image": "https://nypost.com/wp-content/uploads/sites/2/2026/09/newspress-collage-8f7uotpsc-1788577819079.jpg?quality=75&strip=all&1788563567&w=1200",
-                "url": "https://nypost.com/2026/09/05/sports/usc-football-totally-dominates-fresno-state-with-a-shutout/",
-                "source": "nypost.com",
-                "date": "2026-09-05T04:23:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "College football Week 1 scores, results: Darian Mensah, Malachi Toney and Miami show up huge in Week 1",
-                "desc": "No. 7 Miami, No. 10 Oklahoma and No. 14 USC will all be in action on Friday night.",
-                "image": "https://s.yimg.com/lo/mysterio/api/25b238bf69e92b0d5e9b5a9d649dce45b97b869009e8055be94317afebfefaed/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-07%2F7616f2a2-f2ed-4143-ac3e-99ad936c14e0",
-                "url": "https://sports.yahoo.com/college-football/live/college-football-week-1-games-scores-how-to-watch-live-updates-oklahoma-miami-and-usc-friday-224852653.html",
-                "source": "Yahoo Sports",
-                "date": "2026-09-05T04:14:00Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-09-06T18:44:52.198595Z"
+    "lastGlobalSync": "2026-09-06T20:57:18.621376Z"
 }
