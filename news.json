@@ -2,6 +2,51 @@
     "hi": {
         "general": [
             {
+                "title": "अमेरिका के मियामी एयरपोर्ट पर Boeing 767 जेट हुआ क्रैश, 5 लोगों की मौत",
+                "desc": "मियामी इंटरनेशनल एयरपोर्ट के बाहर Amazon का Boeing 767 जेट क्रैश हो गया, जिसका वीडियो सामने आया है। वीडियो में कार्गो प्लेन का मलबा और धुएं का गुबार सड़क पर देखा गया।",
+                "image": "https://www.jagranimages.com/images/2026/09/07/template/image/Boeing-767-jet-crashes--1788723404486_v.webp",
+                "url": "https://www.jagran.com/world/america-amazon-boeing-767-crash-near-miami-airport-video-surfaces-40364743.html",
+                "source": "Jagran",
+                "date": "2026-09-06T22:41:00Z",
+                "priority": "CRITICAL_ALERT"
+            },
+            {
+                "title": "ईरान पर ट्रंप का अजीबोगरीब हमला, सोशल मीडिया पोस्ट की झड़ी लगाई, तेहरान के नक्शे पर लगाई अपनी तस्वीर",
+                "desc": "डोनाल्ड ट्रंप ने ईरान को लेकर सोशल मीडिया पर सात पोस्ट कीं. इन पोस्ट में उन्होंने ईरान की अर्थव्यवस्था, तेल और करेंसी को निशाना बनाया. एक पोस्ट में तेहरान के नक्शे पर ट्रंप की तस्वीर भी लगाई गई. एक पोस्ट में दावा किया गया कि ईरान का तेल निर्यात तेजी से गिर रहा है.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202609/6a9dda2b47e96-trtrump-goes-on-bizarre-posting-spree-to-attack-iran-062453241-16x9.jpeg",
+                "url": "https://www.aajtak.in/world/story/trtrump-goes-on-bizarre-posting-spree-to-attack-iran-oil-exports-rial-kharg-strait-of-hormuz-puts-his-face-on-tehrans-map-ntc-aktw-dskc-2637747-2026-09-07",
+                "source": "Aaj Tak News",
+                "date": "2026-09-06T21:43:25Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "US: ऐमेजॉन का कार्गो प्लेन मियामी एयरपोर्ट पर क्रैश, 5 लोगों की मौत... 250 उड़ानों पर असर",
+                "desc": "इस हादसे के बाद मियामी एयरपोर्ट के सभी रनवे और टैक्सी-वे बंद कर दिए गए. उड़ानों का संचालन भी प्रभावित हुआ. मामले की जांच की जा रही है.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202609/6a9dccdad9c28-amazon-cargo-plane-crash-062804283-16x9.jpg",
+                "url": "https://www.aajtak.in/world/story/amazon-cargo-plane-crashes-america-miami-airport-hits-multiple-vehicles-ntc-rmxk-dskc-2637745-2026-09-07",
+                "source": "Aaj Tak News",
+                "date": "2026-09-06T20:29:44Z",
+                "priority": "CRITICAL_ALERT"
+            },
+            {
+                "title": "परिवार कर चुका था अंतिम संस्कार, 10 दिन बाद मलबे में जिंदा मिली महिला, नेपाल बाढ़ में चमत्कार",
+                "desc": "नेपाल में एक बुजुर्ग महिला बाढ़ आने के 10 दिन बाद अपने घर में जिंदा मिली है। परिवार ने महिला को मरा हुआ मानकर उनका अंतिम संस्कार कर दिया था और श्राद्ध कर्म की तैयारियां कर रहा था। महिला का जिंदा बचना किसी चमत्कार से कम नहीं माना जा रहा है।",
+                "image": "https://static.langimg.com/nbt/thumb/133847610/nepal-woman-alive.jpg?imgsize=200484&width=1600&height=900&resizemode=75",
+                "url": "https://navbharattimes.indiatimes.com/world/nepal/nepal-floods-woman-found-alive-days-after-family-began-mourning-rites/articleshow/133847493.cms",
+                "source": "Navbharat Times",
+                "date": "2026-09-06T18:07:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "UPT20 League: Divyansh Joshi के शतक से जीती मेरठ, रिंकू सिंह की टीम ने फाइनल में लखनऊ को रौंदा",
+                "desc": "UP T20 लीग 2026 के फाइनल में रिंकू सिंह की टीम 'मेरठ मावेरिक्स' ने भुवनेश्वर कुमार की 'लखनऊ फाल्कन्स' को 94 रनों के बड़े अंतर से हराया।",
+                "image": "https://www.jagranimages.com/images/2026/09/06/template/image/UPT20-league-1788717817752_v.webp",
+                "url": "https://www.jagran.com/cricket/match-report-meerut-mavericks-won-upt20-league-2026-rinku-singh-divyansh-joshi-vishal-chaudhary-lucknow-falcons-40364718.html",
+                "source": "Jagran",
+                "date": "2026-09-06T18:05:00Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "सलमान को झूठे लगे ईशा के आंसू! बिग बॉस में बादशाह की तरफदारी की, बोले- वो तुम्हें भूल चुका है",
                 "desc": "बिग बॉस के घर में बादशाह की एक्स-वाइफ ईशा रिखी ने अपनी पर्सनल जिंदगी पर जो बातें कहीं, उसपर सलमान खान ने अपनी राय रखी. उन्होंने उनसे कहा कि सामने वाली पार्टी आगे बढ़ चुकी है.",
                 "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202609/6a9d91db46523-isha-rikhi-salman-khan-061618664-16x9.jpg",
@@ -495,51 +540,6 @@
                 "source": "Jagran",
                 "date": "2026-09-06T03:55:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "पाकिस्तानी टीम में मचा हड़कंप, PCB ने जब्त किए खिलाड़ियों के फोन, कहीं मैच फिक्सिंग का तो मामला नहीं?",
-                "desc": "इंग्लैंड दौरे पर पाकिस्तानी टीम पहले से ही कई चुनौतियों से जूझ रही है. अब तीसरे टेस्ट से पहले खिलाड़ियों के मोबाइल फोन से जुड़ी खबर ने एक नया विवाद खड़ा कर दिया है. सबसे बड़ा सवाल यही है कि पीसीबी ने फोन क्यों लिए और क्या बोर्ड फोन में मौजूद सामग्री की भी जांच करेगा? इन सवालों का जवाब पीसीबी की आधिकारिक सफाई के बाद ही मिल पाएगा.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202609/6a9ce1fd99906-pakistan-cricket-team-06460058-16x9.jpg",
-                "url": "https://www.aajtak.in/sports/cricket/story/pcb-seizes-pakistan-players-mobile-phones-edgbaston-test-england-tour-match-fixing-tspoa-dskc-2637318-2026-09-06",
-                "source": "Aaj Tak News",
-                "date": "2026-09-06T03:52:56Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "100 करोड़ पार 'हनुमान अंश', डायरेक्टर ने नहीं ली फीस, 5 महीने खाए फल, रोज हनुमान चालीसा का किया पाठ",
-                "desc": "नीम करौली बाबा की जिंदगी पर बनी फिल्म 'हनुमान अंश' बॉक्स ऑफिस पर ताबड़तोड़ कमाई कर रही है. अब फिल्म के डायरेक्टर ने बताया कि उन्होंने इस फिल्म को बनाने के लिए कोई फीस नहीं ली थी. साथ ही खास नियमों का पालन किया था.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202609/6a9cdad75466d-hanuman-ansh-declared-tax-free-061529501-16x9.jpg",
-                "url": "https://www.aajtak.in/entertainment/bollywood-news/story/hanuman-ansh-100-crores-box-office-collection-director-waived-fees-followed-fruit-diet-for-5-months-tmovf-dskc-2637299-2026-09-06",
-                "source": "Aaj Tak News",
-                "date": "2026-09-06T03:40:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "झारखंड सरकार में मंत्री सुदिव्य कुमार का हार्ट अटैक से निधन",
-                "desc": "झारखंड सरकार में मंत्री सुदिव्य कुमार का हार्ट अटैक से निधन हो गया है। शनिवार देर रात सीने में दर्द उठने के बाद उन्हें अस्पताल में भर्ती करवाया गया था, जहां इलाज के दौरान उनका निधन हो गया। सुदिव्य कुमार के निधन के बाद अस्पताल में समर्थकों की भीड़ जुट रही है।, Jharkhand Hindi News - Hindustan",
-                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/09/06/1600x900/logo/sudivya_Kumar_1788657457731_88844253-61d6-4745-8ce5-70933e637513_1788657457918_87fc6917-ba24-415b-b001-4c6740ab0ded_25ccf507-18bf-4d59-8028-44734d8008d6_f76f695c-2c7c-42f8-9b71-1e689ece0675.png",
-                "url": "https://www.livehindustan.com/jharkhand/jharkhand-minister-sudivya-kumar-died-due-to-heart-attack-201788657351675.html",
-                "source": "Hindustan",
-                "date": "2026-09-06T01:18:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Mirzapur The Movie Box Office Day 2: 50 करोड़ पार हुई मिर्जापुर, थिएटर में मचा भौकाल, शोज रहे हाउसफुल!",
-                "desc": "मिर्जापुर की दुनिया ने थिएटर्स में आकर तगड़ा भौकाल मचा डाला है. पहले दिन सॉलिड ओपनिंग के बाद, दूसरे दिन भी फिल्म ने बॉक्स ऑफिस पर शानदार जंप लिया. दो दिनों में फिल्म 50 करोड़ से भी ज्यादा कमा चुकी है.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202609/6a9c578649695-mirzapur-the-movie-box-office-collection-055512737-16x9.jpg",
-                "url": "https://www.aajtak.in/entertainment/bollywood-news/story/mirzapur-the-movie-box-office-collection-day-2-ali-fazal-ravi-kishan-pankaj-tripathi-divyendu-tmovj-dskc-2637245-2026-09-06",
-                "source": "Aaj Tak News",
-                "date": "2026-09-06T01:10:54Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "आज रविवार को पेट्रोल-डीजल के क्या चल रहे भाव, कितने में टंकी हो जाएगी फुल?",
-                "desc": "देश भर में पेट्रोल-डीजल की कीमतें जस की तस बनी हुई हैं. सरकारी तेल कंपनियाें ने इनकी कीमतों में कोई बदलाव न करते हुए इसे लंबे समय से स्थिर रखा है. इधर, कच्चे तेल की कीमतें ऊंचे स्तर पर हैं.",
-                "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/09/06/90773c2744b49db8393c259fcdc0ecdd17886547342811379_original.jpg?impolicy=abp_cdn&imwidth=1200",
-                "url": "https://www.abplive.com/business/petrol-diesel-rate-today-on-september-6-check-latest-fuel-rate-in-mumbai-delhi-patna-ranchi-amid-iran-us-war-and-rising-crude-oil-prices-3184964",
-                "source": "ABP News",
-                "date": "2026-09-06T00:57:04Z",
-                "priority": "STANDARD"
             }
         ],
         "business": [
@@ -589,12 +589,30 @@
                 "priority": "STANDARD"
             },
             {
+                "title": "1650 km की रेंज वाली BYD Sealion 08 को लॉन्च के 24 घंटे के अंदर इस देश में मिले 12000 से ज्यादा ऑर्डर, जानें फीचर्स",
+                "desc": "चीन और भारत समेत दुनियाभर में पॉपुलर कार कंपनी बीवाईडी की नई एसयूवी सीलायन 08 (BYD Sealion 08) ने बाजार में आते ही धमाल मचा दिया है। लॉन्च के पहले 24 घंटों के भीतर इस गाड़ी को 12000 से ज्यादा पक्के ऑर्डर मिल चुके हैं। यह एसयूवी ईवी (BEV) और प्लग-इन हाइब्रिड (PHEV) दोनों विकल्पों में उपलब्ध है।",
+                "image": "https://static.langimg.com/nbt/thumb/133840558/byd-sealion-08-price-and-booking.jpg?imgsize=2297808&width=1600&height=900&resizemode=75",
+                "url": "https://navbharattimes.indiatimes.com/auto/car-bikes/byd-sealion-08-secures-more-than-12000-orders-in-first-24-hours-know-look-features-and-range-details/articleshow/133840494.cms",
+                "source": "Navbharat Times",
+                "date": "2026-09-06T14:21:46Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "सोमवार को इन 11 शेयरों पर रहेगी निवेशकों की नजर, हो सकती है मोटी कमाई?",
                 "desc": "7 सितंबर 2026 को भारतीय शेयर बाजार में RVNL, डॉक शिपबिल्डर्स, टाटा मोटर्स, JSW स्टील, लुपिन और आयशर मोटर्स समेत कई शेयर फोकस में रहेंगे। RVNL को ₹903 करोड़ का लेटर ऑफ अवार्ड, मझगांव डॉक को ₹118 करोड़ का ऑर्डर और लुपिन को USFDA की मंजूरी मिली है।, Business Hindi News - Hindustan",
                 "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/09/06/1600x900/logo/Share_Market_1788698756722_1b9c9459-e20b-49fc-ab65-b84416ac9e90_1788698756970_106241cc-8e75-4547-8c3a-2c0d251c853d_d35b9c46-dbc4-4edd-850d-75e37a465a2f_d5883f7a-0a48-4be5-b8ab-d728c6d039bd.jpg",
                 "url": "https://www.livehindustan.com/business/stocks-to-watch-7-september-2026-rvnl-tata-motors-mazagon-dock-jsw-steel-check-details-201788698005035.html",
                 "source": "Hindustan",
                 "date": "2026-09-06T14:20:50Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Toyota, किआ और रेनो की 3 नई CNG कारें, बहुत कुछ है खास, एक में टर्बो इंजन भी",
+                "desc": "कंपनियां अब अपनी CNG कारों के पोर्टफोलियो को और बड़ा करने की तैयारी में लग गई हैं। इसी कड़ी में Toyota, Kia और Renault भी अपनी नई CNG कारों को लाने की तैयारी कर रही हैं। आइए जानते हैं इन कंपनियों की नई सीएनजी कारों के बारे में।, Auto Hindi News - Hindustan",
+                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/09/06/1600x900/logo/kia_carens_clavs_1788700824262_905e752f-5402-4d17-8471-dc8e63d791ac_1788700831300_14e2c59f-d72d-4b8b-ab26-4cc609fc8d86_1771383f-cb86-4395-adbc-6632188befab_f3989d35-cb62-4827-9634-75761daec1b5.jpg",
+                "url": "https://www.livehindustan.com/auto/toyota-kia-and-renault-cng-cars-launching-soon-in-india-201788700048776.html",
+                "source": "Hindustan",
+                "date": "2026-09-06T13:21:23Z",
                 "priority": "STANDARD"
             },
             {
@@ -1064,27 +1082,27 @@
                 "source": "Navbharat Times",
                 "date": "2026-09-05T12:03:25Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Jawa All Stars 42 Bobber: आनंद महिंद्रा ने दमदार बाइक से उठाया पर्दा... इतने रुपये है कीमत",
-                "desc": "जावा येज्दी मोटरसाइकिल ने नई बाइक को लॉन्च किया है. कंपनी ने ऑल स्टार 42 बॉबर को लॉन्च किया है, जो स्टैंडर्ड बॉबर पर ही बेस्ड है. इस बाइक में कोई मैकेनिकल बदलाव नहीं किया गया है. ये बाइक स्टैंडर्ड बॉबर पर ही बेस्ड हैं, जो नए कलर और ग्राफिक्स के साथ आती है. इस बाइक को महिंद्रा ग्रुप के चेयरमैन आनंद महिंद्रा ने रिवील किया है.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202609/6a9bf89299a5f-jawa-all-stars-42-bobber-05095960-16x9.jpg",
-                "url": "https://www.aajtak.in/auto/news/story/jawa-all-stars-42-bobber-unveiled-anand-mahindra-price-details-auam-dskc-2637093-2026-09-05",
-                "source": "AajTak",
-                "date": "2026-09-05T11:54:21Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Tata sons new chairman to be decided : टाटा समूह के नये चेयरमैन को लेकर तीन नाम पर विचार, नरेंद्रन के अलावा ये हो सकते है ‘डार्क हॉर्स’",
-                "desc": "जमशेदपुर : टाटा समूह के नये चेयरमैन की तलाश तेज है. इस तलाश के दौरान तीन नाम छंटकर सामने आये",
-                "image": "https://pub-d4c12e30ad484bb189543ae7dbd12ad3.r2.dev/wp-content/uploads/2026/09/टाटा-संस1.jpg",
-                "url": "https://sharpbharat.com/tata-sons-new-chairman-to-be-decided-three-names-coming/",
-                "source": "Sharp Bharat News",
-                "date": "2026-09-05T11:26:26Z",
-                "priority": "STANDARD"
             }
         ],
         "entertainment": [
+            {
+                "title": "‘आयरलैंड से है मेरी वाइफ’, बिग बॉस 20 में बोले 'पंचायत' के दामाद जी, सलमान का रिएक्शन वायरल",
+                "desc": "Bigg Boss 20: रियलिटी शो ‘बिग बॉस 20’ का आगाज हो गया है। ‘पंचायत’ के दामाद जी उर्फ आसिफ खान ने इस बार शो में बतौर कंटेस्टेंट एंट्री ली है।, Tv Hindi News - Hindustan",
+                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/09/06/1600x900/logo/asif_khan_1788713490516_bf09997d-b848-48b0-8ffb-b3e92904f56b_1788713494795_de8e6670-ddf9-44ea-9103-87bd9c66b7ff_3e533dc7-041f-4f9c-8704-0a049e4cf14b_9faa1e4b-1cb4-404a-ba32-772a96c053c2.jpg",
+                "url": "https://www.livehindustan.com/entertainment/tv/bigg-boss-20-contestant-aasif-khan-wife-know-about-panchayat-damad-ji-real-life-partner-201788713226427.html",
+                "source": "Hindustan",
+                "date": "2026-09-06T18:17:48Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Film Wrap: दुनिया देख पाएगा हनुमान अंश सिंगर, गृह प्रवेश पर एक्ट्रेस ने सुनी सत्य नारायण की कथा",
+                "desc": "संडे के दिन मनोरंजन की दुनिया में काफी कुछ हुआ. हनुमान अंश के सिंगर सुनील लोधी के लिए मध्यप्रदेश के मुख्यमंत्री ने ऐलान किया कि वो उनकी आंखों का इलाज कराएंगे. वहीं टीवी की मशहूर एक्ट्रेस नैंसी रॉय ने अपना नया घर लिया, और उसमें गृह प्रवेश किया.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202609/6a9da92a5f201-suneel-lodhi--nancy-roy-06554793-16x9.jpg",
+                "url": "https://www.aajtak.in/entertainment/news/story/neem-karoli-baba-hanuman-ansh-singer-sunil-lodhi-tv-actress-nancy-roy-bought-lavish-home-tmovj-dskc-2637720-2026-09-06",
+                "source": "Aaj Tak News",
+                "date": "2026-09-06T18:07:54Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "सलमान को झूठे लगे ईशा के आंसू! बिग बॉस में बादशाह की तरफदारी की, बोले- वो तुम्हें भूल चुका है",
                 "desc": "बिग बॉस के घर में बादशाह की एक्स-वाइफ ईशा रिखी ने अपनी पर्सनल जिंदगी पर जो बातें कहीं, उसपर सलमान खान ने अपनी राय रखी. उन्होंने उनसे कहा कि सामने वाली पार्टी आगे बढ़ चुकी है.",
@@ -1606,27 +1624,18 @@
                 "source": "Navbharat Times",
                 "date": "2026-09-05T08:34:35Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "करोड़पति सिंगर बादशाह संग तलाक के बाद दर्द में एक्ट्रेस, रचाएगी दूसरी शादी? बोली- मैं रोमांटिक...",
-                "desc": "बादशाह संग ईशा की भले ही शादी टूट गई है. लेकिन उन्होंने कहा कि प्यार को लेकर उनका भरोसा नहीं उठा है.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/photo_gallery/202609/6a9bd06d6c9c3-badshah-ex-wife-isha-rikhi-second-marriage-051847744-16x9.jpg",
-                "url": "https://www.aajtak.in/entertainment/bollywood-news/photo/badshah-ex-wife-isha-rikhi-to-married-again-soon-after-painful-divorce-gets-emotional-tmovf-2636831-2026-09-05",
-                "source": "AajTak",
-                "date": "2026-09-05T08:26:33Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "माधुरी भाभी से कम खूबसूरत नहीं मिर्जापुर के 'मुन्ना भैया' की रियल लाइफ वाइफ, लाइमलाइट से हैं दूर",
-                "desc": "दिलचस्प बात यह है कि दिव्येंदु शर्मा की असली जिंदगी की लव स्टोरी भी उनकी किसी फिल्म जितनी ही दिलचस्प है. उनकी पत्नी, अकांक्षा शर्मा, एक होशियार ज्वेलरी डिजाइनर हैं.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/photo_gallery/202609/6a9bca7b23aad-divyendu-sharma-055325587-16x9.jpg",
-                "url": "https://www.aajtak.in/entertainment/bollywood-news/photo/mirzapur-the-movie-munna-bhaiya-aka-divyenndu-sharma-real-wife-glamorous-tmovb-2636790-2026-09-05",
-                "source": "AajTak",
-                "date": "2026-09-05T07:55:17Z",
-                "priority": "STANDARD"
             }
         ],
         "sports": [
+            {
+                "title": "UPT20 League: Divyansh Joshi के शतक से जीती मेरठ, रिंकू सिंह की टीम ने फाइनल में लखनऊ को रौंदा",
+                "desc": "UP T20 लीग 2026 के फाइनल में रिंकू सिंह की टीम 'मेरठ मावेरिक्स' ने भुवनेश्वर कुमार की 'लखनऊ फाल्कन्स' को 94 रनों के बड़े अंतर से हराया।",
+                "image": "https://www.jagranimages.com/images/2026/09/06/template/image/UPT20-league-1788717817752_v.webp",
+                "url": "https://www.jagran.com/cricket/match-report-meerut-mavericks-won-upt20-league-2026-rinku-singh-divyansh-joshi-vishal-chaudhary-lucknow-falcons-40364718.html",
+                "source": "Jagran",
+                "date": "2026-09-06T18:05:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "मल्टी-नेशन टूर्नामेंट का हिस्सा हो सकते हैं भारत और पाकिस्तान, ICC करेगा विचार",
                 "desc": "भारत और पाकिस्तान के बीच मल्टी-नेशन सीरीज शुरू हो सकती है। इस पर आईसीसी विचार करेगा। हालांकि, इस सीरीज को हरी झंडी दिखाने वाली बॉडीज संबंधित क्रिकेट बोर्ड होंगे ना कि आईसीसी। अगर यह फैसला लिया जाता है तो न्यूट्रल वेन्यू पर तीन या चार टीमें टूर्नामेंट का हिस्सा हो सकती हैं।, Cricket Hindi News - Hindustan",
@@ -1634,6 +1643,15 @@
                 "url": "https://www.livehindustan.com/cricket/india-and-pakistan-could-be-part-of-a-multi-nation-tournament-icc-to-consider-the-proposal-201788714661171.html",
                 "source": "livehindustan.com",
                 "date": "2026-09-06T17:20:44Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Series Final: जॉर्डन हरमन और डुआन जानसन का तूफान, जिम्बाब्वे को रौंदकर चैंपियन बना साउथ अफ्रीका",
+                "desc": "साउथ अफ्रीका, जिम्‍बाब्‍वे और साउथ अफ्रीका के बीच खेली गई ट्राई सीरीज की विजेता टीम मिल गई है।",
+                "image": "https://www.jagranimages.com/images/2026/09/06/template/image/SA-vs-ZIM-1788713766940_v.webp",
+                "url": "https://www.jagran.com/cricket/match-report-sa-vs-zim-tri-series-final-jordan-hermann-duan-jansen-bjorn-fortuin-south-africa-vs-zimbabwe-40364671.html",
+                "source": "Jagran",
+                "date": "2026-09-06T17:00:00Z",
                 "priority": "STANDARD"
             },
             {
@@ -2148,29 +2166,101 @@
                 "source": "AajTak",
                 "date": "2026-09-05T11:29:14Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "वैभव सूर्यवंशी का क्रेज भारत में बढ़ा, क्रिस श्रीकांत ने कहा- मेरी पत्नी भी उसके लिए दलीप ट्रॉफी देखती हैं",
-                "desc": "भारत के पूर्व कप्तान कृष्णमाचारी श्रीकांत ने कहा है कि वैभव सूर्यवंशी को देखने के लिए उनकी पत्नी दलीप ट्रॉफी मैच देखती हैं। वैभव की उन्होंने जमकर तारीफ की है।, Cricket Hindi News - Hindustan",
-                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/09/05/1600x900/logo/Vaibhav_Sooryavanshi_1788607071388_88307b61-1f5c-4952-b94e-f73dacc07159_1788607071767_3bb4c93a-80b1-4066-9722-19efd4cbd634_59bb55ae-8a7c-4ff3-828d-54e26fdfdc9e_45144220-c7b4-480d-964c-86d4b5b10530.jpg",
-                "url": "https://www.livehindustan.com/cricket/my-wife-watched-duleep-kris-srikkanth-praises-young-batter-vaibhav-sooryavanshi-201788606670693.html",
-                "source": "Hindustan",
-                "date": "2026-09-05T11:18:32Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "‘गार्डन से रिपोर्टिंग लाइव...', क्रिकेट पिच के बाद टीवी पर छाएंगे रोहित शर्मा, नए शो के प्रोमो में दिखा ‘शाणा’ अंदाज",
-                "desc": "रोहित शर्मा का नया रियलिटी शो 'फैमिली फुल हाउस विद रोहित शर्मा' अब जल्द ही टीवी पर आने वाला है. ऐसे में इसका लेटेस्ट प्रोमो सामने आया, जिसमें हिटमैन की मस्ती और उनके स्टाइल को देखा गया.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202609/6a9bec48644fe-rohit-sharma-family-full-house-game-show-051738665-16x9.jpg",
-                "url": "https://www.aajtak.in/entertainment/television/story/family-full-house-with-rohit-sharma-reality-game-show-new-promo-tmovj-dskc-2637085-2026-09-05",
-                "source": "AajTak",
-                "date": "2026-09-05T11:16:02Z",
-                "priority": "STANDARD"
             }
         ]
     },
     "en": {
         "general": [
+            {
+                "title": "China's export shock is pushing the global economy to a breaking point, former trade official says",
+                "desc": "\"The result is an industrial machine that cannot stop and cannot slow down—but that, owing to the limits of demand, cannot keep going.\"",
+                "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2275740840.jpg?resize=1200,600",
+                "url": "https://fortune.com/2026/09/06/china-export-shock-global-economic-crisis-overcapacity-growth-model/",
+                "source": "Fortune",
+                "date": "2026-09-06T23:04:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Chancellor John Healey unveils £150m growth fund for North as he pledges to steer Britain through economic turmoil",
+                "desc": "JOHN Healey will today gamble on growth to steer Britain through money market turmoil.\nThe Chancellor is betting on an economic boom in the wake...",
+                "image": "https://www.thesun.co.uk/wp-content/uploads/2026/09/newspress-collage-8pqm3iuws-1788772570359.jpg?quality=90&strip=all&1788776201&w=1920&h=1080&crop=1",
+                "url": "https://www.thesun.co.uk/news/40292040/chancellor-john-healey-unveils-150-m-north-growth-fund/",
+                "source": "The Sun",
+                "date": "2026-09-06T23:01:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Armed person confronts Ohio gubernatorial candidate Amy Acton at event, campaign says",
+                "desc": "Acton was visiting the annual Canfield Fair in Mahoning County, near Youngstown.",
+                "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-04/260409-Amy-Acton-ew-1042p-790470.jpg",
+                "url": "https://www.nbcnews.com/politics/2026-election/armed-person-confronts-ohio-gubernatorial-candidate-amy-acton-event-ca-rcna596395",
+                "source": "NBC News",
+                "date": "2026-09-06T22:28:41Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Western Michigan-Michigan outcome created chaos for Kalshi",
+                "desc": "Last night's chaotic outcome to the Western Michigan-Michigan game created true chaos for the prediction markets, which have learned a valuable lesson once taught by Yogi Berra.",
+                "image": "https://nbcsports.brightspotcdn.com/dims4/default/e8619f2/2147483647/strip/true/crop/6000x3375+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb2%2F3c%2Fcdbea4c94c8bad4e95e86ed1034b%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2265194915",
+                "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/western-michigan-michigan-outcome-created-chaos-for-kalshi",
+                "source": "NBC Sports",
+                "date": "2026-09-06T22:01:25Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Is New Mexico now 'New America?'",
+                "desc": "President Donald Trump shares a map suggesting New Mexico be renamed \"New America.\"",
+                "image": "https://www.elpasotimes.com/gcdn/authoring/authoring-images/2026/08/31/USAT/91553911007-20260831-t-194453-z-987284569-rc-2-v-9-naxad-4-h-rtrmadp-3-usatrump.JPG?crop=6499,3656,x0,y650&width=3200&height=1801&format=pjpg&auto=webp",
+                "url": "https://www.elpasotimes.com/story/news/politics/2026/09/06/new-america-new-mexico-map-post-donald-trump/91643521007/",
+                "source": "El Paso Times",
+                "date": "2026-09-06T21:55:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "US denies Iran hit US ship and other Mideast news",
+                "desc": "The U.S. military has denied that Iran struck an uncrewed American military vessel in the Strait of Hormuz, calling the claim a “total lie.”",
+                "image": "https://dims.apnews.com/dims4/default/eae61ee/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F6a%2F7c%2F7d9a4d07176eeebcd2d54a95c166%2F122911eb15d141aeb53a6dd7ca780137",
+                "url": "https://apnews.com/article/mideast-iran-us-hormuz-lebanon-israel-b4f64c7492d8c5b9ff71794cc152186d",
+                "source": "AP News",
+                "date": "2026-09-06T21:45:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Michigan-Western Michigan: Inside how Broncos leadership accepted controversial loss to Wolverines",
+                "desc": "Western Michigan leadership accepted the Big Ten replay ruling that led to Michigan's walk-off touchdown, choosing to move forward rather than fight a controversial finish",
+                "image": "https://sportshub.cbsistatic.com/i/r/2026/09/06/43d21be1-f6c8-425c-8b93-c2b4f9e0f72f/thumbnail/1200x675/2a27fa17a91554defab417a95e376328/western-michigan.png",
+                "url": "https://www.cbssports.com/college-football/news/inside-western-michigan-leaders-michigan-clock-controversy-hail-mary/",
+                "source": "cbssports.com",
+                "date": "2026-09-06T21:36:43Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Has National Championship picture in college football already changed after a stunning first week?",
+                "desc": "Ohio State, Oregon, Michigan, USC and LSU delivered shocking Week 1 results that shook up the college football playoff and national championship picture heading into 2026.",
+                "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/sam-leavitt-lsu-clemson-tiger-stadium-fox-news_.jpg",
+                "url": "https://www.foxnews.com/outkick-sports/national-championship-picture-college-football-changed-stunning-week-one",
+                "source": "Fox News",
+                "date": "2026-09-06T21:26:23Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Team USA escapes with win over Italy at FIBA women's World Cup",
+                "desc": "Team USA survived its toughest test in the women's basketball World Cup in two decades with a 55-52 victory over Italy on Sunday in Berlin, pushing its winning streak in World Cup play to 32 games.",
+                "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0906%2Fr1712469_1296x729_16%2D9.jpg",
+                "url": "https://www.espn.com/olympics/story/_/id/49852465/team-usa-escapes-win-italy-women-world-cup",
+                "source": "ESPN",
+                "date": "2026-09-06T21:04:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Amy Acton unharmed after man lunges at her during campaign event; suspect now in custody",
+                "desc": "Ohio Gov. Mike DeWine confirmed that Amy Acton was uninjured after a man lunged at her during a campaign event near Youngstown on Sunday.",
+                "image": "https://kubrick.htvapps.com/htv-prod/images/76789382-47e3-4e12-bb0c-63e22492a9f4.jpg?crop=1.00xw%3A0.814xh%3B0%2C0.0472xh&resize=1200%3A*",
+                "url": "https://www.wlwt.com/article/amy-acton-attacked-at-campaign-event-near-youngstown/73625988",
+                "source": "WLWT",
+                "date": "2026-09-06T20:48:39Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Iran vows 'more painful response' for US, Trump sinking 3 oil tankers in Hormuz Strait",
                 "desc": "U.S. forces struck several Iranian tankers amid the Strait of Hormuz war escalation and has Iran warning of a \"faster, heavier and more painful\" response. CENTCOM said one vessel sank. Oil Prices and gas costs climbed as the Trump administration’s pressure campaign.",
@@ -2620,99 +2710,99 @@
                 "source": "CBS Sports",
                 "date": "2026-09-06T01:02:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Hurricane Lowell threatens Hawaiian islands with life-threatening surf",
-                "desc": "Hurricane Lowell is expected to create life-threatening conditions even as it’s forecast to sidestep the major Hawaiian islands west of the archipelago by Monday night.",
-                "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260905-hurricane-lowell-noaa-ww-1736-a2b1f4.jpg",
-                "url": "https://www.nbcnews.com/weather/hurricanes/hurricane-lowell-hawaii-islands-life-threatening-surf-rcna596294",
-                "source": "NBC News",
-                "date": "2026-09-06T00:52:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "College football Week 1: Live updates, schedule, scores, highlights",
-                "desc": "Follow along for complete coverage of Week 1 of the college football season on Saturday.",
-                "image": "https://www.ncaa.com/sites/default/files/public/images/2026-09/indiana-football-north-texas-2026.jpeg",
-                "url": "https://www.ncaa.com/live-updates/football/fbs/college-football-week-1-live-updates-schedule-scores-highlights",
-                "source": "NCAA.com",
-                "date": "2026-09-06T00:30:47Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "‘Spider-Man: Brand New Day’ Nears Box-Office Record",
-                "desc": "The Marvel blockbuster is closing in on Star Wars: The Force Awakens.",
-                "image": "https://s.yimg.com/lo/mysterio/api/5e760c0e99a7669aa2ac322279667a1885229464e12322afc63ab47f0e6825b2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmen_s_journal_718%2F17289f25d981dc14541390c58117c949.jpg",
-                "url": "https://www.yahoo.com/entertainment/movies/articles/spider-man-brand-day-nears-001135335.html",
-                "source": "Yahoo",
-                "date": "2026-09-06T00:11:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Updated Weather Forecast for Lane Kiffin, LSU vs. Dabo Swinney, Clemson Amid Lightning Delay",
-                "desc": "Lane Kiffin and LSU's season-opening game against Dabo Swinney and Clemson entered a lightning delay on Saturday due to stormy conditions forecasted by The Weather Channel.",
-                "image": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2026-09/2286694243_large_cropped.jpg?w=1120&h=630",
-                "url": "https://bleacherreport.com/articles/25496586-updated-weather-forecast-lane-kiffin-lsu-vs-dabo-swinney-clemson-amid-lightning-delay",
-                "source": "Bleacher Report",
-                "date": "2026-09-06T00:05:11Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "14 people sent to hospital during The Chainsmokers concert in San Jose, authorities say",
-                "desc": "At least 10 people were sent to the hospital Friday during a concert in San Jose where popular electronic duo The Chainsmokers were performing.",
-                "image": "https://cdn.abcotvs.com/dip/images/19795714_090426-kgo-concert-drugs-STR-img.jpg?w=1600",
-                "url": "https://abc7news.com/post/least-10-people-sent-hospital-during-chainsmokers-concert-discovery-meadow-san-jose-authorities-say/19795710/",
-                "source": "ABC7 Bay Area",
-                "date": "2026-09-06T00:05:07Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "2026 Emmy Awards Winners List",
-                "desc": "The 78th annual Primetime Emmy Awards winners are being revealed beginning September 5-6, 2026 in Los Angeles.",
-                "image": "https://deadline.com/wp-content/uploads/2026/09/78th-Emmy-Nominations-2026.jpg?w=1024",
-                "url": "https://deadline.com/lists/2026-emmy-winners-list/",
-                "source": "Deadline",
-                "date": "2026-09-06T00:02:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "UFC Paris winner Salahdine Parnasse says Max Holloway 'dream fight'",
-                "desc": "Salahdine Parnasse is ready to take on the upper echelon of the UFC's lightweight division.",
-                "image": "https://mmajunkie.usatoday.com/gcdn/authoring/authoring-images/2026/09/05/SMMA/91636499007-image.jpg?crop=1791,1007,x88,y0&width=1791&height=1007&format=pjpg&auto=webp",
-                "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/09/05/ufc-paris-winner-salahdine-parnasse-says-max-holloway-dream-fight/91636280007/",
-                "source": "mmajunkie.usatoday.com",
-                "date": "2026-09-05T23:46:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Manjit Singh Bedi arrested in India in FBI Most Wanted Fraudsters bust",
-                "desc": "FBI Most Wanted Fraudsters fugitive Manjit Singh Bedi was arrested in India on SNAP benefits fraud and wire fraud charges. The bureau is working on his extradition to the U.S.",
-                "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/Manjit-Singh-Bedi-FBI-display.jpg",
-                "url": "https://www.foxnews.com/us/exclusive-fbis-fifth-most-wanted-fraudster-captured-alleged-snap-scam-suspect-arrested-india",
-                "source": "Fox News",
-                "date": "2026-09-05T21:31:35Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "OpenAI Responds After Report Exposed Another Incident In Which Its AI Agents Went Rogue",
-                "desc": "Reuters reported earlier this week that the agents hijacked a German wiki forum in an incident OpenAI did not disclose.",
-                "image": "https://www.engadget.com/img/gallery/openai-responds-after-report-exposed-another-incident-in-which-its-ai-agents-went-rogue/l-intro-1788642295.jpg",
-                "url": "https://www.engadget.com/2251725/openai-responds-after-report-exposed-another-incident-in-which-its-ai-agents-went-rogue/",
-                "source": "Engadget",
-                "date": "2026-09-05T21:17:18Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "US hits Iranian oil tankers, and other key Mideast developments",
-                "desc": "The U.S. military has hit three Iranian oil tankers after accusing Iran of targeting its warships. Meanwhile, the U.S. ambassador to Israel has condemned settler violence in the West Bank, calling it an \"act of terror.\"",
-                "image": "https://dims.apnews.com/dims4/default/81087ca/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F24%2F83%2F7d5ea9da860537dd6dd130f57bfe%2Fa6036ea220304098885fb62aaa4b9957",
-                "url": "https://apnews.com/article/mideast-iran-kharg-island-us-4972c370161bccbaf67f8de131095158",
-                "source": "AP News",
-                "date": "2026-09-05T20:59:00Z",
-                "priority": "STANDARD"
             }
         ],
         "business": [
+            {
+                "title": "China’s export shock is pushing the global economy to a breaking point, and the U.S. may have to clean up the mess, former trade official says",
+                "desc": "\"The result is an industrial machine that cannot stop and cannot slow down—but that, owing to the limits of demand, cannot keep going.\"",
+                "image": "https://s.yimg.com/lo/mysterio/api/98df092259dbec7700e83aade55dae969bf5ebba5d4516a5defef122422e5f65/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffortune_175%2F089b1da6cb43222e1ce8a972ac823372.jpg",
+                "url": "https://finance.yahoo.com/economy/policy/articles/china-export-shock-pushing-global-230453384.html",
+                "source": "Yahoo Finance",
+                "date": "2026-09-06T23:04:53Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "China's export shock is pushing the global economy to a breaking point, former trade official says",
+                "desc": "\"The result is an industrial machine that cannot stop and cannot slow down—but that, owing to the limits of demand, cannot keep going.\"",
+                "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2275740840.jpg?resize=1200,600",
+                "url": "https://fortune.com/2026/09/06/china-export-shock-global-economic-crisis-overcapacity-growth-model/",
+                "source": "Fortune",
+                "date": "2026-09-06T23:04:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Travelers Go Beyond Airport Security at 13 Airports",
+                "desc": "Want to walk a loved one to their gate without having a boarding pass? A new TSA program is making that possible.",
+                "image": "https://r2-media.wdwnt.com/2026/09/image-16.png",
+                "url": "https://wdwnt.com/2026/09/new-tsa-precheck-program-lets-non-travelers-go-beyond-airport-security-at-13-airports/",
+                "source": "WDW News Today",
+                "date": "2026-09-06T22:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "PG&E cuts $2 billion in planned spending over wildfire liability fight",
+                "desc": "PG&E plans to cut $2 billion in 2027 spending as California lawmakers grapple with a high-stakes fight over utility wildfire liability and investment.",
+                "image": "https://nypost.com/wp-content/uploads/sites/2/2026/09/139928973.jpg?quality=75&strip=all&w=1200",
+                "url": "https://nypost.com/2026/09/06/us-news/pge-cuts-2-billion-in-planned-spending-over-wildfire-liability-fight/",
+                "source": "New York Post",
+                "date": "2026-09-06T22:26:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Pied-à-terre tax pushes wealthy buyers into Manhattan luxury rentals",
+                "desc": "Manhattan luxury rentals are breaking records as apartments now go for over $100,000 a month. New York City's pied-à-terre tax gives wealthy buyers another reason to rent.",
+                "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/11/0/0/new-york-city-skyline.jpg?ve=1&tl=1",
+                "url": "https://www.foxbusiness.com/real-estate/luxury-real-estate-ceo-gives-blunt-response-nyc-rents-soar-over-100k-amid-new-pied-a-terre-tax",
+                "source": "Fox Business",
+                "date": "2026-09-06T22:06:23Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Tucson man arrested on flight fired from real estate job",
+                "desc": "The company released a statement on its social media following the incident.",
+                "image": "https://gray-kold-prod.gtv-cdn.com/resizer/v2/LLRY6XUEEVGVTHB2JTLSC5S5AI.png?auth=333f64ec315039b21ba1bbd2f2c43cb3c126d444ee79dd3834cc9b091c33a84c&width=1200&height=600&smart=true",
+                "url": "https://www.kold.com/2026/09/06/tucson-man-arrested-flight-fired-real-estate-job/",
+                "source": "KOLD",
+                "date": "2026-09-06T22:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Live Updates: 5 dead, 5 injured after Amazon cargo plane crashes near MIA, sheriff says",
+                "desc": "Five people were killed, and several others were injured after an Amazon cargo jet crashed near Miami International Airport on Sunday, authorities said.",
+                "image": "https://media.nbcmiami.com/2026/09/Amazon-plane-ax-MIA-1.png?resize=1200%2C675&quality=85&strip=all",
+                "url": "https://www.nbcmiami.com/news/local/video-appears-to-show-crashed-amazon-plane-on-runway-at-mia/3855448/",
+                "source": "NBC 6 South Florida",
+                "date": "2026-09-06T21:49:09Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Musk’s blow torch post is why X just lost the Twitter bird logo",
+                "desc": "A judge cited Musk's 2023 posts to rule X abandoned the Twitter bird logo and tweet. X keeps the name, on one clause in its App Store listing.",
+                "image": "https://media.thenextweb.com/2026/09/elon-musk-air-force-academy-2022.jpg",
+                "url": "https://thenextweb.com/news/musk-x-twitter-bird-logo-tweet-trademark-ruling",
+                "source": "thenextweb.com",
+                "date": "2026-09-06T20:50:37Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+                "desc": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
+                "image": "https://techcrunch.com/wp-content/uploads/2024/12/49688202642_09fd5ccc38_k.jpg?resize=1200,800",
+                "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+                "source": "TechCrunch",
+                "date": "2026-09-06T20:47:37Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Labor Day tech deals are live: The best sales worth shopping from Apple, Beats, Samsung, Anker and more up to 55% off",
+                "desc": "Everything from AirPods to iPads to football-worthy TVs is on sale right now.",
+                "image": "https://s.yimg.com/lo/mysterio/api/8a983a6760ea25ec9131417c4d4f7eb438f00a72d2ab7e93bd7cbf7ee025f50e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2F3-product-cluster_7025.png",
+                "url": "https://tech.yahoo.com/deals/breaking-news/article/labor-day-tech-deals-are-live-the-best-sales-worth-shopping-from-apple-beats-samsung-anker-and-more-up-to-55-off-170706233.html",
+                "source": "Yahoo Tech",
+                "date": "2026-09-06T20:42:22Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Autonomous excavators are digging with empty cabs",
                 "desc": "Autonomous excavators from Bedrock Robotics are doing commercial earthwork on active construction sites in Texas and Nevada with no operator in the cab.",
@@ -3162,99 +3252,99 @@
                 "source": "CNBC",
                 "date": "2026-09-05T12:20:42Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "With HSAs, employers are turning to the 401(k) playbook",
-                "desc": "More employers are automatically enrolling workers into health savings accounts and paying contributions like a \"match.\"",
-                "image": "https://image.cnbcfm.com/api/v1/image/108359089-1788541843490-gettyimages-2256671887-gettyoffice_nov2025_00483.jpeg?v=1788541856&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/09/05/hsa-401k-plan-retirement-automatic-enrollment.html",
-                "source": "CNBC",
-                "date": "2026-09-05T12:00:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "NIL and revenue sharing financial tips for college football athletes",
-                "desc": "A Merrill Lynch wealth advisor explains why college athletes should live like students and save their NIL and revenue sharing income for the future.",
-                "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/09/0/0/ohio-state-michigan-2025.jpg?ve=1&tl=1",
-                "url": "https://www.foxbusiness.com/sports/why-college-athletes-should-live-like-college-students-despite-six-figure-nil-deals",
-                "source": "Fox Business",
-                "date": "2026-09-05T12:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Dyson Went Bonkers During IFA 2026: Here Are all 10 of Its New Products",
-                "desc": "Dyson popped off at a launch event in Berlin, introducing a whopping 10 new products.",
-                "image": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot-2026-09-05-at-12.58.39-PM.png",
-                "url": "https://www.cnet.com/home/dyson-went-bonkers-during-ifa-2026-here-are-all-10-of-its-new-products/",
-                "source": "CNET",
-                "date": "2026-09-05T11:23:14Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "OpenAI admits to German wiki ‘incident’",
-                "desc": "The company pledged to overhaul their agent ‘misalignment incident’ reporting.",
-                "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_D_54a015.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
-                "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
-                "source": "The Verge",
-                "date": "2026-09-05T11:15:55Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "These Jobs Are Expected to Grow Over 10 Years",
-                "desc": "The Labor Department's latest 10-year jobs forecast has a clear loser: word processors and typists. And a clear winner: nurse practitioners. The agency's report attempts...",
-                "image": "https://cdn.newser.com/image/1708928-12-20260905061102.jpeg",
-                "url": "https://www.newser.com/story/395662/these-jobs-are-expected-to-grow-over-10-years.html",
-                "source": "Newser",
-                "date": "2026-09-05T10:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Home Prices Are Falling the Fastest in These Cities",
-                "desc": "The largest price-per-square-foot declines were in Austin, TX (-8.1%); Tampa, FL (-5.6%); and Memphis, TN (-4.1%).",
-                "image": "https://na.rdcpix.com/17ddff4dbeebb7a97251998c8da2f359w-c434795551srd_w1200_q80.jpg",
-                "url": "https://www.realtor.com/news/trends/home-prices-falling-cities-august-2026/",
-                "source": "Realtor.com",
-                "date": "2026-09-05T10:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The Watch World Went Crazy This Week. Here Are the 10 You Need to See",
-                "desc": "The main action took place at Geneva Watch Days, but others dialed in remotely to make sure it wasn't just a Swiss party.",
-                "image": "https://media.wired.com/photos/6a9b0cbfa95fee1cd7b0f651/191:100/w_1280,c_limit/WatchWeek.jpg",
-                "url": "https://www.wired.com/story/the-watch-world-went-crazy-this-week-here-are-the-10-you-need-to-see/",
-                "source": "WIRED",
-                "date": "2026-09-05T09:45:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Passenger duct-taped to seat on American Airlines flight amid midair outburst",
-                "desc": "An American Airlines flight from Dallas-Fort Worth to Newark, New Jersey, was diverted to Baltimore after a passenger had to be restrained with duct tape and zip ties during a midair outburst.",
-                "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/american-airlines-passenger-duct-taped.jpg",
-                "url": "https://www.foxnews.com/travel/american-airlines-passenger-duct-taped-seat-alleged-racist-homophobic-midair-outburst",
-                "source": "Fox News",
-                "date": "2026-09-05T09:37:59Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Here's How The Ford Fathom Differs From The F",
-                "desc": "The Lightning was based on the F-150's body-on-frame construction, while the Fathom was designed from the ground up as an EV made of three large parts.",
-                "image": "https://www.jalopnik.com/img/gallery/heres-how-the-ford-fathom-differs-from-the-f-150-lightning/l-intro-1788351849.jpg",
-                "url": "https://www.jalopnik.com/2249353/ford-fathom-different-from-f-150-lightning/",
-                "source": "jalopnik.com",
-                "date": "2026-09-05T09:25:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Still sending checks in the mail? It's time to stop.",
-                "desc": "Check fraud is rising even as the number of checks in circulation is declining. If you're still sending them in the mail, it may be time to stop.",
-                "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/09/03/USAT/91595876007-20240327-t-205826-z-201923544-mt-1-usatoday-22880038-rtrmadp-3-asurgeincheckfraudhasledtonewtipsabouthowtomail.JPG?crop=1886,1060,x240,y0&width=1886&height=1060&format=pjpg&auto=webp",
-                "url": "https://www.usatoday.com/story/money/personal-finance/2026/09/05/is-it-safe-to-mail-checks/91591254007/",
-                "source": "USA Today",
-                "date": "2026-09-05T09:05:00Z",
-                "priority": "STANDARD"
             }
         ],
         "entertainment": [
+            {
+                "title": "The house that unlocked a family's history",
+                "desc": "Fred Miller purchased a property to host family gatherings, only to learn it was once a plantation where his ancestors were enslaved.",
+                "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2022/05/15/17915469-a221-4cc7-8124-2eb19b005abf/thumbnail/1200x630/3acecef0e505ccfea19472fd8e86c8a9/ot-sharswoodfd.jpg",
+                "url": "https://www.cbsnews.com/news/sharswood-cemetery-60-minutes/",
+                "source": "cbsnews.com",
+                "date": "2026-09-06T23:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'Below Deck' star reacts to Bravo cutting ties with Nathan Gallagher following domestic violence",
+                "desc": "\"Below Deck Mediterranean\" star Joe Bradley subtly reacted to Bravo firing Nathan Gallagher after the latter's domestic violence arrest.",
+                "image": "https://pagesix.com/wp-content/uploads/sites/3/2026/09/139929619.jpg?quality=75&strip=all&w=1200",
+                "url": "https://pagesix.com/2026/09/06/entertainment/below-deck-star-reacts-to-bravo-cutting-ties-with-nathan-gallagher-following-domestic-violence/",
+                "source": "Page Six",
+                "date": "2026-09-06T22:11:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Kendall Jenner turns up for ex Blake Griffin’s apparent wedding weekend",
+                "desc": "Kendall Jenner supports ex Blake Griffin and Francesca Aiello during their apparent wedding celebrations in Italy",
+                "image": "https://i.tribune.com.pk/media/images/blake-griffin1788730826-0/blake-griffin1788730826-0-640x480.webp",
+                "url": "https://tribune.com.pk/story/2627803/what-was-kendall-jenner-doing-at-blake-griffins-apparent-wedding-weekend",
+                "source": "The Express Tribune",
+                "date": "2026-09-06T21:56:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Alex Witt Gives Tearful Goodbye From MS NOW After 30 Years",
+                "desc": "Longtime MS NOW anchor Alex Witt signed off tearfully on Sunday for the last time following a retrospective of her career that spanned nearly 30 years.",
+                "image": "https://www.mediaite.com/wp-content/uploads/2026/09/witt.jpeg",
+                "url": "https://www.mediaite.com/media/news/ms-nows-alex-witt-gives-a-tearful-goodbye-after-30-years-hard-to-get-to-this/",
+                "source": "Mediaite",
+                "date": "2026-09-06T21:55:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "D4vd Death Penalty Backed by Celeste Rivas' Family If Convicted",
+                "desc": "The family of Celeste Rivas Hernandez wants prosecutors to go all the way if D4vd is convicted of murdering the 14-year-old ... reportedly backing the death penalty on the eve of what would've been Celeste's 16th birthday.",
+                "image": "https://imagez.tmz.com/image/79/16by9/2026/09/06/790274f2d8b0426d9dc82b6ec5d166b1_xl.jpg",
+                "url": "https://www.tmz.com/2026/09/06/celeste-rivas-family-supports-d4vd-getting-death-penalty/",
+                "source": "TMZ",
+                "date": "2026-09-06T21:36:39Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Meet the alien math-rock duo selling out shows across the U.S.",
+                "desc": "Angine de Poitrine wears giant masks, speaks an alien language and plays wildly complicated math rock. Manager Sebastien Collin talks about the rise of the enigmatic musical group.",
+                "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg",
+                "url": "https://www.npr.org/2026/09/06/nx-s1-5897445/meet-the-alien-math-rock-duo-selling-out-shows-across-the-u-s",
+                "source": "NPR",
+                "date": "2026-09-06T21:06:43Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Daily Tarot Horoscopes For Monday, September 7, 2026",
+                "desc": "The daily tarot horoscope for Monday, September 7, 2026, is here for each zodiac sign while the Sun is in Virgo and the Moon is in Cancer, entering Leo.",
+                "image": "https://www.yourtango.com/sites/default/files/image_blog/2026-09/daily-tarot-horoscope-september-7-2026_0.png",
+                "url": "https://www.yourtango.com/2026400706/daily-tarot-horoscope-september-7-2026",
+                "source": "YourTango",
+                "date": "2026-09-06T21:04:59Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Telluride's Surprise Movie Sparks Guessing Game, Studio Buyer Emerges",
+                "desc": "Telluride's Surprise Movie Sparks Industry Guessing Game As Studio Buyer Emerges",
+                "image": "https://deadline.com/wp-content/uploads/2026/09/Telluride.jpg?w=1024",
+                "url": "https://deadline.com/2026/09/telluride-surprise-movie-sparks-guessing-game-studio-buyer-1237069433/",
+                "source": "Deadline",
+                "date": "2026-09-06T20:29:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Dolly Parton’s Social Media Shares Bittersweet Message 2 Weeks After Her Death",
+                "desc": "Dolly Parton‘s social media accounts shared an uplifting — yet bittersweet — message on Sunday, Sept. 6, two weeks after her death. On both Instagram and X, Parton’s team posted the same pink image wi...",
+                "image": "https://s.yimg.com/lo/mysterio/api/911840ada5e920bf086874bef1805c3cc6c2971cabb168dfd37b7fe2845543a9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fin_touch_weekly_articles_766%2F7c6d4c0b4b14970f31e6b1b18dee36cc.jpg",
+                "url": "https://www.yahoo.com/entertainment/music/articles/dolly-parton-social-media-shares-202225014.html",
+                "source": "Yahoo",
+                "date": "2026-09-06T20:22:25Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Second attendee dies at Burning Man festival",
+                "desc": "A second Burning Man festival attendee has died, the festival said Saturday.",
+                "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260906-burning-man-festival-vl-359p-b0fa1d.jpg",
+                "url": "https://www.nbcnews.com/news/us-news/second-attendee-dies-burning-man-festival-rcna596380",
+                "source": "NBC News",
+                "date": "2026-09-06T20:12:28Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Part Thriller Is Officially Streaming's Biggest Series",
                 "desc": "Hulu's 'Furious' is dominating streaming charts and drawing comparisons to Dexter.",
@@ -3704,99 +3794,99 @@
                 "source": "USA Today",
                 "date": "2026-09-05T17:12:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "‘Below Deck Med’ Star Gael Cameron Breaks Silence After Ex Nathan Gallagher’s Domestic Violence Conviction",
-                "desc": "Below Deck Mediterranean star Gael Cameron, 30, broke her silence on Saturday, Sept. 5, after ex-boyfriend Nathan Gallagher‘s domestic violence conviction Cameron, who was identified as the 29-year-ol...",
-                "image": "https://s.yimg.com/lo/mysterio/api/edd4348e4e5b4abe9035f0ff06f4d764ea081a7d18945d96c33ee72e1bd4cafc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fin_touch_weekly_articles_766%2Fe44bce479cabe4e8e1635ecd982e75c5.png",
-                "url": "https://www.yahoo.com/entertainment/celebrity/articles/below-deck-med-star-gael-170507178.html",
-                "source": "Yahoo",
-                "date": "2026-09-05T17:05:07Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Kid Cudi Defends Performing with Kanye West at Chicago Homecoming Concert",
-                "desc": "Kid Cudi defended his support of Kanye West and an appearance at Ye's concert at Chicago's Soldier Field after Peter Rosenberg criticized those supporting West.",
-                "image": "https://consequence.net/wp-content/uploads/2026/09/Kid-Cudi-and-Kanye-West.jpg",
-                "url": "https://consequence.net/2026/09/kid-cudi-defends-kanye-west-chicago-concert/",
-                "source": "Consequence of Sound",
-                "date": "2026-09-05T16:56:59Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "CD sales are booming as physical media continues its resurgence",
-                "desc": "CD sales are booming, and vinyl continues its resurgence, but that doesn’t mean people are abandoning streaming.",
-                "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DSCF1155-EDIT.jpg?quality=90&strip=all&crop=0%2C10.737667300434%2C100%2C78.524665399133&w=1200",
-                "url": "https://www.theverge.com/entertainment/990794/cd-sales-are-booming-as-physical-media-continues-its-resurgence",
-                "source": "The Verge",
-                "date": "2026-09-05T16:49:33Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Dolly Parton's Sister Stella Slams Social Media \"Garbage\" & AI",
-                "desc": "Dolly Parton's sister Stella Parton is lambasting the \"tremendous amount of AI and endless garbage” on social media since the icon's death.",
-                "image": "https://deadline.com/wp-content/uploads/2026/09/GettyImages-499682654.jpg?w=1024",
-                "url": "https://deadline.com/2026/09/dolly-parton-stella-ai-social-media-1237068956/",
-                "source": "Deadline",
-                "date": "2026-09-05T16:45:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'Spider-Man' Still on Top at Labor Day Box Office While 'Coyote vs Acme' Holds Strong",
-                "desc": "The Ketchup-released \"Looney Tunes\" film is set to drop only 27% from its opening weekend",
-                "image": "https://www.thewrap.com/wp-content/uploads/2026/08/spider-man-brand-new-day-jon-bernthal-tom-holland.jpg",
-                "url": "https://www.thewrap.com/creative-content/movies/spider-man-coyote-vs-acme-labor-day-box-office/",
-                "source": "thewrap.com",
-                "date": "2026-09-05T16:44:43Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Gary Sinise urges new generation to never forget 9/11",
-                "desc": "\"Forrest Gump\" star Gary Sinise joins other groups in a mission to make sure the heart-wrenching 9/11 story will be handed down to younger generations that didn't live through it.",
-                "image": "https://nypost.com/wp-content/uploads/sites/2/2026/09/2001-three-hijacked-planes-crashed-139471315.jpg?quality=75&strip=all&w=1200",
-                "url": "https://nypost.com/2026/09/05/us-news/gary-sinise-urges-new-generation-to-never-forget-9-11/",
-                "source": "New York Post",
-                "date": "2026-09-05T16:40:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Spider-Man Brand New Day Fastest to Pass $900 Million at Box Office",
-                "desc": "'Spider-Man: Brand New Day' is the fastest film to cross $900 million at the domestic box office, doing so in just 36 days.",
-                "image": "https://variety.com/wp-content/uploads/2026/07/MCDSPMA_SP138-e1785154645459.jpg?crop=0px%2C0px%2C1955px%2C1100px&resize=1000%2C563",
-                "url": "https://variety.com/2026/film/news/spider-man-brand-new-day-box-office-900-million-1236849789/",
-                "source": "Variety",
-                "date": "2026-09-05T16:31:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Natalie Portman welcomes baby No. 3, her first with partner Tanguy Destable",
-                "desc": "Natalie Portman has given birth to her third baby. The infant is the Oscar-winning actress' first child with partner Tanguy Destable.",
-                "image": "https://pagesix.com/wp-content/uploads/sites/3/2026/09/139746220.jpg?quality=75&strip=all&w=1200",
-                "url": "https://pagesix.com/2026/09/05/parents/natalie-portman-welcomes-baby-no-3-her-first-with-partner-tanguy-destable/",
-                "source": "pagesix.com",
-                "date": "2026-09-05T16:07:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Yoda meets Frida Kahlo: George Lucas’ $1 billion museum isn’t just for Star Wars fans",
-                "desc": "There’s much more than a few dusty old droids to discover at George Lucas’ space-age cathedral to narrative art, finds Kevin E G Perry",
-                "image": "https://static.the-independent.com/2026/09/02/23/59/05--Courtesy-Lucas-Museum-of-Narrative-Art--Photo-by-HuftonCrow-(1).jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
-                "url": "https://www.the-independent.com/arts-entertainment/films/features/george-lucas-museum-los-angeles-review-b3045212.html",
-                "source": "independent.co.uk",
-                "date": "2026-09-05T12:07:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Maggie Gyllenhaal Was Asked to Use AI for Marilyn Monroe Short Film",
-                "desc": "The jury president said AI \"fundamentally did not work.",
-                "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/GettyImages-2293527006.jpg?crop=0px%2C645px%2C6000px%2C3357px&resize=1440%2C810",
-                "url": "https://www.hollywoodreporter.com/movies/movie-news/maggie-gyllenhaal-ai-marilyn-monroe-film-dakota-johnson-1236691657/",
-                "source": "hollywoodreporter.com",
-                "date": "2026-09-05T11:51:58Z",
-                "priority": "STANDARD"
             }
         ],
         "sports": [
+            {
+                "title": "Walpole Joe Morgan was both one of us and one of one",
+                "desc": "There's a great symmetry in this wondrous 2026 Red Sox season, tying interim manager Chad Tracy to Morgan, the one-time interim who died Saturday night.",
+                "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/C3SVLIAWCVHTZI5E6UHQUTREVY.jpg?auth=a010ae8f886242432876f466fd2e58b9c8f9e584eea13450fac7a34d308ab42b&width=1440",
+                "url": "https://www.bostonglobe.com/2026/09/06/sports/dan-shaughnessy-joe-morgan-appreciation/",
+                "source": "The Boston Globe",
+                "date": "2026-09-06T22:54:37Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Wimbledon won't credential influencers, already taking precautions after US Open issues",
+                "desc": "Influencers and content creators have been all over the US Open this fall, and it's caused some disruptions to the Grand Slam.",
+                "image": "https://s.yimg.com/lo/mysterio/api/56703a248d7edcf76a21ba7dc33809cce78e4ff8098bbe909428e028ed9b241d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2F0696dfb2-ef16-4243-be46-b75ffdcb6f1e",
+                "url": "https://sports.yahoo.com/tennis/article/wimbledon-wont-credential-influencers-already-taking-precautions-after-us-open-issues-224304545.html",
+                "source": "Yahoo Sports",
+                "date": "2026-09-06T22:43:04Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Michigan-Western Michigan: Inside how Broncos leadership accepted controversial loss to Wolverines",
+                "desc": "Western Michigan leadership accepted the Big Ten replay ruling that led to Michigan's walk-off touchdown, choosing to move forward rather than fight a controversial finish",
+                "image": "https://sportshub.cbsistatic.com/i/r/2026/09/06/43d21be1-f6c8-425c-8b93-c2b4f9e0f72f/thumbnail/1200x675/2a27fa17a91554defab417a95e376328/western-michigan.png",
+                "url": "https://www.cbssports.com/college-football/news/inside-western-michigan-leaders-michigan-clock-controversy-hail-mary/",
+                "source": "CBS Sports",
+                "date": "2026-09-06T22:20:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Janssen's hat trick, Cavan's LeBron salute & more from Matchday 24",
+                "desc": "Matchday 24: Where to begin?",
+                "image": "https://images.mlssoccer.com/image/private/t_editorial_landscape_3_4_desktop/mls/qigwm1ck0o3xrmuh5j8u.png",
+                "url": "https://www.mlssoccer.com/news/janssen-s-hat-trick-cavan-s-lebron-salute-more-from-matchday-24",
+                "source": "MLSsoccer.com",
+                "date": "2026-09-06T22:16:52Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Western Michigan-Michigan outcome created chaos for Kalshi",
+                "desc": "Last night's chaotic outcome to the Western Michigan-Michigan game created true chaos for the prediction markets, which have learned a valuable lesson once taught by Yogi Berra.",
+                "image": "https://nbcsports.brightspotcdn.com/dims4/default/e8619f2/2147483647/strip/true/crop/6000x3375+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb2%2F3c%2Fcdbea4c94c8bad4e95e86ed1034b%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2265194915",
+                "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/western-michigan-michigan-outcome-created-chaos-for-kalshi",
+                "source": "NBC Sports",
+                "date": "2026-09-06T22:01:25Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "College football Week 1 winners and losers: Lane Kiffin, conspiracy theories, Heisman poses",
+                "desc": "Most of the attention was on Kiffin's LSU debut and what went down in Ann Arbor, but there was plenty to pick from on a wild Saturday.",
+                "image": "https://static01.nyt.com/athletic/uploads/wp/2026/09/06021402/GettyImages-2293736193-scaled.jpg?width=1200&height=630&fit=cover",
+                "url": "https://www.nytimes.com/athletic/7569484/2026/09/06/college-football-week-1-winners-losers/",
+                "source": "The New York Times",
+                "date": "2026-09-06T21:38:10Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Has National Championship picture in college football already changed after a stunning first week?",
+                "desc": "Ohio State, Oregon, Michigan, USC and LSU delivered shocking Week 1 results that shook up the college football playoff and national championship picture heading into 2026.",
+                "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/sam-leavitt-lsu-clemson-tiger-stadium-fox-news_.jpg",
+                "url": "https://www.foxnews.com/outkick-sports/national-championship-picture-college-football-changed-stunning-week-one",
+                "source": "foxnews.com",
+                "date": "2026-09-06T21:26:23Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Wild opening salvo against Chelsea hints at exciting times for Arsenal fans",
+                "desc": "The home side’s response to Chelsea’s early goal was to play breathless attacking football",
+                "image": "https://i.guim.co.uk/img/media/4861fbfcac07be1219e50cbc1cf5e5e75a46f9b0/264_0_3290_2632/master/3290.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=553f76f8d23859ad787ccc3e8a5fbfc1",
+                "url": "https://www.theguardian.com/football/2026/sep/06/arsenal-chelsea-premier-league-2026",
+                "source": "theguardian.com",
+                "date": "2026-09-06T21:19:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Player Ratings: Juventus 1-1 AC Milan - Cisse and De Winter the positives",
+                "desc": "AC Milan were held to a 1-1 draw as Juventus scored a late equaliser at Allianz Stadium. Several players failed to impress and below are the ratings for the Rossoneri.",
+                "image": "https://icdn.sempremilan.com/wp-content/uploads/2026/09/milan-players-pre-juve.jpg",
+                "url": "https://sempremilan.com/player-ratings-juventus-1-1-ac-milan-cisse",
+                "source": "SempreMilan",
+                "date": "2026-09-06T21:07:52Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "US Open: Carlos Alcaraz breezes past Tommy Paul in straight sets to advance to quarterfinal",
+                "desc": "Paul has not been able to snatch a set from Alcaraz since 2024.",
+                "image": "https://s.yimg.com/lo/mysterio/api/ffa2bb083f185a85cad8b054c8fdd89cc420cdf5409787c2315cffbe6a915111/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2F4cb86f0b-11d7-42c5-ba1e-d9c646fbb98d",
+                "url": "https://sports.yahoo.com/tennis/article/us-open-carlos-alcaraz-breezes-past-tommy-paul-in-straight-sets-to-advance-to-quarterfinal-204220466.html",
+                "source": "Yahoo Sports",
+                "date": "2026-09-06T21:06:39Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "NFL announces new contract for Roger Goodell",
                 "desc": "Goodell is now signed through March 31, 2031.",
@@ -4246,98 +4336,8 @@
                 "source": "BBC",
                 "date": "2026-09-05T23:48:55Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Cowboys embarrassed by Golden Hurricane",
-                "desc": "The Oklahoma State Cowboys were outclassed by the Tulsa Golden Hurricane for a 24-10 loss in the 2026 college football season opener on Saturday.",
-                "image": "https://www.oklahoman.com/gcdn/authoring/authoring-images/2026/09/05/NOKL/91635110007-osu-tulsa-114.jpg?crop=3318,1868,x0,y172&width=3200&height=1802&format=pjpg&auto=webp",
-                "url": "https://www.oklahoman.com/story/sports/college/cowboys/2026/09/05/oklahoma-state-tulsa-game-score-live-updates-highlights-college-football--live/91630352007/",
-                "source": "The Oklahoman",
-                "date": "2026-09-05T23:42:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Somehow, the Miami Hurricanes have done it again with yet another Heisman-level quarterback",
-                "desc": "Miami Hurricanes and Mario Cristobal landed another elite QB in Duke transfer Darian Mensah, continuing a trend that previously brought Cam Ward and Carson Beck.",
-                "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/darian-mensah-miami-hurricanes-stanford-cardinal-fox-news_.jpg",
-                "url": "https://www.foxnews.com/outkick-sports/miami-hurricanes-done-heisman-level-quarterback",
-                "source": "Fox News",
-                "date": "2026-09-05T21:34:22Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Erling Haaland makes telling Man City admission ahead of Arsenal title fight",
-                "desc": "Erling Haaland scored the decisive goal as Manchester City made it three wins from three in the Premier League but implied that Arsenal may have the edge in the title race",
-                "image": "https://i2-prod.mirror.co.uk/article37588689.ece/ALTERNATES/s1200d/3_GettyImages-2291178828.jpg",
-                "url": "https://www.mirror.co.uk/sport/football/news/erling-haaland-man-city-arsenal-37631716",
-                "source": "Daily Mirror",
-                "date": "2026-09-05T21:24:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "College football Week 1 scores, live updates: Boise State vs. Oregon, Baylor vs. Auburn and more",
-                "desc": "Will Kiffin's LSU tenure get off to a good start? How will Boise State fare on the road at Oregon? Week 1's Saturday slate looks like a good one.",
-                "image": "https://s.yimg.com/lo/mysterio/api/5fee59a9c8f0eebb95808861ec216a361828fd038fcb9155e08067fea2235bbe/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2Fd167da82-6da7-4d4f-8ee8-5403e864f4bf",
-                "url": "https://sports.yahoo.com/college-football/live/college-football-week-1-scores-live-updates-boise-state-vs-oregon-clemson-vs-lsu-and-more-145856884.html",
-                "source": "Yahoo Sports",
-                "date": "2026-09-05T21:18:21Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Proof Points From Ohio State’s Dominant Win Over Ball State in the Season Opener, Presented by High Bank Distillery",
-                "desc": "Jeremiah Smith proves he's still him, Julian Sayin shows off his accuracy and scrambling ability, and Ohio State's rushing attack wakes up after a slow start.",
-                "image": "https://www.elevenwarriors.com/sites/default/files/styles/904x490/public/c/2026/09/163648_h.jpg?itok=boYxP_QY",
-                "url": "https://www.elevenwarriors.com/ohio-state-football/2026/09/163648/proof-points-from-ohio-state-s-dominant-win-over-ball-state-in-the-season-opener-presented-by-high-bank-distillery",
-                "source": "Eleven Warriors",
-                "date": "2026-09-05T21:18:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Christian Gonzalez doesn't commit to playing season opener",
-                "desc": "Patriots cornerback Christian Gonzalez still doesn't have a contract extension, and with the season opener only four days away, he isn't not committing to playing without one.",
-                "image": "https://nbcsports.brightspotcdn.com/dims4/default/6bd365e/2147483647/strip/true/crop/2170x1221+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F8e%2F4d%2F8cba286743ea87b117ef15f18f6a%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2288632590",
-                "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/christian-gonzalez-doesnt-commit-to-playing-season-opener",
-                "source": "NBC Sports",
-                "date": "2026-09-05T20:08:28Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "What Alpine got right at Monza and everyone else got wrong",
-                "desc": "F1's Monza pole shock happened partly because Alpine got things right, but also because the 'big four' got a lot wrong",
-                "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/size/w1200/2026/09/XPB_1433855_HiRes.jpg",
-                "url": "https://www.the-race.com/formula-1/five-reasons-for-gaslys-shock-italian-grand-prix-pole/",
-                "source": "The Race",
-                "date": "2026-09-05T20:02:38Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Did Indiana football win today? IU score vs North Texas, game stats",
-                "desc": "The Hoosiers played on a field surface reported at 152 degrees, QB Josh Hoover was bloodied, and IU won with an impressive offense. Here's how.",
-                "image": "https://www.indystar.com/gcdn/authoring/authoring-images/2026/09/05/NHEN/91631898007-iu-33.jpg?crop=1999,1125,x0,y0&width=1999&height=1125&format=pjpg&auto=webp",
-                "url": "https://www.indystar.com/story/sports/college/indiana/2026/09/05/indiana-football-score-north-texas-where-to-watch-radio-live-coach-curt-cignetti-qb-josh-hoover--live/91625529007/",
-                "source": "IndyStar",
-                "date": "2026-09-05T19:51:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Chivu: 'It was a great advertisement for Italian football'",
-                "desc": "Inter head coach Cristian Chivu praised both sides for serving up a dramatic five-goal thriller at the San Siro on Saturday, as his side fought back from two",
-                "image": "https://icdn.football-italia.net/wp-content/uploads/2026/09/Cristian-Chivu-wave.jpg",
-                "url": "https://football-italia.net/inter-3-2-napoli-chivu-it-was-a-great-ad/",
-                "source": "Football Italia",
-                "date": "2026-09-05T19:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "From Death Valley(s) to The Swamp, how college football stadiums got their nicknames",
-                "desc": "They emerged from blowouts and marketing pitches, architectural quirks and television broadcasts, each becoming entrenched in tradition.",
-                "image": "https://static01.nyt.com/athletic/uploads/wp/2026/09/03160534/GettyImages-2249444344-scaled-e1788465981848.jpg?width=1200&height=630&fit=cover",
-                "url": "https://www.nytimes.com/athletic/7563333/2026/09/05/college-football-stadium-names-death-valley-swamp/",
-                "source": "nytimes.com",
-                "date": "2026-09-05T19:26:50Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-09-07T05:28:04.111664Z"
+    "lastGlobalSync": "2026-09-07T11:05:05.168398Z"
 }
