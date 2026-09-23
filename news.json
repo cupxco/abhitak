@@ -2,12 +2,84 @@
     "hi": {
         "general": [
             {
+                "title": "आज का मौसम 23 सितंबर: 8 घंटों अंदर 13 राज्यों में मूसलाधार बारिश का अलर्ट, डीप डिप्रेशन पर IMD की बड़ी चेतावनी",
+                "desc": "Today Weather: बंगाल की खाड़ी में बन रहे डीप डिप्रेशन के बीच मौसम विभाग ने 13 राज्यों में हल्की से लेकर भारी बारिश होने का अलर्ट जारी किया है। इस दौरान करीब 75 किलोमीटर प्रति घंटे की रफ्तार से तेज हवाएं चल सकती हैं। साथ ही कई जगहों पर बाढ़ का खतरा भी मंडरा रहा है।",
+                "image": "https://static.langimg.com/nbt/thumb/134423598/today-weather-23-september.jpg?imgsize=59197&width=1600&height=900&resizemode=75",
+                "url": "https://navbharattimes.indiatimes.com/india/today-weather-23-september-heavy-rain-alert-in-13-states-winds-at-87-kmhr-delhi-up-bihar-punjab-himachal-jharkhand-temperature/articleshow/134423559.cms",
+                "source": "Navbharat Times",
+                "date": "2026-09-23T01:03:41Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "लौट के ट्रंप भारत के पास आए..., बोले- 'इंडिया-मिडिल ईस्ट-यूरोप इकोनॉमिक कॉरिडोर का समर्थन करता हूं'",
+                "desc": "ईरान और अमेरिका के बीच बातचीत फिर से शुरू हो गई है। न्यूयॉर्क में 3 घंटे तक चली दोनों पक्षों की बैठक हुई है। इस बीच अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने कहा है कि वह इंडिया-मिडिल ईस्ट-यूरोप इकोनॉमिक कॉरिडोर का समर्थन करते हैं।",
+                "image": "https://resize.indiatv.in/resize/newbucket/1200_-/2026/09/donald-trump-supports-imec-corridor-1790124979.jpg",
+                "url": "https://www.indiatv.in/world/us/us-president-donald-trump-says-middle-east-energy-infrastructure-to-shift-away-from-the-iranian-checkpoints-supports-imec-corridor-2026-09-23-1244793",
+                "source": "India TV Hindi",
+                "date": "2026-09-23T00:58:25Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "कश्मीर के रामबन में खड़ी कार के अंदर मिले दो पुलिसकर्मियों के शव, संदिग्ध मौत से मचा हड़कंप",
+                "desc": "जम्मू-कश्मीर के रामबन जिले में एक कार के अंदर दो पुलिसकर्मियों के शव मिलने से हड़कंप मच गया। पुलिस ने मामले की जांच शुरू कर दी है, हालांकि उनकी मौत की वजह अभी स्पष्ट नहीं है।",
+                "image": "https://www.jagranimages.com/images/2026/09/23/template/image/5d8b7ac4-6647-4f2b-9155-c58f1cc10521-1790124389398_v.webp",
+                "url": "https://www.jagran.com/jammu-and-kashmir/jammu-two-policemen-found-dead-in-car-in-jks-ramban-district-40382004.html",
+                "source": "Jagran",
+                "date": "2026-09-23T00:48:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'पेट भरने के लिए दो बार वड़ा पाव खाती हूं', रीति तिवारी के बयान पर भड़के यूजर्स",
+                "desc": "बिग बॉस 20 में भोजपुरी स्टार और बीजेपी नेता मनोज तिवारी की बेटी रीति तिवारी ने अपनी जिंदगी और पैसे के संघर्षों को लेकर खुलकर बातें की. जिसके बाद यूजर्स ने उनकी आलोचना करना शुरू कर दिया है.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202609/6ab27ab14439e-manoj-tiwari-daughter-rhiti-tiwari-225512174-16x9.png",
+                "url": "https://www.aajtak.in/entertainment/news/story/manoj-tiwari-daughter-rhiti-tiwar-trolled-for-saying-she-got-only-25k-monthly-tmov-dskc-2650256-2026-09-23",
+                "source": "AajTak",
+                "date": "2026-09-23T00:30:11Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "बाज नहीं आया तुर्किये, राष्ट्रपति एर्दोगन ने संयुक्त राष्ट्र महासभा में उठाया कश्मीर का मुद्दा",
+                "desc": "पाकिस्तान और सऊदी अरब के साथ त्रिपक्षीय रक्षा समझौता करने कुछ हफ्तों बाद तुर्किये के राष्ट्रपति रेसेप तैयप एर्दोगन ने मंगलवार को संयुक्त राष्ट्र महासभा के 81वें सत्र को संबोधित करते हुए कश्मीर पर पाकिस्तान के भारत-विरोधी रुख को दोहराने का प्रयास किया।",
+                "image": "https://www.jagranimages.com/images/2026/09/23/template/image/jagran-photo-1790121714496_v.webp",
+                "url": "https://www.jagran.com/world/other-president-erdogan-raises-the-kashmir-issue-at-the-un-general-assembly-40381992.html",
+                "source": "Jagran",
+                "date": "2026-09-23T00:02:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "अमेरिका-डेनमार्क-ग्रीनलैंड की नई डिफेंस डील, आर्कटिक सुरक्षा से 'गोल्डन डोम' तक फोकस",
+                "desc": "अमेरिका, डेनमार्क और ग्रीनलैंड के बीच एक नया समझौता हुआ है. ये समझौता 1951 के पुराने समझौते का विस्तार है जिसमें अमेरिकी सेना की भूमिका, ग्रीनलैंड की संप्रभुता, पर्यावरण संरक्षण और क्षेत्रीय अखंडता को प्राथमिकता दी गई है. इस समझौते का मकसद आर्कटिक में शांति, सुरक्षा और स्थिरता लाना है.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202609/6ab2f2d8544f9-us-denmark-greenland-defense-agreement-222751168-16x9.jpg",
+                "url": "https://www.aajtak.in/world/story/us-denmark-greenland-defense-agreement-2026-focuses-arctic-golden-dome-ntc-drmt-dskc-2650401-2026-09-23",
+                "source": "AajTak",
+                "date": "2026-09-22T21:31:26Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "अमेरिका-ईरान की हाई लेवल मीटिंग! न्यूयॉर्क में कुशनर-विटकॉफ से मिले अराघची, ट्रंप बोले- बैठक अच्छी रही",
+                "desc": "UNGA सेशन में शामिल होने न्यूयॉर्क पहुंचे ईरानी डेलिगेशन और अमेरिकी अधिकारियों की हाई लेवल मीटिंग हुई. तीन घंटे तक चली इस मीटिंग में अमेरिकी अधिकारी स्टीव विटकॉफ और जेरेड कुशनर के साथ ईरानी विदेश मंत्री अब्बास अराघची भी शामिल थे. बैठक में ईरान ने होर्मुज खोलने और युद्ध खत्म करने की शर्तें रखीं.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202609/6ab2eb48ec675-iran-america-meet-in-new-york-225535916-16x9.png",
+                "url": "https://www.aajtak.in/world/story/us-iran-high-level-meeting-new-york-trump-says-went-well-araghchi-hormuz-ntc-drmt-dskc-2650399-2026-09-23",
+                "source": "AajTak",
+                "date": "2026-09-22T20:56:04Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "ईरान का अमेरिका को बड़ा ऑफर, भरत के शेयर बाजार से सोना तक पर पड़ेगा असर?",
                 "desc": "बता दें कि होर्मुज जलडमरूमध्य दुनिया के सबसे महत्वपूर्ण ऊर्जा मार्गों में से एक है। यह फारस की खाड़ी को हिंद महासागर से जोड़ता है। इस रास्ते से हर दिन करीब 2 करोड़ बैरल कच्चा तेल गुजरता है, जो दुनिया की कुल तेल खपत का लगभग पांचवां हिस्सा है।, Business Hindi News - Hindustan",
                 "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/09/22/1600x900/logo/share_market_1760785523672_1760785537931_1790101865523_ir4Q_160d7763-ae2f-45d7-ba88-c2880f00878b_T4QL.jpg",
                 "url": "https://www.livehindustan.com/business/iran-offers-to-open-strait-of-hormuz-how-can-it-impact-the-indian-stock-market-gold-prices-201790101598161.html",
                 "source": "Hindustan",
                 "date": "2026-09-22T18:31:48Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "राजस्थान: कांग्रेस को फिर मिली करारी हार, 7 निगम में से 6 निगम पर बने बीजेपी के डिप्टी मेयर, एक पर निर्दलीय का कब्जा",
+                "desc": "राजस्थान के हालिया निकाय चुनावों में बीजेपी ने 7 में से 6 सीटें जीतकर शानदार प्रदर्शन किया है. एक सीट पर निर्दलीय ने जीत हासिल की, जबकि कांग्रेस को करारी हार का सामना करना पड़ा है. उदयपुर, अजमेर, अलवर, बीकानेर, भीलवाड़ा, भरतपुर और पाली में बीजेपी के उम्मीदवार डिप्टी मेयर चुने गए.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202609/6ab2c8b45e302-rajasthan-nikay-chunav-222803129-16x9.png",
+                "url": "https://www.aajtak.in/rajasthan/story/rajasthan-local-body-elections-results-bjp-wins-6-seats-deputy-mayor-congress-ntc-drmt-rptc-2650384-2026-09-22",
+                "source": "AajTak",
+                "date": "2026-09-22T18:28:30Z",
                 "priority": "STANDARD"
             },
             {
@@ -468,81 +540,18 @@
                 "source": "hindisaamana.com",
                 "date": "2026-09-21T18:38:49Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "विचार भारत के लिए मुसीबत बनते ट्रंप",
-                "desc": "अमेरिका की ओर से भारत के लिए बढ़ती आर्थिक और व्यापारिक चुनौतियों के बीच भारत को अमेरिका के साथ आगे बढ़ रहे द्विपक्षीय व्यापार समझौते (बीटीए) के तहत अपने राष्ट्रीय हितों की सुरक्षा के प्रति अत्यंत सतर्क रहना होगा।",
-                "image": "https://www.jagranimages.com/images/2026/09/21/template/image/Trump-India-relations-1790014078767.webp",
-                "url": "https://www.jagran.com/editorial/apnibaat-trumps-us-policies-economic-visa-challenges-for-india-40380795.html",
-                "source": "Jagran",
-                "date": "2026-09-21T18:09:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "‘राका’ के नाम गिनीज वर्ल्ड रिकॉर्ड, 37 लोगों ने रचा इतिहास, कलाकारों में 4 साल के बच्चे से लेकर 70 साल के बुजुर्ग",
-                "desc": "अल्लू अर्जुन की आने वाली फिल्म ‘राका’ ने रिलीज के पहले ही इतिहास रच दिया है। इसने गिनीज वर्ल्ड रिकॉर्ड में अपना नाम दर्ज किया है। यह रिकॉर्ड एक ही समय में 37 कलाकारों के रियल-टाइम मोशन कैप्चर के जरिए बनाया गया और 15 सितंबर 2026 को इसे आधिकारिक रूप से प्रमाणित किया गया।",
-                "image": "https://static.langimg.com/nbt/thumb/134395369/raaka-guinness-world-record.jpg?imgsize=155138&width=1600&height=900&resizemode=75",
-                "url": "https://navbharattimes.indiatimes.com/entertainment/south-movie/raaka-sets-a-guinness-world-record-37-people-make-history-artists-from-4-years-to-70-year-old-senior/articleshow/134395131.cms",
-                "source": "Navbharat Times",
-                "date": "2026-09-21T17:51:06Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "एक दशक बाद अमेरिका दौरे पर जिनपिंग, व्हाइट हाउस में पत्नी संग स्वागत करेंगे ट्रंप",
-                "desc": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप चीनी राष्ट्रपति शी जिनपिंग और पेंग लियुआन की व्हाइट हाउस विजिट की तैयारियां कर रहे हैं. 24 सितंबर की सुबह व्हाइट हाउस के साउथ लॉन, स्टेट फ्लोर और रोज गार्डन में स्टेट अराइवल सेरेमनी रखी गई है.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202609/6ab16bb4661f9-donald-trump-xi-jinping-213859718-16x9.jpeg",
-                "url": "https://www.aajtak.in/world/story/donald-trump-xi-jinping-white-house-state-visit-melania-peng-liyuan-china-us-ntc-amkr-dskc-2649433-2026-09-21",
-                "source": "AajTak",
-                "date": "2026-09-21T17:36:34Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "व्हाइट हाउस ने CNN को किया बैन, बड़े टीवी नेटवर्क्स ने रोक दिया प्रेसिडेंट ट्रंप का कवरेज",
-                "desc": "तीनों संस्थानों ने संयुक्त बयान में कहा कि हमने सरकार को सूचित किया है कि हम अपने प्रथम संशोधन के तहत मिले अधिकारों की रक्षा और इस सिद्धांत को बरकरार रखने के लिए मुकदमा दाखिल कर रहे हैं.",
-                "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/09/21/86fc7175d82663bf69a378fd1f12a53217900104609111126_original.png?impolicy=abp_cdn&imwidth=1200",
-                "url": "https://www.abplive.com/news/world/lawsuit-filed-in-us-federal-court-against-us-president-donald-trump-and-its-administration-over-media-ban-3192040",
-                "source": "ABP News",
-                "date": "2026-09-21T17:09:07Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "UNSC में भारत क्यों चाहता है स्थायी सीट, 8 बार रह चुका है अस्थायी सदस्य, जानें पहली बार कब पेश की थी दावेदारी",
-                "desc": "यूनाइटेड नेशन को बने पूरे 81 साल हो चुके हैं, लेकिन इतने लंबे समय के बाद भी इसके स्थायी सदस्यों की संख्या में कोई बदलाव नहीं आया है। इसके पांच स्थायी सदस्यों में अमेरिका, फ्रांस, चीन, यूनाइटेड किंगडम और रूस शामिल है।",
-                "image": "https://static.langimg.com/nbt/thumb/134394502/india-unsc-permanent-seat.jpg?imgsize=220402&width=1600&height=900&resizemode=75",
-                "url": "https://navbharattimes.indiatimes.com/india/unsc-general-assembly-permanent-seat-global-south-asia/articleshow/134394295.cms",
-                "source": "Navbharat Times",
-                "date": "2026-09-21T17:06:40Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "हूतियों के खिलाफ सऊदी ने मांगी मदद, उलझन में ट्रंप, अब क्या करेगा अमेरिका?",
-                "desc": "पिछले दो हफ्तों से ट्रंप इस बात को लेकर उलझन में हैं कि क्या सऊदी अरब की अपील को मानकर अमेरिकी सेना को यमन में ईरान समर्थित हूति विद्रोहियों के ठिकानों पर हमला करने का आदेश दिया जाए या नहीं दिया जाए?",
-                "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/09/21/b8d82a78c3ae06193e11ae0c916b247117900099006781324_original.jpg?impolicy=abp_cdn&imwidth=1200",
-                "url": "https://www.abplive.com/news/world/donald-trump-caught-dilemma-over-saudi-plea-for-military-help-3192035",
-                "source": "abplive.com",
-                "date": "2026-09-21T16:59:44Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "क्रिकेट में बात तक नहीं होती, टेबल टेनिस मैच खत्म होते ही खिलाड़ियों ने मिला लिए हाथ, एशियन गेम्स में अलग ही रुख",
-                "desc": "एशियन गेम्स 2026 में भारत-पाकिस्तान टेबल टेनिस मुकाबले के बाद खिलाड़ियों के हाथ मिलाने से तरह-तरह के रिएक्शन सामने आ रहे हैं।",
-                "image": "https://static.langimg.com/nbt/thumb/134394116/table-tennis-1.jpg?imgsize=342922&width=1600&height=900&resizemode=75",
-                "url": "https://navbharattimes.indiatimes.com/sports/asian-games/news/asian-games-2026-table-tennis-handshake-reopens-debate-over-divergent-india-pakistan-sports-policies/articleshow/134393963.cms",
-                "source": "Navbharat Times",
-                "date": "2026-09-21T16:48:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "लालबागचा राजा के दर शाहरुख खान, साथ दिखीं पत्नी गौरी और सुहाना, लिया बप्पा का आशीर्वाद",
-                "desc": "बॉलीवुड सुपरस्टार शाहरुख खान ने सोमवार को गणेशोत्सव के दौरान गणपति बप्पा का आशीर्वाद लेने के लिए मुंबई के मशहूर लालबागचा राजा पंडाल का दौरा किया.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/photo_gallery/202609/6ab1593822d55-shah-rukh-khan-visits-lalbaugcha-raja-21200718-16x9.jpg",
-                "url": "https://www.aajtak.in/entertainment/bollywood-news/photo/shah-rukh-khan-visits-lalbaugcha-raja-with-gauri-khan-and-suhana-khan-to-seek-blessings-tmovg-2649412-2026-09-21",
-                "source": "AajTak",
-                "date": "2026-09-21T16:24:43Z",
-                "priority": "STANDARD"
             }
         ],
         "business": [
+            {
+                "title": "वेस्ट पाइपलाइन से तेल आपूर्ति शुरू, 90 डॉलर प्रति बैरल पर आया क्रूड",
+                "desc": "सऊदी अरब ने हूती हमले में क्षतिग्रस्त हुई ईस्ट-वेस्ट ऑयल पाइपलाइन से तेल आपूर्ति फिर से शुरू कर दी है, जिससे वैश्विक बाजार में कच्चे तेल की कीमत 90 डॉलर प्रति बैरल पर आ गई है।",
+                "image": "https://www.jagranimages.com/images/2026/09/22/template/image/East-West-Pipeline-reuters-1790099279200_v.webp",
+                "url": "https://www.jagran.com/world/middle-east-saudi-eastwest-pipeline-restarts-crude-oil-price-drops-to-90-40381906.html",
+                "source": "Jagran",
+                "date": "2026-09-22T17:51:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "मोबाइल रिचार्ज होंगे सस्ते, TRAI ने कॉलिंग और SMS के लिए दूरसंचार कंपनियां को जारी किया निर्देश",
                 "desc": "दूरसंचार नियामक ट्राई ने कंपनियों को वॉयस कॉल और एसएमएस के लिए अलग से सस्ते वाउचर जारी करने का निर्देश दिया है।\nइससे ग्राहकों को डेटा प्लान के बिना कम लागत पर केवल कॉल और एसएमएस की सुविधा मिलेगी, खासकर ग्रामीण क्षेत्रों में।",
@@ -559,6 +568,15 @@
                 "url": "https://www.aajtak.in/business/utility/photo/555-days-fd-scheme-benefits-check-city-union-bank-karnataka-bank-to-ubi-boi-interest-tutc-2650094-2026-09-22",
                 "source": "AajTak",
                 "date": "2026-09-22T17:04:54Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "PPF, सुकन्या समृद्धि समेत कई सरकारी योजनाओं की बदलेगीं ब्याज दरें? 30 सितंबर को सरकार करेगी फैसला",
+                "desc": "30 सितंबर के दिन सरकार इस दिन अक्टूबर-दिसंबर 2026 तिमाही के लिए PPF, सुकन्या समृद्धि योजना (SSY), किसान विकास पत्र (KVP) समेत कई छोटी बचत योजनाओं की ब्याज दरों की समीक्षा करेगी। अब नजर इस बात पर है कि मौजूदा दरें बरकरार रहती हैं या इनमें कोई बदलाव किया जाता है।",
+                "image": "https://resize.indiatv.in/resize/newbucket/1200_-/2026/09/saving-scheme-1790096428.jpg",
+                "url": "https://www.indiatv.in/paisa/my-profit/will-interest-rates-on-several-government-schemes-including-ppf-and-sukanya-samriddhi-change-govt-will-take-decision-on-september-30-2026-09-22-1244759",
+                "source": "India TV Hindi",
+                "date": "2026-09-22T17:00:40Z",
                 "priority": "STANDARD"
             },
             {
@@ -1064,27 +1082,18 @@
                 "source": "AajTak",
                 "date": "2026-09-21T09:36:57Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "48% महंगा हुआ भारत के लिए तेल का आयात, क्या अब चढ़ेगा पेट्रोल-डीजल का भाव?",
-                "desc": "पश्चिम एशिया संकट और रूसी प्रतिबंधों का ही असर है कि अब भारत को कच्चे तेल के आयात पर पहले के मुकाबले ज्यादा खर्च करना पड़ा है. आयात बिल बढ़ने के साथ-साथ डॉलर पर भी दबाव बढ़ता जा रहा है.",
-                "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/09/21/38f675e759c08fff5780c0e06a6fb3a317899805923421379_original.jpg?impolicy=abp_cdn&imwidth=1200",
-                "url": "https://www.abplive.com/business/india-s-oil-import-bill-rises-by-48-percent-impact-of-west-asia-crisis-and-russian-sanctions-3191822",
-                "source": "ABP News",
-                "date": "2026-09-21T09:24:17Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "ब्लैक-बोल्ड लुक, धांसू फीचर्स! नई SIERRA लॉन्च, कीमत है इतनी",
-                "desc": "टाटा मोटर्स ने अपनी पॉपुलर एसयूवी Sierra को अब एक नए और ज्यादा स्टाइलिश अंदाज में पेश किया है. कंपनी ने Sierra Dark Edition लॉन्च किया है.",
-                "image": "https://cf-img-a-in.tosshub.com/sites/visualstory/wp/2026/09/tata-sierra-dark-edition-ampITG-1789981915097.jpg?size=*:675",
-                "url": "https://www.aajtak.in/visualstories/auto/tata-sierra-dark-edition-launched-india-price-features-mileage-auaw-285922-21-09-2026",
-                "source": "AajTak",
-                "date": "2026-09-21T09:22:19Z",
-                "priority": "STANDARD"
             }
         ],
         "entertainment": [
+            {
+                "title": "'पेट भरने के लिए दो बार वड़ा पाव खाती हूं', रीति तिवारी के बयान पर भड़के यूजर्स",
+                "desc": "बिग बॉस 20 में भोजपुरी स्टार और बीजेपी नेता मनोज तिवारी की बेटी रीति तिवारी ने अपनी जिंदगी और पैसे के संघर्षों को लेकर खुलकर बातें की. जिसके बाद यूजर्स ने उनकी आलोचना करना शुरू कर दिया है.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202609/6ab27ab14439e-manoj-tiwari-daughter-rhiti-tiwari-225512174-16x9.png",
+                "url": "https://www.aajtak.in/entertainment/news/story/manoj-tiwari-daughter-rhiti-tiwar-trolled-for-saying-she-got-only-25k-monthly-tmov-dskc-2650256-2026-09-23",
+                "source": "AajTak",
+                "date": "2026-09-23T00:30:11Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "गोविंदा पहुंचे गणपति बप्पा के दर्शन करने, पत्नी सुनीता नहीं कोमल को लेकर आए साथ",
                 "desc": "गोविंदा पिछले कुछ दिनों से अपनी पर्सनल लाइफ को लेकर काफी चर्चा में हैं और अब इस नए वीडियो के साथ एक बार फिर उन चर्चाओं को हवा मिल गई है।, Bollywood Hindi News - Hindustan",
@@ -1615,18 +1624,18 @@
                 "source": "Navbharat Times",
                 "date": "2026-09-21T11:32:54Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "'फंडिंग के लिए कुछ भी बोलना सही नहीं', स्वरा भास्कर पर भड़के 'महाभारत के दुर्योधन' पुनीत इस्सर!",
-                "desc": "स्वरा भास्कर के अयोध्या कमेंट पर विवाद के बीच पुनीत इस्सर का बयान सामने आया है. उन्होंने सपोर्ट और फंडिंग को लेकर भी बड़ी बात कही.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202609/6ab10d13ee2d2-puneet-issar-slams-swara-bhaskar-comment-215514792-16x9.jpg",
-                "url": "https://www.aajtak.in/entertainment/bollywood-news/story/mahabharata-fame-puneet-issar-on-swara-bhaskar-ayodhya-ram-mandir-controversial-statement-tmova-dskc-2649155-2026-09-21",
-                "source": "AajTak",
-                "date": "2026-09-21T11:03:21Z",
-                "priority": "STANDARD"
             }
         ],
         "sports": [
+            {
+                "title": "एशियाड:पुरुष क्रिकेट में कौन सी टीमें होंगी शामिल, भारत-पाकिस्तान में होगा मैच? सात प्वाइंट में जानें सबकुछ",
+                "desc": "Asian games 2026 cricket, asian games men cricket 2026, asian games cricket teams 2026, india pakistan asian games cricket, india vs pakistan asian games 2026, asian games cricket schedule 2026, asian games cricket format एशियन गेम्स में अब पुरुष क्रिकेट स्पर्धा शुरू होने को है। भारतीय टीम श्रेयस अय्यर की अगुआई में इसमें हिस्सा लेने उतरेगी। कुल आठ टीमें इसमें हिस्सा लेंगी और भारत अपने अभियान की शुरुआत क्वार्टर फाइनल से करेगा।",
+                "image": "https://staticimg.amarujala.com/assets/images/2026/09/22/ind_9f77f099b8871e0b3f06a29305a60e56.jpeg?w=1200&dpr=1.0",
+                "url": "https://www.amarujala.com/cricket/cricket-news/asian-games-2026-men-cricket-which-teams-will-participate-can-india-face-pakistan-know-everything-in-7-points-2026-09-22",
+                "source": "Amar Ujala",
+                "date": "2026-09-22T23:42:16Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Asian Games 2026: श्रीलंका की 15 सदस्‍यीय स्‍क्‍वाड घोषित, 2021 के बाद पहली बार विकेटकीपर बल्‍लेबाज की हुई वापसी",
                 "desc": "Sri Lanka squad for Asian Games 2026: एशियन गेम्‍स 2026 के लिए श्रीलंका की 15 सदस्‍यीय स्‍क्‍वाड की घोषणा हो गई है। विकेटकीपर बल्‍लेबाज निरोशन डिकवेला की पांच साल बाद राष्‍ट्रीय टी20 टीम में वापसी हुई।",
@@ -1646,12 +1655,39 @@
                 "priority": "STANDARD"
             },
             {
+                "title": "रेप केस, करियर लगभग खत्म होने की ओर, अब यश दयाल का अचानक हुआ इस टीम में सेलेक्शन",
+                "desc": "दुष्कर्म और पॉक्सो अधिनियम के गंभीर आरोपों का सामना कर रहे तेज गेंदबाज यश दयाल को उत्तर प्रदेश रणजी ट्रॉफी शिविर में शामिल किया गया है।",
+                "image": "https://static.langimg.com/nbt/thumb/134418053/yash-dayal.jpg?imgsize=318159&width=1600&height=900&resizemode=75",
+                "url": "https://navbharattimes.indiatimes.com/sports/cricket/cricket-news/embroiled-in-rape-and-pocso-cases-yash-dayal-named-in-uttar-pradesh-ranji-trophy-camp/articleshow/134417499.cms",
+                "source": "Navbharat Times",
+                "date": "2026-09-22T17:44:05Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "2027-31 तक के लिए ICC का एजेंडा, अधिक टी 20, कम हो सकती हैं वनडे सीरीज",
+                "desc": "फ्यूचर टूर प्लान पर चर्चा के लिए आईसीसी की बैठक इस सप्ताह दुबई में होगी। इसमें सदस्य 2027 से 2031 तक के लिए अगले अंतरराष्ट्रीय क्रिकेट कैलेंडर के साइकल को आकार देने की कोशिश करेंगे।, Cricket Hindi News - Hindustan",
+                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/09/22/1600x900/logo/Team_India_ICC_Rankings_1790098313341_W2aj_1790098313577_JR8W_b9ed474b-fa95-4d00-91ea-0a427e57ee14_Ezvb.jpg",
+                "url": "https://www.livehindustan.com/cricket/iccs-agenda-for-2027-to-31-more-t20s-potential-reduction-in-odi-series-201790097525527.html",
+                "source": "Hindustan",
+                "date": "2026-09-22T17:39:51Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "रेप के आरोपी यश दयाल की टीम में वापसी! 16 महीने बाद मिली हरी झंडी",
                 "desc": "Yash Dayal Return: तेज गेंदबाज यश दयाल वापसी के लिए तैयार हैं. वह आगामी 2026-27 रणजी ट्रॉफी में खेलते हुए दिखाई देंगे. इस बात की पुष्टि हो चुकी है.",
                 "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/09/22/414a7a22fba3f20db708fdbe1c256c8917900957783111364_original.jpg?impolicy=abp_cdn&imwidth=1200",
                 "url": "https://www.abplive.com/sports/cricket/yash-dayal-set-to-return-in-2026-27-ranji-trophy-for-upca-ceo-confirm-availability-3192488",
                 "source": "ABP News",
                 "date": "2026-09-22T16:54:08Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "एशियन गेम्स में भारत को चौथे दिन मिला गोल्ड, महिला क्रिकेट टीम ने बढ़ाया मान, आज का पूरा रिपोर्ट कार्ड",
+                "desc": "एशियन गेम्स के चौथे दिन भारत को सिर्फ 1 ही पदक मिला। यह पदक भारतीय महिला क्रिकेट टीम ने गोल्ड के रूप में दिलाया। चौथे दिन के अभियान की समाप्ति पर भारत के पास चार सिल्वर, दो ब्रॉन्ज और एक गोल्ड मेडल के साथ कुल 7 पदक हैं।, Cricket Hindi News - Hindustan",
+                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/09/22/1600x900/logo/indian_women_cricket_team__1790095379755_AeKV_1790095380097_Sx2r_e4a222ac-81ec-4f31-baad-971afb55a721_TQEp.jpg",
+                "url": "https://www.livehindustan.com/cricket/india-wins-gold-on-day-4-of-asian-games-2026-know-full-report-card-total-medals-201790095184615.html",
+                "source": "Hindustan",
+                "date": "2026-09-22T16:47:14Z",
                 "priority": "STANDARD"
             },
             {
@@ -2130,47 +2166,101 @@
                 "source": "Hindustan",
                 "date": "2026-09-21T12:57:41Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Asian Games 2026 Highlights:निशानेबाजी और एमएमए में आए पदक, टेबल टेनिस में भारत ने पाकिस्तान को चटाई धूल",
-                "desc": "Asian Games 2026, Day 2 Live Updates, India Live, Aichi-Nagoya Asian Games, Team India, Asian Games Results, Medal Updates एशियन गेम्स 2026 के दूसरे दिन यानी 21 सितंबर को भारत के कई खिलाड़ी अलग-अलग खेलों में चुनौती पेश करेंगे। पहले दिन पदक खाता खुलने के बाद भारतीय दल की नजरें दूसरे दिन भी पदकों पर होंगी। जानें डे-2 में भारत का पूरा कार्यक्रम, प्रमुख मुकाबले और पदक स्पर्धाएं।",
-                "image": "https://staticimg.amarujala.com/assets/images/2026/09/21/tt_3451c40bcb0bf792e53821db74d629e3.jpeg?w=1200&dpr=1.0",
-                "url": "https://www.amarujala.com/live/sports/asian-games-2026-day-2-live-updates-india-s-latest-news-results-scores-and-medal-updates-2026-09-21",
-                "source": "Amar Ujala",
-                "date": "2026-09-21T12:16:07Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "अब वीवीएस लक्ष्मण से भी अजीत अगरकर की लड़ाई सामने आई, मीटिंग में आते तो लड़ाई हो जाती, क्या है पूरा मामला?",
-                "desc": "मुख्य चयनकर्ता अजीत अगरकर और सेंटर ऑफ एक्सीलेंस के प्रमुख वीवीएस लक्ष्मण के बीच चोटिल खिलाड़ियों के प्रबंधन और इंडिया ए के शेड्यूल को लेकर गहरा मतभेद सामने आया है।",
-                "image": "https://static.langimg.com/nbt/thumb/134389015/ajit-agarkar-and-vvs-laxman.jpg?imgsize=382300&width=1600&height=900&resizemode=75",
-                "url": "https://navbharattimes.indiatimes.com/sports/cricket/cricket-news/ajit-agarkar-vvs-laxman-rift-deepens-as-chief-selector-skips-crucial-bcci-review-meeting/articleshow/134388295.cms",
-                "source": "Navbharat Times",
-                "date": "2026-09-21T11:59:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "श्रेयस अय्यर को जापान के खिलाफ मैच से पहले सता रहा है एक डर, नए देश की नई हवा पर जमकर की बात",
-                "desc": "भारतीय क्रिकेट टीम मंगलवार को जापान के खिलाफ पहला टी20 इंटरनेशनल मैच खेलेगी। इस मैच से पहले टीम इंडिया के कप्तान श्रेयस अय्यर को एक डर सता रहा है।",
-                "image": "https://www.jagranimages.com/images/2026/09/21/template/image/ind-vs-Japan-(1)-1789990513739_v.webp",
-                "url": "https://www.jagran.com/cricket/ipl-shreyas-iyer-statement-ahead-of-t20-match-against-japan-weather-report-40380395.html",
-                "source": "Jagran",
-                "date": "2026-09-21T11:47:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "एक्टर्स-कॉमेडियंस की कुर्सी पर खतरा! क्रिकेटर्स पर मेकर्स का दांव, थमाई होस्टिंग की कमान, हिट होगा फॉर्मूला?",
-                "desc": "टीवी होस्टिंग की दुनिया में अब क्रिकेटर्स का दबदबा बढ़ता जा रहा है. क्रिकेटर्स की ऑफ-फील्ड पर्सनैलिटी दर्शकों को आकर्षित कर रही है और टीवी पर उनकी नई पहचान बन रही है.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202609/6ab0973be9044-cricketers-as-tv-hosts-213226838-16x9.jpg",
-                "url": "https://www.aajtak.in/entertainment/bollywood-news/story/cricketers-turns-tv-hosts-rohit-sharma-virender-sehwag-sourav-ganguly-shikhar-dhawan-harbhajan-singh-tmovh-dskc-2648559-2026-09-21",
-                "source": "AajTak",
-                "date": "2026-09-21T11:42:50Z",
-                "priority": "STANDARD"
             }
         ]
     },
     "en": {
         "general": [
+            {
+                "title": "Inside Presley Gerber’s ‘demons’ before shocking death at 27",
+                "desc": "Presley Gerber spoke about his struggles with “demons” years before his death at 27, a source told Page Six.",
+                "image": "https://pagesix.com/wp-content/uploads/sites/3/2026/09/142081601.jpg?quality=75&strip=all&w=1200",
+                "url": "https://pagesix.com/2026/09/22/celebrity-news/inside-presley-gerbers-demons-before-shocking-death-at-27/",
+                "source": "Page Six",
+                "date": "2026-09-23T00:47:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Paramount-Warner Bros. Settlement to be Considered at Court Hearing",
+                "desc": "If the court approves the deal, Paramount will be one step closer to creating Hollywood's next media and entertainment colossus.",
+                "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/GettyImages-2263189522.jpg?w=1440&h=810&crop=1",
+                "url": "https://www.hollywoodreporter.com/business/business-news/paramount-warner-bros-settlement-court-hearing-1236708046/",
+                "source": "The Hollywood Reporter",
+                "date": "2026-09-23T00:34:52Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Texas Rangers accuse Camp Mystic of criminal offenses in flood deaths",
+                "desc": "Affidavits for 14 search warrants seeking digital and electronic data from Eastland family members and others at Camp Mystic indicate criminal trouble",
+                "image": "https://s.hdnux.com/photos/01/63/47/02/30306462/3/rawImage.jpg",
+                "url": "https://www.expressnews.com/news/article/texas-rangers-accuse-camp-mystic-criminal-22444257.php",
+                "source": "San Antonio Express-News",
+                "date": "2026-09-23T00:13:05Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Dow Jones Futures: Nasdaq Hits New High; Sandisk, Micron Trigger Buy Signals",
+                "desc": "Dow Jones futures: The Nasdaq hit a new high with memory giants Sandisk and Micron flashing buy signals. But financials are struggling.",
+                "image": "https://www.investors.com/wp-content/uploads/2022/11/Stock-neurologybrain-01-adobe.jpg",
+                "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nasdaq-hits-high-sandisk-micron-buy-signals/",
+                "source": "Investor's Business Daily",
+                "date": "2026-09-23T00:03:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ex-Canadian soldier opens fire at synagogue on Yom Kippur, wounds cop in possible antisemitic attack: officials",
+                "desc": "Shotgun-toting Sean Ward, 29, pulled up in his truck and ripped off shots at two cops stationed outside the Sons of Jacob Synagogue in Belleville, Ontario, around 7 p.m. Sunday, according to the CBC.",
+                "image": "https://nypost.com/wp-content/uploads/sites/2/2026/09/comp-HStDnekWEAEYAyV.jpg?quality=75&strip=all&w=1200",
+                "url": "https://nypost.com/2026/09/22/world-news/ex-canadian-soldier-opens-fire-at-synagogue-on-yom-kippur-wounds-cop-in-possible-antisemitic-attack-officials/",
+                "source": "New York Post",
+                "date": "2026-09-22T23:57:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "WBD Hearing Date Set For Proposed AGs Settlement",
+                "desc": "A federal judge has set a hearing for Thursday on the proposed settlement between state attorneys general and Paramount-Warner Bros Discovery.",
+                "image": "https://deadline.com/wp-content/uploads/2026/09/Rob-Bontas-Leticia-James-and-David-Ellison.jpg?w=1024",
+                "url": "https://deadline.com/2026/09/paramount-warner-bros-settlement-hearing-1237110889/",
+                "source": "Deadline",
+                "date": "2026-09-22T23:54:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Gable Steveson issues statement on UFC 331 loss, sexual assault arrest",
+                "desc": "Gable Steveson has broken his silence on his UFC 331 knockout loss, but the majority of his statement focused on his controversial past.",
+                "image": "https://mmajunkie.usatoday.com/gcdn/authoring/authoring-images/2026/09/20/SMMA/91858414007-getty-images-2296152855.jpg?crop=5113,2876,x0,y0&width=3200&height=1800&format=pjpg&auto=webp",
+                "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/09/22/gable-steveson-issues-statement-ufc-331-knockout-loss-sexual-assault-arrest-loophole/91896087007/",
+                "source": "MMA Junkie",
+                "date": "2026-09-22T23:39:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Gable Steveson responds to sexual assault allegations in first statement since knockout loss at UFC 331",
+                "desc": "Gable Steveson addressed more than just his loss at UFC 331 in his first statement since suffering a knockout loss.",
+                "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/09/gettyimages-2296489721.jpg?quality=90&strip=all&crop=0%2C8.0480977581346%2C100%2C78.51843998391&w=1200",
+                "url": "https://www.mmafighting.com/ufc/512038/gable-steveson-responds-to-sexual-assault-allegations-in-first-statement-since-knockout-loss-at-ufc-331",
+                "source": "MMA Fighting",
+                "date": "2026-09-22T23:36:59Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Experts' sleep tips for freshers",
+                "desc": "Why it's a good idea to get out for an evening stroll, and other essential sleep advice for students.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/3897/live/39f0c9b0-b670-11f1-b1d1-571ed4d7ff2c.jpg",
+                "url": "https://www.bbc.com/news/articles/cmwyz2p41ezvo",
+                "source": "BBC",
+                "date": "2026-09-22T23:20:56Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Resetting expectations for six NFL teams with injured QBs: Giants eyeing draft again",
+                "desc": "Success looks different for each of the squads that saw their starters go down early in the season.",
+                "image": "https://sportshub.cbsistatic.com/i/r/2026/09/22/4dba6c58-054a-44c0-b984-a35d3be6dd15/thumbnail/1200x675/e3d082ccfcb6d2dd71c889ddee5619e9/gettyimages-2296476001-1.jpg",
+                "url": "https://www.cbssports.com/nfl/news/resetting-expectations-nfl-teams-injured-quarterbacks/",
+                "source": "CBS Sports",
+                "date": "2026-09-22T23:01:14Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Maxx Crosby defends Caleb Williams' reaction to hamstring injury: 'That s*** will freak you the f*** out'",
                 "desc": "Caleb Williams looked to be in a ton of pain Sunday.",
@@ -2620,99 +2710,99 @@
                 "source": "CBS News",
                 "date": "2026-09-22T01:02:16Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Chiefs coach suggests Taylor Swift has sparked Travis Kelce's performance in first two weeks of season",
-                "desc": "Travis Kelce posted 101 yards and a touchdown in the Kansas City Chiefs' OT win over the Colts. Andy Reid says Taylor Swift helps motivate the tight end.",
-                "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/travis-kelce-celebrates-scoring-chiefs-colts_001.jpg",
-                "url": "https://www.foxnews.com/outkick-sports/chiefs-coach-suggests-taylor-swift-sparked-travis-kelce-performance-first-two-weeks-season",
-                "source": "Fox News",
-                "date": "2026-09-21T22:36:36Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "U.S. military leaders divided over action against the Houthis",
-                "desc": "WASHINGTON — U.S. military leaders are divided on whether President Donald Trump should get involved with the conflict between Saudi Arabia and Iranian-backed Houthi rebels in Yemen, according to two U.S. officials.",
-                "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260921-Trump-aa-150-f1e4b9.jpg",
-                "url": "https://www.nbcnews.com/politics/national-security/us-military-leaders-divided-action-houthis-rcna599049",
-                "source": "NBC News",
-                "date": "2026-09-21T22:35:47Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Man shot by ICE in Austin being held in detention center with bullet in his back, lawyer says",
-                "desc": "Wilber Rafael Garces Perez, the 28-year-old Venezuelan national shot by an ICE officer on Sunday, said in a phone call on Monday that he's \"not doing well.\"",
-                "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/09/21/a3bfb29f-4d2b-42fa-8491-e4fb0bd31d93/thumbnail/1200x630/0ed29c8a03a1e60e737ea7c8de94a8a5/ap26264035979625.jpg",
-                "url": "https://www.cbsnews.com/news/wilber-rafael-garces-perez-ice-shooting-austin-detention/",
-                "source": "CBS News",
-                "date": "2026-09-21T22:35:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "US to open two new military bases in Greenland, sources say",
-                "desc": "The US plans to re-establish a Cold War-era military base in southern Greenland and set up ​another on the east coast, now used by the Danish dog sled patrol, under ‌a deal to be signed with Denmark and Greenland on Tuesday.",
-                "image": "https://www.reuters.com/resizer/v2/DCNGZK7XARITVKQRQXY3X35N3I.jpg?auth=06e581de08481033f8b9e0ecb701ab8e1e14a0ae212f53d5a95c90d7667d7cfc&height=1005&width=1920&quality=80&smart=true",
-                "url": "https://www.reuters.com/world/europe/us-open-two-new-military-bases-greenland-sources-say-2026-09-21/",
-                "source": "Reuters",
-                "date": "2026-09-21T22:34:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Lindsay Clancy's attorney asks judge to investigate the lone juror who wanted to convict her",
-                "desc": "A motion filed Friday but made public Monday asks the court to question the juror about his alleged use of a cellphone during deliberations, his truthfulness on a questionnaire that prospective jurors filled out before the trial began and his truthfulness when jurors were questioned by the judge.",
-                "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/2026-09-03T142442Z_1999305630_RC2QBNAARMK7_RTRMADP_3_MASSACHUSETTS-CRIME-CLANCY-1024x758.jpg",
-                "url": "https://www.pbs.org/newshour/nation/lindsay-clancys-attorney-asks-judge-to-investigate-the-lone-juror-who-wanted-to-convict-her",
-                "source": "PBS",
-                "date": "2026-09-21T22:31:52Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Meghan Markle Reunited With Ellen and Portia",
-                "desc": "Meghan Markle, Ellen DeGeneres, and Portia de Rossi were seen catching up at a local pub in Oxfordshire.",
-                "image": "https://pyxis.nymag.com/v1/imgs/e5d/e55/aeb41b8f82b82ccc5a27514da1ebdf863c-meghan-markle-ellen-portia.1x.rsocial.w1200.jpg",
-                "url": "https://www.thecut.com/article/meghan-markle-reunited-ellen-portia.html",
-                "source": "The Cut",
-                "date": "2026-09-21T22:20:06Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Presley Gerber’s downward spiral",
-                "desc": "Cindy Crawford and Rande Gerber's model son had an idyllic Southern California upbringing with sister Kaia, but he died in rehab at only 27 after struggling with addiction for years.",
-                "image": "https://pagesix.com/wp-content/uploads/sites/3/2026/09/newspress-collage-e7odvtmp1-1790028331744.jpg?quality=75&strip=all&1790013978&w=1200",
-                "url": "https://pagesix.com/2026/09/21/celebrity-news/presley-gerbers-downward-spiral-dui-addiction-rehab/",
-                "source": "Page Six",
-                "date": "2026-09-21T22:13:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Rams vs. Giants preview: Aaron Donald makes return for Los Angeles on 'MNF'",
-                "desc": "Plus, how to watch the game and a prediction for the Monday night matchup.",
-                "image": "https://sportshub.cbsistatic.com/i/r/2026/09/21/cfde57ab-e16e-4d39-a980-bc8d73b71830/thumbnail/1200x675/5255f3c826aa3269919a8e5e40a01a9c/gettyimages-2294063581.jpg",
-                "url": "https://www.cbssports.com/nfl/news/giants-vs-rams-how-to-watch-prediction-preview/",
-                "source": "CBS Sports",
-                "date": "2026-09-21T22:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "iOS 27.2 beta 2 reveals new details about anti",
-                "desc": "Apple continues to work on a feature that automatically locks an iPhone when it detects that the device has been snatched from its owner’s hand.",
-                "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/restricted-locked-iphone.jpg?quality=82&strip=all&resize=1200,628",
-                "url": "https://9to5mac.com/2026/09/21/ios-27-2-beta-2-reveals-new-details-about-unnanounced-iphone-anti-snatching-feature/",
-                "source": "9to5Mac",
-                "date": "2026-09-21T21:53:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Paramount reaches settlement with states in $110bn Warner Bros merger",
-                "desc": "The deal includes an agreement to produce 30 films a year, or Paramount will be forced to sell off parts of its company.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/b081/live/0dfb6860-b5ee-11f1-aff1-eb6baa3fda4f.jpg",
-                "url": "https://www.bbc.com/news/articles/cm4gjr1qepr8o",
-                "source": "BBC",
-                "date": "2026-09-21T21:34:32Z",
-                "priority": "STANDARD"
             }
         ],
         "business": [
+            {
+                "title": "Massachusetts lesbian bar nearly bullied out of town after lifting mask mandate for one night",
+                "desc": "Last Ditch Bar, in western Massachusetts, tried to bring in extra cash by allowing masks to be optional for one night a week — and its customers have fled in droves.",
+                "image": "https://nypost.com/wp-content/uploads/sites/2/2026/09/142080265.jpg?quality=75&strip=all&w=1200",
+                "url": "https://nypost.com/2026/09/22/us-news/massachusetts-lesbian-bar-nearly-bullied-out-of-town-after-lifting-mask-mandate-for-one-night/",
+                "source": "New York Post",
+                "date": "2026-09-23T00:22:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
+                "desc": "‘The group will advise on the review and communication of emerging results.’",
+                "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2294952541.jpg?quality=90&strip=all&crop=0%2C10.735367145048%2C100%2C78.529265709904&w=1200",
+                "url": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
+                "source": "The Verge",
+                "date": "2026-09-23T00:17:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The Laughing Cow cheese wedges show frowning face on package in mystery campaign",
+                "desc": "Laughing Cow cheese wedges are rolling out nationwide with a frowning mascot for the first time in over 100 years. A QR code on packages invites fans to solve the mystery.",
+                "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/09/0/0/laughing-cow.png?ve=1&tl=1",
+                "url": "https://www.foxbusiness.com/fox-news-food-drink/laughing-cow-ditches-iconic-smile-teases-cheese-shoppers-cryptic-message-packaging",
+                "source": "Fox Business",
+                "date": "2026-09-22T23:55:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Google Goes Nuclear With Power Upgrade Agreement in Georgia",
+                "desc": "The company embraces nuclear as a way to power AI.",
+                "image": "https://s.yimg.com/lo/mysterio/api/37820399c96e07e7d3b599c5921754869c80ab911734d34f4d52c86b3b255cce/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F78cc1482cbd398e974fe6d35c16f9bc1.jpg",
+                "url": "https://currently.att.yahoo.com/att/google-goes-nuclear-power-upgrade-233501506.html",
+                "source": "Currently.com",
+                "date": "2026-09-22T23:35:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Qantas’s New York-to-Sydney ‘Project Sunrise’ Flights to Take Off in 2028",
+                "desc": "Qantas Airways said the 18-hour flights, part of its Project Sunrise program, would come months after its 22-hour direct flights from Sydney to London begin.",
+                "image": "https://static01.nyt.com/images/2026/09/22/multimedia/22trav-project-sunrise-02-jkvb/22trav-project-sunrise-02-jkvb-facebookJumbo.jpg",
+                "url": "https://www.nytimes.com/2026/09/22/travel/qantas-project-sunrise-flights.html",
+                "source": "The New York Times",
+                "date": "2026-09-22T23:00:07Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Big Banks Say They're Uneasy About People Shopping via AI Agents",
+                "desc": "Agentic commerce could increase the amount of scams, fraud and disputes, the banks warn in a new report.",
+                "image": "https://gizmodo.com/app/uploads/2026/09/GettyImages-2286355274-1200x675.jpg",
+                "url": "https://gizmodo.com/big-banks-say-theyre-uneasy-about-people-shopping-via-ai-agents-2000815443",
+                "source": "gizmodo.com",
+                "date": "2026-09-22T22:43:49Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Six Flags rollercoaster allegedly gave more than 100 people brain injuries",
+                "desc": "More than 100 people say they suffered brain injuries from a Six Flags roller coaster in the last two years alone, following a CNN investigation last month that linked the world-famous ride to life-altering injuries and deaths.",
+                "image": "https://media.cnn.com/api/v1/images/stellar/prod/x2-rollercoaster-cnn-image.jpg?c=16x9&q=w_800,c_fill",
+                "url": "https://www.cnn.com/six-flags-rollercoaster-brain-injuries-invs",
+                "source": "CNN",
+                "date": "2026-09-22T22:08:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Meta's Muse personal agent is a hit, as AI commerce starts to take off",
+                "desc": "Meta's new AI tool now ranks at the top of the App Store. Some retail experts see a \"natural evolution from search.\"",
+                "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/09/22/e0ce2285-ff8a-4806-b538-2499c4611b45/thumbnail/1200x630/1f6d5d2b1f40c82c2b283f81bd527065/gettyimages-2296543552.jpg",
+                "url": "https://www.cbsnews.com/news/meta-ai-agent-muse-shopping/",
+                "source": "CBS News",
+                "date": "2026-09-22T22:02:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "ShinyHunters hackers say they breached FBI, stole data on bureau employees",
+                "desc": "Hacking group ShinyHunters claims to have breached the FBI and stolen employee data. Reuters partially verified the leak in at least nine cases.",
+                "image": "https://nypost.com/wp-content/uploads/sites/2/2026/09/142083859.jpg?quality=75&strip=all&w=1200",
+                "url": "https://nypost.com/2026/09/22/tech/shinyhunters-hackers-say-they-breached-fbi-stole-data-on-bureau-employees/",
+                "source": "nypost.com",
+                "date": "2026-09-22T21:46:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Why the Fed isn't ready to declare victory on inflation",
+                "desc": "Federal Reserve Bank of Richmond President Tom Barkin says inflation risks outweigh employment risks, warning that shocks from the Iran war and AI buildout aren't short-lived.",
+                "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/08/0/0/Federal-Reserve-Thomas-Barkin.jpg?ve=1&tl=1",
+                "url": "https://www.foxbusiness.com/economy/why-fed-isnt-ready-declare-victory-inflation",
+                "source": "Fox Business",
+                "date": "2026-09-22T21:46:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Bay Area transit ‘death spiral’ could double Bay Bridge delays",
                 "desc": "A Bay Area transit \"death spiral\" could double Bay Bridge delays, according to a report put out by a group that has endorsed upcoming transit ballot measures.",
@@ -3162,99 +3252,99 @@
                 "source": "Reuters",
                 "date": "2026-09-21T17:14:28Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Stock gains are fueling retirements among older workers: Economists",
-                "desc": "Stocks have surged and the resulting \"wealth effect\" has led older workers to retire at a faster clip.",
-                "image": "https://image.cnbcfm.com/api/v1/image/108365714-1790006559762-gettyimages-2191108090-g2408_2484.jpeg?v=1790006592&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/09/21/stock-gains-fuel-retirements-among-older-workers-economists.html",
-                "source": "CNBC",
-                "date": "2026-09-21T17:13:34Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Google confirms Gemini models hacked three companies in May 2026",
-                "desc": "A third-party cybersecurity firm accidentally gave experimental Gemini models access to the Internet.",
-                "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-5-1152x648.jpg",
-                "url": "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026/",
-                "source": "Ars Technica",
-                "date": "2026-09-21T16:57:26Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Eli Lilly breaks ground on $6.5B Houston manufacturing campus",
-                "desc": "Eli Lilly broke ground on its $6.5 billion Houston campus, where it is expected to manufacture its Foundayo GLP-1 weight-loss pill and create thousands of jobs.",
-                "image": "https://s.hdnux.com/photos/01/54/50/02/28475576/7/rawImage.jpg",
-                "url": "https://www.houstonchronicle.com/business/economy/article/eli-lilly-construction-houston-ground-breaking-22441874.php",
-                "source": "Houston Chronicle",
-                "date": "2026-09-21T16:54:17Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Jensen Huang dismisses AI extinction warnings from OpenAI, Anthropic",
-                "desc": "Nvidia CEO Jensen Huang says there is \"0% chance\" AI will end the world by 2030, calling doomsday predictions irresponsible and not grounded in science.",
-                "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/09/0/0/jensen-huang-nvidia-ceo-g20.jpg?ve=1&tl=1",
-                "url": "https://www.foxbusiness.com/technology/nvidias-jensen-huang-rejects-ai-doomsday-fears-2030-not-going-end-world",
-                "source": "Fox Business",
-                "date": "2026-09-21T16:50:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Repeated air traffic control failures leave us in worrying territory",
-                "desc": "The question is whether all of these incidents were isolated and unavoidable, or whether they point to something more systemic.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/3b31/live/a4cf8470-b5d9-11f1-b1d1-571ed4d7ff2c.jpg",
-                "url": "https://www.bbc.com/news/articles/cmde0pp22r5go",
-                "source": "BBC",
-                "date": "2026-09-21T16:39:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Smart ring maker Oura eyes $15.6 billion IPO valuation in fall listings demand test",
-                "desc": "Oura kicked off the roadshow for its US initial public offering on Monday, ‌targeting a fully-diluted valuation of $15.62 billion as the smart ring maker tests investor appetite for consumer technology companies after a tepid start to the fall IPO season.",
-                "image": "https://www.reuters.com/resizer/v2/VLS4BL5TBVL3VIDNNNPJYBTWCY.jpg?auth=aaa7f709cd64f500ef55ef5cd84daa0b894facc16a8d95cc4eb7643d48f14ffd&height=1005&width=1920&quality=80&smart=true",
-                "url": "https://www.reuters.com/legal/transactional/smart-ring-maker-oura-shareholders-look-raise-up-22-billion-us-ipo-2026-09-21/",
-                "source": "Reuters",
-                "date": "2026-09-21T16:17:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "EU pressures Big Tech to go green with new data center sustainability label",
-                "desc": "The scheme, which forces data centers to disclose energy and water use, would be the most comprehensive of its kind in the world.",
-                "image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/09/21/20260909_EP-210245A_AR2_0330-scaled.jpg",
-                "url": "https://www.politico.eu/article/eu-unveils-data-center-sustainability-label-in-effort-to-pressure-big-tech-into-going-green/",
-                "source": "politico.eu",
-                "date": "2026-09-21T12:08:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The current balance of power in open models",
-                "desc": "The expanded form of a testimony I prepared for Congress.",
-                "image": "https://substackcdn.com/image/fetch/$s_!fktE!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fda6bb5fd-56d4-49ec-a19b-dafc917414e1_3182x1790.png",
-                "url": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
-                "source": "Interconnects AI",
-                "date": "2026-09-21T11:56:56Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Nscale Stock: Rival Of CoreWeave And Nebius Files For IPO",
-                "desc": "Nscale, a cloud computing rival of CoreWeave and Nebius, has filed for an IPO. Nscale stock will trade on the NYSE.",
-                "image": "https://www.investors.com/wp-content/uploads/2025/04/Stock-Coreweave-04-shutt.jpg",
-                "url": "https://www.investors.com/news/technology/nscale-rival-of-coreweave-nebius-files-for-ipo/",
-                "source": "Investor's Business Daily",
-                "date": "2026-09-21T11:53:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "‘Boom, lights out’: Massachusetts man shares sudden blindness journey after taking GLP-1",
-                "desc": "Ed Gillen, of Dedham, suffers from permanent vision loss he attributes to taking a GLP-1.",
-                "image": "https://cmg-cmg-tv-10020-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FGJ4BARMA7JBX5OE6OIJ65G4SAA.jpeg?auth=8d689204957e8b3caa5db1e57426d56f357b297ce6a57b233120a8611099f89e&width=1200&height=630&smart=true",
-                "url": "https://www.boston25news.com/news/local/boom-lights-out-massachusetts-man-shares-sudden-blindness-journey-after-taking-glp-1/KR6AVMNMJFBORONYVLXGWDTT2Y/",
-                "source": "boston25news.com",
-                "date": "2026-09-21T11:07:37Z",
-                "priority": "STANDARD"
             }
         ],
         "entertainment": [
+            {
+                "title": "Niall Horan Plays Audio of Liam Payne During His Show",
+                "desc": "Niall Horan is immortalizing his late One Direction bandmate during his concert.",
+                "image": "https://imagez.tmz.com/image/dc/16by9/2026/09/23/dcedd9f724ca40359103fb47fc5f73b7_xl.jpg",
+                "url": "https://www.tmz.com/2026/09/22/niall-horan-plays-audio-of-liam-payne-during-his-show/",
+                "source": "TMZ",
+                "date": "2026-09-23T01:07:35Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Clavicular Posts Video After Being Charged With Rape and Drugging",
+                "desc": "“Looksmasxxing” influencer Clavicular has shared a video on social media since news of his charges circulated Monday.",
+                "image": "https://variety.com/wp-content/uploads/2026/09/GettyImages-2282996690.jpg?crop=0px%2C334px%2C4000px%2C2249px&resize=1000%2C563",
+                "url": "https://variety.com/2026/digital/news/clavicular-video-charged-rape-drugging-1236872828/",
+                "source": "Variety",
+                "date": "2026-09-23T01:07:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Lonely Planet’s Best in Travel 2027 List",
+                "desc": "Lonely Planet’s Best in Travel 2027 list features seven U.S. picks, from California’s redwoods to South Beach.",
+                "image": "https://media.timeout.com/images/106449785/image.jpg",
+                "url": "https://www.timeout.com/usa/news/lonely-planet-just-named-the-best-places-to-travel-in-2027and-7-us-picks-made-the-cut-092226",
+                "source": "Time Out Worldwide",
+                "date": "2026-09-23T00:55:44Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Jaclyn Smith on 50 years of 'Charlie's Angels' and that white bikini",
+                "desc": "“Charlie’s Angels” turns 50 on Sept. 22. Jaclyn Smith recalls white bikinis, Farrah Fawcett’s exit and why the original trio’s bond still endures.",
+                "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/09/04/USAT/91612990007-getty-images-92995540.jpg?crop=2999,1688,x0,y164&width=2999&height=1688&format=pjpg&auto=webp",
+                "url": "https://www.usatoday.com/story/entertainment/tv-streaming/2026/09/22/jaclyn-smith-charlies-angels-50th-anniversary/91892385007/",
+                "source": "USA Today",
+                "date": "2026-09-23T00:44:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Paramount-Warner Bros. Settlement to be Considered at Court Hearing",
+                "desc": "If the court approves the deal, Paramount will be one step closer to creating Hollywood's next media and entertainment colossus.",
+                "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/GettyImages-2263189522.jpg?w=1440&h=810&crop=1",
+                "url": "https://www.hollywoodreporter.com/business/business-news/paramount-warner-bros-settlement-court-hearing-1236708046/",
+                "source": "The Hollywood Reporter",
+                "date": "2026-09-23T00:34:52Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Kate Middleton Stole the Show at the",
+                "desc": "Kate Middleton brought out some rare royal jewels for her first movie premiere red carpet since 2022.",
+                "image": "https://pyxis.nymag.com/v1/imgs/423/b73/09abe7c12eac37f10057db6c3600ab8c81-GettyImages-2296621733.1x.rsocial.w1200.jpg",
+                "url": "https://www.thecut.com/article/kate-middleton-digger-premiere.html",
+                "source": "The Cut",
+                "date": "2026-09-23T00:17:49Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "WBD Hearing Date Set For Proposed AGs Settlement",
+                "desc": "A federal judge has set a hearing for Thursday on the proposed settlement between state attorneys general and Paramount-Warner Bros Discovery.",
+                "image": "https://deadline.com/wp-content/uploads/2026/09/Rob-Bontas-Leticia-James-and-David-Ellison.jpg?w=1024",
+                "url": "https://deadline.com/2026/09/paramount-warner-bros-settlement-hearing-1237110889/",
+                "source": "Deadline",
+                "date": "2026-09-22T23:54:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Taylor Swift Ditches Her 10-Carat Diamond for a Brand New Engagement Ring After Surprise Announcement",
+                "desc": "We’re doing a double take.",
+                "image": "https://s.yimg.com/lo/mysterio/api/f6048ad40db5424f6fdc3960fb40e8488d38e73227cb44e64b8b4de12cdbab08/lightyear_networkapi/resizefill_w985_h768%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finstyle_846%2F9b42a782878562b648a2e100d05704de.jpg",
+                "url": "https://sg.news.yahoo.com/taylor-swift-ditches-her-10-233747954.html",
+                "source": "Yahoo News Singapore",
+                "date": "2026-09-22T23:37:47Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Kansas City Chiefs coach credits Taylor Swift for Travis Kelce’s success",
+                "desc": "Kansas City Chiefs coach Andy Reid says Taylor Swift may be the reason behind NFL star Travis Kelce's strong start this season.",
+                "image": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2026/09/AP26264037135312.jpg?w=1280",
+                "url": "https://www.newsnationnow.com/us-news/sports/taylor-swift-credited-for-travis-kelce-success-chiefs/",
+                "source": "NewsNation",
+                "date": "2026-09-22T23:26:36Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Woody Harrelson, Matthew McConaughey Explain Emmys and 'Brothers'",
+                "desc": "Woody Harrelson reveals why he crashed the Widow's Bay win at 2026 Emmys, and he and Matthew McConaughey explain half-brother rumor and Brothers show.",
+                "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/Brothers_Photo_010403-e1790104835589.jpg?w=1440&h=810&crop=1",
+                "url": "https://www.hollywoodreporter.com/tv/tv-features/woody-harrelson-matthew-mcconaughey-emmys-brothers-show-1236707655/",
+                "source": "The Hollywood Reporter",
+                "date": "2026-09-22T22:45:26Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Mark Hamill Is 'Darkwing Duck' in a New Disney+ Animated Series",
                 "desc": "Seth Rogen, Lizzy Caplan, and Dan Stevens will also lend their voices to the new show.",
@@ -3704,99 +3794,99 @@
                 "source": "deadline.com",
                 "date": "2026-09-21T21:25:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Christina Applegate Shares First Video Following Hospitalization Amid MS Battle",
-                "desc": "Christina Applegate has shared a first look at her life outside the hospital.",
-                "image": "https://variety.com/wp-content/uploads/2023/06/Christina-Applegate-Variety-TV-Fest-Legacy-Award.jpg?w=1000&h=563&crop=1",
-                "url": "https://variety.com/2026/tv/news/christina-applegate-ms-battle-1236871479/",
-                "source": "Variety",
-                "date": "2026-09-21T21:24:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Paramount wins Warner Bros takeover after settling states, union lawsuits",
-                "desc": "The settlement includes the creation of independent editorial boards ‌for CNN and CBS, and a $30 million penalty per film for any shortfall against Paramount's pledge to release 30 movies annually.",
-                "image": "https://www.reuters.com/resizer/v2/SFUVLYGVRVMOVMZ6JZV7BG24X4.jpg?auth=51b1ba79ee566505a61149491f1d505e4b5c031ab4055a32b91297a4955d91a4&height=1005&width=1920&quality=80&smart=true",
-                "url": "https://www.reuters.com/legal/litigation/paramount-settles-with-california-other-states-clearing-major-hurdle-warner-bros-2026-09-21/",
-                "source": "reuters.com",
-                "date": "2026-09-21T21:23:46Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Born Again' Won't Continue After Season 3",
-                "desc": "A new report says that showrunner Dario Scardapane and Marvel have parted ways during post-production on the show's third and final season.",
-                "image": "https://gizmodo.com/app/uploads/2026/03/Daredevil-Born-Again-2-Jessica-Jones-1200x675.jpg",
-                "url": "https://gizmodo.com/daredevil-born-again-wont-continue-after-season-3-2000815059",
-                "source": "Gizmodo",
-                "date": "2026-09-21T21:15:48Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Austin Abrams Breaks Down the Ending",
-                "desc": "Austin Abrams says the ending of Zach Cregger's Resident Evil reminds him of how movies used to be when they weren't afraid to upset audiences.",
-                "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/SC2_1794_RjuLuvMJ-H-2026.jpg?w=1296&h=730&crop=1",
-                "url": "https://www.hollywoodreporter.com/movies/movie-features/resident-evil-austin-abrams-breaks-down-ending-1236707140/",
-                "source": "The Hollywood Reporter",
-                "date": "2026-09-21T21:11:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "sprays moviegoer over cell phone use",
-                "desc": "A Los Angeles man, Matthew Wade, allegedly deployed pepper spray on a fellow moviegoer in Burbank over a cellphone dispute.",
-                "image": "https://s.hdnux.com/photos/01/67/32/11/31302212/3/rawImage.jpg",
-                "url": "https://www.sfgate.com/bayarea/article/pepper-spray-movie-22442515.php",
-                "source": "SFGATE",
-                "date": "2026-09-21T21:06:36Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Meghan Markle spotted in UK for first time since move mingles with fellow A-list transplant",
-                "desc": "Meghan Markle was seen in the United Kingdom for the first time since her and Prince Harry's move mingling with fellow A-list transplant Ellen DeGeneres.",
-                "image": "https://pagesix.com/wp-content/uploads/sites/3/2026/09/141959482.jpg?quality=75&strip=all&w=1200",
-                "url": "https://pagesix.com/2026/09/21/royal-family/meghan-markle-spotted-in-uk-for-first-time-since-move-mingles-with-fellow-a-list-transplant/",
-                "source": "Page Six",
-                "date": "2026-09-21T17:36:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Taylor Frankie Paul Quits 'Secret Lives of Mormon Wives'",
-                "desc": "Taylor Frankie Paul has quit 'The Secret Lives of Mormon Wives' after she failed a court-ordered drug test months after 'The Bachelorette' blew up.",
-                "image": "https://variety.com/wp-content/uploads/2026/09/taylor-frankie-paul-and-dakota-mortensen-s-protective-order-1000x667-1.jpg?w=1000&h=563&crop=1",
-                "url": "https://variety.com/2026/tv/news/taylor-frankie-faul-quits-secret-lives-mormon-wives-1236864819/",
-                "source": "Variety",
-                "date": "2026-09-21T17:31:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "We're Obsessed With This Incredible Photo From the Opening of the Lucas Museum",
-                "desc": "It's a who's who of Hollywood royalty that only the power of George Lucas could command.",
-                "image": "https://gizmodo.com/app/uploads/2026/09/Lucas-Museum-opening-header-1200x675.jpg",
-                "url": "https://gizmodo.com/were-obsessed-with-this-incredible-photo-from-the-opening-of-the-lucas-museum-2000814897",
-                "source": "Gizmodo",
-                "date": "2026-09-21T17:15:46Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Orlando Bloom's threesome scene with real-life sisters Rooney and Kate Mara ripped as 'disgusting'",
-                "desc": "Fans ripped Orlando Bloom's \"disgusting\" and \"appalling\" threesome scene with real-life sisters Rooney and Kate Mara.",
-                "image": "https://pagesix.com/wp-content/uploads/sites/3/2026/09/141952561.jpg?quality=75&strip=all&w=1200",
-                "url": "https://pagesix.com/2026/09/21/celebrity-news/orlando-blooms-threesome-scene-with-real-life-sisters-rooney-and-kate-mara-ripped-as-disgusting/",
-                "source": "Page Six",
-                "date": "2026-09-21T17:08:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Season of Scares Update: Oogie Boogie’s Halloween Event",
-                "desc": "Disney Dreamlight Valley",
-                "image": "https://ddv.assets.gameloft.com/assets/DDV_26240_S_UPD_25_Launch_Blog_Assets_A_01_OFF_01_WIN_LS_473x271_EN_96e9cd153e.png",
-                "url": "https://disneydreamlightvalley.com/news/OogieBoogieEvent2026",
-                "source": "Disney Dreamlight Valley",
-                "date": "2026-09-21T17:05:47Z",
-                "priority": "STANDARD"
             }
         ],
         "sports": [
+            {
+                "title": "Chris Spatola, Coach K son-in-law and ESPN analyst, dies at 47 years old",
+                "desc": "Chris Spatola, an ESPN analyst and former Duke staffer who was also the son-in-law of Mike Krzyzewski, suddenly passed away at 47 years old.",
+                "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/09/23/USAT/91897279007-20230115-t-013914-z-789375170-mt-1-usatoday-19792677-rtrmadp-3-ncaabasketballoklahomastateatbaylor.JPG?crop=5733,3222,x0,y294&width=3200&height=1799&format=pjpg&auto=webp",
+                "url": "https://www.usatoday.com/story/sports/ncaab/acc/2026/09/22/chris-spatola-mike-krzyzewski-son-in-law-dies-47-espn/91897070007/",
+                "source": "usatoday.com",
+                "date": "2026-09-23T01:06:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Jonathan Owens, Simone Biles had their Porsche stolen in Chicago by \"three men in masks\"",
+                "desc": "In March, linebacker Jonathan Owens left the Bears in free agency for the Colts.",
+                "image": "https://nbcsports.brightspotcdn.com/dims4/default/33b158b/2147483647/strip/true/crop/3000x1688+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F40%2F91%2F9c0ee66747419dbe587819570e20%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2213040970",
+                "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jonathan-owens-simone-biles-had-their-porsche-stolen-in-chicago-by-three-men-in-masks",
+                "source": "NBC Sports",
+                "date": "2026-09-23T01:00:26Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Adam Vinatieri sets Guinness World Record for the highest FG",
+                "desc": "Adam Vinatieri isn't in the NFL record book for the longest field goal, but he now is the Guinness World Record-holder for the highest field goal.",
+                "image": "https://nbcsports.brightspotcdn.com/dims4/default/36b0ebc/2147483647/strip/true/crop/3531x1986+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F8a%2Fa1%2F58500a3e4167a4a127398fec8780%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F81343635",
+                "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/adam-vinatieri-sets-guinness-world-record-for-the-highest-fg",
+                "source": "NBC Sports",
+                "date": "2026-09-22T23:43:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Dave Portnoy bothered by Caleb Williams 'spreading disinformation' about him",
+                "desc": "Dave Portnoy got into a social media kerfuffle with Chicago Bears QB Caleb Williams over an incident he faced in Mississippi last year.",
+                "image": "https://cdn1.thecomeback.com/wp-content/uploads/sites/94/2026/09/aaportnoy-1-1024x567.png",
+                "url": "https://awfulannouncing.com/nfl/dave-portnoy-bothered-caleb-williams-disinformation.html",
+                "source": "Awful Announcing",
+                "date": "2026-09-22T23:32:06Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Rangers Place Joc Pederson On Injured List",
+                "desc": "Joc Pederson's regular season is over, as his broken hand will prevent him from trying to help Texas to a division title.",
+                "image": "https://cdn.mlbtraderumors.com/files/2026/09/JocPederson-2026-1024x683.jpg",
+                "url": "https://www.mlbtraderumors.com/2026/09/rangers-place-joc-pederson-on-injured-list-rule-out-cal-quantrill-for-season.html",
+                "source": "mlbtraderumors.com",
+                "date": "2026-09-22T23:12:48Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Resetting expectations for six NFL teams with injured QBs: Giants eyeing draft again",
+                "desc": "Success looks different for each of the squads that saw their starters go down early in the season.",
+                "image": "https://sportshub.cbsistatic.com/i/r/2026/09/22/4dba6c58-054a-44c0-b984-a35d3be6dd15/thumbnail/1200x675/e3d082ccfcb6d2dd71c889ddee5619e9/gettyimages-2296476001-1.jpg",
+                "url": "https://www.cbssports.com/nfl/news/resetting-expectations-nfl-teams-injured-quarterbacks/",
+                "source": "CBS Sports",
+                "date": "2026-09-22T23:01:14Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "WR Brandin Cooks to sign with 49ers practice squad",
+                "desc": "The 49ers are adding a veteran wide receiver to their practice squad.",
+                "image": "https://nbcsports.brightspotcdn.com/dims4/default/98e9bb5/2147483647/strip/true/crop/7727x4346+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F9b%2F59%2Fe5c0d4bc4e9ba8cac0d3271ecbaa%2F2257214721.jpg",
+                "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/wr-brandin-cooks-to-sign-with-49ers-practice-squad",
+                "source": "NBC Sports",
+                "date": "2026-09-22T22:54:24Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "What placing Mike Onwenu on injured reserve means for the Patriots",
+                "desc": "The Patriots made a series of transactions on Tuesday.",
+                "image": "https://platform.patspulpit.com/wp-content/uploads/sites/121/2026/09/gettyimages-2288504918.jpg?quality=90&strip=all&crop=0%2C4.4606671925499%2C96.430444335938%2C75.740440397096&w=1200",
+                "url": "https://www.patspulpit.com/new-england-patriots-analysis/138160/mike-onwenu-injured-reserve-impact-roster",
+                "source": "Pats Pulpit",
+                "date": "2026-09-22T22:52:29Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Bettman: NHL still in 'wait-and-see' mode on adding two expansion teams",
+                "desc": "NHL commissioner Gary Bettman said the league continues to get pitched by potential owners but is not currently in a formal round of expansion.",
+                "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0826%2Fr1707131_1296x729_16%2D9.jpg",
+                "url": "https://www.espn.com/nhl/story/_/id/50009000/nhl-wait-see-mode-adding-two-expansion-teams-bettman-says",
+                "source": "ESPN",
+                "date": "2026-09-22T22:50:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Red Sox name Chad Tracy permanent manager",
+                "desc": "In electing to keep Tracy heading into an uncertain 2027, chief baseball officer Craig Breslow and team ownership maintain an extra degree of continuity.",
+                "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/FLLQTFGCIXT6RYYLU3EHKZVD4I.jpg?auth=283b0d4c5418ba9cc0fb21f4c624b9d7329341d6be127ab8df99014fe9f15a7b&width=1440",
+                "url": "https://www.bostonglobe.com/2026/09/22/sports/chad-tracy-red-sox-manager/",
+                "source": "bostonglobe.com",
+                "date": "2026-09-22T22:42:37Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Maxx Crosby defends Caleb Williams' reaction to hamstring injury: 'That s*** will freak you the f*** out'",
                 "desc": "Caleb Williams looked to be in a ton of pain Sunday.",
@@ -4246,98 +4336,8 @@
                 "source": "Fox News",
                 "date": "2026-09-21T21:02:22Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Kyle Shanahan: Mike Evans' hip injury will have to be managed this week",
-                "desc": "The 49ers have a few injury concerns entering Week 3, including one to veteran receiver Mike Evans.",
-                "image": "https://nbcsports.brightspotcdn.com/dims4/default/9fd4ca8/2147483647/strip/true/crop/6000x3375+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F64%2F2b%2F13d366a34e2e9ef1b17aa792dbfa%2F2295814463.jpg",
-                "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kyle-shanahan-mike-evans-hip-injury-will-have-to-be-managed-this-week",
-                "source": "NBC Sports",
-                "date": "2026-09-21T20:47:11Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "This jaw-dropping stat sums up Seahawks defensive dominance vs. Cardinals",
-                "desc": "The Seahawks dominated Arizona’s passing offense so badly that they put up an unwanted stat not seen in 39 years.",
-                "image": "https://platform.fieldgulls.com/wp-content/uploads/sites/81/2026/09/gettyimages-2296394721.jpg?quality=90&strip=all&crop=0%2C13.369070330166%2C100%2C73.261859339668&w=1200",
-                "url": "https://www.fieldgulls.com/seattle-seahawks-game-analysis/175359/jaw-dropping-stat-sums-up-seahawks-defensive-dominance-vs-cardinals",
-                "source": "Field Gulls",
-                "date": "2026-09-21T17:30:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Numbers Never Lie: 3 Chiefs stats from Week 2 and their significance",
-                "desc": "Which statistics from Week 2 are worth taking away for the Kansas City Chiefs?",
-                "image": "https://platform.arrowheadpride.com/wp-content/uploads/sites/12/2026/09/gettyimages-2295814765.jpg?quality=90&strip=all&crop=0%2C3.4101588749767%2C100%2C78.534031413613&w=1200",
-                "url": "https://www.arrowheadpride.com/kansas-city-chiefs-analysis/210984/numbers-never-lie-3-chiefs-stats-week-2-significance",
-                "source": "Arrowhead Pride",
-                "date": "2026-09-21T17:15:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Lions safety Avonte Maddox out for year, as Detroit seeks DB ‘shake up’",
-                "desc": "Detroit Lions safety Avonte Maddox is out for the year, and now the team is promising shake ups in the secondary.",
-                "image": "https://platform.prideofdetroit.com/wp-content/uploads/sites/127/2026/09/reuters-tagreuters.com2025newsml_MT1USATODAY267240241603320891.jpg?quality=90&strip=all&crop=0%2C10.727482399442%2C100%2C78.545035201116&w=1200",
-                "url": "https://www.prideofdetroit.com/detroit-lions-news/173990/lions-safety-avonte-maddox-out-season-detroit-lions-defensive-shake-up",
-                "source": "Pride Of Detroit",
-                "date": "2026-09-21T17:10:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "NFL Panic Meter: Ranking Every 0-2 Team Based on Desperation",
-                "desc": "Only 11% of teams have made the playoffs after an 0-2 start.",
-                "image": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_104,w_3780,h_2126/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/si/01m32c9y5dz9md0g21dp.jpg",
-                "url": "https://www.si.com/nfl/nfl-panic-meter-ranking-every-winless-team-based-on-desperation-2026",
-                "source": "Sports Illustrated",
-                "date": "2026-09-21T17:07:56Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "5 things we learned from the Bengals’ dominant win over the Texans",
-                "desc": "The defense can get down and dirty.",
-                "image": "https://platform.cincyjungle.com/wp-content/uploads/sites/65/2026/09/gettyimages-2295793864.jpg?quality=90&strip=all&crop=0%2C1.1889500955591%2C100%2C78.54568161854&w=1200",
-                "url": "https://www.cincyjungle.com/cincinnati-bengals-analysis/199659/5-things-we-learned-bengals-win-texans",
-                "source": "Cincy Jungle",
-                "date": "2026-09-21T16:58:24Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Sunday Aftermath: Jayden Daniels' bad break, the Bears' about-face, and more",
-                "desc": "Breaking down all of the NFL's biggest Week 2 storylines, including Jayden Daniel's elbow issue, Saquon Barkley's injury and the Bears' stunning 180.",
-                "image": "https://nbcsports.brightspotcdn.com/dims4/default/94eb3d7/2147483647/strip/true/crop/2742x1542+0+144/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F4f%2F34%2Fe16f66424f9fbc095d2f085f5602%2F2026-09-20t223800z-1291780026-mt1usatoday29876314-rtrmadp-3-nfl-washington-commanders-at-dallas-cowboys.jpg",
-                "url": "https://www.nbcsports.com/fantasy/football/news/sunday-aftermath-jayden-daniels-bad-break-the-bears-about-face-and-more",
-                "source": "NBC Sports",
-                "date": "2026-09-21T16:54:21Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "What will be the new name of Tigers' ballpark? We now know",
-                "desc": "Fifth Third and the Tigers made the announcement Monday, Sept. 21, at what, for now, is still Comerica Park.",
-                "image": "https://www.detroitnews.com/gcdn/authoring/authoring-images/2026/04/03/PDTN/89454727007-0403-kk-tigers-opening-day-02.JPG?crop=2435,1369,x532,y0&width=2435&height=1369&format=pjpg&auto=webp",
-                "url": "https://www.detroitnews.com/story/sports/mlb/tigers/2026/09/21/comerica-park-in-detroit-set-to-change-names-after-bank-merger/91870093007/",
-                "source": "The Detroit News",
-                "date": "2026-09-21T16:52:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Caleb Williams’ hamstring injury: New updates released after MRI",
-                "desc": "Highly anticipated details on the injuries suffered by Chicago Bears quarterback Caleb Williams have reportedly been released.",
-                "image": "https://media.nbcchicago.com/2026/09/GettyImages-2296284069.jpg?quality=85&strip=all&resize=1200%2C675",
-                "url": "https://www.nbcchicago.com/chicago-sports-bears-sox-cubs-bulls-blackhawks/caleb-williams-hamstring-injury-new-updates-released-after-mri-on-bears-qb/3991688/",
-                "source": "NBC 5 Chicago",
-                "date": "2026-09-21T16:48:38Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Cowboys' Dak Prescott Jokes About 2012 Tony Romo Post After Breaking Record, 'I Was Just a Dumb Fan'",
-                "desc": "After breaking Tony Romo's franchise record for the most touchdown passes in Dallas Cowboys history in Sunday's victory over the Washington Commanders, star quarterback Dak Prescott reflected on his infamous 2012 tweet about his predecessor.",
-                "image": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/ap_images/2026-09/1955c02445784f57801988630bbd4995/Commanders_Cowboys_Football__4853_3581x2015_(0,208).jpg?w=1120&h=630",
-                "url": "https://bleacherreport.com/articles/25501526-cowboys-dak-prescott-jokes-about-2012-tony-romo-post-after-breaking-record-i-was-just-dumb-fan",
-                "source": "Bleacher Report",
-                "date": "2026-09-21T16:46:23Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-09-23T07:00:38.774011Z"
+    "lastGlobalSync": "2026-09-23T13:08:05.207864Z"
 }
