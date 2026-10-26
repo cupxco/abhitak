@@ -2,6 +2,69 @@
     "hi": {
         "general": [
             {
+                "title": "बेंजामिन नेतन्याहू को इजरायली चुनावों में गड़बड़ी का अंदेशा, ईरान पर लगाया आरोप, चेताया",
+                "desc": "हमास के इजरायल पर हमले और उसके बाद गाजा, लेबनान और ईरान के साथ संघर्षों के बाद यह इजरायल का पहला राष्ट्रीय चुनाव है। इस चुनाव में ईरान का जिक्र सबसे ज्यादा किया जा रहा है।",
+                "image": "https://static.langimg.com/nbt/thumb/135199458/israel.jpg?imgsize=177944&width=1600&height=900&resizemode=75",
+                "url": "https://navbharattimes.indiatimes.com/world/middle-east/iran-may-try-to-disrupt-israel-election-says-benjamin-netanyahu/articleshow/135199452.cms",
+                "source": "Navbharat Times",
+                "date": "2026-10-25T23:53:22Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "8 नंबर पर आकर ठोके 113 रन, पाकिस्तान को एतिहासिक जीत दिलाई, साथ ही शादाब खान ने तोड़ दिया वर्ल्ड रिकॉर्ड",
+                "desc": "शादाब खान ने इंग्लैंड के खिलाफ नाबाद 113 रन बनाकर वनडे में 8वें या उससे निचले नंबर पर सबसे बड़ी पारी खेलने का नया वर्ल्ड रिकॉर्ड कायम किया।",
+                "image": "https://static.langimg.com/nbt/thumb/135196133/shadab-khan.jpg?imgsize=414292&width=1600&height=900&resizemode=75",
+                "url": "https://navbharattimes.indiatimes.com/sports/cricket/cricket-news/shadab-khan-smashes-world-record-for-highest-odi-score-at-no-8-in-historic-win/articleshow/135195987.cms",
+                "source": "Navbharat Times",
+                "date": "2026-10-25T23:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "हूतियों ने फिर कर दिया रियाद के एयरपोर्ट पर अटैक! कुछ घंटे पहले ही हुआ था खोलने का ऐलान",
+                "desc": "यमन के हूती विद्रोहियों ने सऊदी अरब की राजधानी रियाद के किंग खालिद इंटरनेशनल एयरपोर्ट और दो सैन्य ठिकानों पर तीन अलग-अलग सैन्य अभियानों के तहत दर्जनों बैलिस्टिक मिसाइलों से हमला किया.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202610/6ade90374d1ac-riyad-airport-111507891-16x9.jpg",
+                "url": "https://www.aajtak.in/world/story/yemen-houthi-rebels-missile-attacks-on-riyadh-airport-and-military-bases-ntc-pvp-dskc-2680090-2026-10-26",
+                "source": "AajTak",
+                "date": "2026-10-25T23:27:58Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'अमेरिका में शरिया कानून लागू करना चाहते हैं अल-सैयद...', मिशिगन की रैली में ट्रंप का दावा, 9/11 हमलों का भी किया जिक्र",
+                "desc": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने मिशिगन से सीनेट चुनाव लड़ रहे डेमोक्रेटिक उम्मीदवार अब्दुल अल-सैयद पर मुस्लिम ब्रदरहुड का जिहादी सदस्य होने का आरोप लगाया है.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202610/6ade862c810a7-trump-el-sayed-255857414-16x9.png",
+                "url": "https://www.aajtak.in/world/story/donald-trump-accuses-abdul-el-sayed-muslim-brotherhood-security-check-michigan-senate-election-ntc-pvp-dskc-2680088-2026-10-26",
+                "source": "AajTak",
+                "date": "2026-10-25T22:44:53Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "नीरज नरवाल की तगड़ी रेडिंग, मलेशिया के खिलाफ भारतीय कबड्डी टीम की जबरदस्त जीत, महिला टीम 41-18 से जीती",
+                "desc": "कॉमनवेल्थ कबड्डी चैंपियनशिप 2026 में भारत की महिला टीम ने युगांडा को 41-18 से और पुरुष टीम ने मलेशिया को 37-23 से हराकर अपना शानदार विजयी अभियान जारी रखा।",
+                "image": "https://static.langimg.com/nbt/thumb/135196245/kabaddi-1.jpg?imgsize=444898&width=1600&height=900&resizemode=75",
+                "url": "https://navbharattimes.indiatimes.com/sports/other-sports/commonwealth-kabaddi-championship-2026-indian-men-and-women-teams-continue-winning-streak-with-victories-over-malaysia-and-uganda/articleshow/135196184.cms",
+                "source": "Navbharat Times",
+                "date": "2026-10-25T18:06:16Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "मंत्री सुबोध उनियाल ने दलेर मेहंदी से मांगी माफी, CM पुष्कर सिंह धामी ने भाइयों को दिया उत्तराखंड आने का न्योता",
+                "desc": "कुछ दिन पहले 'सिद्धपीठ मां कुंजापुरी पर्यटन एवं विकास मेले' में सिंगर दलेर मेहंदी पर मंत्री सुबोध उनियाल ने आरोप लगाया था कि उन्होंने नशे की हालत में गाना गाया, लेकिन अब उनकी टीम ने कहा है कि मंत्री जी ने माफी मांग ली है।",
+                "image": "https://static.langimg.com/nbt/thumb/135195564/subodh-uniyal-apologized-daler-mehndi.jpg?imgsize=113097&width=1600&height=900&resizemode=75",
+                "url": "https://navbharattimes.indiatimes.com/entertainment/regional-cinema/minister-subodh-uniyal-apologized-to-daler-mehndi-cm-pushkar-singh-dhami-invited-to-uttarakhand/articleshow/135195411.cms",
+                "source": "Navbharat Times",
+                "date": "2026-10-25T18:01:31Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "जामिया में छात्र संघ चुनाव बहाली की मांग पर भूख हड़ताल, 3 सांसदों पर FIR",
+                "desc": "जामिया के छात्रों ने पुलिस की तैनाती और छात्रों को हिरासत में लिए जाने पर भी सवाल उठाए हैं. उनका आरोप है कि आज सुबह से जामिया के चारों तरफ बड़ी संख्या में पुलिस बल तैनात है.",
+                "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/25/f974a0547e6b467dc824741c749dba4b1792949118917369_original.jpg?impolicy=abp_cdn&imwidth=1200",
+                "url": "https://www.abplive.com/states/delhi-ncr/jamia-student-unioun-demand-2026-hunger-strike-fir-filed-against-3-mps-congress-samajwadi-party-3206772",
+                "source": "ABP News",
+                "date": "2026-10-25T17:25:45Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "PAK vs ENG: हारिस रऊफ की बदतमीजी, विल जैक्स को बैट लेकर मारने चल दिए, बीच में अंपायर आए तो मारा धक्का",
                 "desc": "पाकिस्तान-इंग्लैंड वनडे मैच के दौरान सैम करन की बाउंसर पर वाइड न मिलने के बाद हैरिस रऊफ और विल जैक्स के बीच तीखी बहस हो गई।",
                 "image": "https://static.langimg.com/nbt/thumb/135194700/haris-rauf.jpg?imgsize=359143&width=1600&height=900&resizemode=75",
@@ -17,6 +80,15 @@
                 "url": "https://navbharattimes.indiatimes.com/sports/cricket/cricket-news/shadab-khan-heroic-century-pakistan-beat-england-by-1-wicket-in-tri-series-match/articleshow/135194423.cms",
                 "source": "Navbharat Times",
                 "date": "2026-10-25T16:29:53Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "RSS के लिए कहा था, खरगे के 'मोदी का बाप भी जाएगा' वाले बयान पर पवन खेड़ा",
+                "desc": "पवन खेड़ा ने कहा कि संघ और बीजेपी से जुड़े लोगों ने दूसरी बार खरगे के साथ अपमानजनक व्यवहार किया है। उन्होंने उत्तराखंड में हुई घटना का जिक्र करते हुए कहा कि खरगे दलित हैं, इसलिए शुद्धिकरण के नाम पर ऐसा किया गया था।, India News in Hindi - Hindustan",
+                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/10/25/1600x900/logo/ANI-20260803104-0_1792945560664_0biG_1792945590731_pgMm_78d4e4cb-34a4-4adc-9798-458f43dcdfd1_NHEX.jpg",
+                "url": "https://www.livehindustan.com/national/congress-mallikarjun-kharge-remark-modi-ka-baap-bhi-jayega-pawan-khera-in-defense-201792944502004.html",
+                "source": "Hindustan",
+                "date": "2026-10-25T16:27:03Z",
                 "priority": "STANDARD"
             },
             {
@@ -468,78 +540,6 @@
                 "source": "AajTak",
                 "date": "2026-10-25T02:21:42Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "क्रिकेट में फिर होगी भारत-पाकिस्तान की टक्कर, एशिया कप राइजिंग स्टार्स का शेड्यूल जारी",
-                "desc": "पाकिस्तान-ए ने पिछले सीजन खिताब अपने नाम किया था. उसने पहले सेमीफाइनल में श्रीलंका-ए को पांच रनों से पराजित किया था. फिर बांग्लादेश-ए के खिलाफ खिताबी मुकाबला सुपर ओवर तक गया था, जहां उसने ट्रॉफी अपने नाम की थी.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202610/6add65049a8f4-india-a-251011591-16x9.jpeg",
-                "url": "https://www.aajtak.in/sports/cricket/story/mens-asia-cup-rising-stars-2026-schedule-india-a-vs-pakistan-a-clash-doha-tspoa-dskc-2679394-2026-10-25",
-                "source": "AajTak",
-                "date": "2026-10-25T02:11:52Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'हमारे घरों में गोलियां चल रहीं', बिग बॉस में बोले रोहित शेट्टी, सलमान खान का किया जिक्र",
-                "desc": "Bigg Boss 20: रियलिटी शो 'बिग बॉस 20' के वीकेंड का वार एपिसोड में इस हफ्ते सलमान खान की जगह रोहित शेट्टी बतौर होस्ट पहुंचे. इस दौरान उन्होंने घरवालों के मुद्दों पर बात की, साथ ही फायरिंग का जिक्र भी कर दिया.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202610/6add5bde38aee-rohit-shetty-on-firing-case-25310955-16x9.jpg",
-                "url": "https://www.aajtak.in/entertainment/ott/story/bigg-boss-20-rohit-shetty-addresses-firing-incident-ghar-par-goliyaan-chal-rhi-tmovg-dskc-2679392-2026-10-25",
-                "source": "AajTak",
-                "date": "2026-10-25T02:05:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "IND vs NZ T20I सीरीज के बीच आई बुरी खबर, स्टार तेज गेंदबाज अगले 3 मैचों से हुआ बाहर",
-                "desc": "भारत के खिलाफ T20I सीरीज में 0-2 से पिछड़ रही न्यूजीलैंड की टीम को बड़ा झटका लगा है। तेज गेंदबाज मैट हेनरी पिंडली में खिंचाव के कारण सीरीज के बाकी मैचों से बाहर हो गए हैं।",
-                "image": "https://resize.indiatv.in/resize/newbucket/1200_-/2026/10/matt-henry-1792892625.jpg",
-                "url": "https://www.indiatv.in/sports/cricket/ind-vs-nz-t20i-squad-updates-matt-henry-ruled-out-of-remainder-of-t20is-as-new-zealand-manage-workload-2026-10-25-1250768",
-                "source": "India TV Hindi",
-                "date": "2026-10-25T01:55:43Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "बंगाल की खाड़ी में चक्रवात का खतरा, तूफान की वजह से प्रभावित होंगे कई राज्य - पूरा अपडेट",
-                "desc": "बंगाल की खाड़ी के ऊपर बने कम दबाव के क्षेत्र को लेकर भारत मौसम विज्ञान विभाग (IMD) ने चक्रवात से पहले की निगरानी चेतावनी जारी की है.",
-                "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/25/89a2113407da75ee7f7f0f931290ca671792892977969425_original.jpg?impolicy=abp_cdn&imwidth=1200",
-                "url": "https://www.abplive.com/news/india/bay-of-bengal-cyclone-arnab-imd-alert-andhra-pradesh-odisha-heavy-rain-october-27-3206424",
-                "source": "ABP News",
-                "date": "2026-10-25T01:50:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "IPL 2027 में खेलेंगे धोनी? थाला ने खुद दिया जवाब, कहा- दिसंबर से पहले टेस्ट कराना होगा",
-                "desc": "धोनी ने संकेत दिए हैं कि वह आईपीएल 2027 में चेन्नई के लिए मैदान में उतर सकते हैं। हालांकि, यह साफ है कि धोनी अगर खेले भी तो वह बहुत कम मैचों में नजर आएंगे। इस दौरान भी उनकी भूमिका कप्तान के रूप में ज्यादा होगी।",
-                "image": "https://static.langimg.com/nbt/thumb/135181495/ms-dhoni.jpg?imgsize=578999&width=1600&height=900&resizemode=75",
-                "url": "https://navbharattimes.indiatimes.com/sports/cricket/cricket-news/will-ms-dhoni-play-in-ipl-2027-thala-himself-answered-saying-he-would-need-to-undergo-test-before-december/articleshow/135181475.cms",
-                "source": "Navbharat Times",
-                "date": "2026-10-25T01:45:17Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "इजरायल में कैसे होते हैं चुनाव? नेतन्याहू के सामने ये चुनौती, भारत से कितना अलग है पूरा सिस्टम",
-                "desc": "इजरायल में 7 अक्टूबर 2023 के हमास हमले और गाजा संघर्ष के बाद पहली बार राष्ट्रीय चुनाव होने वाला है. प्रधानमंत्री बेंजामिन नेतन्याहू और पूर्व सेना प्रमुख गादी आइसेनकोट के बीच कड़ा मुकाबला है.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202610/6add5d0464b46-israeli-prime-minister-benjamin-netanyahu-253603293-16x9.jpg",
-                "url": "https://www.aajtak.in/world/story/israel-elections-netanyahu-vs-eisenkot-gaza-hamas-conflict-ntc-acwi-rpti-2679388-2026-10-25",
-                "source": "AajTak",
-                "date": "2026-10-25T01:38:54Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "ओडिशा की ओर तूफ़ान ‘अर्नब’ के आने का ख़तरा, भारी बारिश का अलर्ट",
-                "desc": "बंगाल की खाड़ी में बन रहे चक्रवात ‘अर्नब’ के संभावित ख़तरे को देखते हुए ओडिशा सरकार ने तैयारियां तेज़ कर दी हैं.",
-                "image": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/bde5/live/bac00e50-d017-11f1-b0c1-71a61e4adacb.jpg",
-                "url": "https://www.bbc.com/hindi/live/c5n490mypvz7t",
-                "source": "BBC",
-                "date": "2026-10-25T01:15:51Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Sharad Purnima 2026: शरद पूर्णिमा पर खीर कब रखें, चांदनी में रखने से पहले जान लें ये जरूरी बातें",
-                "desc": "Sharad Purnima 2026: शरद पूर्णिमा 25 अक्टूबर 2026 को मनाई जा रही है। इस दिन रात में खीर को चांदनी में रखने की परंपरा है। जानें खीर रखने का सही समय, सुबह इसे कब निकालें, चंद्रोदय का समय और मां लक्ष्मी की कोजागरी पूजा का मुहूर्त।, एस्ट्रोलॉजी न्यूज़ Hindustan",
-                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/10/25/1600x900/logo/Untitled_1792890157363_3gWw_1792890174273_f44F_0716e01a-b5f6-4c63-9292-fe3a088499d2_8QUO.jpg",
-                "url": "https://www.livehindustan.com/astrology/sharad-purnima-2026-raat-mein-khir-kab-rakhein-subah-kitne-baje-nikalein-jaane-puja-muhurat-aur-chandroday-ka-samay-201792889726542.html",
-                "source": "Hindustan",
-                "date": "2026-10-25T01:05:32Z",
-                "priority": "STANDARD"
             }
         ],
         "business": [
@@ -568,6 +568,15 @@
                 "url": "https://www.aajtak.in/auto/news/story/chery-showcased-grow-c3-ai-powered-electric-petrol-bike-cinnox-auaw-dskc-2679746-2026-10-25",
                 "source": "AajTak",
                 "date": "2026-10-25T14:04:38Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "साल के अंत तक लॉन्च होंगी ये 3 धांसू SUVs, एक देगी 715Km की रेंज! शुरुआती कीमत ₹10 लाख से कम",
+                "desc": "Upcoming SUVs 2026: भारतीय बाजार में जल्द ही तीन नई SUVs की एंट्री होने वाली है, जिनमें बजट और प्रीमियम सेगमेंट से लेकर लग्जरी इलेक्ट्रिक कैटेगरी तक के विकल्प शामिल हैं. Hyundai Bayon अपने मॉडर्न फीचर्स के साथ आएगी, जबकि JSW Combat हाइब्रिड टेक्नोलॉजी और दमदार ऑफ-रोड लुक से आकर्षित करेगी. वहीं, Mercedes-Benz GLC Electric लग्जरी और लंबी ड्राइविंग रेंज का अनुभव देगी. जानिए इन तीनों SUVs की संभावित कीमत, फीचर्स और परफॉरमेंस की पूरी डिटेल.",
+                "image": "https://images.news18.com/ibnkhabar/uploads/2026/10/Hyundai-Bayon-5-2026-10-06bc82870ee943f133f97539398ddde7-1200x675.jpg",
+                "url": "https://hindi.news18.com/news/auto/cars-upcoming-suv-launches-in-india-2026-hyundai-bayon-jsw-combat-mercedes-glc-electric-ws-kl-10935986.html",
+                "source": "News18 Hindi",
+                "date": "2026-10-25T11:45:09Z",
                 "priority": "STANDARD"
             },
             {
@@ -1073,18 +1082,18 @@
                 "source": "AajTak",
                 "date": "2026-10-24T02:46:06Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "बैंक खाता साफ करने पर तुले हैं AI एजेंट? बिना ग्राहक से पूछे ही लगाने लगे सेंध",
-                "desc": "अमेरिका के बैंकों के सामने बड़ी समस्या सामने आ रही है। ग्राहकों के बैंक अकाउंट्स में एआई एजेंट सेंध लगाने की कोशिश कर रहे हैं। वे बिना ग्राहकों से पूछे ही अकाउंट लॉगइन कर लेते हैं।, International Hindi News - Hindustan",
-                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/10/24/1600x900/logo/ai_agent_1792806773535_RG17_1792806778374_RSlM_cd1c8b47-8ee8-4915-862f-cdbbb32bdffb_8TpW.jpg",
-                "url": "https://www.livehindustan.com/international/ai-agents-chatbot-trying-to-anlock-bank-account-may-case-great-risk-201792805385164.html",
-                "source": "Hindustan",
-                "date": "2026-10-24T01:54:21Z",
-                "priority": "STANDARD"
             }
         ],
         "entertainment": [
+            {
+                "title": "मंत्री सुबोध उनियाल ने दलेर मेहंदी से मांगी माफी, CM पुष्कर सिंह धामी ने भाइयों को दिया उत्तराखंड आने का न्योता",
+                "desc": "कुछ दिन पहले 'सिद्धपीठ मां कुंजापुरी पर्यटन एवं विकास मेले' में सिंगर दलेर मेहंदी पर मंत्री सुबोध उनियाल ने आरोप लगाया था कि उन्होंने नशे की हालत में गाना गाया, लेकिन अब उनकी टीम ने कहा है कि मंत्री जी ने माफी मांग ली है।",
+                "image": "https://static.langimg.com/nbt/thumb/135195564/subodh-uniyal-apologized-daler-mehndi.jpg?imgsize=113097&width=1600&height=900&resizemode=75",
+                "url": "https://navbharattimes.indiatimes.com/entertainment/regional-cinema/minister-subodh-uniyal-apologized-to-daler-mehndi-cm-pushkar-singh-dhami-invited-to-uttarakhand/articleshow/135195411.cms",
+                "source": "Navbharat Times",
+                "date": "2026-10-25T18:01:31Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Motivational Quotes By Vidyut Jammwal: ‘छोटी, छोटी आदतों को बदलेंगे, तभी बड़ा बदलाव आएगा’",
                 "desc": "Vidyut Jammwal Inspirational: विद्युत जामवाल की भी हर सितारे की तरह अपनी कहानी और अपना संघर्ष है। 46 की उम्र में भी जामवाल का फिजिक उनके मेहनत और अनुशासन की गवाही देता है। 45 के हो रहे विद्युत बिना किसी फिल्मी बैकग्राउंड और गॉडफादर के भी इंडस्ट्री में अपना नाम बना चुके हैं। जामवाल का संघर्ष जारी है।",
@@ -1155,6 +1164,15 @@
                 "url": "https://www.aajtak.in/entertainment/bollywood-news/photo/cricket-host-gaurav-kapur-shares-private-bedroom-photos-with-second-wife-kritika-kamra-divorce-ex-wife-tmovf-2679957-2026-10-25",
                 "source": "AajTak",
                 "date": "2026-10-25T14:35:53Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'रामायण' में सीता बनने के लिए साई पल्लवी ने क्यों भरी हामी? KBC में बताई दिल की बात",
+                "desc": "'कौन बनेगा करोड़पति' में साई पल्लवी ने बताया कि उन्होंने सीता का किरदार बिना किसी सोच-विचार या हिसाब-किताब के चुना है। एक्ट्रेस ने बताया कि इस किरदार को निभाने से पहले वह माता सीता से प्रार्थना कर उनका मार्गदर्शन मांगती हैं।",
+                "image": "https://resize.indiatv.in/resize/newbucket/1200_-/2026/10/untitled-design-2026-10-25t191031-1792935658.jpg",
+                "url": "https://www.indiatv.in/entertainment/tv/sai-pallavi-reveals-why-she-said-yes-to-playing-sita-in-ramayana-on-kbc-appearance-with-ranbir-kapoor-2026-10-25-1250881",
+                "source": "India TV Hindi",
+                "date": "2026-10-25T14:25:25Z",
                 "priority": "STANDARD"
             },
             {
@@ -1606,27 +1624,18 @@
                 "source": "Navbharat Times",
                 "date": "2026-10-24T13:50:25Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Ramayan First Review: राम बनकर छाए रणबीर कपूर, इमोशनल कर गई 'रामायण'",
-                "desc": "नितेश तिवारी की फिल्म रामायण की अमेरिका में हुई स्क्रीनिंग के बाद एक X यूजर ने फिल्म का पहला रिव्यू शेयर किया. उन्होंने फिल्म की कहानी, एक्टिंग और म्यूजिक की तारीफ की, खासकर एआर रहमान के संगीत को हांस जिमर के स्कोर से बेहतर बताया.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202610/6adca6949e72a-ramayan-152059488-16x9.jpg",
-                "url": "https://www.aajtak.in/entertainment/bollywood-news/story/ramayan-first-review-usa-screening-ranbir-kapoor-ram-sai-pallavi-sita-yash-ravan-sunny-deol-tmovb-dskc-2679196-2026-10-24",
-                "source": "AajTak",
-                "date": "2026-10-24T12:40:34Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Aishwarya Rai-Aaradhya Bachchan: ऐश्वर्या राय ने मायके में धूमधाम से मनाया भतीजे का बर्थडे, नानी-मामू संग खिलखिलाईं आराध्या बच्चन",
-                "desc": "ऐश्वर्या राय भी भतीजे संग प्यार से पोज देती हुई दिखाई दीं. स्काई ब्लू शर्ट में ऐश्वर्या सुपर गॉर्जियस लगीं. लाइट ग्लोइंग मेकअप और ओपन हेयर में उनकी खूबसूरती देखते ही बनती है.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/photo_gallery/202610/6adc9ed7d9bdd-aishwarya-rai-visits-her-maayka-240438913-16x9.jpg",
-                "url": "https://www.aajtak.in/entertainment/bollywood-news/photo/aishwarya-rai-visits-maayka-aaradhya-bachchan-spotted-with-mamu-nani-abhishek-bachchan-missing-tmovf-2679182-2026-10-24",
-                "source": "AajTak",
-                "date": "2026-10-24T12:17:03Z",
-                "priority": "STANDARD"
             }
         ],
         "sports": [
+            {
+                "title": "नीरज नरवाल की तगड़ी रेडिंग, मलेशिया के खिलाफ भारतीय कबड्डी टीम की जबरदस्त जीत, महिला टीम 41-18 से जीती",
+                "desc": "कॉमनवेल्थ कबड्डी चैंपियनशिप 2026 में भारत की महिला टीम ने युगांडा को 41-18 से और पुरुष टीम ने मलेशिया को 37-23 से हराकर अपना शानदार विजयी अभियान जारी रखा।",
+                "image": "https://static.langimg.com/nbt/thumb/135196245/kabaddi-1.jpg?imgsize=444898&width=1600&height=900&resizemode=75",
+                "url": "https://navbharattimes.indiatimes.com/sports/other-sports/commonwealth-kabaddi-championship-2026-indian-men-and-women-teams-continue-winning-streak-with-victories-over-malaysia-and-uganda/articleshow/135196184.cms",
+                "source": "Navbharat Times",
+                "date": "2026-10-25T18:06:16Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "PAK vs ENG: हारिस रऊफ की बदतमीजी, विल जैक्स को बैट लेकर मारने चल दिए, बीच में अंपायर आए तो मारा धक्का",
                 "desc": "पाकिस्तान-इंग्लैंड वनडे मैच के दौरान सैम करन की बाउंसर पर वाइड न मिलने के बाद हैरिस रऊफ और विल जैक्स के बीच तीखी बहस हो गई।",
@@ -2157,20 +2166,101 @@
                 "source": "AajTak",
                 "date": "2026-10-24T09:53:39Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "IND vs NZ: वैभव सूर्यवंशी आए और गए... क्राइस्टचर्च T20 में नहीं चला बल्ला, रास नहीं आया नंबर-3",
-                "desc": "वैभव सूर्यवंशी न्यूजीलैंड के खिलाफ क्राइस्टचर्च में खेले गए दूसरे टी20 मुकाबले में बड़ी पारी नहीं खेल सके. चोटिल ईशान किशन की जगह टीम में आए वैभव 8 गेंदों पर सिर्फ 4 रन बनाकर आउट हो गए. पहली बार टी20 में नंबर-3 पर बल्लेबाजी कर रहे वैभव को नाथन स्मिथ ने अपने पहले ही ओवर में पवेलियन भेज दिया.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202610/6adc7ffe88c73-vaibhav-sooryavanshi-245301553-16x9.jpeg",
-                "url": "https://www.aajtak.in/sports/cricket/story/vaibhav-sooryavanshi-out-4-runs-ind-vs-nz-2nd-christchurch-t20i-2026-tspok-dskc-2679090-2026-10-24",
-                "source": "AajTak",
-                "date": "2026-10-24T09:53:23Z",
-                "priority": "STANDARD"
             }
         ]
     },
     "en": {
         "general": [
+            {
+                "title": "Lakers vs. Jazz Final Score: Luka scores 52, LA rallies for win",
+                "desc": "A scoring explosion from Luka Dončić saw the Lakers overcome an awful first quarter to win.",
+                "image": "https://platform.silverscreenandroll.com/wp-content/uploads/sites/144/2026/10/reuters-tagreuters.com2026newsml_MT1USATODAY30186874185018693.jpg?quality=90&strip=all&crop=0%2C10.74053273912%2C100%2C78.518934521761&w=1200",
+                "url": "https://www.silverscreenandroll.com/lakers-scores-results/127842/lakers-vs-jazz-recap-box-score-stats-final-austin-reaves-walker-kessler-luka-doncic",
+                "source": "Silver Screen and Roll",
+                "date": "2026-10-25T23:40:47Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Evacuation orders issued for mile radius around Newport fire",
+                "desc": "UPDATE: According to the Lincoln County Sheriff's Office, evacuation orders have largely been lifted, though Level 3 Orders remain in affect for a few blocks ar",
+                "image": "https://kcby.com/resources/media2/16x9/2048/1320/0x195/90/676961d3-3410-4c03-92fa-a01a8c330a75-15f466119aa5473887037b7d2b10006e.jfif",
+                "url": "https://kcby.com/news/local/evacuation-orders-issued-for-mile-radius-around-newport-fire",
+                "source": "KCBY",
+                "date": "2026-10-25T23:36:53Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Kimi Antonelli wins U.S. Grand Prix in Texas, putting him on the brink of F1 championship",
+                "desc": "It was a masterful race weekend from the 20-year-old Italian, who is very likely to clinch the 2026 Formula 1 driver’s title next weekend in Mexico City.",
+                "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261025-F1-Grand-Prix0-ww-1359-e8b015.jpg",
+                "url": "https://www.nbcnews.com/sports/formula-1/kimi-antonelli-wins-us-grand-prix-texas-putting-brink-f1-championship-rcna603583",
+                "source": "NBC News",
+                "date": "2026-10-25T23:14:49Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "No risk of ammonia contamination, officials say, after fire at Oregon seafood plant prompted evacuations",
+                "desc": "The fire erupted Sunday morning at Pacific Seafood, a major seafood processing and distribution plant. The city of Newport earlier warned of “extreme danger in the area.”",
+                "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261025-newport-oregon-fire-ww-1515-8ca04d.jpg",
+                "url": "https://www.nbcnews.com/news/us-news/newport-oregon-pacific-seafood-fire-ammonia-rcna605603",
+                "source": "NBC News",
+                "date": "2026-10-25T23:04:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Belgrade in rapture as Serbian students topple Vucic in historic election",
+                "desc": "Trams and traffic halted by crowds. Tens of thousands of people choking the city's ​main boulevards; the air thick with smoke; a man on ‌a car waving a flare.",
+                "image": "https://www.reuters.com/resizer/v2/NLJ67TNKX5NTHMPGG3I2J4JRXQ.jpg?auth=4b11306579a005272149d64a010ccc52f4332b825bd7ab9734963e06a77ddd3a&height=1005&width=1920&quality=80&smart=true",
+                "url": "https://www.reuters.com/world/belgrade-rapture-serbian-students-topple-vucic-historic-election-2026-10-25/",
+                "source": "Reuters",
+                "date": "2026-10-25T23:01:44Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Presidential race in Bulgaria heads to runoff due to record low turnout",
+                "desc": "The presidential election in Bulgaria on Sunday ended inconclusively, with the next head of state to be picked in a runoff, according to election officials.",
+                "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2301555877.jpg?c=16x9&q=w_800,c_fill",
+                "url": "https://www.cnn.com/2026/10/25/europe/bulgaria-presidential-race-heads-to-runoff-latam-intl",
+                "source": "CNN",
+                "date": "2026-10-25T22:57:46Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Serbia's veteran ruler Vučić concedes election to student",
+                "desc": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/e676/live/8534e970-d0c8-11f1-b441-2b33b063138f.jpg",
+                "url": "https://www.bbc.com/news/articles/cw5yn3xlprpmo",
+                "source": "BBC",
+                "date": "2026-10-25T22:54:57Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "9th Circuit panel questions basis for feds' request to block 20,000 California ballots",
+                "desc": "Two judges questioned the Justice Department's lawyer about how the Trump administration's position squared with the law.",
+                "image": "https://ca-times.brightspotcdn.com/dims4/default/881aa3e/2147483647/strip/true/crop/8192x4301+0+582/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F1d%2Fac%2Fd8f22f6c418ea324a6c23491424a%2F1575677-me-lucha-carnival-voting-event-gem-003.jpg",
+                "url": "https://www.latimes.com/politics/story/2026-10-25/9th-circuit-hears-arguments-on-20-000-ballots-in-california",
+                "source": "Los Angeles Times",
+                "date": "2026-10-25T22:54:04Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "NFL Week 7 grades: Falcons earn solid 'A' mark, while Panthers flop with a resounding 'F'",
+                "desc": "We're grading every game from Week 7 that has been played so far",
+                "image": "https://sportshub.cbsistatic.com/i/r/2026/10/25/d6c522d9-f14d-4210-946a-16833baffc3d/thumbnail/1200x675/a0339bddc806e18482f34c3ace537b25/atlanta-falcons.jpg",
+                "url": "https://www.cbssports.com/nfl/news/nfl-week-7-grades-falcons-buccaneers-giants-panthers/",
+                "source": "CBS Sports",
+                "date": "2026-10-25T22:34:08Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Kimi Antonelli storms to US F1 GP victory but is made to wait for title glory",
+                "desc": "The 20-year-old championship leader won from Charles Leclerc and Max Verstappen and should become F1’s youngest world champion next week in Mexico",
+                "image": "https://i.guim.co.uk/img/media/7b3c22f92c40ea89d8cc24a30cde442049249d66/120_0_1495_1196/master/1495.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=40df7088d483942be11c28c8aeff229a",
+                "url": "https://www.theguardian.com/sport/2026/oct/25/kimi-antonelli-storms-to-us-f1-gp-victory-but-is-made-to-wait-for-title-glory",
+                "source": "The Guardian",
+                "date": "2026-10-25T22:23:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Tom Brady Dating Candice Swanepoel 4 Years After Gisele Bündchen Divorce",
                 "desc": "Tom Brady is in a relationship with model Candice Swanepoel, four years after his divorce from Gisele Bündchen—with whom he shares kids Benjamin, 16, and Vivian, 13, was finalized.",
@@ -2620,99 +2710,99 @@
                 "source": "CBS Sports",
                 "date": "2026-10-24T23:50:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "'Arguably Better Than Face ID': the iPhone Duo Touch ID Tip to Try",
-                "desc": "An iPhone Duo owner has shared a Touch ID tip on Reddit they claim is \"arguably better than Face ID\".",
-                "image": "https://images.macrumors.com/t/imDZJ2lQdreHfGodsIYuRYq4XfI=/2500x/article-new/2026/10/iphone-duo-dark.jpg",
-                "url": "https://www.macrumors.com/2026/10/24/better-than-face-id-iphone-duo-touch-id-tip/",
-                "source": "MacRumors",
-                "date": "2026-10-24T23:48:55Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Trump announces Audi will build $4 billion US factory in Georgia",
-                "desc": "US President Donald Trump announced on Saturday that Audi plans to build a $4 ‌billion assembly plant in Georgia that will produce 200,000 SUVs annually, as he seeks to convince Americans to back Republicans in the November 3 midterm elections.",
-                "image": "https://www.reuters.com/resizer/v2/H4N5HZQRANIITAXZZ2EI6QVNEU.jpg?auth=9d7315ef8bd97d367e2f9ea2697e36c49c7525aa6faa87e995c862b472203e45&height=1005&width=1920&quality=80&smart=true",
-                "url": "https://www.reuters.com/business/autos-transportation/trump-set-announce-plan-by-audi-build-us-factory-georgia-source-says-2026-10-24/",
-                "source": "Reuters",
-                "date": "2026-10-24T23:44:46Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "North Korea's Kim Jong Un returns from China after war memorial visit, state media says",
-                "desc": "North Korean leader Kim Jong Un returned from a surprise one-day trip to the Chinese ‌border city of Dandong, where he visited a historic Korean War memorial, North Korean state media said on Sunday.",
-                "image": "https://www.reuters.com/resizer/v2/5TNMSTOYE5P2RHEBSXXUIUGDKE.jpg?auth=0a883db1a67073ad3204b2006115d9b2adb1118a885482fa33643c5effa883b5&height=1005&width=1920&quality=80&smart=true",
-                "url": "https://www.reuters.com/business/aerospace-defense/north-koreas-kim-jong-un-returns-china-after-war-memorial-visit-state-media-says-2026-10-24/",
-                "source": "Reuters",
-                "date": "2026-10-24T22:24:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Arrests in Barcelona after 'anti-system' rioters loot shops, set fires",
-                "desc": "A total of 100 people were ​arrested in Barcelona on Saturday evening after ‌hooded demonstrators who participated in an anti-establishment rally looted shops and set fire to street furniture around the city's central ​Plaza de Catalunya.",
-                "image": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true",
-                "url": "https://www.reuters.com/world/arrests-barcelona-after-anti-system-rioters-loot-shops-set-fires-2026-10-24/",
-                "source": "Reuters",
-                "date": "2026-10-24T22:15:27Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "NC State fires Dave Doeren, ending 14-year tenure after Stanford loss",
-                "desc": "Dave Doeren's 14-year tenure at NC State came to an end following Friday night's 31-28 loss at Stanford. The university announced his dismissal Saturday, less than 24 hours after the Wolfpack's disappointing performance against the Cardinal following a bye week.",
-                "image": "https://images.wral.com/b5b8a4f0-93e3-4f25-9a26-514eb11217ec?w=1200&h=630&height=630",
-                "url": "https://www.wral.com/sports/doeren-fired-nc-state-football-october-2026/",
-                "source": "WRAL",
-                "date": "2026-10-24T22:08:50Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Man detained at Georgia immigration detention center dies as hunger strike continues",
-                "desc": "Death inside Folkston facility comes as officials allegedly threaten hunger strikers there with force-feeding",
-                "image": "https://i.guim.co.uk/img/media/5098ba27928833896c54068aea6264d9317ddb09/324_0_3238_2590/master/3238.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a538d8b94d088289c4658503ae2887fd",
-                "url": "https://www.theguardian.com/us-news/2026/oct/24/georgia-ice-man-dies",
-                "source": "The Guardian",
-                "date": "2026-10-24T22:06:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Trump in Georgia, Michigan this weekend ahead of 2026 midterm elections",
-                "desc": "President Donald Trump will continue his campaign blitz in Perry, Georgia, on Saturday, followed by a stop in Port Huron, Michigan, on Sunday, as he seeks to boost Republican candidates ahead of the 2026 midterm elections on Nov. 3.",
-                "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/10/4b6478b9bfb4bbf82c1cb5f2f88df19b.jpg",
-                "url": "https://www.foxnews.com/live-news/trump-weekend-rallies-georgia-michigan-2026-midterm-elections",
-                "source": "Fox News",
-                "date": "2026-10-24T22:05:59Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Hitler’s German retreat, Eagle’s Nest, set ablaze; Suspect in custody",
-                "desc": "Emergency services struggled to tackle the blaze in snow and wind.",
-                "image": "https://www.al.com/resizer/v2/2J5RCD5MJJBVVHFDWL7BZXS7OM.jpg?auth=cc0a657441d6cb51560c71f893aa8671c7c2a6524ab02737979c679e2c75f269&width=1280&smart=true",
-                "url": "https://www.al.com/news/2026/10/hitlers-german-retreat-eagles-nest-set-ablaze-suspect-in-custody.html",
-                "source": "AL.com",
-                "date": "2026-10-24T22:02:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'DWTS' pros Witney Carson and Mark Ballas allegedly feuded during Season 21, former contestants claim",
-                "desc": "Former \"DWTS\" contestants Alexa and Carlos PenaVega claim pros Witney Carson and Mark Ballas \"refused to be in the same room\" during Season 21.",
-                "image": "https://pagesix.com/wp-content/uploads/sites/3/2026/10/146351969.jpg?quality=75&strip=all&w=1200",
-                "url": "https://pagesix.com/2026/10/24/celebrity-news/dwts-pros-witney-carson-and-mark-ballas-allegedly-feuded-during-season-21-former-contestants-claim/",
-                "source": "Page Six",
-                "date": "2026-10-24T21:38:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "New York archdiocese finalizing $800m settlement with clergy sex abuse survivors",
-                "desc": "Agreement with more than 1,300 victims of clergy members and lay leaders would resolve long legal fight",
-                "image": "https://i.guim.co.uk/img/media/7d398b631dd9b7990672912f3abd30253180bfbd/397_231_3659_2927/master/3659.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8f9108dcc3b6b6f0fc546802f39d63a1",
-                "url": "https://www.theguardian.com/us-news/2026/oct/24/new-york-archdiocese-800m-settlement-sexual-abuse",
-                "source": "The Guardian",
-                "date": "2026-10-24T21:34:00Z",
-                "priority": "STANDARD"
             }
         ],
         "business": [
+            {
+                "title": "Ahead of Kinus, 18 New Communities Join the Fastest-Growing Shlichus",
+                "desc": "As thousands of Shluchim prepare to gather in Crown Heights for the International Kinus Hashluchim, Chabad Young Professionals (CYP) is marking another milestone in its rapid global expansion, with 18 new communities joining its international network in recent months.",
+                "image": "https://collive.com/wp-content/uploads/2026/10/17.jpg",
+                "url": "https://collive.com/ahead-of-kinus-18-new-communities-join-the-fastest-growing-shlichus/",
+                "source": "COLlive",
+                "date": "2026-10-25T22:55:34Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "19 Trader Joe's Cookies, Ranked Worst To Best",
+                "desc": "Cookies from Trader Joe’s, like Laceys, chocolate chip, snickdoodles, Joe-Joe’s, and oatmeal are taste-tested and ranked worst to best.",
+                "image": "https://www.thedailymeal.com/img/gallery/19-trader-joes-cookies-ranked-worst-to-best/l-intro-1792763234.jpg",
+                "url": "https://www.thedailymeal.com/2295229/trader-joes-cookies-ranked-worst-best/",
+                "source": "Daily Meal",
+                "date": "2026-10-25T22:19:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Stock Futures Are Rising Ahead of Fed Decision",
+                "desc": "Traders expect the Fed will leave interest rates where they are when they meet this week.",
+                "image": "https://images.barrons.com/im-54300852/social",
+                "url": "https://www.barrons.com/articles/stock-futures-trade-sunday-345bccac",
+                "source": "Barron's",
+                "date": "2026-10-25T22:12:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "People Sail on Carnival Just to Experience This Cruise Director",
+                "desc": "Carnival's megaship Jubilee has a star on board, and it's not the captain. The Wall Street Journal profiles Kyndall \"Fire\" Magyar, a 31-year-old cruise director...",
+                "image": "https://cdn.newser.com/image/1719214-12-20261025164703.jpeg",
+                "url": "https://www.newser.com/story/398476/inside-the-selfie-fueled-life-of-carnivals-star-cruise-director.html",
+                "source": "Newser",
+                "date": "2026-10-25T21:17:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "770 Expansion Zal Being Completed in Record Speed",
+                "desc": "Construction on the new beis medrash behind 770 has moved at an extraordinary pace in recent weeks, as crews work to have the space ready in time for the Kinus Hashluchim. On Thursday night, intensive work began in the middle of the night to lower the ground level and bring it into alignment with the floor of the big zal, marking a major development in the effort to expand 770.",
+                "image": "https://files.anash.org/uploads/2026/10/expansion-zal-2.jpeg",
+                "url": "https://anash.org/770-expansion-zal-being-completed-in-record-speed/",
+                "source": "Anash.org",
+                "date": "2026-10-25T21:08:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "General Motors plans ‘eyes-off’ driving tech for trucks and SUVs",
+                "desc": "General Motors is betting on autonomous driving, AI and connected services as it looks to transform the driving experience and grow its digital business.",
+                "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/10/0/0/gm-mary-barra-gm-forward.jpg?ve=1&tl=1",
+                "url": "https://www.foxbusiness.com/technology/gm-expands-eyes-off-autonomous-driving-plans-pickups-suvs",
+                "source": "Fox Business",
+                "date": "2026-10-25T21:02:12Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Home sellers are lowering their prices and helping buyers to make a deal in a stagnant market",
+                "desc": "The trend marks a stark turn from earlier this decade, when sellers often received well above their asking price as home shoppers empowered by rock-bottom mortgage rates fueled a buying frenzy that sent home prices soaring.",
+                "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2025-04-22T101954Z_536240925_RC21ZDAWRQSZ_RTRMADP_3_USA-TRUMP-SNOWBIRDS-2-1024x683.jpg",
+                "url": "https://www.pbs.org/newshour/economy/home-sellers-are-lowering-their-prices-and-helping-buyers-to-make-a-deal-in-a-stagnant-market",
+                "source": "PBS",
+                "date": "2026-10-25T20:55:56Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "10 Classic Mexican Beers Ranked Worst To Best",
+                "desc": "Most liquor stores offer a variety of Mexican beers, but which is the best? I filled my cart with numerous cans and bottles to put them to the test.",
+                "image": "https://www.mashed.com/img/gallery/10-classic-mexican-beers-ranked-worst-to-best/l-intro-1792431591.jpg",
+                "url": "https://www.mashed.com/2290719/classic-mexican-beers-ranked-worst-to-best/",
+                "source": "Mashed",
+                "date": "2026-10-25T20:43:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Citi AAdvantage Executive adds $200 inKind dining credit",
+                "desc": "The Citi / AAdvantage Executive card is adding up to $200 in annual inKind dining credits, split into two $100 benefits each calendar year.",
+                "image": "https://runway-media-production.global.ssl.fastly.net/us/originals/2021/05/Card-Category_social_Food_Alexander-Spatari.jpg",
+                "url": "https://thepointsguy.com/credit-cards/citi-aadvantage-executive-inkind-dining-credit/",
+                "source": "The Points Guy",
+                "date": "2026-10-25T20:13:05Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Not A Chicken Sandwich Or Burger: One Of Culver's Most Underrated Items Is A Midwest Favorite",
+                "desc": "This underrated sandwich from Culver's takes inspiration from a Midwest classic. Will you like it better than the ButterBurger or a chicken sandwich?",
+                "image": "https://www.mashed.com/img/gallery/not-a-chicken-sandwich-or-burger-one-of-culvers-most-underrated-items-is-a-midwest-favorite/l-intro-1792520719.jpg",
+                "url": "https://www.mashed.com/2290197/most-underrated-culvers-item-pork-loin-sandwich/",
+                "source": "Mashed",
+                "date": "2026-10-25T20:03:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "top 10 trucks and SUVs",
                 "desc": "A new report ranks the Ram 3500 as the most dangerous vehicle for other drivers, with outside motorists five times more likely to die in a crash.",
@@ -3162,99 +3252,99 @@
                 "source": "NBC News",
                 "date": "2026-10-24T11:00:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Gen Z is treating the midterms like a market event. Boomers are treating them like weather",
-                "desc": "A survey finds 72% of Gen Z investors have changed their portfolios ahead of the midterms, versus 17% of boomers. Here’s what it means.",
-                "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2275766470-e1792793933406.jpg?resize=1200,600",
-                "url": "https://fortune.com/2026/10/24/gen-z-baby-boomers-midterms-investing-patterns/",
-                "source": "Fortune",
-                "date": "2026-10-24T11:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The Best Deals to Shop",
-                "desc": "Wayfair’s fall Way Day sale is here and has tons of deals on storage, furniture and appliances. Here’s everything you should know.",
-                "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261023-wayday-sale-dj-main-78fe1b.jpg",
-                "url": "https://www.nbcnews.com/select/shopping/fall-way-day-sale-2026-rcna605283",
-                "source": "NBC News",
-                "date": "2026-10-24T10:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Is your Medicare Advantage plan ending next year? Here's what to know",
-                "desc": "Medicare open enrollment runs through Dec. 7, and for as many as 5 million seniors, it will be important to log on and pick a new plan.",
-                "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8256x4644+0+430/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb7%2F32%2F0a4ebbfe4f2dbabf8c9657e981f6%2Fgettyimages-2297178413.jpg",
-                "url": "https://www.npr.org/2026/10/24/nx-s1-6014612/medicare-advantage-open-enrollment-cancelled-plan",
-                "source": "NPR",
-                "date": "2026-10-24T10:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Still sending checks in the mail? It's time to stop",
-                "desc": "Check fraud is rising even as the number of checks in circulation is declining. If you're still sending them in the mail, it may be time to stop.",
-                "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/09/03/USAT/91595876007-20240327-t-205826-z-201923544-mt-1-usatoday-22880038-rtrmadp-3-asurgeincheckfraudhasledtonewtipsabouthowtomail.JPG?crop=1886,1060,x240,y0&width=1886&height=1060&format=pjpg&auto=webp",
-                "url": "https://www.usatoday.com/story/money/personal-finance/2026/10/24/is-it-safe-to-mail-checks-fraud-risk/92380337007/",
-                "source": "USA Today",
-                "date": "2026-10-24T09:03:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "AI Is Exposing the Internet's Human Slop Problem",
-                "desc": "AI is exposing flaws in decades of human-written software. Vercel's Tom Occhino sees a chance to fix the internet's neglected foundations.",
-                "image": "https://i.insider.com/6adba2858e95884e1ca82bd7?width=1200&format=jpeg",
-                "url": "https://www.businessinsider.com/ai-human-slop-software-security-vulnerabilities-internet-2026-10",
-                "source": "Business Insider",
-                "date": "2026-10-24T09:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "October 23, 2026",
-                "desc": "Despite Trump’s statement yesterday that billionaire Elon Musk had removed the restrictions from Starlink and Starshield that are crippling Ukraine’s ability to protect itself from Russia, Ukraine president Volodymyr Zelensky said today the restrictions continue.",
-                "image": "https://substackcdn.com/image/fetch/$s_!9Zq0!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fheathercoxrichardson.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D-1871472435%26version%3D9",
-                "url": "https://heathercoxrichardson.substack.com/p/october-23-2026",
-                "source": "Letters from an American | Heather Cox Richardson",
-                "date": "2026-10-24T07:22:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
-                "desc": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
-                "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
-                "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
-                "source": "TechCrunch",
-                "date": "2026-10-23T23:05:49Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Medicare Advantage cuts leave millions scrambling to find coverage",
-                "desc": "Health care costs are climbing, putting new pressure on millions of Americans and raising questions about the coverage they can afford. The challenges extend to Medicare Advantage. In some parts of the country, insurers are pulling out of markets or eliminating plans that many rely on. We hear from seniors struggling to navigate those changes, and Geoff Bennett discusses more with Dan Weissmann.",
-                "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/medicaire-1024x683.jpg",
-                "url": "https://www.pbs.org/newshour/show/medicare-advantage-cuts-leave-millions-scrambling-to-find-coverage",
-                "source": "PBS",
-                "date": "2026-10-23T22:30:39Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Trader Joe's wraps named as source of ongoing E. coli outbreak",
-                "desc": "The Department of Agriculture confirmed the link after reporting from USA TODAY.",
-                "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/10/22/USAT/92386882007-20260914-t-173700-z-1462159563-mt-1-usatoday-29820193-rtrmadp-3-traderjoesindaytonabeachsept-32026.JPG?crop=1999,1125,x0,y0&width=1999&height=1125&format=pjpg&auto=webp",
-                "url": "https://www.usatoday.com/story/money/food/2026/10/23/trader-joes-wraps-e-coli-outbreak/92403351007/",
-                "source": "USA Today",
-                "date": "2026-10-23T22:05:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Better Than The Gas X5?",
-                "desc": "For the first time ever, the X5 is going electric. I drove the 2027 iX5 to see if it's compelling enough to get BMW buyers into an EV.",
-                "image": "https://cdn.motor1.com/images/mgl/2N9BrE/s1/bmw-ix5-first-drive.jpg",
-                "url": "https://insideevs.com/reviews/812963/bmw-ix5-electric-x5-first-drive-review-2027/",
-                "source": "InsideEVs",
-                "date": "2026-10-23T22:03:48Z",
-                "priority": "STANDARD"
             }
         ],
         "entertainment": [
+            {
+                "title": "Former Fox News meterologist Janice Dean 'sick' of 'mean girl' Megyn Kelly 'putting people down'",
+                "desc": "Janice Dean slammed former friend Megyn Kelly for mocking Christina Applegate's multiple sclerosis misdiagnosis.",
+                "image": "https://pagesix.com/wp-content/uploads/sites/3/2026/10/146250381.jpg?quality=75&strip=all&w=1200",
+                "url": "https://pagesix.com/2026/10/25/society/former-fox-news-meterologist-janice-dean-sick-of-mean-girl-megyn-kelly-putting-people-down/",
+                "source": "Page Six",
+                "date": "2026-10-25T23:44:16Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'You Can See Everything' Director Talks Billy Evans' Full-Frontal Shot",
+                "desc": "Audiences expected to be taken aback by the doc, but few foresaw seeing a full-frontal shot of Elizabeth Holmes’ partner.",
+                "image": "https://variety.com/wp-content/uploads/2026/10/Screenshot-2026-10-25-at-12.17.42-PM-1000.jpg?w=1000&h=563&crop=1",
+                "url": "https://variety.com/2026/film/news/you-can-see-everything-billy-evans-full-frontal-lance-oppenheim-1236930442/",
+                "source": "Variety",
+                "date": "2026-10-25T22:50:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Actress and Singer Was 96",
+                "desc": "Peggy King, 1950s television and recording star, died at 96 following a battle with Alzheimer’s in Wynnyewood, Pennsylvania.",
+                "image": "https://variety.com/wp-content/uploads/2026/10/Peggy-King-signed-portrait.jpg?w=1000&h=563&crop=1",
+                "url": "https://variety.com/2026/tv/people-news/peggy-king-dead-actress-singer-1236930847/",
+                "source": "Variety",
+                "date": "2026-10-25T22:17:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "5 Cop Shows From The '70s That Still Hold Up Today",
+                "desc": "Some folks believe Dick Wolf invented cop shows in the early '90s. Those people are wrong. Here are some enduring law enforcement favs from about 50 years ago.",
+                "image": "https://www.tvline.com/img/gallery/70s-cop-shows-still-hold-up-today/l-intro-1792896893.jpg",
+                "url": "https://www.tvline.com/2291039/70s-cop-shows-still-hold-up-today/",
+                "source": "TVLine",
+                "date": "2026-10-25T22:12:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ben Affleck And Jennifer Lopez Reportedly Reconnect For ‘Emotional Support’ Amid ‘Challenging Period’ In Their Lives",
+                "desc": "Jennifer Lopez and Ben Affleck are reportedly finding comfort in each other as they navigate difficult periods in their lives […]",
+                "image": "https://s.yimg.com/lo/mysterio/api/732823c82563613d4e1f52e72dc336cb157ac38897554827c3dd20f8c60e085d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2F42796139d36b93478c67464a58fead47.jpg",
+                "url": "https://www.yahoo.com/entertainment/celebrity/articles/ben-affleck-jennifer-lopez-reportedly-211500564.html",
+                "source": "Yahoo",
+                "date": "2026-10-25T21:15:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Sofía Vergara spotted holding hands with newly single Imagine Dragons frontman Dan Reynolds during intimate dinner",
+                "desc": "Sofía Vergara and Imagine Dragons frontman Dan Reynolds sparked romance rumors after being spotted holding hands at Cipriani in Beverly Hills.",
+                "image": "https://pagesix.com/wp-content/uploads/sites/3/2026/10/146468812.jpg?quality=75&strip=all&w=1200",
+                "url": "https://pagesix.com/2026/10/25/celebrity-news/sofia-vergara-spotted-holding-hands-with-newly-single-imagine-dragons-frontman-dan-reynolds-during-intimate-dinner/",
+                "source": "Page Six",
+                "date": "2026-10-25T21:12:04Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Heidi Klum gives sneak peek of monstrous costume ahead of Halloween 2026 party",
+                "desc": "Heidi Klum shared a sneak peek of her slimy Halloween costume on Instagram, teasing a gory look that she hints is \"very bloody.\"",
+                "image": "https://pagesix.com/wp-content/uploads/sites/3/2026/10/146460040.jpg?quality=75&strip=all&w=1200",
+                "url": "https://pagesix.com/2026/10/25/celebrity-news/heidi-klum-gives-sneak-peek-of-monstrous-costume-ahead-of-halloween-2026-party/",
+                "source": "Page Six",
+                "date": "2026-10-25T20:54:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Struggling with brain fog? 60-second trick could help sharpen your mind",
+                "desc": "Brain fog from menopause affects verbal memory and processing speed, not logic. A UCLA neurologist explains why crosswords and Sudoku miss the mark and which word games actually help.",
+                "image": "https://static.foxnews.com/foxnews.com/content/uploads/2025/12/crossword-analog-bag.jpg",
+                "url": "https://www.foxnews.com/health/simple-60-second-brain-trick-sharpen-memory-fight-brain-fog",
+                "source": "Fox News",
+                "date": "2026-10-25T20:13:59Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Emily Osment Requested Intimacy Coordinator, Age Gap",
+                "desc": "Young Sheldon star Emily Osment requested an intimacy coordinator on the CBS series because of the age gap between her and co-star Montana Jordan.",
+                "image": "https://www.hollywoodreporter.com/wp-content/uploads/2024/03/crop2630248_WB_0422bc-copy-1.jpg?w=1296&h=730&crop=1",
+                "url": "https://www.hollywoodreporter.com/tv/tv-news/young-sheldon-emily-osment-requested-intimacy-coordinator-1236739707/",
+                "source": "The Hollywood Reporter",
+                "date": "2026-10-25T20:03:33Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Holland Taylor on Why She Left 'Two and a Half Men' After Six Seasons",
+                "desc": "Holland Taylor spoke out about why she didn’t renew her contract on “Two and a Half Men\" after six years.",
+                "image": "https://variety.com/wp-content/uploads/2026/10/TCDTWAN_EC101.jpg?w=1000&h=563&crop=1",
+                "url": "https://variety.com/2026/tv/news/holland-taylor-left-two-and-a-half-men-1236930648/",
+                "source": "Variety",
+                "date": "2026-10-25T19:55:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "The End Of Nobody Wants This Season 3 Is Beautiful, So I'm Shocked Over How 'Chaotic' It Was To Film",
                 "desc": "There's beauty in the chaos.",
@@ -3704,99 +3794,99 @@
                 "source": "Yahoo Sports",
                 "date": "2026-10-24T16:45:37Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Kate Gosselin says her kids know her amid Collin's abuse allegations",
-                "desc": "Kate Gosselin says \"my kids know who I truly am\" after Collin Gosselin alleged abuse in his memoir and discussed Hannah Gosselin and an upcoming Netflix documentary on \"The View.\"",
-                "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/kate-gossellin-glare.jpg",
-                "url": "https://www.foxnews.com/entertainment/kate-gosselin-says-her-kids-know-who-she-truly-son-collin-levels-abuse-allegations",
-                "source": "Fox News",
-                "date": "2026-10-24T16:40:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Alexander Skarsgård's New Fantasy Movie Wicker Officially Sets Rotten Tomatoes Audience Record",
-                "desc": "After Wicker earned significant media buzz, Alexander Skarsgård's new fantasy movie is now in theaters and has set a Rotten Tomatoes audience record.",
-                "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/10/alexander-skarsgard-as-the-wicker-husband-outside-in-wicker.jpg?w=1600&h=900&fit=crop",
-                "url": "https://screenrant.com/alexander-skarsgard-wicker-movie-rotten-tomatoes-audience-score-record/",
-                "source": "ScreenRant",
-                "date": "2026-10-24T16:13:35Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Turnstile energizes massive crowd and raises thousands for aid at concert near Washington Monument",
-                "desc": "Grammy Award-winning Baltimore band Turnstile hosted a free show near the Washington Monument in D.C. on Saturday. Catch up with The Banner’s live blog for the highlights throughout the day.",
-                "image": "https://www.thebanner.com/resizer/v2/R32TH644UJADDBAVS6JZFRU2WE.JPG?auth=9a19992eed6061eb798f5c29470c6bf8f83fd5f4caa857f1044e8f5a24fd708b&width=1280&height=720&smart=true&quality=85",
-                "url": "https://www.thebanner.com/culture/music/turnstile-free-concert-dc-national-mall-BIUZEDNCE5B2ZCZ3OZ6ZVNQW74/",
-                "source": "The Baltimore Banner",
-                "date": "2026-10-24T16:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Dallas Cowboys Cheerleaders take legal action against My Chemical Romance over onstage costumes",
-                "desc": "The parent company of the Dallas Cowboys Cheerleaders is taking legal action against My Chemical Romance after the band performed alongside dancers in costumes resembling the iconic cheerleading team’s uniforms this week.",
-                "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261024-Dallas-Cowboys-Cheerleaders-ch-0938-50117b.jpg",
-                "url": "https://www.nbcnews.com/news/us-news/dallas-cowboys-cheerleaders-seek-legal-action-chemical-romance-rcna605375",
-                "source": "NBC News",
-                "date": "2026-10-24T15:43:25Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Jeff Garlin considered suicide amid 'The Goldbergs' exit",
-                "desc": "Jeff Garlin revealed he contemplated suicide amid his 2021 exit from \"The Goldbergs,\" but recovered after receiving therapy in Cincinnati.",
-                "image": "https://pagesix.com/wp-content/uploads/sites/3/2026/10/146316429.jpg?quality=75&strip=all&w=1200",
-                "url": "https://pagesix.com/2026/10/24/celebrity-news/jeff-garlin-considered-suicide-amid-the-goldbergs-exit/",
-                "source": "Page Six",
-                "date": "2026-10-24T15:16:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Jenna Bush Hager scolds Al Roker for calling her nickname",
-                "desc": "Jenna Bush Hager hit back at Al Roker after he lobbed a questionable nickname at her on live TV.",
-                "image": "https://pagesix.com/wp-content/uploads/sites/3/2026/10/146242172-1.jpg?quality=75&strip=all&w=1200",
-                "url": "https://pagesix.com/2026/10/24/entertainment/jenna-bush-hager-scolds-al-roker-for-calling-her-nickname/",
-                "source": "Page Six",
-                "date": "2026-10-24T12:18:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Laika has spent 20 years building up to Wildwood",
-                "desc": "Coraline studio Laika has spent 20 years building up stop-motion techniques that led to the studio’s most ambitious film, Wildwood.",
-                "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/09450646-b085-11f1-90b9-46f10a3e57b0_3600.1360.cmp_.def_.out_.002._L.0059.UNAPPROVED.jpg?quality=90&strip=all&crop=9.99072265625%2C0%2C80.0185546875%2C100&w=1200",
-                "url": "https://www.theverge.com/entertainment/1017740/wildwood-stop-motion-interview-laika",
-                "source": "The Verge",
-                "date": "2026-10-24T12:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Dear Abby: Disliked dad's daughter receives no condolences",
-                "desc": "Also: Younger co-worker seems interested in me — but he's a little odd",
-                "image": "https://cst.brightspotcdn.com/dims4/default/1de2662/2147483647/strip/true/crop/948x541+0+44/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2F58%2Fd7%2Fbb582a729d323e1398afcbc89478%2Fdear-abby-12880069-e1420416724734-532.jpg",
-                "url": "https://chicago.suntimes.com/dear-abby/2026/10/24/dearabby-today-dear-abby-disliked-dads-daughter-receives-no-condolences",
-                "source": "Chicago Sun-Times",
-                "date": "2026-10-24T11:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Prince William admits he didn’t want Travis Kelce in his Taylor Swift photo",
-                "desc": "Back in June 2024, Taylor Swift and Travis Kelce went Instagram official in a viral photo with Prince William and two of his children after Swift’s Eras Tour show in London. But according to the Princ...",
-                "image": "https://s.yimg.com/lo/mysterio/api/04ae7fe95420975f84887703c2068f698842e834c369fc6ee189cac0821935ab/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_comeback_288%2Fee60f7d628c6214c8d2ae59db2763616.jpg",
-                "url": "https://www.yahoo.com/entertainment/celebrity/articles/prince-william-admits-didn-t-104034319.html",
-                "source": "Yahoo",
-                "date": "2026-10-24T10:40:34Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Licence to flail: Deepanjana Pal on the outstanding streaming series Slow Horses",
-                "desc": "These aren’t heroes; they’re tired spies who often falter. It takes exceptional writing and a stellar cast to tell such a tale this impeccably, over six seasons",
-                "image": "https://www.hindustantimes.com/ht-img/img/2026/10/24/1600x900/logo/-From-right--River-Cartwright--Jack-Lowden--makes-_1792830061151_I9xP.jpg",
-                "url": "https://www.hindustantimes.com/lifestyle/art-culture/licence-to-flail-deepanjana-pal-on-the-outstanding-streaming-series-slow-horses-101792830067127.html",
-                "source": "Hindustan Times",
-                "date": "2026-10-24T08:21:06Z",
-                "priority": "STANDARD"
             }
         ],
         "sports": [
+            {
+                "title": "Denver Broncos vs. Arizona Cardinals Live Score and Stats",
+                "desc": "Live NFL scores at CBSSports.com. Check out the NFL scoreboard, box scores, expert picks and game recaps.",
+                "image": "https://sportsfly.cbsistatic.com/fly-865/bundles/sportsmediacss/images/fantasy/default-article-image-large.png",
+                "url": "https://www.cbssports.com/nfl/gametracker/recap/NFL_20261025_DEN@ARI/",
+                "source": "CBS Sports",
+                "date": "2026-10-25T23:49:50Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Chiefs vs. Seahawks live updates: Score, analysis and highlights for 'Sunday Night Football'",
+                "desc": "Keep up with all the biggest developments from a marquee matchup on 'SNF'",
+                "image": "https://sportshub.cbsistatic.com/i/r/2026/10/26/7fc2f136-db05-4d50-99f7-20fa6e2f5f7b/thumbnail/1200x675/23bafadcd9ca4fbf735959994174de8d/jsn.jpg",
+                "url": "https://www.cbssports.com/nfl/news/chiefs-vs-seahawks-live-updates-score-highlights/live/",
+                "source": "CBS Sports",
+                "date": "2026-10-25T23:48:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ja’Marr Chase’s passionate halftime speech flipped the Bengals’ day vs. Baltimore Ravens",
+                "desc": "Ja’Marr Chase galvanized the Bengals at halftime to help spur on Cincinnati’s whirlwind comeback against the Ravens.",
+                "image": "https://platform.cincyjungle.com/wp-content/uploads/sites/65/2026/10/reuters-tagreuters.com2026newsml_MT1USATODAY301857951005599538.jpg?quality=90&strip=all&crop=18.763638305664%2C2.9395999885479%2C65.963650512695%2C51.797375456413&w=1200",
+                "url": "https://www.cincyjungle.com/cincinnati-bengals-news/203277/jamarr-chases-halftime-speech-baltimore-ravens",
+                "source": "Cincy Jungle",
+                "date": "2026-10-25T23:47:33Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Lakers vs. Jazz Final Score: Luka scores 52, LA rallies for win",
+                "desc": "A scoring explosion from Luka Dončić saw the Lakers overcome an awful first quarter to win.",
+                "image": "https://platform.silverscreenandroll.com/wp-content/uploads/sites/144/2026/10/reuters-tagreuters.com2026newsml_MT1USATODAY30186874185018693.jpg?quality=90&strip=all&crop=0%2C10.74053273912%2C100%2C78.518934521761&w=1200",
+                "url": "https://www.silverscreenandroll.com/lakers-scores-results/127842/lakers-vs-jazz-recap-box-score-stats-final-austin-reaves-walker-kessler-luka-doncic",
+                "source": "Silver Screen and Roll",
+                "date": "2026-10-25T23:40:47Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "NFL's French national anthem performer Nina Tonji alters words to La Marseillaise, sparking outrage in France",
+                "desc": "La Marseillaise lyrics were altered before the NFL game at the Stade de France, sparking controversy as the singer changed a key immigration-related passage.",
+                "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/nina-tonji-french-national-anthem-fox-news_.jpg",
+                "url": "https://www.foxnews.com/outkick-sports/nfl-french-national-anthem-performer-nina-tonji-alters-words-la-marseillaise-sparking-outrage-france",
+                "source": "Fox News",
+                "date": "2026-10-25T23:36:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Broncos QB Bo Nix's comeback game ruined by Jaylen Waddle injury",
+                "desc": "Initial thoughts from the Broncos’ 30-16 win over Arizona Cardinals in Week 7 at State Farm Stadium.",
+                "image": "https://www.denverpost.com/wp-content/uploads/2026/10/tdp-z-Broncos-Cardinals-Football_268306603.jpg?w=7042&h=4695",
+                "url": "https://www.denverpost.com/2026/10/25/bo-nix-jaylen-waddle-broncos-cardinals-week-7-score/",
+                "source": "The Denver Post",
+                "date": "2026-10-25T23:35:39Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Chiefs-Seahawks Game Thread and Live Updates",
+                "desc": "The Kansas City Chiefs are taking on the Seattle Seahawks on “Sunday Night Football.”",
+                "image": "https://platform.arrowheadpride.com/wp-content/uploads/sites/12/2026/10/gettyimages-2302005559.jpg?quality=90&strip=all&crop=0%2C10.744336422626%2C100%2C78.511327154748&w=1200",
+                "url": "https://www.arrowheadpride.com/kansas-city-chiefs-game-information/214102/chiefs-seahawks-game-thread-live-updates",
+                "source": "Arrowhead Pride",
+                "date": "2026-10-25T23:20:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "J.J. McCarthy's first Giants start shows just how good QB can be",
+                "desc": "J.J. McCarthy's first start with the Giants was a clear triumph for both the QB and New York, which prevailed against Houston in overtime.",
+                "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/10/25/USAT/92434890007-20261025-t-192159-z-177110686-mt-1-usatoday-30185747-rtrmadp-3-nflnewyorkgiantsathoustontexans.JPG?crop=5529,3110,x0,y0&width=3200&height=1800&format=pjpg&auto=webp",
+                "url": "https://www.usatoday.com/story/sports/nfl/giants/2026/10/25/jj-mccarthy-new-york-giants-first-start-texans/92432446007/",
+                "source": "USA Today",
+                "date": "2026-10-25T23:16:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Kimi Antonelli wins U.S. Grand Prix in Texas, putting him on the brink of F1 championship",
+                "desc": "It was a masterful race weekend from the 20-year-old Italian, who is very likely to clinch the 2026 Formula 1 driver’s title next weekend in Mexico City.",
+                "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261025-F1-Grand-Prix0-ww-1359-e8b015.jpg",
+                "url": "https://www.nbcnews.com/sports/formula-1/kimi-antonelli-wins-us-grand-prix-texas-putting-brink-f1-championship-rcna603583",
+                "source": "NBC News",
+                "date": "2026-10-25T23:14:49Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "J.J. McCarthy has message for NFL after impressive Giants debut",
+                "desc": "J.J. McCarthy impressed in his Giants starting debut.",
+                "image": "https://www.nj.com/resizer/v2/MBTYL6MS55H7NFVMFPJDE4JHJI.jpg?auth=89849212650c91cee02fd76797068ae5403baa0ac7859ca8102bdaf2536289ac&width=1280&smart=true",
+                "url": "https://www.nj.com/giants/2026/10/giants-jj-mccarthy-after-impressive-debut-this-is-just-the-beginning.html",
+                "source": "NJ.com",
+                "date": "2026-10-25T22:43:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Tom Brady Dating Candice Swanepoel 4 Years After Gisele Bündchen Divorce",
                 "desc": "Tom Brady is in a relationship with model Candice Swanepoel, four years after his divorce from Gisele Bündchen—with whom he shares kids Benjamin, 16, and Vivian, 13, was finalized.",
@@ -4246,98 +4336,8 @@
                 "source": "CBS Sports",
                 "date": "2026-10-25T00:55:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "After another day of Paris protests, NFL is on track to stage Steelers-Saints at Stade de France",
-                "desc": "At this point, it's too late to turn back for Sunday's game.",
-                "image": "https://nbcsports.brightspotcdn.com/dims4/default/86e3eb3/2147483647/strip/true/crop/1920x1080+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F516%2F987%2Fnbc_pftpm_parisgame_261024.jpg",
-                "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/after-another-day-of-paris-protests-nfl-is-on-track-to-stage-steelers-saints-at-stade-de-france",
-                "source": "NBC Sports",
-                "date": "2026-10-25T00:50:47Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Valkyries even Finals with Game 4 road win, stymie Dream, Angel Reese",
-                "desc": "The Golden State Valkyries changed up their lineup and thwarted Angel Reese and the Dream in a 67-62 win in Atlanta to even the WNBA Finals at two wins apiece.",
-                "image": "https://s.hdnux.com/photos/01/67/56/37/31385549/3/rawImage.jpg",
-                "url": "https://www.sfchronicle.com/sports/article/valkyries-even-finals-game-4-road-win-stymie-22492531.php",
-                "source": "San Francisco Chronicle",
-                "date": "2026-10-24T22:18:35Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "US Grand Prix: Kimi Antonelli takes Austin pole on weekend he can win F1 title",
-                "desc": "Kimi Antonelli secures pole position for the United States Grand Prix on the weekend on which he can potentially clinch his first world title.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/194c/live/7fe6e240-cff9-11f1-b0ff-614e4f91e969.jpg",
-                "url": "https://www.bbc.com/sport/formula1/articles/cqy7lvp7n57lo",
-                "source": "BBC",
-                "date": "2026-10-24T22:15:34Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Oregon Ducks fall to Illinois, CFP hopes all but over",
-                "desc": "Oregon fell to Illinois 21-10, dropping to 4-3 and effectively ending its College Football Playoff hopes, as offensive struggles again doomed the Ducks.",
-                "image": "https://www.oregonlive.com/resizer/v2/4HRUC4HBABBM7JSXSXOPYJJPYY.jpg?auth=440aa0cb27bec7bef9d7ae8e8509c75eee95c1d73e7f4afdeb495b637cc36d20&width=1280&smart=true",
-                "url": "https://www.oregonlive.com/ducks/2026/10/oregons-lost-season-falls-off-a-cliff-with-catastrophic-loss-to-illinois.html",
-                "source": "OregonLive.com",
-                "date": "2026-10-24T22:09:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Islam Makhachev Out for UFC 336 as Carlos Prates vs. Michael Morales Headlines Fight Card",
-                "desc": "Carlos Prates has a new title fight opponent after Islam Makhachev reportedly withdrew from their scheduled fight at UFC 336.",
-                "image": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2026-10/2290665730_large_cropped.jpg?w=1120&h=630",
-                "url": "https://bleacherreport.com/articles/25519773-islam-makhachev-out-ufc-336-carlos-prates-vs-michael-morales-headlines-fight-card",
-                "source": "Bleacher Report",
-                "date": "2026-10-24T22:06:26Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Packers Activate RB Josh Jacobs, DT Jordon Riley",
-                "desc": "As expected, the Packers will have Josh Jacobs available to make his season debut on Sunday.",
-                "image": "https://cdn.profootballrumors.com/files/2026/05/USATSI_27815464-1024x683.jpg",
-                "url": "https://www.profootballrumors.com/2026/10/packers-activate-rb-josh-jacobs-dt-jordon-riley",
-                "source": "ProFootballRumors.com",
-                "date": "2026-10-24T21:58:20Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Brewers fan walks to every home game, including World Series",
-                "desc": "MILWAUKEE -- The past two evenings, Bob Koehler did what he has done every day the Brewers have played at home since 1986.\nHe took a walk.\nOn Friday, before Game 1 of the World Series, MLB Network walked with him.",
-                "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/aokbnx7rt0th5nehiroh.jpg",
-                "url": "https://www.mlb.com/news/brewers-fan-walks-to-every-home-game-including-world-series",
-                "source": "MLB.com",
-                "date": "2026-10-24T21:52:48Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "UFC 333 results, highlights: Alexander Volkanovski smashes Movsar Evloev to retain title",
-                "desc": "Volkanovski continued to prove that age is just a number with his latest title win on Saturday in Abu Dhabi",
-                "image": "https://sportshub.cbsistatic.com/i/r/2026/10/24/0315d866-bfc4-4866-8b63-31bbcbce2fdf/thumbnail/1200x675/38dc2c7286b51a5f9d43d508c06603b9/volkanovski-evloev-action-333.jpg",
-                "url": "https://www.cbssports.com/ufc/news/ufc-333-fight-results-live-updates-alexander-volkanovski-movsar-evloev-match-card/live/",
-                "source": "CBS Sports",
-                "date": "2026-10-24T21:25:41Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Dalton Smith Retains Title As Puello Verdict Divides",
-                "desc": "Dalton Smith left Sheffield with his WBC light welterweight belt, but Alberto Puello had a strong case for taking it home after their disputed split decision",
-                "image": "https://www.boxing247.com/wp-content/uploads/2026/10/Smith-vs-Puello094-1.jpg",
-                "url": "https://www.boxing247.com/boxing-news/dalton-smith-retains-title-as-puello-verdict-divides/310848",
-                "source": "Boxing News 24/7",
-                "date": "2026-10-24T21:24:56Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Bucks wanted two second round picks from Lakers in Jericho Sims trade",
-                "desc": "The Lakers wanted to make a trade for Jericho Sims, but the Bucks’ asking price deterred them.",
-                "image": "https://platform.silverscreenandroll.com/wp-content/uploads/sites/144/2026/10/reuters-tagreuters.com2026newsml_MT1USATODAY30097334449675508.jpg?quality=90&strip=all&crop=0%2C10.728648749889%2C100%2C78.542702500221&w=1200",
-                "url": "https://www.silverscreenandroll.com/lakers-rumors/127827/lakers-trade-rumors-jericho-sims-milwaukee-bucks-dalton-knecht",
-                "source": "Silver Screen and Roll",
-                "date": "2026-10-24T21:24:20Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-10-26T05:41:24.847519Z"
+    "lastGlobalSync": "2026-10-26T11:54:37.742875Z"
 }
