@@ -2,6 +2,96 @@
     "hi": {
         "general": [
             {
+                "title": "AI के लिए Microsoft का बड़ा दांव, 60000 कर्माचारियों को निकालेगा; मर्जी से नौकरी छोड़ने का ऑफर",
+                "desc": "माइक्रोसॉफ्ट ने भारत, अमेरिका, ब्रिटेन और कनाडा में चुनिंदा कर्मचारियों को स्वेच्छा से नौकरी छोड़ने का मौका दिया है। कंपनी का कहना है कि इससे वह अपने कामकाज को बेहतर तरीके से व्यवस्थित कर पाएगी और आर्टिफिशियल इंटेलिजेंस पर ज्यादा निवेश कर सकेगी।, India News in Hindi - Hindustan",
+                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/10/26/1600x900/logo/Microsoft_1751640023293_1751640028617_1793039920088_aQlv_1e17ca26-251c-4256-ac5b-09ec06f9e64b_NMr9.jpeg",
+                "url": "https://www.livehindustan.com/national/microsoft-big-bet-60000-employees-to-be-laid-off-voluntary-resignation-offer-extended-201793039547985.html",
+                "source": "Hindustan",
+                "date": "2026-10-26T18:40:17Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'वो मेरी बेटी की उम्र की', सोनम के साथ 'तिरछी टोपीवाले' गाना करने में असहज थे नसीरुद्दीन शाह, पर खुश थीं हीरोइन",
+                "desc": "डायरेक्टर राजीव राय ने बहुत कम फिल्में बनाई हैं, लेकिन जिनकी सबसे अधिक चर्चा होती है, वे हैं 'गुप्त' और 'त्रिदेव'। 'त्रिदेव' में नसीरुद्दीन शाह ने सोनम के साथ एक रोमांटिक गाने में डांस किया था जो उनकी बेटी की उम्र की थीं।",
+                "image": "https://static.langimg.com/nbt/thumb/135216027/naseeruddin-shah-sonam-song.jpg?imgsize=195694&width=1600&height=900&resizemode=75",
+                "url": "https://navbharattimes.indiatimes.com/entertainment/news-from-bollywood/naseeruddin-shah-was-hesitant-to-perform-song-with-sonam-actor-say-she-is-the-same-age-as-my-daughter/articleshow/135215944.cms",
+                "source": "Navbharat Times",
+                "date": "2026-10-26T17:28:16Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "गुवाहाटी के होटल में गोलीबारी, एक ही परिवार के 4 लोगों समेत पांच की मौत; आरोपी गिरफ्तार",
+                "desc": "गुवाहाटी में एक होटल के पास अज्ञात बदमाशों ने गोलीबारी की, जिसमें एक महिला सहित चार लोगों की मौत हो गई और कई अन्य घायल हो गए। पुलिस ने घटना की जांच शुरू कर दी है, लेकिन हमलावरों की पहचान अभी तक नहीं हो पाई है।",
+                "image": "https://www.jagranimages.com/images/2026/10/26/template/image/Guwahati-firing-incident-1793034900640_v.webp",
+                "url": "https://www.jagran.com/news/national-many-people-including-woman-killed-in-indiscriminate-firing-near-hotel-in-guwahati-40417803.html",
+                "source": "Jagran",
+                "date": "2026-10-26T17:16:00Z",
+                "priority": "CRITICAL_ALERT"
+            },
+            {
+                "title": "चेन्नई सुपर किंग्स ने बदला अपना पूरा कोचिंग स्टाफ, माइकल हसी समेत 5 दिग्गजों को एक साथ किया बाहर",
+                "desc": "आईपीएल 2027 से पहले चेन्नई सुपर किंग्स ने अपने कोचिंग स्टाफ में बड़ा बदलाव किया है, जहीर खान को नया मुख्य कोच बनाया गया है।\nमाइकल हसी और राजीव कुमार समेत पांच प्रमुख कोचों को टीम से बाहर किया गया है, जबकि गैरेथ बैटी असिस्टेंट कोच के रूप में जुड़े हैं।",
+                "image": "https://www.jagranimages.com/images/2026/10/26/template/image/Michael-Hussey--1793034724295_v.webp",
+                "url": "https://www.jagran.com/cricket/headlines-chennai-super-kings-overhaul-coaching-staff-part-ways-with-michael-hussey-and-eric-simons-40417811.html",
+                "source": "Jagran",
+                "date": "2026-10-26T17:15:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "साइक्लोन अर्नब की वजह से आंध्र प्रदेश में स्कूल",
+                "desc": "फिलहाल चक्रवात बंगाल की खाड़ी के पूर्व-मध्य हिस्से में विशाखापत्तनम से लगभग 610 किलोमीटर दूर स्थित है. यह पश्चिम-उत्तर-पश्चिम दिशा में आगे बढ़ रहा है.",
+                "image": "https://ichef.bbci.co.uk/news/1200/branded_hindi/7498/live/b924ae50-d14a-11f1-9eb5-811878e0f07d.jpg",
+                "url": "https://www.bbc.com/hindi/articles/cmrey0zx4rl9o",
+                "source": "BBC",
+                "date": "2026-10-26T17:01:07Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "WPL 2027: ऑक्शन के लिए किस टीम के पास है सबसे ज्यादा पैसा! इन दिग्गजों पर लगेगी करोड़ों की बोली?",
+                "desc": "महिला प्रीमियर लीग के लिए मिनी ऑक्शन का आयोजन बुधवार को किया जाना है. इस ऑक्शन में सभी टीमें अपने स्क्वाड को और मजबूत बनाना चाहेगी. ऐसे में कई खिलाड़ियों को खरीदने के लिए टीमों के बीच जबरदस्त भिड़ंत देखने को मिल सकती है.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202610/6adf4c4bc8458-wpl-2027-auction-264914497-16x9.jpg",
+                "url": "https://www.aajtak.in/sports/cricket/story/wpl-2027-auction-who-has-the-biggest-purse-who-are-the-big-names-know-all-details-aksp-dskc-2680756-2026-10-26",
+                "source": "AajTak",
+                "date": "2026-10-26T16:30:07Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "एसआईआर पर चुनाव आयोग का सुप्रीम कोर्ट में जवाब: 'फ़ैसले ज्ञानेश कुमार ने अकेले नहीं लिए'",
+                "desc": "मुख्य चुनाव आयुक्त ज्ञानेश कुमार पर लगे आरोपों को चुनाव आयोग ने ख़ारिज किया. कहा- एसआईआर से जुड़े सभी फ़ैसले तीनों चुनाव आयुक्तों की सहमति से लिए गए. फ़ॉर्म 6 में बदलाव के आरोप पर भी आयोग ने सफ़ाई दी.",
+                "image": "https://ichef.bbci.co.uk/news/1200/branded_hindi/aee6/live/859ced10-d157-11f1-9f24-99bf1cc18b1d.jpg",
+                "url": "https://www.bbc.com/hindi/articles/cqy43wn3vpr8o",
+                "source": "BBC",
+                "date": "2026-10-26T16:28:51Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "हूतियों के हमलों के बीच सऊदी अरब को मिलिट्री सपोर्ट देगा मिस्र, संसद की हरी झंडी",
+                "desc": "मिस्र की संसद ने राष्ट्रपति अब्देल फतह अल-सिसी को सऊदी अरब की रक्षा के लिए सैन्य कदम उठाने की मंजूरी दे दी है. अब्देल फतह अल-सिसी ने संसद से मिस्र के खाड़ी अरब सहयोगी और दुनिया के सबसे बड़े तेल निर्यातक की रक्षा के लिए मिलिट्री सपोर्ट देने की मंजूरी मांगी थी.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202610/6adf7e8b3ad55-egyptian-president-abdel-fattah-al-sisi-262338116-16x9.jpeg",
+                "url": "https://www.aajtak.in/world/story/egypt-parliament-authorises-sisi-saudi-arabia-defense-houthi-attack-ntc-amkr-dskc-2680873-2026-10-26",
+                "source": "AajTak",
+                "date": "2026-10-26T16:27:49Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "नानी बन चुकी हैं रवीना टंडन, 21 की उम्र बनी थीं दो बेटियों की मां, शादी के लिए पति के सामने रखी थी ये शर्त",
+                "desc": "लेकिन क्या आप जानते हैं कि करियर के पीक रवीना ने दो बेटियों को गोद लिया था. उस वक्त रवीना सिर्फ 21 साल की थीं. उस वक्त उनकी एडोप्टेड बेटी पूजा की उम्र 8 साल थी और दूसरी बेटी छाया 11 साल की थी.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/photo_gallery/202610/6adf771b544da-raveena-tandon-becomes-grandmother-26515488-16x9.jpg",
+                "url": "https://www.aajtak.in/entertainment/bollywood-news/photo/raveena-tandon-becomes-grandmother-adopted-two-daughters-4-kids-mother-husband-reaction-tmovf-2680867-2026-10-26",
+                "source": "AajTak",
+                "date": "2026-10-26T16:20:05Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "ऑस्ट्रेलिया WTC में नंबर-1 का ताज खोने की कगार पर, साउथ अफ्रीका की जीत कर सकती है भारत का बेड़ापार",
+                "desc": "मंगलवार, 27 अक्टूबर से साउथ अफ्रीका और ऑस्ट्रेलिया के बीच तीन टेस्ट मैचों की सीरीज का आखिरी और निर्णायक मुकाबला शुरू होगा। यह मैच ऑस्ट्रेलिया को WTC के शीर्ष से अपदस्थ कर सकता है। अगर साउथ अफ्रीका मुकाबला जीतती है तो न्यूजीलैंड नंबर वन हो जाएगी और भारत के लिए भी रास्ते खुलेंगे।, Analysis Hindi News - Hindustan",
+                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/10/26/1600x900/logo/WTC_points_table_1793028571836_boiR_1793028579646_kyDe_ae8fca61-04da-4861-b016-19ae1ef2571b_6NEg.jpg",
+                "url": "https://www.livehindustan.com/cricket/analysis/australia-is-set-to-lose-its-number-1-crown-a-south-african-victory-could-pave-way-for-india-s-success-in-wtc-201793027964066.html",
+                "source": "Hindustan",
+                "date": "2026-10-26T15:34:40Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "सेलेक्टर्स ने किया न्यूजीलैंड दौरे से बाहर, अब रणजी ट्रॉफी में इस खिलाड़ी ने 10 में से 7 बल्लेबाजों को किया आउट, बल्ले से भी उगलता है आग",
                 "desc": "न्यूजीलैंड के खिलाफ टेस्ट सीरीज से बाहर होने के बाद मध्य प्रदेश के स्पिनर सारांश जैन ने बेहतरीन प्रदर्शन करते हुए रणजी ट्रॉफी में बिहार के खिलाफ 40 रन देकर 7 विकेट लिए।",
                 "image": "https://static.langimg.com/nbt/thumb/135213230/saransh-jain-3.jpg?imgsize=200978&width=1600&height=900&resizemode=75",
@@ -450,99 +540,81 @@
                 "source": "AajTak",
                 "date": "2026-10-25T12:29:25Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "'मुझसे शादी करोगी, अमीर हूं', 53 साल की मलाइका अरोड़ा से बोले मीका सिंह, भरी महफिल में किया प्रपोज!",
-                "desc": "बॉलीवुड डीवा मलाइका अरोड़ा और सिंगर मीका सिंह ने हाल ही में एक अवॉर्ड शो में स्टेज शेयर किया, जहां मीका ने मलाइका को मजाकिया अंदाज में शादी के लिए प्रपोज किया. मलाइका ने हंसते हुए उनकी बातों का जवाब दिया और दोनों के बीच की मस्ती ने फैन्स का दिल जीत लिया.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202610/6adde63c8b1f2-mika-singh-malaika-arora-252131470-16x9.jpg",
-                "url": "https://www.aajtak.in/entertainment/bollywood-news/story/mika-singh-propose-flirt-malaika-arora-for-marriage-flaunt-richness-video-fans-reacts-tmovb-dskc-2679833-2026-10-25",
-                "source": "AajTak",
-                "date": "2026-10-25T12:26:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "सऊदी अरब पर 10 मिसाइलों से हमला, भारत ने दी चेतावनी, हूतियों ने मक्का",
-                "desc": "Saudi Arabia: सऊदी अरब ने दावा किया कि उसके एयर डिफेंस सिस्टम ने दक्षिणी क्षेत्र की ओर दागी गई 10 बैलिस्टिक मिसाइलों को रोक दिया. रियाद की ओर दागी गई एक मिसाइल और दो ड्रोन को भी इंटरसेप्ट करने की जानकारी दी गई. इस बीच हूती विद्रोहियों ने मक्का और मदीना को निशाना बनाने के आरोपों को खारिज किया. क्षेत्र में तनाव के बीच भारत ने सऊदी अरब में रह रहे अपने नागरिकों को चेतावनी जारी की है.",
-                "image": "https://images.news18.com/ibnkhabar/uploads/2026/10/saudi-arabia-news-2-2026-10-1a80cb80fdfbaaeb6830e43c306afebc-1200x675.jpg",
-                "url": "https://hindi.news18.com/world/middle-east-saudi-arabia-10-missile-attack-on-houthi-rebel-mecca-medina-10935934.html",
-                "source": "News18 Hindi",
-                "date": "2026-10-25T12:17:19Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "खरगे के कार्यक्रम में हुआ हंगामा तो भड़के, बोले- मोदी का बाप भी जाएगा; देखें VIDEO",
-                "desc": "कांग्रेस अध्यक्ष मल्लिकार्जुन खरगे की बिहार में आयोजित एक सभा के दौरान हंगामा हो गया। एक शख्स को जवाब देते हुए कांग्रेस अध्यक्ष ने कहा कि मोदी का बाप भी जाएगा।, India News in Hindi - Hindustan",
-                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/10/25/1600x900/logo/AICC-Congress-68_1768446479152_1768446486594_1792929692637_fybl_2190f62b-8d65-4fbe-9d33-ae4487f82cb9_Iv5j.jpg",
-                "url": "https://www.livehindustan.com/national/uproar-at-congress-mallikarjun-kharge-event-bihar-said-modi-ka-baap-bhi-jayega-201792929427918.html",
-                "source": "Hindustan",
-                "date": "2026-10-25T12:02:51Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "10 साल छोटी हसीना संग शादी से पहले टूटा रिश्ता, 40 के एक्टर ने ब्रेकअप पर तोड़ी चुप्पी, क्रिकेटर को डेट कर रही EX?",
-                "desc": "बिग बॉस में नजर आ रहीं उदिति सिंह एक समय पर टीवी एक्टर करण वाही संग रिश्ते में थीं. लेकिन शादी से पहले ही उनका ब्रेकअप हो गया था. उदिति ने 10 साल के उम्र के फासले को ब्रेकअप की वजह बताया. वहीं, अब करण ने उदिति संग अपने रिश्ते पर पहली बार रिएक्ट किया है.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202610/6adcae6075f3f-karan-wahi--uditi-singh-241055181-16x9.jpg",
-                "url": "https://www.aajtak.in/entertainment/television/story/karan-wahi-clarifies-breakup-with-uditi-singh-failed-marriage-plan-10-years-age-gap-dating-cricketer-tmovf-dskc-2679230-2026-10-25",
-                "source": "AajTak",
-                "date": "2026-10-25T12:00:36Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "पूर्व CJI चंद्रचूड़ ने मुझे PMLA केस में बीच का रास्ता अपनाने को कहा था: SC के पूर्व जज संजय कौल",
-                "desc": "जस्टिस कौल ने बताया कि PMLA केस में पूर्व CJI चंद्रचूड़ ने उन्हें मामले को आगे न बढ़ाने के लिए मनाने की कोशिश की और सुझाव दिया कि अगर वह आगे बढ़ने का फैसला करते हैं तो सावधानी बरतनी चाहिए और बीच का रास्ता निकालना चाहिए।, India News in Hindi - Hindustan",
-                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/10/25/1600x900/logo/CJI_Chandrachud_Sanjay_Kaul_1792928868700_jPoy_1792928872123_raZr_6ed7dba1-c52b-498c-b083-0013ad57eba1_rDuw.jpg",
-                "url": "https://www.livehindustan.com/national/former-cji-chandrachud-had-asked-me-to-take-a-middle-path-in-the-pmla-case-says-former-sc-judge-sanjay-kaul-201792928513575.html",
-                "source": "Hindustan",
-                "date": "2026-10-25T11:49:31Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'शादी नहीं की तो जान दे दूंगी', प्रेमी को धमकी देने के दो घंटे बाद IT प्रोफेशनल की रहस्यमयी मौत",
-                "desc": "हैदराबाद में एक आईटी प्रोफेशनल महिला अपने घर में मृत पाई गई, जिसने शादी न करने पर अपने प्रेमी को जान देने की धमकी दी थी। पुलिस ने संदिग्ध मौत का मामला दर्ज कर जांच शुरू कर दी है, जिसमें प्रेमी से हुई बातचीत की भी पड़ताल की जाएगी।",
-                "image": "https://www.jagranimages.com/images/2026/10/25/template/image/Hyderabad-Techie-suicide-(3)-1792928212500_v.webp",
-                "url": "https://www.jagran.com/news/national-hyderabad-it-professional-after-after-threatening-boyfriend-on-video-call-to-marry-late-night-40416298.html",
-                "source": "Jagran",
-                "date": "2026-10-25T11:37:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "VIDEO: जेल के अंदर अभिषेक पोरेल के साथ क्या-क्या हुआ? छलका दर्द, सौरव गांगुली को लेकर किया बड़ा खुलासा",
-                "desc": "अभिषेक पोरेल इन दिनों घरेलू टूर्नामेंट में बल्ले से धमाकेदार प्रदर्शन कर रहे हैं. जेल से बाहर आने के बाद उन्होंने शानदार शतक जड़ा. हालांकि, इस शतक को लगाने के बाद वह मैदान पर ही फूट-फूटकर रोने लगे. जिसका वीडियो फैन्स के बीच वायरल भी हुआ था.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202610/6adda6324afd2-abhishek-porel-254817177-16x9.jpg",
-                "url": "https://www.aajtak.in/sports/cricket/story/abhishek-porel-on-darkest-phase-of-his-career-said-about-delhi-capitals-and-sourav-ganguly-aksp-dskc-2679615-2026-10-25",
-                "source": "AajTak",
-                "date": "2026-10-25T11:36:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'कन्नड़ उम्मीदवारों को नजरअंदाज न करें, वरना...', बेंगलुरु की IT कंपनियों को CM डीके शिवकुमार की चेतावनी",
-                "desc": "कर्नाटक के मुख्यमंत्री डीके शिवकुमार ने बेंगलुरु की आईटी कंपनियों को कन्नड़ भाषियों को नौकरी में नजरअंदाज करने पर सख्त कार्रवाई की चेतावनी दी है।",
-                "image": "https://www.jagranimages.com/images/2026/10/25/template/image/DK-SHIV-KUMAR-1792927632221_v.webp",
-                "url": "https://www.jagran.com/news/national-dk-shivakumar-warning-to-bengaluru-it-companies-overlook-kannada-candidates-40416300.html",
-                "source": "Jagran",
-                "date": "2026-10-25T11:31:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "FPI का कोहराम, 2026 में निकाले रिकॉर्ड 3.08 लाख करोड़, महा-बिकवाली के पीछे ये हैं सबसे बड़े फैक्‍टर",
-                "desc": "FPI Selling Spree: विदेशी पोर्टफोलियो निवेशकों (FPI) ने कोहराम मचा दिया है। इस साल अब तक वे रिकॉर्ड 3.08 लाख करोड़ के शेयर बेच चुके हैं। अक्टूबर में ही अब तक FPI ने 48,000 करोड़ से ज्‍यादा के शेयर बेचे हैं। इस महा-बिकवाली के पीछे कई फैक्‍टर हैं। इनमें कच्‍चे तेल की ऊंची कीमतें शामिल हैं।",
-                "image": "https://static.langimg.com/nbt/thumb/135189116/fpi-selling.jpg?imgsize=159774&width=1600&height=900&resizemode=75",
-                "url": "https://navbharattimes.indiatimes.com/business/share-market/share-news/foreign-investors-withdraw-rs-3-08-lakh-cr-in-2026-rs-48056-cr-in-oct-as-market-selling-continues/articleshow/135189096.cms",
-                "source": "Navbharat Times",
-                "date": "2026-10-25T10:54:58Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "अरुणाचल में सियांग डैम पर भारी बवाल, नवी मुंबई से RAF के 250 जवानों को तुरंत एयरलिफ्ट की तैयारी में केंद्र",
-                "desc": "Siang Dam Protest: अरुणाचल प्रदेश में 11,200 मेगावाट के सियांग डैम प्रोजेक्ट के विरोध ने हिंसक रूप ले लिया है. पासीघाट में NHPC ऑफिस में आगजनी, पुलिस थाने और वाहनों पर हमले और कई नेताओं के आवासों को निशाना बनाए जाने की खबरों के बाद केंद्र ने सुरक्षा बढ़ाने की तैयारी की है. खबर है कि RAF की दो कंपनियों के करीब 250 जवानों को महाराष्ट्र के नवी मुंबई एयरपोर्ट से भारतीय वायुसेना के विमानों के जरिए पासीघाट पहुंचाने का अनुरोध किया गया है.",
-                "image": "https://images.news18.com/ibnkhabar/uploads/2026/10/RAF-2026-10-328d8d220ee136ef8b8f3f5d1c0a6e1d-1200x675.jpg",
-                "url": "https://hindi.news18.com/news/nation/siang-dam-protest-in-arunachal-turned-violent-centre-immediately-airlifts-250-raf-jawans-to-pasighat-10935780.html",
-                "source": "News18 Hindi",
-                "date": "2026-10-25T10:35:26Z",
-                "priority": "STANDARD"
             }
         ],
         "business": [
+            {
+                "title": "AI के लिए Microsoft का बड़ा दांव, 60000 कर्माचारियों को निकालेगा; मर्जी से नौकरी छोड़ने का ऑफर",
+                "desc": "माइक्रोसॉफ्ट ने भारत, अमेरिका, ब्रिटेन और कनाडा में चुनिंदा कर्मचारियों को स्वेच्छा से नौकरी छोड़ने का मौका दिया है। कंपनी का कहना है कि इससे वह अपने कामकाज को बेहतर तरीके से व्यवस्थित कर पाएगी और आर्टिफिशियल इंटेलिजेंस पर ज्यादा निवेश कर सकेगी।, India News in Hindi - Hindustan",
+                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/10/26/1600x900/logo/Microsoft_1751640023293_1751640028617_1793039920088_aQlv_1e17ca26-251c-4256-ac5b-09ec06f9e64b_NMr9.jpeg",
+                "url": "https://www.livehindustan.com/national/microsoft-big-bet-60000-employees-to-be-laid-off-voluntary-resignation-offer-extended-201793039547985.html",
+                "source": "Hindustan",
+                "date": "2026-10-26T18:40:17Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "माइक्रोसॉफ्ट के 60 हजार कर्मचारियों की जाएगी नौकरी? कंपनी ने की पेशकश, AI में भारी निवेश का टारगेट",
+                "desc": "माइक्रोसॉफ्ट लगभग 60,000 कर्मचारियों को स्वैच्छिक रूप से नौकरी छोड़ने का प्रस्ताव दे रही है, जिसमें एआई, वित्त और मानव संसाधन जैसे प्रमुख विभाग शामिल हैं।\nयह इस साल कंपनी का दूसरा ऐसा ऑफर है, जिसका उद्देश्य कर्मचारियों को लचीलापन प्रदान करना और एआई में निवेश के लक्ष्यों को पूरा करना है।",
+                "image": "https://www.jagranimages.com/images/2026/10/26/template/image/Jagran-Photo---2026-10-26T232855.089-1793037568394_v.webp",
+                "url": "https://www.jagran.com/news/national-microsoft-offers-exit-packages-to-60000-staff-as-company-pours-money-into-ai-40417854.html",
+                "source": "Jagran",
+                "date": "2026-10-26T18:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "क्या सोना इतना सस्ता हो गया है कि आम ग्राहकों के लिए खरीदना आसान, ये नया ट्रेंड बना प्रॉब्लम का सॉल्‍यूशन",
+                "desc": "Digital Gold Purchases: हाल के दिनों में गिरावट के बावजूद सोना अब भी 1.5 लाख रुपये प्रति 10 ग्राम के आसपास है। यही कारण है कि आम ग्राहकों की पहुंच से यह अभी भी दूर है। सोने के ऊंचे दामों के बीच देश में डिजिटल गोल्‍ड का क्रेज बढ़ा है। सितंबर में डिजिटल गोल्‍ड खरीद का आंकड़ा करीब 1.7 टन रहा।",
+                "image": "https://static.langimg.com/nbt/thumb/135216123/digital-gold-purchases.jpg?imgsize=151235&width=1600&height=900&resizemode=75",
+                "url": "https://navbharattimes.indiatimes.com/business/commodity/gold-still-not-affordable-for-average-customers-new-digital-trend-emerged-solution/articleshow/135215932.cms",
+                "source": "Navbharat Times",
+                "date": "2026-10-26T17:06:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "12,825% बढ़ गया कंपनी का मुनाफा, 5% चढ़ गया शेयर, ब्रोकरेज ने दिया ₹1610 का टारगेट",
+                "desc": "कंपनी का मुनाफा एक साल में 4 करोड़ रुपये से बढ़कर 517 करोड़ रुपये पर पहुंच गया। यानी इस दौरान कंपनी का मुनाफा 12,825% बढ़ा है। बता दें कि AI डेटा सेंटर और ऑप्टिकल फाइबर केबल की बढ़ती मांग से कंपनी के कारोबार को फायदा मिला है। , Business Hindi News - Hindustan",
+                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/10/26/1600x900/logo/Investor_1771399594932_1771399631168_1793032649308_fYDj_a9c811b4-f39d-4da2-8ff8-b1f416d67047_WLbG.jpg",
+                "url": "https://www.livehindustan.com/business/sterlite-technologies-share-price-surges-5-percent-after-12825-percent-jump-profit-201793032507974.html",
+                "source": "Hindustan",
+                "date": "2026-10-26T16:42:36Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Hyundai Bayon CNG जनवरी 2027 में होगी लॉन्च: 1.5 लीटर इंजन और अंडरबॉडी टैंक के साथ बंपर माइलेज और AI फीचर्स",
+                "desc": "हुंडई बेयोन सीएनजी (Hyundai Bayon CNG) में पेट्रोल मॉडल वाला ही 1.5-लीटर 4-सिलिंडर नैचुरली एस्पिरेटेड इंजन दिया जाएगा, लेकिन सीएनजी मोड में इसका पावर और टॉर्क आउटपुट थोड़ा कम पेट्रोल वेरिएंट की 115 एचपी और 144 न्यूटन मीटर होगा। मारुति विक्टोरिस सीएनजी की तर्ज पर हुंडई बेयोन सीएनजी में भी अंडरबॉडी सीएनजी टैंक तकनीक दी जा सकती है, जिससे बूट स्पेस का पूरा इस्तेमाल पेट्रोल मॉडल की तरह ही किया जा सकेगा। इसमें 6-स्पीड मैनुअल गियरबॉक्स मिलने की उम्मीद है। इसकी कीमतें पेट्रोल मॉडल की शुरुआती 10 लाख रुपये एक्स-शोरूम कीमत से थोड़ी ज्यादा रखी जाएंगी।",
+                "image": "https://static.langimg.com/nbt/thumb/135215126/hyundai-bayon-cng-india-launch-confirmed-for-january-2027-underbody-tank-1500cc-engine-loaded-features.jpg?imgsize=2019318&width=1600&height=900&resizemode=75",
+                "url": "https://navbharattimes.indiatimes.com/auto/car-bikes/hyundai-bayon-cng-india-launch-confirmed-for-january-2027-underbody-tank-1500cc-engine-loaded-features/articleshow/135215126.cms",
+                "source": "Navbharat Times",
+                "date": "2026-10-26T15:59:37Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "₹50,104 में मिल रहा iPhone 17! Flipkart पर कीमत घटी, पुराना फोन देने पर होगी बड़ी बचत",
+                "desc": "iPhone 17 Offer: ई-कॉमर्स वेबसाइट पर iPhone 17 पर बंपर डील मिल रही है. हालांकि कंपनी ने ये ऑफिशियल नहीं किया है, लेकिन ये डील एक्स्चेंज ऑफर बेस्ड है.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202610/6adf69bcddc07-apple-iphone-17-233925556-16x9.jpg",
+                "url": "https://www.aajtak.in/technology/tech-news/story/iphone-17-flipkart-price-cut-exchange-offer-ttecm-dskc-2680820-2026-10-26",
+                "source": "AajTak",
+                "date": "2026-10-26T15:10:34Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "एंथ्रोपिक ने IPO के लिए दाखिल किए दस्तावेज, 'ANT' नाम से बाजार में उतरने की तैयारी",
+                "desc": "दिग्गज आर्टिफिशियल इंटेलिजेंस (AI) कंपनी एंथ्रोपिक ने IPO के लिए दस्तावेज दाखिल किया है। कंपनी अमेरिकी शेयर बाजार नैस्डैक में 'ANT' नाम से लिस्ट होना चाहती है। इस लिस्टिंग के जरिए कंपनी शेयर बाजार से जुड़ने और निवेशकों तक पहुंच बनाने की तैयारी कर रही है। एंथ्रोपिक के इस कदम पर निवेशकों की नजर रहेगी। एंथ्रोपिक, AI मॉडल क्लॉड को बनाने वाली कंपनी है और उसकी लिस्टिंग को तकनीकी क्षेत्र के लिए अहम माना जा रहा है।",
+                "image": "https://i.cdn.newsbytesapp.com/hn/images/l29820261026191318.jpeg",
+                "url": "https://hindi.newsbytesapp.com/news/business/anthropic-files-documents-for-ipo-prepares-to-enter-the-market-under-the-name-ant/story",
+                "source": "NewsBytes",
+                "date": "2026-10-26T14:45:30Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "समझिए मिल गया जियो का IPO, अगर आ जाए 13428 रुपये से जुड़ा ये मैसेज",
+                "desc": "Jio IPO Allotment Status: अगर आपको बैंक द्वारा 13,428 रुपये डेबिट के मैसेज आ जाए, तो समझिए आपको आईपीओ में शेयर अलॉट हो गए. नहीं मिलने वालों को अमाउंट अनब्लॉक्ड के मैसेज आ जाएंगे.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202610/6adf5aa24a6a3-jio-ipo-allotment-status-26502220-16x9.png",
+                "url": "https://www.aajtak.in/business/utility/story/jio-ipo-allotment-out-status-check-retail-investors-message-details-tuta-dskc-2680792-2026-10-26",
+                "source": "AajTak",
+                "date": "2026-10-26T13:59:12Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "देखते ही बना लेंगे खरीदने का मन! धांसू Kawasaki बाइक लॉन्च",
                 "desc": "Kawasaki Z300 का लुक और डिजाइन अपने बड़े मॉडल यानी Z900 से इंस्पायर्ड है. इसका इंजन भी ज्यादा पावरफुल है.",
@@ -1010,81 +1082,81 @@
                 "source": "Navbharat Times",
                 "date": "2026-10-25T04:20:28Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Hilux भी लगेगा फीका! आ रहा है ऑफरोडिंग किंग Gladiator",
-                "desc": "Jeep Gladiator साइज के मामले में अपने कम्पटीटर Toyota Hilux से बड़ी है. इसमें 3.6-लीटर V6 पेट्रोल इंजन मिलता है.",
-                "image": "https://cf-img-a-in.tosshub.com/sites/visualstory/wp/2026/10/Jeep-Gladiator-India-launchITG-1792477927038.jpg?size=*:675",
-                "url": "https://www.aajtak.in/visualstories/auto/jeep-gladiator-india-launch-price-rival-toyota-hilux-auaw-286814-25-10-2026",
-                "source": "AajTak",
-                "date": "2026-10-25T04:16:48Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Jio का ₹219 वाला प्लान, 30GB डेटा के साथ मिलेंगे ये फायदे!",
-                "desc": "जियो के ₹219 वाले रिचार्ज प्लान में 30GB डेटा और 30 दिन की वैलिडिटी मिलती है. जानें इस प्लान की कीमत, डेटा बेनिफिट्स और क्यों यह एक्स्ट्रा इंटरनेट इस्तेमाल करने वालों के लिए काम का हो सकता है.",
-                "image": "https://cf-img-a-in.tosshub.com/sites/visualstory/wp/2026/09/Jio-Recharge-Plan-3ITG-1789726761660.jpeg?size=*:675",
-                "url": "https://www.aajtak.in/visualstories/technology/jio-219-recharge-plan-30gb-data-30-days-validity-prym-286831-25-10-2026",
-                "source": "AajTak",
-                "date": "2026-10-25T03:36:24Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "देश में सबसे महंगी बिजली बना रहा राजस्थान का धौलपुर प्लांट, एक यूनिट की लागत 46 रुपये पार, क्यों हुआ ऐसा?",
-                "desc": "Electricity Supply Crisis: राजस्थान के धौलपुर गैस पावर प्लांट में बिजली उत्पादन की लागत अक्टूबर में 46.09 रुपये प्रति यूनिट पहुंच गई। मांग पूरी करने के लिए महंगी बिजली का सहारा लेना पड़ रहा है, जबकि खर्च की वसूली भी चुनौती बनी हुई है।",
-                "image": "https://static.langimg.com/nbt/thumb/135182602/dholpur-gas-plant-electricity-cost.jpg?imgsize=321793&width=1600&height=900&resizemode=75",
-                "url": "https://navbharattimes.indiatimes.com/business/business-news/rajasthan-tamil-nadu-power-crisis-dholpur-gas-plant-costliest-electricity-rs-46-per-unit/articleshow/135182563.cms",
-                "source": "Navbharat Times",
-                "date": "2026-10-25T03:35:51Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Jio का 84 दिन वाला प्लान: डेली 3GB हाई-स्पीड डेटा और अनलिमिटेड कॉलिंग के साथ Netflix भी",
-                "desc": "Jio ने ₹1799 का प्रीपेड प्लान लॉन्च किया है जिसमें 84 दिनों की वैलिडिटी मिलती है।\nइस प्लान में डेली 3GB डेटा, अनलिमिटेड कॉलिंग और Netflix, Google Gemini Pro जैसे कई OTT सब्सक्रिप्शन शामिल हैं।",
-                "image": "https://www.jagranimages.com/images/2026/10/25/template/image/jio-5g-recharge-plan-1792898392461_v.webp",
-                "url": "https://www.jagran.com/technology/tech-news-jio-84-day-plan-3gb-daily-high-speed-data-and-unlimited-calling-netflix-plus-jiohotstar-40415820.html",
-                "source": "Jagran",
-                "date": "2026-10-25T03:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Post Office की गजब स्कीम, सिर्फ एक बार निवेश... फिर ब्याज से ही 246000 रुपये की कमाई",
-                "desc": "Post Office Best Scheme: पोस्ट ऑफिस द्वारा संचालित की जाने वालीं सरकारी स्कीम्स में निवेश डूबने का खतरा नहीं होता है और ये पूरी तरह Risk Free Investment माना जाता है. इसमें किए गए निवेश पर सुरक्षा की गारंटी खुद सरकार देती है.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202610/6add743b2c9e8-post-office-best-scheme-271625975-16x9.jpg",
-                "url": "https://www.aajtak.in/business/utility/story/post-office-best-scheme-senior-citizens-saving-css-invest-one-time-get-rs-246000-yearly-by-interest-tutc-dskc-2679416-2026-10-25",
-                "source": "AajTak",
-                "date": "2026-10-25T03:17:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "विदेशी कंपनी की भारत में चमकी किस्मत... 392.8% बढ़ी सितंबर में बिक्री",
-                "desc": "विनफास्ट को भारत में अपना पोर्टफोलियो एक्सपैंड करने का फायदा मिल रहा है. कंपनी ने इस सितंबर ईयर-ऑन-ईयर 392.8 परसेंट की ग्रोथ हासिल की है. कंपनी जल्द ही भारतीय टू-व्हीलर मार्केट में भी एंट्री करने वाली है. इसके लिए हाल में ही विनफास्ट ने कई डीलर्स के साथ समझौता भी किया है. आइए इसके फोर-व्हीलर पोर्टफोलियो की ग्रोथ को डिकोड करते हैं.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202610/6adcb7e37034e-vinfast-vf7-245130150-16x9.jpg",
-                "url": "https://www.aajtak.in/auto/news/story/vinfast-sales-september-2026-limo-green-leads-sales-details-auam-dskc-2679245-2026-10-25",
-                "source": "AajTak",
-                "date": "2026-10-25T02:42:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "लॉन्च होते ही मार्केट में छा गई MG Hector Tomahawk, सितंबर में बिकी 1933 यूनिट्स, देखें बाकी मॉडल्स की बिक्री",
-                "desc": "सितंबर महीने में एमजी कंपनी ने कुल 8,018 गाड़ियों की बिक्री दर्ज की, जो कि पिछली साल सितंबर महीने में बिकने वाली 6,728 यूनिट्स के मुकाबले 19% की वृद्धि को दर्शाता है। अगस्त में लॉन्च हुई कंपनी की टोमाहॉक कार की 1,933 यूनिट्स की बिक्री दर्ज की गई।",
-                "image": "https://static.langimg.com/nbt/thumb/135121854/mg-hector-tomahawk.jpg?imgsize=172198&width=1600&height=900&resizemode=75",
-                "url": "https://navbharattimes.indiatimes.com/auto/car-bikes/mg-hector-tomahawk-sales-record-1933-units-in-september-2026-see-other-models-sale/articleshow/135121684.cms",
-                "source": "Navbharat Times",
-                "date": "2026-10-25T02:41:39Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "JIO IPO ने बनाए 12 अनोखे रिकॉर्ड, 1.38 करोड़ से ज्‍यादा आवेदन, ₹7.4 लाख करोड़ की बोली",
-                "desc": "जियो के आईपीओ ने पूरे 12 अनोखे रिकॉर्ड बना दिया है. 30213 करोड़ रुपये की साइज के लिए इस आईपीओ को ₹7.4 लाख करोड़ की बोली मिली है. इसके साथ ही इसे 1.38 करोड़ से ज्‍यादा के आवेदन प्राप्‍त हुए हैं.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202610/6adcd20cc7b19-jio-ipo-244307804-16x9.jpg",
-                "url": "https://www.aajtak.in/business/news/story/jio-platform-india-biggest-ipo-create-12-record-after-subscription-tutd-dskc-2679279-2026-10-24",
-                "source": "AajTak",
-                "date": "2026-10-24T15:46:17Z",
-                "priority": "STANDARD"
             }
         ],
         "entertainment": [
+            {
+                "title": "'वो मेरी बेटी की उम्र की', सोनम के साथ 'तिरछी टोपीवाले' गाना करने में असहज थे नसीरुद्दीन शाह, पर खुश थीं हीरोइन",
+                "desc": "डायरेक्टर राजीव राय ने बहुत कम फिल्में बनाई हैं, लेकिन जिनकी सबसे अधिक चर्चा होती है, वे हैं 'गुप्त' और 'त्रिदेव'। 'त्रिदेव' में नसीरुद्दीन शाह ने सोनम के साथ एक रोमांटिक गाने में डांस किया था जो उनकी बेटी की उम्र की थीं।",
+                "image": "https://static.langimg.com/nbt/thumb/135216027/naseeruddin-shah-sonam-song.jpg?imgsize=195694&width=1600&height=900&resizemode=75",
+                "url": "https://navbharattimes.indiatimes.com/entertainment/news-from-bollywood/naseeruddin-shah-was-hesitant-to-perform-song-with-sonam-actor-say-she-is-the-same-age-as-my-daughter/articleshow/135215944.cms",
+                "source": "Navbharat Times",
+                "date": "2026-10-26T17:28:16Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Motivational Quotes By Yami Gautam: 'अच्छा करने वालों का अंत, कभी बुरा नहीं होता'",
+                "desc": "Yami Gautam Inspirational: 37 साल की हो रही यामी गौतम भी किसी फिल्मी बैकग्राउंड से नहीं आती थी। करियर के शुरुआती दौर में यामी ने भी रिजेक्शन और फेलियर्स देखें। मगर उनकी मेहनत जारी रही। जिसके चलते मौका मिलने पर टैलेंट के दम पर उन्होंने अपना नाम बना ही लिया। उनका थॉट प्रोसेस कई लोगों के लिए मोटिवेशन से कम नहीं है।",
+                "image": "https://static.langimg.com/nbt/thumb/135212261/indian-actress-and-national-awardee-yami-gautam-dhar-motivational-and-inspirational-quotes-for-genz.jpg?imgsize=1537772&width=1600&height=900&resizemode=75",
+                "url": "https://navbharattimes.indiatimes.com/viral/wishes/motivational-quotes/indian-actress-and-national-awardee-yami-gautam-dhar-motivational-and-inspirational-quotes-for-genz/articleshow/135212261.cms",
+                "source": "Navbharat Times",
+                "date": "2026-10-26T17:10:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "India Idol Singers Fights: इंडियन आइडल में लड़े सिंगर्स, लेजेंड्स का जूनियर्स ने किया अपमान! गुस्साए अभिजीत सावंत",
+                "desc": "इंडियन आइडल लेजेंड्स रिटर्न्स में सिंगर्स के बीच तीखी बहस और विवाद देखने को मिला है. ऋषि सिंह ने सलमान अली और मोहम्मद दानिश की गायिकी पर सवाल उठाए, जिससे अभिजीत सावंत भड़क गए.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202610/6adf85ab23dea-indian-idol-singers-fight-265402230-16x9.jpg",
+                "url": "https://www.aajtak.in/entertainment/television/story/india-idol-legends-return-controversy-singers-clash-abhijeet-sawant-rishi-singh-fights-internet-troll-makers-tmovh-dskc-2680877-2026-10-26",
+                "source": "AajTak",
+                "date": "2026-10-26T17:00:08Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "नानी बन चुकी हैं रवीना टंडन, 21 की उम्र बनी थीं दो बेटियों की मां, शादी के लिए पति के सामने रखी थी ये शर्त",
+                "desc": "लेकिन क्या आप जानते हैं कि करियर के पीक रवीना ने दो बेटियों को गोद लिया था. उस वक्त रवीना सिर्फ 21 साल की थीं. उस वक्त उनकी एडोप्टेड बेटी पूजा की उम्र 8 साल थी और दूसरी बेटी छाया 11 साल की थी.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/photo_gallery/202610/6adf771b544da-raveena-tandon-becomes-grandmother-26515488-16x9.jpg",
+                "url": "https://www.aajtak.in/entertainment/bollywood-news/photo/raveena-tandon-becomes-grandmother-adopted-two-daughters-4-kids-mother-husband-reaction-tmovf-2680867-2026-10-26",
+                "source": "AajTak",
+                "date": "2026-10-26T16:20:05Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Indian Idol Winner Struggles: 'दर-दर जाकर मांगा काम', 'इंडियन आइडल' जीतकर भी देखे बुरे दिन, सिंगर का छलका दर्द",
+                "desc": "Indian Idol Winner Abhijeet Sawant Struggles: इंडियन आइडल का विनर बनने के बाद उन्हें रातोरात शोहरत मिली. वो घर-घर में पॉपुलर हो गए, लेकिन इसके बावजूद उन्हें करियर में काफी स्ट्रगल करना पड़ा.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/photo_gallery/202610/6ade1eafcaa86-abhijeet-sawant-252222730-16x9.jpg",
+                "url": "https://www.aajtak.in/entertainment/bollywood-news/photo/indian-idol-winner-abhijeet-sawant-emotional-struggle-asked-for-work-exposed-music-industry-tmovf-2680001-2026-10-26",
+                "source": "AajTak",
+                "date": "2026-10-26T15:01:19Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "रश्मिका मंदाना ने अपने पति के बारे में क्या कहा जिसकी हो रही है चर्चा?",
+                "desc": "एक्टर रश्मिका मंदाना ने अपने पति के साथ रिश्ते को लेकर उन्हें ट्रोल कर रहे लोगों को जवाब दिया है. उनके पति विजय देवरकोंडा ने भी इस पर प्रतिक्रिया दी है. ये पूरा मामला क्या है?",
+                "image": "https://ichef.bbci.co.uk/news/1200/branded_hindi/b7b7/live/10344b80-d144-11f1-9eb5-811878e0f07d.jpg",
+                "url": "https://www.bbc.com/hindi/articles/c85ynk942p10o",
+                "source": "BBC",
+                "date": "2026-10-26T14:37:52Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'मैं गांव में क्यों पैदा हुआ?' एक्टर को बचपन से नफरत, गरीबी ने नर्क बनाई जिंदगी, अब करोड़ों का मालिक",
+                "desc": "मनोज बाजपेयी का जन्म गांव के एक किसान परिवार में हुआ. उन्होंने अपने बचपन में काफी तंगी झेली और मुश्किलों का सामना किया. उन्होंने अब इस बारे में बात की है.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202610/6adf557395a63-manoj-bajpayee-remembers-struggles-262818348-16x9.jpg",
+                "url": "https://www.aajtak.in/entertainment/bollywood-news/story/manoj-bajpayee-regrets-being-born-in-village-hating-childhood-struggles-financial-crisis-gets-emotional-tmovf-dskc-2680789-2026-10-26",
+                "source": "AajTak",
+                "date": "2026-10-26T14:00:07Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'टपरी पे बैठा है क्या', MC स्टैन ने चलते शो में जलाई सिगरेट, समय रैना ने टोका, 'इंडियाज गॉट लेटेंट 2' फिर चर्चे में",
+                "desc": "'इंडियाज गॉट लेटेंट 2' का अगला एपिसोड काफी समय के बाद आया है। इसमें एमसी स्टैन सहित कई लोग पैनल पर दिखे। स्टैन ने चलते शो में सिगरेट जलाने की कोशिश की। समय रैना को उन्हें बीच में ही रोकना पड़ा। लोग अब इस पर रिएक्ट कर रहे हैं।",
+                "image": "https://static.langimg.com/nbt/thumb/135213031/mc-stan-indias-got-latent-2.jpg?imgsize=117498&width=1600&height=900&resizemode=75",
+                "url": "https://navbharattimes.indiatimes.com/entertainment/web-series/latest/mc-stan-lights-cigarette-during-indias-got-latent-season-2-samay-raina-calls-out/articleshow/135212945.cms",
+                "source": "Navbharat Times",
+                "date": "2026-10-26T13:58:56Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "नेशनल अवॉर्ड मिला तो गांव पहुंचे एक्टर संजय मिश्रा, लुंगी-टीशर्ट में जमीन पर बैठे, वायरल वीडियो ने जीता दिल",
                 "desc": "फिल्म अभिनेता संजय मिश्रा का सादगी भरा वीडियो सोशल मीडिया पर वायरल हो रहा है. वीडियो उनके पैतृक गांव नारायणपुर, दरभंगा का है, जहां वह लुंगी और टीशर्ट पहनकर अपने घर के बरामदे में जमीन पर बैठे नजर आए. राष्ट्रीय फिल्म पुरस्कार मिलने के बाद गांव पहुंचे संजय मिश्रा की सादगी देखकर लोग उनकी जमकर तारीफ कर रहे हैं.",
@@ -1092,6 +1164,15 @@
                 "url": "https://www.aajtak.in/entertainment/news/story/sanjay-mishra-viral-video-simple-lifestyle-native-village-narayanpur-darbhanga-lclar-strc-2680772-2026-10-26",
                 "source": "AajTak",
                 "date": "2026-10-26T13:31:59Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "अक्टूबर महीने में इन तीन फिल्मों की सुनामी, एक 700 करोड़ पार दूसरी की 500 करोड़ से ज्यादा कमाई",
+                "desc": "अक्टूबर महीने में कई फिल्में आईं, लेकिन कुछ ही फिल्में ऐसी रहीं जिन्होंने बॉक्स ऑफिस पर धमाल मचाया. आइए जानते हैं उन फिल्मों के बारे में.",
+                "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/26/d7e99340dc0d256701a391d831c65ab31793016358939587_original.png?impolicy=abp_cdn&imwidth=1200",
+                "url": "https://www.abplive.com/entertainment/bollywood/october-2026-box-office-top-performers-jailer-2-drishyam-3-ranabaali-3207111",
+                "source": "ABP News",
+                "date": "2026-10-26T13:25:26Z",
                 "priority": "STANDARD"
             },
             {
@@ -1543,90 +1624,90 @@
                 "source": "Navbharat Live",
                 "date": "2026-10-25T09:05:44Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Ex मुनव्वर फारूकी का नाम सुनकर खुश हुईं 'धुरंधर' एक्ट्रेस आयशा खान! आगबबूला हुआ भाई, Video",
-                "desc": "आयशा खान का एक वीडियो काफी वायरल हो रहा है, जिसमें वो एक इवेंट में हैं और वहां एक फैन आकर उनसे मिलता है. मगर वो माइक पर कॉमेडियन मुनव्वर फारूकी का नाम लेता है, जो उनके एक्स-बॉयफ्रेंड थे.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202610/6addb8be8b403-ayesha-khan-reaction-viral-as-fan-shouted-munawar-faruqui-name-25072595-16x9.jpg",
-                "url": "https://www.aajtak.in/entertainment/bollywood-news/story/big-fan-of-munawar-faruqui-fan-says-to-ayesha-khan-dhurandhar-actress-reaction-ex-bf-hyderabad-event-tmovj-dskc-2679706-2026-10-25",
-                "source": "AajTak",
-                "date": "2026-10-25T08:56:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "बॉबी देओल के 'टूटे दिल' की आवाज बने थे Kumar Sanu, 31 साल पहले आया था दर्द भरा गीत",
-                "desc": "31 साल पहले सिंगर कुमार सानू ने बॉबी देओल की एक कल्ट फिल्म के लिए दर्द भरा गीत गाया था।",
-                "image": "https://www.jagranimages.com/images/2026/10/25/template/image/Nahin-Yeh-Ho-Nahin-Sakta-song--1792915854370_v.webp",
-                "url": "https://www.jagran.com/entertainment/bollywood-nahin-yeh-ho-nahin-sakta-song-by-kumar-sanu-for-bobby-deol-heart-breaking-track-since-31-years-40416083.html",
-                "source": "Jagran",
-                "date": "2026-10-25T08:40:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "54 की उम्र में 70 साल के बुजुर्ग बने 'द रॉक', तस्वीरें देख फैंस भी नहीं पहचान पाए",
-                "desc": "'लिजर्ड म्यूजिक' डेनियल पिंकवॉटर के इसी नाम के लोकप्रिय बाल उपन्यास पर आधारित है, जो 1976 में प्रकाशित हुआ था. फिल्म की कहानी एक छोटे लड़के के इर्द-गिर्द घूमती है, जिसे देर रात टीवी पर अजीबोगरीब छिपकलियों को संगीत बजाते हुए देखने का मौका मिलता है.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202610/6addbb9346b74-wwe-former-wrestler-251929913-16x9.jpg",
-                "url": "https://www.aajtak.in/entertainment/hollywood/story/dwayne-johnson-looks-unrecognizable-the-rock-wwe-wrestler-70-year-old-benny-safdie-lizard-music-rttm-dskc-2679683-2026-10-25",
-                "source": "AajTak",
-                "date": "2026-10-25T08:31:35Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "सीता- स्वयंवर से वनवास तक, रामायण के नए गाने में दिखी झलक, राम-सिया पर टिकी निगाहें",
-                "desc": "'रामायण' के निर्माताओं ने 'मंगल रंग' गाना जारी किया है, जो भगवान राम और सीता की प्रेम कहानी पर आधारित है. इस वीडियो में रणबीर कपूर और साई पल्लवी नजर आते हैं, जिसमें उनके विवाह, महल के जीवन और वनवास की यात्रा को दिखाया गया है.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/photo_gallery/202610/6addb1024289d-ramayana-mangal-rang-song-253425233-16x9.jpg",
-                "url": "https://www.aajtak.in/entertainment/bollywood-news/photo/ramayana-mangal-rang-song-rama-sita-bond-from-wedding-to-vanvas-photos-tmovg-2679647-2026-10-25",
-                "source": "AajTak",
-                "date": "2026-10-25T08:06:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "सत्यजीत रे फिल्म इंस्टीट्यूट पर नसीरुद्दीन शाह के बयान को लेकर BJP सांसद का पलटवार, कहा",
-                "desc": "कोलकाता के सत्यजीत रे फिल्म एंड टेलीविजन इंस्टीट्यूट SRFTI में छात्रों के हंगामे और वीसी पर हमले के बाद अभिनेता नसीरुद्दीन शाह के समर्थन से विवाद गहरा गया है। प्रशासन ने 6 छात्रों को निष्कासित कर 13 नवंबर तक कक्षाएं स्थगित कर दी हैं, जबकि भाजपा ने शाह के बयान को साजिश बताया है।",
-                "image": "https://www.jagranimages.com/images/2026/10/25/template/image/BJP-hits-back-at-Naseeruddin-Shah's-statement-1792914737063_v.webp",
-                "url": "https://www.jagran.com/news/national-naseeruddin-shah-backs-srfti-protesters-amidst-kolkata-row-news-in-hindi-40416047.html",
-                "source": "Jagran",
-                "date": "2026-10-25T07:53:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "महंगी टिकट भी नहीं रोक पाई रामायण की रफ्तार! IMAX में धुआंधार कमाई, 10 दिन पहले शोज हुए हाउसफुल",
-                "desc": "फिल्म रामायण की एडवांस बुकिंग धीरे-धीरे अपनी पकड़ बना रही है. इंडिया में महंगे टिकटों के बावजूद IMAX की टिकट काफी ज्यादा बिक रही हैं. कई सारे शोज तो अभी से हाउसफुल दिख रहे हैं.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202610/6adda87fb7a75-ramayana-advance-booking-255806758-16x9.jpg",
-                "url": "https://www.aajtak.in/entertainment/bollywood-news/story/ramayana-ranbir-kapoor-yash-advance-booking-record-imax-ticket-sales-housefull-shows-tmovj-dskc-2679639-2026-10-25",
-                "source": "AajTak",
-                "date": "2026-10-25T07:40:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "टाइगर श्रॉफ ने बेचा अपार्टमेंट, गोलीबारी की घटना के 3 दिन बाद हुई रजिस्‍ट्री, ₹9 करोड़ में फाइनल हुई डील",
-                "desc": "टाइगर श्रॉफ ने कार पर फायरिंग की वारदात के तीन द‍िन बाद मुंबई में अपना एक लग्‍जरी अपार्टमेंट बेच द‍िया है। इसके ल‍िए 9 करोड़ की डील हुई है। एक्‍टर एक साल में इसे म‍िलाकर तीन प्रॉपर्टी बेच चुके हैं। इस बीच, मुंबई पुलिस का कहना है क‍ि गोलीबारी के बाद टाइगर श्रॉफ सदमे में हैं। वह कह रहे हैं क‍ि उनकी क‍िसी से दुश्‍मनी नहीं हैं, फ‍िर न जाने उन पर हमला क्‍यों क‍िया गया।",
-                "image": "https://static.langimg.com/nbt/thumb/135185866/tiger-shroff-sells-mumbai-apartment-3-days-after-firing-incident.jpg?imgsize=763518&width=1600&height=900&resizemode=75",
-                "url": "https://navbharattimes.indiatimes.com/entertainment/news-from-bollywood/tiger-shroff-sells-mumbai-apartment-3-days-after-firing-incident-deal-finalized-at-9-crore-rupees-third-property-sale-in-one-year/articleshow/135185862.cms",
-                "source": "Navbharat Times",
-                "date": "2026-10-25T07:24:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "एक मजाक, सुअर का खून और बदला... Prime Video की 'कैरी' कितनी डरावनी?",
-                "desc": "कहानी का सबसे बड़ा आकर्षण उसका प्रॉम वाला सीन है. कैरी को लगता है कि शायद जिंदगी में पहली बार उसे सामान्य लड़की की तरह स्वीकार किया जा रहा है. वह प्रॉम में पहुंचती है, टॉमी रॉस के साथ वक्त बिताती है और फिर प्रॉम क्वीन चुनी जाती है. लेकिन यह खुशी ज्यादा देर नहीं टिकती.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202610/6addac8bf323a-carrie-251522738-16x9.jpg",
-                "url": "https://www.aajtak.in/entertainment/news/story/prime-video-series-carrie-stephan-king-novel-real-horror-pig-blood-telekinesis-rttm-dskc-2679609-2026-10-25",
-                "source": "AajTak",
-                "date": "2026-10-25T07:16:25Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'11 मिनट तक मारे मुक्के', ऋतिक रोशन बोले- मुझे मारो, टीवी एक्टर रह गया हैरान",
-                "desc": "टीवी एक्टर रोहित रॉय ने ऋतिक रोशन संग फिल्म काबिल में काम करने पर खुलकर बात की. उन्होंने बताया कि एक एक्शन सीक्वेंस में उन्होंने सुपरस्टार को 11 मिनट तक लगातार मुक्के मारे थे, जिसका बाद में उन्हें काफी पछतावा भी हुआ.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202610/6add9e9a5fafb-ronit-roy-reveals-beating-hrithik-roshan-for-straight-11-minutes-25155328-16x9.jpg",
-                "url": "https://www.aajtak.in/entertainment/bollywood-news/story/hrithik-roshan-asked-tv-actor-rohit-roy-to-hit-him-for-11-minutes-kaabil-climax-tmovj-dskc-2679600-2026-10-25",
-                "source": "AajTak",
-                "date": "2026-10-25T06:50:04Z",
-                "priority": "STANDARD"
             }
         ],
         "sports": [
+            {
+                "title": "IND vs NZ मैच पर बारिश का साया, तीसरे टी20 के दौरान कैसा रहेगा वेलिंग्टन का मौसम?",
+                "desc": "भारत और न्यूजीलैंड के बीच तीसरा टी20 वेलिंगटन में खेला जाएगा। टीम इंडिया इस मैच को जीतकर सीरीज में अजेय बढ़त हासिल करना चाहेगी। उससे पहले आइए जानते हैं कि इस मैच के दौरान वेलिंग्टन का मौसम कैसा रहेगा।",
+                "image": "https://resize.indiatv.in/resize/newbucket/1200_-/2026/10/india-tv-2026-10-26t230337-1793036041.jpg",
+                "url": "https://www.indiatv.in/sports/cricket/ind-vs-nz-3rd-t20i-will-rain-play-spoilsport-here-is-wellington-weather-forecast-2026-10-26-1251106",
+                "source": "India TV Hindi",
+                "date": "2026-10-26T18:10:37Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "CSK ने माइक हसी से तोड़ा 19 साल का नाता, बल्लेबाजी कोच पद से हटाया, गैरेथ बैटी बने सहायक कोच",
+                "desc": "आईपीएल 2027 से पहले सीएके में बदलावों का दौर जारी है। माइक हसी से फ्रेंचाइजी ने 19 साल का नाता तोड़ लिया है। उन्हें बल्लेबाजी कोच के पद से हटा दिया है और विदाई कर दी है। इंग्लैंड के पूर्व स्पिनर गैरेथ बैटी को सीएसके ने सहायक कोच नियुक्त किया है।, Cricket Hindi News - Hindustan",
+                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/10/26/1600x900/logo/csk_set_up_change_1793034485872_Y9UF_1793034490728_0K5a_a6b55645-6539-445d-92bd-6a12b28fb065_pfy4.jpg",
+                "url": "https://www.livehindustan.com/cricket/csk-ends-19-year-association-with-mike-hussey-removes-from-batting-coach-role-appoints-gareth-batty-as-assistant-coach-201793034190109.html",
+                "source": "Hindustan",
+                "date": "2026-10-26T17:20:55Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "चेन्नई सुपर किंग्स ने बदला अपना पूरा कोचिंग स्टाफ, माइकल हसी समेत 5 दिग्गजों को एक साथ किया बाहर",
+                "desc": "आईपीएल 2027 से पहले चेन्नई सुपर किंग्स ने अपने कोचिंग स्टाफ में बड़ा बदलाव किया है, जहीर खान को नया मुख्य कोच बनाया गया है।\nमाइकल हसी और राजीव कुमार समेत पांच प्रमुख कोचों को टीम से बाहर किया गया है, जबकि गैरेथ बैटी असिस्टेंट कोच के रूप में जुड़े हैं।",
+                "image": "https://www.jagranimages.com/images/2026/10/26/template/image/Michael-Hussey--1793034724295_v.webp",
+                "url": "https://www.jagran.com/cricket/headlines-chennai-super-kings-overhaul-coaching-staff-part-ways-with-michael-hussey-and-eric-simons-40417811.html",
+                "source": "Jagran",
+                "date": "2026-10-26T17:15:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "WPL 2027: ऑक्शन के लिए किस टीम के पास है सबसे ज्यादा पैसा! इन दिग्गजों पर लगेगी करोड़ों की बोली?",
+                "desc": "महिला प्रीमियर लीग के लिए मिनी ऑक्शन का आयोजन बुधवार को किया जाना है. इस ऑक्शन में सभी टीमें अपने स्क्वाड को और मजबूत बनाना चाहेगी. ऐसे में कई खिलाड़ियों को खरीदने के लिए टीमों के बीच जबरदस्त भिड़ंत देखने को मिल सकती है.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202610/6adf4c4bc8458-wpl-2027-auction-264914497-16x9.jpg",
+                "url": "https://www.aajtak.in/sports/cricket/story/wpl-2027-auction-who-has-the-biggest-purse-who-are-the-big-names-know-all-details-aksp-dskc-2680756-2026-10-26",
+                "source": "AajTak",
+                "date": "2026-10-26T16:30:07Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "ऑस्ट्रेलिया WTC में नंबर-1 का ताज खोने की कगार पर, साउथ अफ्रीका की जीत कर सकती है भारत का बेड़ापार",
+                "desc": "मंगलवार, 27 अक्टूबर से साउथ अफ्रीका और ऑस्ट्रेलिया के बीच तीन टेस्ट मैचों की सीरीज का आखिरी और निर्णायक मुकाबला शुरू होगा। यह मैच ऑस्ट्रेलिया को WTC के शीर्ष से अपदस्थ कर सकता है। अगर साउथ अफ्रीका मुकाबला जीतती है तो न्यूजीलैंड नंबर वन हो जाएगी और भारत के लिए भी रास्ते खुलेंगे।, Analysis Hindi News - Hindustan",
+                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/10/26/1600x900/logo/WTC_points_table_1793028571836_boiR_1793028579646_kyDe_ae8fca61-04da-4861-b016-19ae1ef2571b_6NEg.jpg",
+                "url": "https://www.livehindustan.com/cricket/analysis/australia-is-set-to-lose-its-number-1-crown-a-south-african-victory-could-pave-way-for-india-s-success-in-wtc-201793027964066.html",
+                "source": "Hindustan",
+                "date": "2026-10-26T15:34:40Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "IPL 2027 से पहले CSK का बड़ा दांव! जहीर खान के बाद इस धुरंधर की हुई टीम में एंट्री",
+                "desc": "चेन्नई सुपर किंग्स हमेशा से अपने मजबूत कोचिंग स्टाफ और भरोसेमंद खिलाड़ियों के लिए जानी जाती रही है. लेकिन पिछले कुछ सीजन में टीम उम्मीद के मुताबिक प्रदर्शन नहीं कर सकी है. लिहाजा अब चेन्नई ने अपनी स्थिति को सुधारने के लिए एक बड़ा कदम उठाया है.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202610/6adf687b6fc29-who-is-gareth-batty-264930220-16x9.jpeg",
+                "url": "https://www.aajtak.in/sports/cricket/story/ipl-2027-who-is-gareth-batty-csk-new-assistant-coach-under-zaheer-khan-aksp-dskc-2680841-2026-10-26",
+                "source": "AajTak",
+                "date": "2026-10-26T14:56:42Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "जसप्रीत बुमराह-ऋषभ पंत की वापसी? खेल सकते हैं न्यूजीलैंड ए के खिलाफ तीसरा अनौपचारिक टेस्ट मैच",
+                "desc": "तेज गेंदबाज जसप्रीत बुमराह और विकेटकीपर बल्लेबाज ऋषभ पंत न्यूजीलैंड ए के खिलाफ तीसरे अनौपचारिक टेस्ट मैच से भारतीय ए टीम में खेल सकते हैं और वापसी कर सकते हैं। बुमराह को आराम दिया गया था और पंत चोट से उबर रहे हैं। टेस्ट सीरीज से पहले अनौपचारिक मैच दोनों खिलाड़ियों के अभ्यास के लिए अहम होंगे।, Cricket Hindi News - Hindustan",
+                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/10/26/1600x900/logo/jasprit_rishabh_1793025377948_ZbCB_1793025383459_UgYk_9bb3213f-e543-42cd-92a1-d9967887b715_OQJ7.jpg",
+                "url": "https://www.livehindustan.com/cricket/jasprit-bumrah-and-rishabh-pant-may-play-against-new-zealand-a-in-the-third-unofficial-test-201793024602701.html",
+                "source": "Hindustan",
+                "date": "2026-10-26T14:41:41Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "एक साथ वापस लौट रहे जसप्रीत बुमराह और ऋषभ पंत, तारीख भी आई सामने, इस मैच में हो रही वापसी",
+                "desc": "जसप्रीत बुमराह और ऋषभ पंत अपनी मैच फिटनेस साबित करने के लिए न्यूजीलैंड ए के खिलाफ तीसरे गैर-आधिकारिक टेस्ट में खेल सकते हैं।",
+                "image": "https://static.langimg.com/nbt/thumb/135214067/pant-and-bumrah.jpg?imgsize=455659&width=1600&height=900&resizemode=75",
+                "url": "https://navbharattimes.indiatimes.com/sports/cricket/cricket-news/jasprit-bumrah-and-rishabh-pant-set-to-play-third-unofficial-test-for-india-a-ahead-of-new-zealand-series/articleshow/135213817.cms",
+                "source": "Navbharat Times",
+                "date": "2026-10-26T14:36:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "VIDEO: विराट कोहली का दिल जीतने वाला अवतार देखा क्या? ऐसे कर दी नेट बॉलर की ख्वाहिश पूरी",
+                "desc": "रोहित शर्मा और विराट कोहली न्यूजीलैंड के खिलाफ वनडे सीरीज में वापसी करने वाले हैं. इस सीरीज के लिए दोनों ही खिलाड़ियों ने तैयारियां भी शुरू कर दी है. वनडे विश्व कप 2027 के लिहाज से यह सीरीज दोनों ही खिलाड़ियों के लिए बेहद अहम माना जा रहा है.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202610/6adf5d05d654a-virat-kohli-260036874-16x9.png",
+                "url": "https://www.aajtak.in/sports/cricket/story/virat-kohli-makes-mumbai-net-bowler-day-signs-autograph-on-india-jersey-aksp-dskc-2680798-2026-10-26",
+                "source": "AajTak",
+                "date": "2026-10-26T14:04:54Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "सेलेक्टर्स ने किया न्यूजीलैंड दौरे से बाहर, अब रणजी ट्रॉफी में इस खिलाड़ी ने 10 में से 7 बल्लेबाजों को किया आउट, बल्ले से भी उगलता है आग",
                 "desc": "न्यूजीलैंड के खिलाफ टेस्ट सीरीज से बाहर होने के बाद मध्य प्रदेश के स्पिनर सारांश जैन ने बेहतरीन प्रदर्शन करते हुए रणजी ट्रॉफी में बिहार के खिलाफ 40 रन देकर 7 विकेट लिए।",
@@ -2085,92 +2166,101 @@
                 "source": "AajTak",
                 "date": "2026-10-25T08:40:49Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "सूर्यकुमार यादव ने दिखाईं अपनी बेसबॉल स्किल्स, MLB के दिग्गजों के साथ मुंबई में मचाई धूम",
-                "desc": "अंधेरी स्पोर्ट्स कॉम्प्लेक्स स्थित मुंबई फुटबॉल एरिना में आयोजित पहली 'MLBx मुंबई 3-ऑन-3' बेसबॉल इवेंट में सूर्यकुमार यादव ने अपनी बेसबॉल स्किल्स दिखाई. कई और भी क्रिकेटर्स इसमें शामिल हुए.",
-                "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/25/58da3b892f2c57eed0f488ade253359217929113361131212_original.jpg?impolicy=abp_cdn&imwidth=1200",
-                "url": "https://www.abplive.com/sports/cricket/suryakumar-yadav-shardul-thakur-play-baseball-with-mlb-stars-mumbai-event-3206534",
-                "source": "ABP News",
-                "date": "2026-10-25T07:22:39Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "फोन-ऑफिस की जिंदगी छोड़ो, मैदान पर उतरो... Gen Z को धोनी ने दिया फिटनेस मंत्र",
-                "desc": "एमएस धोनी की सलाह साफ थी कि युवाओं को रोजाना व्यायाम करना चाहिए और किसी ना किसी खेल को अपनी दिनचर्या का हिस्सा बनाना चाहिए. उनका संदेश है कि सेहत का ध्यान रखने के लिए किसी समस्या के सामने आने का इंतजार नहीं करना चाहिए.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202610/6addad4126d9f-ms-dhoni-251824188-16x9.1jq6cj3xzfvvgczluso2ulnvh49uovl7wptogiuxzry",
-                "url": "https://www.aajtak.in/sports/cricket/story/ms-dhoni-advises-gen-z-gen-alpha-on-fitness-lifestyle-javed-akhtar-event-tspoa-dskc-2679631-2026-10-25",
-                "source": "AajTak",
-                "date": "2026-10-25T07:18:43Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "T20 सीरीज गंवाने का डर, ऊपर से दो बड़े झटके... भारत के खिलाफ न्यूजीलैंड की बढ़ी मुश्किलें",
-                "desc": "भारतीय टीम टी20 सीरीज में फिलहाल 2-0 से आगे है. अब मेजबान टीम न्यूजीलैंड को जीत के लिए बेहतर प्रदर्शन करना होगा, जबकि टीम मैनेजमेंट की नजरें खिलाड़ियों की फिटनेस और आगामी वनडे सीरीज की तैयारी पर भी रहेंगी.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202610/6adda4f94241e-ind-vs-nz-254303885-16x9.jpg",
-                "url": "https://www.aajtak.in/sports/cricket/story/nz-squad-changes-ind-vs-nz-3rd-t20i-matt-henry-injured-lockie-ferguson-rested-tspoa-dskc-2679601-2026-10-25",
-                "source": "AajTak",
-                "date": "2026-10-25T06:44:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "रोहित शर्मा ने मुस्कुराते हुए किया रिटायरमेंट का जिक्र, खत्म कर दिया सस्पेंस, उनके शो की खास क्लिप वायरल",
-                "desc": "रोहित शर्मा ने अपने रिएक्शन से साफ कर दिया कि फिलहाल वह रिटायरमेंट के बारे में जरा भी नहीं सोच रहे हैं। रिटायरमेंट का जिक्र करते हुए रोहित मुस्कुरा रहे थे। वहीं, सेट पर मौजूद अन्य लोग कह रहे थे कि उन्हें अभी इस बारे में सोचने की जरूरत नहीं है।",
-                "image": "https://static.langimg.com/nbt/thumb/135185221/rohit-sharma-2.jpg?imgsize=390737&width=1600&height=900&resizemode=75",
-                "url": "https://navbharattimes.indiatimes.com/sports/cricket/cricket-news/family-full-house-with-rohit-sharma-indian-opener-opens-about-his-retirement-rumors/articleshow/135185205.cms",
-                "source": "Navbharat Times",
-                "date": "2026-10-25T06:29:22Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "हार्दिक पंड्या की जगह कौन लेगा? टीम इंडिया का मास्टरस्ट्रोक, 3 धुरंधर मिलकर करेंगे 'खेल'",
-                "desc": "हार्दिक पंड्या का विकल्प तलाश रही टीम इंडिया को तिलक वर्मा, नमन धीर और नीतीश कुमार रेड्डी के रूप में तीन उपयोगी खिलाड़ी मिल सकते हैं. न्यूजीलैंड के खिलाफ दूसरे टी20 में तीनों ने मिलकर 56 गेंदों पर 108 रन बनाए और भारत को मुश्किल स्थिति से निकालकर चार विकेट से जीत दिलाने में अहम भूमिका निभाई.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202610/6add90c5ba8c5-nitish-kumar-reddy--tilak-varma-251644981-16x9.jpg",
-                "url": "https://www.aajtak.in/sports/cricket/story/hardik-pandya-replacement-tilak-dhir-nitish-reddy-india-t20i-bmsp-dskc-2679484-2026-10-25",
-                "source": "AajTak",
-                "date": "2026-10-25T06:09:33Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "NZ A vs IND A: न्यूजीलैंड में केएल राहुल का हुआ ब्रेन फेड, खुद से स्टंप पर मार दिया बैट, हिट-विकेट होकर लौटे पवेलियन",
-                "desc": "न्यूजीलैंड ए के खिलाफ पहले अनऑफिशियल टेस्ट मैच की दूसरी पारी में भी केएल राहुल बल्लेबाजी में फ्लॉप रहे. पहली पारी में राहुल खाता भी नहीं खोल पाए थे. इंडिया ए के लिए दूसरी पारी में उन्होंने जैसे-तैसे खाता तो खोल लिया, लेकिन उनका ऐसा ब्रेन फेड हुआ कि उन्होंने खुद ही स्टंप पर बल्ला दे मारा और वह हिट-विकेट हो गए.",
-                "image": "https://images.news18.com/ibnkhabar/uploads/2026/10/KL-Rahul-8-2026-10-3ad914d0dcfc04ae98952426cbd2e758-1200x675.jpg",
-                "url": "https://hindi.news18.com/cricket/nz-a-vs-ind-a-kl-rahul-suffers-brain-fade-in-new-zealand-hits-his-own-stumps-with-his-bat-back-to-pavilion-out-hit-wicket-10935046.html",
-                "source": "News18 Hindi",
-                "date": "2026-10-25T05:39:11Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "वनडे मैच में गजब का कांड! अफगानी कप्तान ने फेंके 11 ओवर, बांग्लादेशी टीम ने की रेफरी से शिकायत",
-                "desc": "बांग्लादेशी टीम ने उस वाकये का वीडियो मैच रेफरी को सौंप दिया है. बांग्लादेश टीम मैनेमेंट ने कुछ अन्य फैसलों पर भी सवाल उठाए. विवादित फैसलों को लेकर दोनों टीमों के कोचिंग स्टाफ के बीच तीखी बहस हुई. हालांकि बाद में दोनों पक्षों ने हाथ मिलाया और बातचीत की.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202610/6add9097d2678-sohail-khan--farid-hasan-251606772-16x9.jpg",
-                "url": "https://www.aajtak.in/sports/cricket/story/sohail-khan-bowls-11-overs-odi-match-bangladesh-u19-complaint-afghanistan-u19-tspoa-dskc-2679430-2026-10-25",
-                "source": "AajTak",
-                "date": "2026-10-25T05:16:21Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "आईपीएल से संन्यास पर एमएस धोनी ने तोड़ी चुप्पी, बताया कब लेंगे आखिरी फैसला",
-                "desc": "एमएस धोनी ने चोट के कारण पिछले सीजन आईपीएल में हिस्सा नहीं लिया था। इस सीजन उनके संन्यास की खबरें उठ रही हैं जिस पर धोनी ने बयान दिया है।",
-                "image": "https://www.jagranimages.com/images/2026/10/25/template/image/MS-Dhoni-(2)-1792900706497_v.webp",
-                "url": "https://www.jagran.com/cricket/headlines-ms-dhoni-speak-on-his-ipl-retirement-set-december-as-deadloine-40415858.html",
-                "source": "Jagran",
-                "date": "2026-10-25T04:07:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "अजिंक्य रहाणे ने चौंकाया, ऑल टाइम टेस्ट XI में कोहली-रोहित को नहीं दी जगह; किसे बनाया कप्तान?",
-                "desc": "अजिंक्य रहाणे ने हाल ही में अपनी ऑल टाइम टेस्ट XI चुनी है, जिनके साथ वह इंटरनेशनल या डोमेस्टिक क्रिकेट में खेले हैं। इन 11 खिलाड़ियों में रोहित शर्मा और विराट कोहली को ना चुनकर उन्होंने हर किसी को हैरान कर दिया है।, Cricket Hindi News - Hindustan",
-                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/10/25/1600x900/logo/rahane_rohit_kohli_1792898298514_tMLN_1792898304454_iTh9_7c0edadf-f7a1-48eb-862c-2a6121f46091_rnRS.jpg",
-                "url": "https://www.livehindustan.com/cricket/ajinkya-rahane-all-time-india-test-xi-virat-kohli-and-rohit-sharma-did-not-find-a-place-ms-dhoni-captain-201792897307827.html",
-                "source": "Hindustan",
-                "date": "2026-10-25T03:25:20Z",
-                "priority": "STANDARD"
             }
         ]
     },
     "en": {
         "general": [
+            {
+                "title": "Catholic bishops say they regret taking a meeting with Trump",
+                "desc": "Two Catholic bishops have expressed regret over attending a meeting with 10 other prelates and President Donald Trump in the Oval Office, saying they were “exploited” and “manipulated.”",
+                "image": "https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2026-10-26-at-2-25-12-pm.jpg?c=16x9&q=w_800,c_fill",
+                "url": "https://www.cnn.com/2026/10/26/politics/catholic-bishops-trump-praying",
+                "source": "CNN",
+                "date": "2026-10-26T19:02:30Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Dollar General overcharged shoppers, FTC and states allege in lawsuit",
+                "desc": "Dollar General repeatedly charged more ​than advertised prices even after receiving tens of ‌thousands of consumer complaints, the US Federal Trade Commission and 20 states alleged in a lawsuit filed on Monday.",
+                "image": "https://www.reuters.com/resizer/v2/2DA5XG5N5FMQHBSWALBTVWQR4E.jpg?auth=8e1ae6e5c3a7c0cc4c7874185801a8f1408478b95625ac5a678b1dd45916880b&height=1005&width=1920&quality=80&smart=true",
+                "url": "https://www.reuters.com/world/us-20-states-sue-dollar-general-alleged-overcharges-2026-10-26/",
+                "source": "Reuters",
+                "date": "2026-10-26T18:51:57Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Pope's South American trip to go ahead following lung cancer surgery",
+                "desc": "The Pope underwent surgery in to remove a tumour on the lower part of his right lung and is gradually resuming his duties.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/180c/live/6ade9ad0-d16d-11f1-93e1-3b657b665bcf.jpg",
+                "url": "https://www.bbc.com/news/articles/cjr4y5rq46p2o",
+                "source": "BBC",
+                "date": "2026-10-26T18:46:19Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Manhunt under way in Tennessee after convicted murderer escapes prison",
+                "desc": "Officials say Jacob Morley, who is serving a life sentence for a 2022 murder, escaped from a facility in Tiptonville",
+                "image": "https://i.guim.co.uk/img/media/27e4af57a9decbb11cb5c343a0b5d896aa2318ef/0_268_1002_801/master/1002.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=775c3fafb15dd910520fda2ca5f30369",
+                "url": "https://www.theguardian.com/us-news/2026/oct/26/jacob-morley-murderer-tennessee-manhunt",
+                "source": "The Guardian",
+                "date": "2026-10-26T18:41:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Maurene Comey was illegally fired from DOJ, judge finds : NPR",
+                "desc": "Maurene Comey served as a federal prosecutor in Manhattan for around a decade. A judicial ruling finding her dismissal unlawful adds to concerns of politically motivated firings at the DOJ.",
+                "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5164x2905+0+0/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F86%2F9d%2Ff078d878424f89eae569d842a3d0%2Fgettyimages-2239954118.jpg",
+                "url": "https://www.npr.org/2026/10/26/g-s1-149960/judge-maurene-comey-illegal-dismissal",
+                "source": "NPR",
+                "date": "2026-10-26T18:38:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "FTC, 20 states sue Dollar General over prices",
+                "desc": "The Federal Trade Commission and 20 states have filed a lawsuit against Dollar General, claiming the retailer has charged customers more than advertised prices.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108234580-1764611702760-gettyimages-2217834647-DOLLAR_TREE_EARNS.jpeg?v=1764611746&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/10/26/ftc-dollar-general-lawsuit.html",
+                "source": "CNBC",
+                "date": "2026-10-26T18:37:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Apple Releases iOS 27.2 With New Siri AI Languages",
+                "desc": "Apple today released iOS 27.2 and iPadOS 27.2, the first major updates to the iOS 27 and iPadOS 27 operating systems that came out in September.",
+                "image": "https://images.macrumors.com/t/50A6SvlTYlnmQmnJMOfHIXNqoIA=/2500x/article-new/2026/09/iOS-27.2-Next-to-iPhone.jpg",
+                "url": "https://www.macrumors.com/2026/10/26/apple-releases-ios-27-2/",
+                "source": "MacRumors",
+                "date": "2026-10-26T18:32:32Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Lula wins fourth term in dramatic comeback over Bolsonaro",
+                "desc": "The left-wing incumbent president had lost the first round to right-wing challenger Flávio Bolsonaro.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/eab1/live/a6b767f0-d15c-11f1-a701-fddedf244c16.jpg",
+                "url": "https://www.bbc.com/news/articles/ckm23y3mg1yyo",
+                "source": "BBC",
+                "date": "2026-10-26T18:26:19Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Who is getting fired next?",
+                "desc": "College football's coaching carousel is heating up. Deion Sanders, Mike Norvell and Greg Schiano are among the coaches facing mounting pressure.",
+                "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/10/25/USAT/92435519007-20261024-t-151219-z-2027543752-mt-1-usatoday-30172456-rtrmadp-3-ncaafootballrutgersatnorthwestern.JPG?crop=3377,1900,x0,y0&width=3200&height=1801&format=pjpg&auto=webp",
+                "url": "https://www.usatoday.com/story/sports/ncaaf/2026/10/26/college-football-coach-hot-seat-who-fired-next-mike-norvell-deion-sanders/92435092007/",
+                "source": "USA Today",
+                "date": "2026-10-26T18:11:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Serbia’s Student-Led Movement Ousts Strongman Aleksander Vučić in Shock Election Result",
+                "desc": "Serbia’s longtime leader Aleksander Vučić has been swept out of power by a historic student-led opposition movement against Vučić’s right-wing Serbian Progressive Party. Candidates from the Student List, who are not students themselves but largely first-time politicians selected by student-led popular assemblies, won a majority of seats in Sunday’s parliamentary elections, marking a seismic shift in Serbian politics. Their victory comes two years into a student-led movement sparked by the",
+                "image": "https://www.democracynow.org/images/story/54/84054/full_hd/SEG2-Serbia-Celebrations-1.jpg",
+                "url": "https://www.democracynow.org/2026/10/26/serbia_aleksandar_vucic",
+                "source": "Democracy Now!",
+                "date": "2026-10-26T18:08:21Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "NFL kickers are 167-for-170 from inside 37 yards. Trey Smack had 2 of the 3 misses Sunday.",
                 "desc": "Once an NFL offense gets inside the 20-yard line, coming away with at least a field goal should be just about a sure thing.",
@@ -2620,99 +2710,99 @@
                 "source": "Variety",
                 "date": "2026-10-25T16:13:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "NFL Week 7 injuries to monitor for Sunday's games",
-                "desc": "NFL.com keeps you up to date with all of the latest injury updates ahead of Week 7's Sunday games.",
-                "image": "https://static.www.nfl.com/image/upload/t_editorial_landscape_12_desktop/league/ouxb0efeljeylsbyapbj",
-                "url": "https://www.nfl.com/news/week-7-injuries-sunday-pregame-2026-nfl-season",
-                "source": "NFL.com",
-                "date": "2026-10-25T12:33:54Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Florida A&M shooting: 11 shot, including children, outside football stadium",
-                "desc": "A 12th person was injured fleeing from the scene, police said.",
-                "image": "https://www.syracuse.com/resizer/v2/TNXFJCRVRZHVVOTK55LA3TMUPY.jpg?auth=2b20ca8884b20abaed16a6ba8289e2b5e0f4ccb36ace4516f9d4c716223a4aaf&width=1280&smart=true",
-                "url": "https://www.syracuse.com/us-news/2026/10/florida-am-shooting-11-shot-including-children-outside-football-stadium.html",
-                "source": "Syracuse.com",
-                "date": "2026-10-25T12:13:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "North Korea's Kim Jong Un touts ties, opens bridge with China on first trip in a year",
-                "desc": "The North Korean leader used the trip to reaffirm ties with its powerful neighbor.",
-                "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/25/9dbf78f5-5bf6-4bda-8542-edc4afe73f3e/thumbnail/1200x630/3d1d50ff3ed157707e55423dbcbad856/ap26298089453987.jpg",
-                "url": "https://www.cbsnews.com/news/north-korea-kim-jong-un-china-visit-bridge/",
-                "source": "CBS News",
-                "date": "2026-10-25T12:09:13Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "How to Watch Steelers vs. Saints: TV Channel, Live Stream, Time - October 25, 2026",
-                "desc": "The Saints head into this Week 7 NFL matchup against the Steelers on Sunday, October 25, 2026 at 9:30 AM EDT at Stade de France in Saint-Denis, France,...",
-                "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/a403234a893286ae4f4460b110b66ffc89951a6d96c99e5fc89bf3c58111344f.png?ve=1&tl=1",
-                "url": "https://www.foxsports.com/stories/nfl/how-to-watch-steelers-vs-saints-tv-channel-live-stream-time-october-25-2026",
-                "source": "FOX Sports",
-                "date": "2026-10-25T12:00:43Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Marc Lore’s Wonder expands, mulls IPO",
-                "desc": "Wonder is leaning into automation and user-built restaurants as founder Marc Lore prepares the startup for a potential IPO.",
-                "image": "https://image.cnbcfm.com/api/v1/image/108448204-1792698576376-gettyimages-2235177281-McGregor250915NYCbusinesses04.jpeg?v=1792698756&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/10/25/wonder-ipo-texas-automation.html",
-                "source": "CNBC",
-                "date": "2026-10-25T12:00:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Tom Brady & Candice Swanepoel Are Reportedly Dating, Source Shares Details About Their Romance",
-                "desc": "Tom Brady and Candice Swanepoel are reportedly a new couple! The 49-year-old retired NFL quarterback and 38-year-old Victoria’s Secret supermodel […]",
-                "image": "https://s.yimg.com/lo/mysterio/api/b0b856ffca84314aebdb63d5af71356b4522afac3ca3e45248561223337db967/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fjust_jared_884%2F39c72d89e4bc303f275aa4b10e87effc.jpg",
-                "url": "https://www.yahoo.com/entertainment/celebrity/articles/tom-brady-candice-swanepoel-reportedly-115818296.html",
-                "source": "Yahoo",
-                "date": "2026-10-25T11:58:18Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Some iPhone Duo displays are cracking, seemingly all in the same way",
-                "desc": "Following the iPhone Duo launch on Friday, a number of owners are reporting that their inner screens have cracked and...",
-                "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iphone-duo-display-crack-issue.jpg?quality=82&strip=all&resize=1200,628",
-                "url": "https://9to5mac.com/2026/10/25/iphone-duo-displays-cracking/",
-                "source": "9to5Mac",
-                "date": "2026-10-25T11:45:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "How Ohio Trump Voters Reacted to Vivek’s Attack Ad",
-                "desc": "He spent millions smearing Amy Acton, prompting national criticism. But how low is too low for Trump voters?",
-                "image": "https://substackcdn.com/image/fetch/$s_!r4M1!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6de3ff3b-4247-4a9c-86b4-fba9d97109fa_3000x1688.jpeg",
-                "url": "https://www.thebulwark.com/p/how-ohio-trump-voters-reacted-to-vivek-ramaswamy-attack-ad-amy-acton-smear",
-                "source": "The Bulwark",
-                "date": "2026-10-25T11:29:33Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Kris Jenner upstages Kim Kardashian in Elizabeth Taylor's $74k scorpion cloak",
-                "desc": "Kris Jenner attended the 21st Rome Film Festival wearing Elizabeth Taylor's famous scorpion cloak designed by Tiziani Roma, which was auctioned off in 2011 for $74,500.",
-                "image": "https://s.yimg.com/lo/mysterio/api/54849d326a91ddcd163a03c3e511ccf6386b4fd312d3d649fbae6bb2320af0fc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhello_us_861%2Ff4d2e618417dced2c713e56eb2f5b110.jpg",
-                "url": "https://www.yahoo.com/entertainment/celebrity/articles/kris-jenner-upstages-kim-kardashian-112926658.html",
-                "source": "Yahoo",
-                "date": "2026-10-25T11:29:26Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Trump administration has pushed off 13% of Americans enrolled in food stamps",
-                "desc": "Stakeholders concerned more people at risk of food insecurity after One Big Beautiful Act took effect",
-                "image": "https://i.guim.co.uk/img/media/bbe436fb2fa0e6dfadfbda9fd4ef7fd3c835a354/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d924e20ed358296e743cb01d72c79878",
-                "url": "https://www.theguardian.com/us-news/2026/oct/25/trump-food-stamp-cuts",
-                "source": "The Guardian",
-                "date": "2026-10-25T11:01:00Z",
-                "priority": "STANDARD"
             }
         ],
         "business": [
+            {
+                "title": "AI’s boost to the U.S. economy is nearing its peak, Goldman says, as Apollo finds ‘zero financial payoff’ outside Big Tech",
+                "desc": "Apollo’s Torsten Slok rocked Wall Street with his take that AI returns just aren't there, then Goldman’s Jan Hatzius flagged two major downsides to growth.",
+                "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2297239919-e1793034129468.jpg?resize=1200,600",
+                "url": "https://fortune.com/2026/10/26/ai-zero-financial-payoff-outside-big-tech-apollo-slok-goldman-peak/",
+                "source": "Fortune",
+                "date": "2026-10-26T18:52:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Dollar General overcharged shoppers, FTC and states allege in lawsuit",
+                "desc": "Dollar General repeatedly charged more ​than advertised prices even after receiving tens of ‌thousands of consumer complaints, the US Federal Trade Commission and 20 states alleged in a lawsuit filed on Monday.",
+                "image": "https://www.reuters.com/resizer/v2/2DA5XG5N5FMQHBSWALBTVWQR4E.jpg?auth=8e1ae6e5c3a7c0cc4c7874185801a8f1408478b95625ac5a678b1dd45916880b&height=1005&width=1920&quality=80&smart=true",
+                "url": "https://www.reuters.com/world/us-20-states-sue-dollar-general-alleged-overcharges-2026-10-26/",
+                "source": "Reuters",
+                "date": "2026-10-26T18:51:57Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "ICE plan to buy robot dogs spurs protest from hundreds of Boston Dynamics employees",
+                "desc": "US robotics company stands by ICE deal as more than 300 employees warn of risk.",
+                "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Radeco-Cerberus-robot-1152x648.jpg",
+                "url": "https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/",
+                "source": "Ars Technica",
+                "date": "2026-10-26T18:50:41Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "J&J's potential 'game-changer' drug",
+                "desc": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108295877-1776904195815-gettyimages-2262967294-20090101260225-99-646971.jpeg?v=1777513711&w=1920&h=1080",
+                "url": "https://www.cnbc.com/investingclub/2026/10/26/jjs-potential-game-changer-drug-plus-what-microsofts-buyouts-mean.html",
+                "source": "CNBC",
+                "date": "2026-10-26T18:45:33Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Skydance Is Offering Employees Voluntary Buyouts Ahead of Layoffs, Adopts 5-Day-per-Week In-Office Policy",
+                "desc": "Skydance, as it embarks on the work to integrate the businesses of Paramount and Warner Bros. Discovery, is offering certain employees a voluntary buyout in a \"one-time offer.\"",
+                "image": "https://variety.com/wp-content/uploads/2026/09/David-Ellison-Ynon-Kreiz.jpg?w=1000&h=563&crop=1",
+                "url": "https://variety.com/2026/film/news/skydance-voluntary-buyouts-layoffs-5-days-per-week-in-office-policy-1236931402/",
+                "source": "Variety",
+                "date": "2026-10-26T18:45:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "FTC, 20 states sue Dollar General over prices",
+                "desc": "The Federal Trade Commission and 20 states have filed a lawsuit against Dollar General, claiming the retailer has charged customers more than advertised prices.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108234580-1764611702760-gettyimages-2217834647-DOLLAR_TREE_EARNS.jpeg?v=1764611746&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/10/26/ftc-dollar-general-lawsuit.html",
+                "source": "CNBC",
+                "date": "2026-10-26T18:37:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Texas Roadhouse Responds to Customer’s Viral Claims That He Was Given $20 Steak Instead of the $30 Cut He Ordered 3 Times",
+                "desc": "“While we can’t confirm this happened on multiple occasions, when Mr. Card brought this to our attention; it was made right by our team,” Texas Roadhouse told PEOPLE",
+                "image": "https://s.yimg.com/lo/mysterio/api/5e326d6a5e80891f1f008dd74139239f9b2a2ae995ad59e211bb9cd6903bfa73/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Ffd14d2836ee39a6b932ea1e2f9071082.jpg",
+                "url": "https://www.yahoo.com/lifestyle/articles/texas-roadhouse-responds-customer-viral-183620983.html",
+                "source": "Yahoo",
+                "date": "2026-10-26T18:36:20Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump Accounts auto-enrollment explained and how to claim your funds",
+                "desc": "Trump Accounts have reached nearly 70 million since launching July 4th. Parents must claim their child's custodial account to receive the $1,000 seed contribution.",
+                "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/10/0/0/children-banner-white-house.jpg?ve=1&tl=1",
+                "url": "https://www.foxbusiness.com/economy/how-parents-can-claim-childs-trump-account-possible-1000-seed-contribution",
+                "source": "Fox Business",
+                "date": "2026-10-26T18:31:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Netflix Price Prediction: Where the Stock Goes After a Year of Doubts",
+                "desc": "Netflix just beat earnings and still got punished, losing nearly half its value over the past year while its margins quietly widened. Something in that math does not add up, and the answer shapes where the stock goes from here.",
+                "image": "https://247wallst.com/wp-content/uploads/2026/04/14019907992_0544000a68_b.jpg",
+                "url": "https://247wallst.com/investing/2026/10/26/netflix-price-prediction-where-the-stock-goes-after-a-year-of-doubts/",
+                "source": "24/7 Wall St.",
+                "date": "2026-10-26T18:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ex-Yahoo CEO Marissa Mayer slammed for using AI to write daughter's birthday tribute",
+                "desc": "Former Yahoo CEO Marissa Mayer faced backlash after revealing she used her AI app, Dazzle, to write three bullet points describing her daughter.",
+                "image": "https://nypost.com/wp-content/uploads/sites/2/2026/10/newspress-collage-jxmgr4k2p-1793033512609.jpg?quality=75&strip=all&1793019125&w=1200",
+                "url": "https://nypost.com/2026/10/26/tech/ex-yahoo-ceo-marissa-mayer-slammed-for-using-ai-to-write-daughters-birthday-tribute/",
+                "source": "New York Post",
+                "date": "2026-10-26T18:24:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "XBOX Game Pass Is Coming to Eligible T-Mobile Customers",
                 "desc": "Today, T-Mobile announced T-Mix, giving customers in the U.S. more choice and flexibility over the benefits included in their wireless plan, including Today, T-Mobile announced T-Mix, giving customers in the U.S. more choice and flexibility over the benefits included in their wireless plan, including XBOX Game Pass.",
@@ -3162,99 +3252,99 @@
                 "source": "USA Today",
                 "date": "2026-10-25T11:04:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Americans say the economy is bad but keep spending. Don’t mistake the midterm polls for a forecast",
-                "desc": "Consumer confidence is at its lowest level since 2014, yet spending rose in August. Business leaders make the same mistake with election polls.",
-                "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2288261857-e1792689317642.jpg?resize=1200,600",
-                "url": "https://fortune.com/2026/10/25/midterm-elections-polling-consumer-sentiment/",
-                "source": "Fortune",
-                "date": "2026-10-25T10:02:16Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Bill Gates Sees 20 Years of Turmoil Before AI Creates 'True Abundance'",
-                "desc": "Bill Gates says AI will solve many of the world's problems, but the next 20 years will be \"as tumultuous a period as there's been in human history.\"",
-                "image": "https://i.insider.com/6adb550a2a1b5bc156b1b576?width=1200&format=jpeg",
-                "url": "https://www.businessinsider.com/bill-gates-ai-abundance-job-losses-unemployment-robots-musk-amodei-2026-10",
-                "source": "Business Insider",
-                "date": "2026-10-25T09:37:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "What's next for cancer vaccines after successful melanoma study",
-                "desc": "After 100 years of failure, scientists have developed an effective cancer vaccine. Now they need to know how widely the approach can work.",
-                "image": "https://www.statnews.com/wp-content/uploads/2026/10/IMG_5891-1024x576.jpg",
-                "url": "https://www.statnews.com/2026/10/25/mrna-cancer-vaccine-merck-moderna-esmo-intismeran-next-applications/",
-                "source": "STAT",
-                "date": "2026-10-25T08:34:57Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The U.S. military and NASA have power problems. Nuclear microreactors might solve both",
-                "desc": "Microreactors could power military operations from the Arctic to the moon—and even fuel the search for extraterrestrial life.",
-                "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/Mark-0-Build-INL.jpg?resize=1200,600",
-                "url": "https://fortune.com/2026/10/25/us-military-nasa-nuclear-microreactors/",
-                "source": "Fortune",
-                "date": "2026-10-25T08:06:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "How Pepsi fell behind in the cola wars-and then lost KFC",
-                "desc": "KFC’s switch to Coke is the latest sign of a decades-long slide, and PepsiCo’s CEO says fixing soda is now a priority.",
-                "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2284663174.jpg?resize=1200,600",
-                "url": "https://fortune.com/2026/10/25/pepsico-lost-cola-wars-kfc-coke-ceo-ramon-laguarta/",
-                "source": "Fortune",
-                "date": "2026-10-25T08:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Borr Drilling rig sinks off Gabon, one person dead and four missing",
-                "desc": "Borr Drilling's Prospector 5 rig sank late on Saturday off the coast of Mayumba, Gabon, killing one ​employee and leaving four others missing among the 115 people on board, ‌three sources familiar with the matter said on Sunday.",
-                "image": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true",
-                "url": "https://www.reuters.com/world/africa/borr-drilling-rig-sinks-offshore-gabon-five-personnel-missing-2026-10-25/",
-                "source": "Reuters",
-                "date": "2026-10-25T06:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "SF Muni ends subway service due to car in tunnel; driver fled",
-                "desc": "A car drove into the Muni tunnel at Embarcadero on Saturday afternoon, halting train service downtown. Police are investigating it as a hit-and-run.",
-                "image": "https://s.hdnux.com/photos/01/67/56/47/31386072/5/rawImage.jpg",
-                "url": "https://www.sfchronicle.com/sf/article/muni-tunnel-train-car-22492870.php",
-                "source": "San Francisco Chronicle",
-                "date": "2026-10-25T06:04:11Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Dow Jones Futures: Microsoft, Google, Amazon Lead Earnings In Doom-And-Bloom Market",
-                "desc": "Dow Jones futures: The S&P 500 and Nasdaq are below key levels, but many non-AI stocks are in buy areas. Microsoft, Google, Amazon loom.",
-                "image": "https://www.investors.com/wp-content/uploads/2023/08/Stock-robotFlowers-adobe.jpg",
-                "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-microsoft-google-amazon-earnings-what-to-do/",
-                "source": "Investor's Business Daily",
-                "date": "2026-10-25T05:11:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Salt Lake City International Airport celebrates end of construction",
-                "desc": "The final piece of Concourse B at Salt Lake City International Airport will open in a few days, marking the end of a 12-year project, but Saturday was about celebrating the project itself.",
-                "image": "https://img.ksl.com/slc/3206/320676/32067631.jpeg?filter=kslv2/responsive_story_lg",
-                "url": "https://www.ksl.com/article/51640693/salt-lake-city-international-airport-celebrates-end-of-construction",
-                "source": "KSL",
-                "date": "2026-10-25T04:32:57Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Latham McDonald's unlawfully dumped grease down storm drain",
-                "desc": "A McDonald's crew member was caught on camera dumping cooking oil and grease down Latham's stormwater system.",
-                "image": "https://cbs6albany.com/resources/media2/16x9/1920/1320/center/90/6465a99d-4ff4-42e4-a6c5-d98eb663bf19-LathamMcDonalds1.jpg",
-                "url": "https://cbs6albany.com/news/local/latham-mcdonalds-dumped-grease-unlawfully-down-storm-drain",
-                "source": "WRGB",
-                "date": "2026-10-25T04:29:06Z",
-                "priority": "STANDARD"
             }
         ],
         "entertainment": [
+            {
+                "title": "'Coven Academy' Renewed for Season 2 at Disney",
+                "desc": "Disney has renewed 'Coven Academy' for a second season.",
+                "image": "https://variety.com/wp-content/uploads/2026/09/180461_0209_d0f99131.jpeg?w=1000&h=563&crop=1",
+                "url": "https://variety.com/2026/tv/news/coven-academy-renewed-season-2-disney-1236931375/",
+                "source": "Variety",
+                "date": "2026-10-26T19:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Dallas Cowboys cheerleaders sue My Chemical Romance over brand infringement",
+                "desc": "It stems from MCRs stage show.",
+                "image": "https://platform.sbnation.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-26-at-2.16.05-PM.png?quality=90&strip=all&crop=0%2C0.12362822265833%2C100%2C99.752743554683&w=1200",
+                "url": "https://www.sbnation.com/nfl/1133829/dallas-cowboys-cheerleaders-sue-my-chemical-romance",
+                "source": "SB Nation",
+                "date": "2026-10-26T18:56:04Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Craig Melvin begs for help during 'really awkward' 'Today' show exchange with Parker Posey",
+                "desc": "Craig Melvin endured an awkward Today show interview when Parker Posey misheard him saying the word \"horror.\"",
+                "image": "https://pagesix.com/wp-content/uploads/sites/3/2026/10/146550727.jpg?quality=75&strip=all&w=1200",
+                "url": "https://pagesix.com/2026/10/26/entertainment/craig-melvin-begs-for-help-during-really-awkward-today-show-exchange-with-parker-posey/",
+                "source": "Page Six",
+                "date": "2026-10-26T18:52:20Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Walter Koenig, actor who played Chekov on original ‘Star Trek’ series, dies at 90",
+                "desc": "Walter Koenig, the actor who played Chekov on the original “Star Trek” television series, died as one of the final surviving cast members of the beloved show, his representative confirmed on Monday.",
+                "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261026-george-takei-walter-koenig-ONETIMEUSE-mn-1315-ae5500.jpg",
+                "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/walter-koenig-actor-played-chekov-original-star-trek-series-dies-90-rcna605743",
+                "source": "NBC News",
+                "date": "2026-10-26T18:50:06Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Why Dax Shepard initially refused to marry Kristen Bell — and what changed",
+                "desc": "Dax Shepard initially refused to tie the knot with Kristen Bell because he didn't believe in marriage, he revealed on his \"Armchair Expert\" podcast Monday.",
+                "image": "https://pagesix.com/wp-content/uploads/sites/3/2026/10/146553033-1.jpg?quality=75&strip=all&w=1200",
+                "url": "https://pagesix.com/2026/10/26/celebrity-news/why-dax-shepard-initially-refused-to-marry-kristen-bell-and-what-changed/",
+                "source": "Page Six",
+                "date": "2026-10-26T18:44:51Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "A deception expert says Elizabeth Holmes doc ‘You Can See Everything’ hinges on one tiny word",
+                "desc": "A University of Puget Sound professor who studies deception says Holmes may have mastered “paltering,” using true statements to create false impressions. Nathan Fielder’s hit documentary can’t settle whether she knows she’s doing it.",
+                "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-1359189917.jpg?resize=1200,600",
+                "url": "https://fortune.com/2026/10/26/elizabeth-holmes-you-can-see-everything-lying-expert-paltering-nathan-fielder/",
+                "source": "Fortune",
+                "date": "2026-10-26T18:44:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'All My Children' star Alan Dysert dead at 75 after incurable cancer diagnosis",
+                "desc": "\"All My Children\" star Alan Dysert died at age 75 after his \"incurable cancer\" diagnosis.",
+                "image": "https://pagesix.com/wp-content/uploads/sites/3/2026/10/146554931.jpg?quality=75&strip=all&w=1200",
+                "url": "https://pagesix.com/2026/10/26/celebrity-news/all-my-children-star-alan-dysert-dead-at-75-after-incurable-cancer-diagnosis/",
+                "source": "Page Six",
+                "date": "2026-10-26T18:14:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Keanu Reeves To Star In 'Maelstrom' At Netflix, Replacing Alan Ritchson",
+                "desc": "Keanu Reeves has taken over as star of the Netflix actioner 'Maelstrom,' replacing Alan Ritchson, sources have confirmed to Deadline.",
+                "image": "https://deadline.com/wp-content/uploads/2026/09/Keanu-Reeves.jpg?w=1024",
+                "url": "https://deadline.com/2026/10/keanu-reeves-to-star-maelstrom-netflix-alan-ritchson-1237187931/",
+                "source": "Deadline",
+                "date": "2026-10-26T18:11:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Skydance Is Offering Employees Voluntary Buyouts Ahead of Layoffs, Adopts 5-Day-per-Week In-Office Policy",
+                "desc": "Skydance, as it embarks on the work to integrate the businesses of Paramount and Warner Bros. Discovery, is offering certain employees a voluntary buyout in a \"one-time offer.\"",
+                "image": "https://variety.com/wp-content/uploads/2026/09/David-Ellison-Ynon-Kreiz.jpg?w=1000&h=563&crop=1",
+                "url": "https://variety.com/2026/film/news/skydance-voluntary-buyouts-layoffs-5-days-per-week-in-office-policy-1236931402/",
+                "source": "Variety",
+                "date": "2026-10-26T18:07:52Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Skydance Offers Buyouts As It Moves To Five",
+                "desc": "Skydance's co-CEOs have moved the staffers from the former Paramount and Warner Bros. Discovery to five days a week in the office, in person.",
+                "image": "https://deadline.com/wp-content/uploads/2026/09/David-Ellison-and-Ynon-Kreiz.jpg?w=1024",
+                "url": "https://deadline.com/2026/10/skydance-moves-five-day-in-office-policy-across-company-1237187310/",
+                "source": "Deadline",
+                "date": "2026-10-26T18:01:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Excitement grows for new A Court of Thorns and Roses book",
                 "desc": "Dozens will be gathering at Wolverhampton Arts Centre to celebrate the series' newest release.",
@@ -3704,99 +3794,99 @@
                 "source": "Yahoo",
                 "date": "2026-10-25T10:35:55Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Meghan cut off contact with her father Thomas Markle last year over sex abuse claims",
-                "desc": "Duchess of Sussex wrote her father a letter telling him that he would never meet his grandchildren, Prince Archie and Princess Lilibet, and insisting she would never contact him again",
-                "image": "https://static.independent.co.uk/2026/10/23/10/39/b615b205-ea81-4952-9536-8f9aab36cbdb-copy.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
-                "url": "https://www.independent.co.uk/news/uk/home-news/meghan-markle-thomas-markle-letter-abuse-allegations-b3072887.html",
-                "source": "The Independent",
-                "date": "2026-10-25T10:21:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Giada De Laurentiis Fans Share Their Support After Heartbreaking News: “Our Hearts Are Broken”",
-                "desc": "Celebrity chef Giada De Laurentiis announced the death of her cat, Bella, and she wrote a heartbreaking Instagram tribute on October 20.",
-                "image": "https://hermes.media.static.aol.com/media/2026/10/25/87f7fa06-5f17-31b5-b41e-1a8cdbd6cb52/b5173292-ff38-4ef9-8216-a4be1c9d2fc1.jpeg",
-                "url": "https://www.aol.com/articles/giada-laurentiis-fans-share-support-100300000.html",
-                "source": "AOL.com",
-                "date": "2026-10-25T10:03:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Tal, Alon and Oren Alexander set to be sentenced for sex trafficking",
-                "desc": "Three brothers who once lived at the height of wealth and society in New York and Miami could face life in prison for sex trafficking more than a dozen women and girls when they are sentenced Tuesday in federal court in Manhattan.",
-                "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2188801208.jpg?c=16x9&q=w_800,c_fill",
-                "url": "https://www.cnn.com/2026/10/25/us/alexander-brothers-sentencing-sex-trafficking",
-                "source": "CNN",
-                "date": "2026-10-25T10:00:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Weekly Horoscope Readings for Every Zodiac Sign: Oct. 25",
-                "desc": "Each week, the Cut’s astrology expert, Claire Comstock-Gay (aka Madame Clairevoyant) reads the weekly horoscope for every zodiac sign.",
-                "image": "https://pyxis.nymag.com/v1/imgs/8c3/0df/b376c7231741790c78e158ada91a1bde60-scorpio-weekly-1.1x.rsocial.w1200.jpg",
-                "url": "https://www.thecut.com/article/weekly-horoscope-madame-clairevoyant-week-october-25-2026.html",
-                "source": "The Cut",
-                "date": "2026-10-25T09:00:26Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Gary Sinise On The Power Of Celebrity",
-                "desc": "Fame can be tricky, but Gary Sinise figured out how to use celebrity status to do some good in the world. He's been particularly helpful for veterans' causes.",
-                "image": "https://www.tvline.com/img/gallery/quote-of-the-day-gary-sinise-using-celebrity-for-good/l-intro-1792784937.jpg",
-                "url": "https://www.tvline.com/2295787/quote-of-the-day-gary-sinise-using-celebrity-for-good/",
-                "source": "TVLine",
-                "date": "2026-10-25T08:25:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "From Elizabeth Taylor to Kim Kardashian and Kris Jenner: The Starry History of the Scorpio Cape",
-                "desc": "At the “All’s Fair” premiere in Rome, Kris Jenner paid homage to Elizabeth Taylor, Grace Kelly, and Kim Kardashian with a piece of fashion history.",
-                "image": "https://assets.vogue.com/photos/6addba1c32c6ea952d8e9578/16:9/w_1280,c_limit/2301812202",
-                "url": "https://www.vogue.com/article/elizabeth-taylor-scorpio-cape-kim-kardashian-kris-jenner",
-                "source": "Vogue",
-                "date": "2026-10-25T08:24:39Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Hilarious NYC bar owner goes viral for life-changing banter with Conan O’Brien on ‘SubwayTakes’",
-                "desc": "Brooklyn bar owner Debbie Shields went viral after her subway banter with Conan O'Brien garnered 1.3 million views and 7,000 followers for her bar.",
-                "image": "https://nypost.com/wp-content/uploads/sites/2/2026/10/newspress-collage-rmn1zwy9v-1792906374102.jpg?quality=75&strip=all&1792892013&w=1200",
-                "url": "https://nypost.com/2026/10/25/us-news/nyc-bar-owner-debbie-shields-goes-viral-for-life-changing-banter-with-conan-obrien-on-subwaytakes/",
-                "source": "New York Post",
-                "date": "2026-10-25T06:46:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Macklemore Calls for ‘Free Palestine’ and Speaks Out Against ICE",
-                "desc": "Macklemore returned to the stage at Red Rocks and doubled down on his “free Palestine” message following his removal from Ed Sheeran’s tour.",
-                "image": "https://www.billboard.com/wp-content/uploads/2026/09/macklemore-red-rocks-show-tour-date-2026_08b537.jpg?w=1024",
-                "url": "https://www.billboard.com/music/music-news/macklemore-free-palestine-red-rocks-ed-sheeran-tour-exit-1236367576/",
-                "source": "Billboard",
-                "date": "2026-10-25T05:26:52Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Tom Brady dating supermodel Candice Swanepoel: report",
-                "desc": "NFL star Tom Brady is reportedly dating Victoria's Secret supermodel Candice Swanepoel, four years after his divorce from Gisele Bündchen.",
-                "image": "https://pagesix.com/wp-content/uploads/sites/3/2026/10/146399172.jpg?quality=75&strip=all&w=1200",
-                "url": "https://pagesix.com/2026/10/24/celebrity-news/tom-brady-dating-supermodel-candice-swanepoel-report/",
-                "source": "Page Six",
-                "date": "2026-10-25T03:29:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Anthropic Sued for Using Elvis Presley Music to Train AI Models",
-                "desc": "Anthropic has been sued for allegedly using 274 Elvis Presley songs to train AI models.",
-                "image": "https://www.hollywoodreporter.com/wp-content/uploads/2025/10/EPiC-Stil-Photo-credit-EPiC-Elvis-Presley-in-Concert-H-2025.jpg?w=1296&h=730&crop=1",
-                "url": "https://www.hollywoodreporter.com/music/music-industry-news/anthropic-elvis-presley-lawsuit-ai-1236739617/",
-                "source": "The Hollywood Reporter",
-                "date": "2026-10-25T02:22:54Z",
-                "priority": "STANDARD"
             }
         ],
         "sports": [
+            {
+                "title": "World Series 2026: What to watch for in Game 3 of Brewers vs. Rays",
+                "desc": "Jordan Shusterman and Jake Mintz highlight the matchup between Tampa Bay's Freddy Peralta and Milwaukee's Robert Gasser.",
+                "image": "https://s.yimg.com/lo/mysterio/api/83ab8e7a2325a29591b748b43a939481ec7b5b3cc28d8c3ace5abb9211a76988/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2Ff8416b87-2cb5-41b0-892a-a36008ca4ccc",
+                "url": "https://sports.yahoo.com/mlb/article/world-series-2026-what-to-watch-for-in-game-3-of-brewers-vs-rays-190333283.html",
+                "source": "Yahoo Sports",
+                "date": "2026-10-26T19:03:33Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Jalen Suggs Injured, Latest on Magic Star's Timeline to Return After Scary Knee Injury",
+                "desc": "Orlando Magic point guard Jalen Suggs will miss at least two weeks with a mild bone bruise in his right knee after he went down late in Sunday's 111-102 win over the New York Knicks, the team announced on Monday.",
+                "image": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2026-10/2301578061_large_cropped.jpg?w=1120&h=630",
+                "url": "https://bleacherreport.com/articles/25520428-jalen-suggs-injured-latest-magic-stars-timeline-return-after-scary-knee-injury",
+                "source": "Bleacher Report",
+                "date": "2026-10-26T18:48:57Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Sports equinox on tap with MLB, NFL, NBA, WNBA and NHL all in play at the same time",
+                "desc": "If you love sports, it's tough to beat Monday night",
+                "image": "https://i.abcnewsfe.com/a/27da2c77-e2e5-435c-a8d8-8d2dd20ff3ed/wirestory_fa91d91404961bf9f8d0f9169ecd060a_16x9.jpg?w=1600",
+                "url": "https://abcnews.com/Sports/wireStory/sports-equinox-tap-mlb-nfl-nba-wnba-nhl-137579639",
+                "source": "ABC News - Breaking News, Latest News and Videos",
+                "date": "2026-10-26T18:38:48Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "SoCon Teams Are Filling the Stats Perform FCS Top 25 Poll",
+                "desc": "Each week, fans, alumni, media and the teams themselves look to the Stats Perform FCS Top 25 Poll to see who's moving up and down.",
+                "image": "https://theanalyst.com/wp-content/uploads/2026/09/stats-perform-fcs-top-25-poll.jpg",
+                "url": "https://theanalyst.com/articles/fcs-top-25-stats-perform-football-poll-following-week-8",
+                "source": "Opta Analyst",
+                "date": "2026-10-26T18:28:13Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Baylor coaching search: Top candidates, recruiting outlook after Dave Aranda's firing",
+                "desc": "Here's an under-the-hood look at the Baylor program from the recruiting side.",
+                "image": "https://s3media.247sports.com/Uploads/Assets/365/575/14575365.JPG?width=1200&height=628&crop=1.91:1&fit=cover",
+                "url": "https://247sports.com/article/baylor-coaching-search-top-candidates-recruiting-outlook-dave-aranda-firing-291814877/",
+                "source": "247Sports",
+                "date": "2026-10-26T18:17:38Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Taylor doesn't mind wife talking trade on TikTok",
+                "desc": "Jonathan Taylor said trade rumors have \"been out there already\" so he doesn't think his wife Ayanna talking about it on social media \"really change[s] anything.\"",
+                "image": "https://nbcsports.brightspotcdn.com/dims4/default/d3dcf24/2147483647/strip/true/crop/800x450+0+315/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fea%2Faf%2F255a8f4c40b4b4bc004d3ee489dd%2Ftaylor-jonathan-800-1080-515f879e21ba85c6.jpg",
+                "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-10-26/taylor-doesnt-mind-wife-talking-trade-on-tiktok",
+                "source": "NBC Sports",
+                "date": "2026-10-26T18:05:22Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Howard Stern: Troy Aikman should be mad at ESPN, not Joe Buck",
+                "desc": "With the future of the Monday Night Football booth in disarray, Howard Stern believes Troy Aikman’s issue should be with ESPN, not Joe Buck.",
+                "image": "https://cdn1.thecomeback.com/wp-content/uploads/sites/94/2026/10/AA-Correct-Size-53.jpg",
+                "url": "https://awfulannouncing.com/espn/howard-stern-troy-aikman-joe-buck.html",
+                "source": "Awful Announcing",
+                "date": "2026-10-26T18:04:23Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Fantasy Football Drops Before Week 8? (2026)",
+                "desc": "Fantasy football drop candidates and cut list rankings before Week 8 of 2026. Is it already time to drop fantasy football players from rosters including Chris Godwin Jr., Jaylin Noel, and more?",
+                "image": "https://www.rotoballer.com/wp-content/uploads/2026/09/Tyler-Allgeier-Fantasy-Football-Rankings-Draft-Sleepers-NFL-Injury-News-icon-rotoballer-1220x813.jpg",
+                "url": "https://www.rotoballer.com/cut-list-rankings-fantasy-football-drops-before-week-8-2026/1976146",
+                "source": "RotoBaller",
+                "date": "2026-10-26T18:00:09Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "16 Yr. Old H.S. Football Star Deejay Tuiasosopo Killed By Alleged Drunk Driver",
+                "desc": "Deejay Tuiasosopo, a 16-year-old H.S. football star in Washington, was tragically killed Friday night by an alleged drunk driver ... just down the street from where he played a game hours earlier.",
+                "image": "https://imagez.tmz.com/image/d7/16by9/2026/10/26/d7fe06c454e542188c2caaf2edc974ee_xl.jpg",
+                "url": "https://www.tmz.com/2026/10/26/high-school-football-player-deejay-tuiasosopo-killed-by-alleged-drunk-driver/",
+                "source": "TMZ",
+                "date": "2026-10-26T17:43:17Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Kalen DeBoer 'hopeful' for return of Alabama starter, others against LSU",
+                "desc": "Alabama coach Kalen DeBoer spoke at the Monday Morning Quarterback Club in Birmingham.",
+                "image": "https://s3media.247sports.com/Uploads/Assets/148/454/14454148.JPG?width=1200&height=628&crop=1.91:1&fit=cover",
+                "url": "https://247sports.com/college/alabama/longformarticle/kalen-deboer-hopeful-for-return-of-alabama-starter-others-against-lsu-291817028/",
+                "source": "247Sports",
+                "date": "2026-10-26T17:39:15Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "With games against the Bills and Jaguars looming, the Ravens need Lamar Jackson",
                 "desc": "There's no uncertainty as to whether the Ravens need quarterback Lamar Jackson.",
@@ -4246,98 +4336,8 @@
                 "source": "NFL.com",
                 "date": "2026-10-25T12:33:54Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Detroit Lions updated depth chart: Week 7 vs. Packers",
-                "desc": "An updated look at the 2026 Detroit Lions’ depth chart ahead of their Week 7 game vs. the Green Bay Packers.",
-                "image": "https://platform.prideofdetroit.com/wp-content/uploads/sites/127/2026/10/gettyimages-2189666286.jpg?quality=90&strip=all&crop=0%2C8.5895914276802%2C100%2C78.534031413613&w=1200",
-                "url": "https://www.prideofdetroit.com/detroit-lions-depth-chart/178052/detroit-lions-updated-depth-chart-week-7-vs-packers",
-                "source": "Pride Of Detroit",
-                "date": "2026-10-25T12:30:29Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Bankruptcy Filing Reveals Phil Mickelson Massive LIV Golf Payout",
-                "desc": "Check out the latest on Phil Mickelson’s LIV Golf season, player payouts, and the major changes shaping the league’s future.",
-                "image": "https://heavy.com/wp-content/uploads/2026/10/GettyImages-2230498029-e1792930248568.jpg?quality=65&strip=all",
-                "url": "https://heavy.com/sports/golf/phil-mickelson-liv-golf-payments-bankruptcy-filing/",
-                "source": "Heavy.com",
-                "date": "2026-10-25T12:14:07Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Game Day Fits: Steelers arrive in style for historic Paris game",
-                "desc": "The Steelers are bringing some serious style to Paris as their quarterbacks and coach Tom Arth arrived dressed to impress for Sunday's historic game.",
-                "image": "https://kubrick.htvapps.com/htv-prod/images/2a98a47a-0277-4e59-a4ae-f7ceb214f1b8.png?crop=1.00xw%3A0.453xh%3B0%2C0.00261xh&resize=1200%3A*",
-                "url": "https://www.wtae.com/article/pittsburgh-steelers-saints-paris-game-day-fits/74240535",
-                "source": "WTAE",
-                "date": "2026-10-25T12:05:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "How to Watch Steelers vs. Saints: TV Channel, Live Stream, Time - October 25, 2026",
-                "desc": "The Saints head into this Week 7 NFL matchup against the Steelers on Sunday, October 25, 2026 at 9:30 AM EDT at Stade de France in Saint-Denis, France,...",
-                "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/a403234a893286ae4f4460b110b66ffc89951a6d96c99e5fc89bf3c58111344f.png?ve=1&tl=1",
-                "url": "https://www.foxsports.com/stories/nfl/how-to-watch-steelers-vs-saints-tv-channel-live-stream-time-october-25-2026",
-                "source": "FOX Sports",
-                "date": "2026-10-25T12:00:43Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "2 Winners, 3 Losers from Michigan Football’s OT loss to Indiana",
-                "desc": "Michigan Football took Indiana to overtime, but didn’t have enough in the end. Here are two winners, three losers after the 13-6 loss on Saturday.",
-                "image": "https://platform.maizenbrew.com/wp-content/uploads/sites/102/2026/10/gettyimages-2301821483.jpg?quality=90&strip=all&crop=0%2C10.737745662868%2C100%2C78.524508674263&w=1200",
-                "url": "https://www.maizenbrew.com/football/126119/michigan-football-winners-losers-indiana-michigan-tommy-carr-jason-beck-2026",
-                "source": "Maize n Brew",
-                "date": "2026-10-25T12:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Carlos Prates blasts ‘coward’ Islam Makhachev for UFC 336 withdrawal, vows to retire him",
-                "desc": "Carlos Prates will fight for an interim UFC title in Canada",
-                "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/10/gettyimages-2274150589.jpg?quality=90&strip=all&crop=0%2C4.7328905417288%2C100%2C78.534031413613&w=1200",
-                "url": "https://www.mmafighting.com/ufc/517703/carlos-prates-blasts-coward-islam-makhachev-for-ufc-336-withdrawal-vows-to-retire-him",
-                "source": "MMA Fighting",
-                "date": "2026-10-25T12:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Deion Sanders after Colorado's blowout loss to Oklahoma State: \"I really don't understand it\"",
-                "desc": "Deion Sanders's fourth season as head coach of the Colorado Buffaloes started with an upset of Georgia Tech and a blowout of overmatched Weber State.",
-                "image": "https://nbcsports.brightspotcdn.com/dims4/default/5a80a19/2147483647/strip/true/crop/6000x3375+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7c%2F0b%2Fe37620d94592bec547c63afeef44%2F2301440039.jpg",
-                "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/deion-sanders-after-colorados-blowout-loss-to-oklahoma-state-i-really-dont-understand-it",
-                "source": "NBC Sports",
-                "date": "2026-10-25T11:47:49Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Big 12, Texas lead Week 8 honorees",
-                "desc": "The results from another crazy weekend in college football produced winners and losers. We break down the highs and lows from Week 8.",
-                "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/10/25/USAT/92427916007-20261024-t-221024-z-1662842846-mt-1-usatoday-30175988-rtrmadp-3-ncaafootballbrighamyoungatcentralflorida.JPG?crop=3127,1759,x916,y632&width=3127&height=1759&format=pjpg&auto=webp",
-                "url": "https://www.usatoday.com/story/sports/ncaaf/2026/10/25/college-football-winners-losers-week-8-big-12-byu-texas/92427408007/",
-                "source": "USA Today",
-                "date": "2026-10-25T10:31:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "What UCF coach Scott Frost said after beating No. 2 BYU",
-                "desc": "UCF put on its most impressive performance of the season to secure the historic upset and remain unbeaten at home",
-                "image": "https://www.deseret.com/resizer/v2/3XK7KT4645HBHKJXLOE6N3LJBM.jpg?focal=0%2C0&auth=c777aff0166cd61e3db9b06627bdce86a0fa0f50703611ae80648b6158a44728&width=630&height=331",
-                "url": "https://www.deseret.com/sports/2026/10/25/ucf-defeats-byu-football-upset-2026-scott-frost-postgame-reaction/",
-                "source": "Deseret News",
-                "date": "2026-10-25T10:00:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "UCLA’s perfect start has one glaring flaw it must fix soon",
-                "desc": "Bob Chesney has made UCLA the second-half darlings of college football, but the Bruins must address their slow starts if they hope to reach the playoff.",
-                "image": "https://ca-times.brightspotcdn.com/dims4/default/d47c42d/2147483647/strip/true/crop/2198x1154+0+66/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F89%2Fd3%2F46ee6f5846bf9e8af60a68f241fc%2F1575531-sp-ncaa-fbc-ucla-mich-state-ajs-33.jpg",
-                "url": "https://www.latimes.com/sports/ucla/story/2026-10-25/ucla-perfect-start-glaring-flaw-bob-chesney",
-                "source": "Los Angeles Times",
-                "date": "2026-10-25T10:00:00Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-10-27T01:44:05.353926Z"
+    "lastGlobalSync": "2026-10-27T07:04:15.054788Z"
 }
