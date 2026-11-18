@@ -2,6 +2,96 @@
     "hi": {
         "general": [
             {
+                "title": "धोनी ने मैदान छोड़ा, CSK का किला नहीं! अब छठे खिताब के लिए डगआउट से करेंगे वार",
+                "desc": "पीली जर्सी में बल्ला थामे मैदान पर उतरने वाले एमएस धोनी अब IPL में खिलाड़ी के रूप में नजर नहीं आएंगे. लेकिन चेन्नई से उनका रिश्ता खत्म नहीं हुआ है. पांच बार CSK को चैम्पियन बनाने वाले 'थाला' अब मेंटर बनकर डगआउट से टीम को दिशा देंगे. जिस धोनी ने मैदान पर चेन्नई को जीतना सिखाया, अब वह अगली पीढ़ी को तैयार करेंगे. फैन्स की उम्मीद है कि माही का नया अवतार CSK को छठी ट्रॉफी तक पहुंचाने में मदद करेगा.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6afc3a1dc59a5-ms-dhoni-172724797-16x9.jpg",
+                "url": "https://www.aajtak.in/sports/cricket/story/ms-dhoni-new-role-csk-sixth-title-mission-ipl-2027-bmsp-dskc-2698934-2026-11-18",
+                "source": "AajTak",
+                "date": "2026-11-18T00:30:08Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "जम्मू-कश्मीर: कुलगाम में फिर मुठभेड़, लश्कर कमांडर लतीफ भट्ट के छिपे होने की आशंका; सुरक्षाबलों का बड़ा ऑपरेशन",
+                "desc": "जम्मू-कश्मीर के दक्षिण कश्मीर स्थित कुलगाम में सुरक्षाबलों और आतंकियों के बीच फिर मुठभेड़ शुरू हो गई है. आशंका है कि लश्कर कमांडर लतीफ भट इलाके में छिपा हुआ है. 11 नवंबर को अखरान में CRPF नाके पर हमले से पहले उमर निसार डार और लतीफ भट्ट ने कई इलाकों में रेकी की थी.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6afcf204a0352-lashkar-commander-lateef-bhat-183203439-16x9.jpg",
+                "url": "https://www.aajtak.in/india/jammu-kashmir/story/kulgam-encounter-security-forces-search-let-commander-lateef-bhat-ntc-rlch-rpti-2699243-2026-11-18",
+                "source": "AajTak",
+                "date": "2026-11-18T00:21:19Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Nvidia में जेनसन हुआंग की वापसी के रास्ते बंद! कंपनी बोर्ड चेयरमैन की दो टूक- दोबारा CEO नहीं बनाएंगे",
+                "desc": "Nvidia के बोर्ड चेयरमैन हार्वे जोन्स ने साफ कर दिया है कि कंपनी के सह-संस्थापक जेनसन हुआंग की CEO पद पर वापसी नहीं होगी. बोर्ड ने नए CEO की तलाश के लिए एग्जीक्यूटिव सर्च फर्म Heidrick & Struggles को जिम्मेदारी सौंपी है.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6afce4a5de124-jensen-huang-173500781-16x9.jpg",
+                "url": "https://www.aajtak.in/world/story/nvidia-board-rejects-jensen-huang-return-search-for-new-ceo-ntc-rlch-dskc-2699242-2026-11-18",
+                "source": "AajTak",
+                "date": "2026-11-18T00:13:48Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "रूस में बड़ा विमान हादसा, सेना का An-12 प्लेन क्रैश, क्रू समेत 19 लोगों की मौत",
+                "desc": "रूस के पश्चिमी साइबेरिया स्थित केमेरोवो क्षेत्र में मंगलवार को सैन्य परिवहन विमान An-12 दुर्घटनाग्रस्त हो गया. हादसे में विमान में सवार सभी 19 लोगों की मौत हो गई. विमान यागुनोवो गांव के पास एक सुनसान इलाके में गिरा.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6afcc4b92796b-russia-plane-crash-17184868-16x9.jpg",
+                "url": "https://www.aajtak.in/world/story/russia-military-plane-crash-siberia-kemerovo-19-killed-ntc-rlch-dskc-2699238-2026-11-18",
+                "source": "AajTak",
+                "date": "2026-11-17T21:20:22Z",
+                "priority": "CRITICAL_ALERT"
+            },
+            {
+                "title": "SAFF Championship: भारत ने फाइनल में पाकिस्तान को 2-1 से हराया, 10वीं बार बना चैंपियन, लगातार तीसरी बार जीता खिताब",
+                "desc": "भारतीय फुटबॉल टीम ने SAFF चैंपियनशिप के रोमांचक फाइनल में पाकिस्तान को 2-1 से हराकर रिकॉर्ड 10वीं बार खिताब अपने नाम किया. भारत ने लगातार तीसरी बार यह टूर्नामेंट जीता.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6afc987f61790-sandip-mandi-174019758-16x9.png",
+                "url": "https://www.aajtak.in/sports/football/story/indian-football-team-wins-saff-championship-10th-title-ntc-pvp-dskc-2699227-2026-11-17",
+                "source": "AajTak",
+                "date": "2026-11-17T18:11:57Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Stocks to Watch: 18 नवंबर को फोकस में रहेंगे ये 9 स्टॉक्स, टाटा ग्रुप के शेयरों पर भी रहेगी नजर",
+                "desc": "Stocks to Watch: 18 नवंबर को 9 कंपनियों के शेयर अहम खबरों के चलते फोकस में रहेंगे। साथ ही, टाटा संस की लिस्टिंग पर विवाद के चलते टाटा ग्रुप के शेयरों पर भी निवेशकों की नजर रहेगी। जानिए डिटेल। - stocks to watch on 18 november hcltech prime focus spicejet and other companies in focus along with tata group shares",
+                "image": "https://images.moneycontrol.com/static-hindinews/2026/11/Stocks-to-watch-red.jpg",
+                "url": "https://hindi.moneycontrol.com/news/markets/stocks-to-watch-on-18-november-hcltech-prime-focus-spicejet-and-other-companies-in-focus-along-with-tata-group-shares-2469454.html",
+                "source": "Moneycontrol Hindi",
+                "date": "2026-11-17T17:29:21Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'न भारत, न ही कोई और देश...' शेख हसीना की वापसी पर नई दिल्ली ने ऐसा क्या कहा कि तिलमिला उठा बांग्लादेश?",
+                "desc": "विदेश मंत्रालय के प्रवक्ता रणधीर जायवाल ने पिछले शुक्रवार को हसीना के प्रत्यर्पण की ढाका की मांग के बारे में पूछे जाने पर कहा था कि यह एक कानूनी मामला है और इस पर उसी के अनुसार कार्रवाई की जाएगी।, International Hindi News - Hindustan",
+                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/11/17/1600x900/logo/hasina_india_bangaldesh_1791045258891_iuLA_1791045_1794935595258_rT3j_1794935597403_WqiA_722e7ac9-6fa9-491e-9880-935dbfeaac98_OwSi.png",
+                "url": "https://www.livehindustan.com/international/neither-india-nor-any-country-why-bangladesh-got-frustrated-over-sheikh-hasina-return-to-dhaka-201794935152407.html",
+                "source": "Hindustan",
+                "date": "2026-11-17T17:15:52Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'राम किसी एक धर्म के नहीं...' बोले जावेद अख्तर, भगवान राम को बताया आदर्श, कब देखेंगे रामायण?",
+                "desc": "जावेद अख्तर ने रामायण फिल्म पर अपनी प्रतिक्रिया दी है. उन्होंने फिल्म अभी तक नहीं देखी है. जावेद ने भगवान राम को केवल एक व्यक्ति नहीं बल्कि आदर्श, नैतिकता और जीवन जीने का तरीका बताया.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6afc8974e0985-javed-akhtar-161952994-16x9.jpg",
+                "url": "https://www.aajtak.in/entertainment/bollywood-news/story/javed-akhtar-on-ranbir-kapoor-film-ramayana-said-lord-ram-ram-is-morality-religion-sonia-gandhi-bool-tmovh-dskc-2699202-2026-11-17",
+                "source": "AajTak",
+                "date": "2026-11-17T17:10:53Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "मथुरा मंथन के बाद अमित शाह से मिले सीएम योगी, चुनावी रणनीति पर चर्चा",
+                "desc": "उत्तर प्रदेश के मुख्यमंत्री योगी आदित्यनाथ ने नई दिल्ली में केंद्रीय गृह मंत्री अमित शाह से शिष्टाचार भेंट की. सीएम योगी ने एक्स पर पोस्ट करके इस मुलाकात की जानकारी दी है.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6afc87f56a477-yogi-adityanath-amit-shah-175932438-16x9.jpg",
+                "url": "https://www.aajtak.in/elections/assembly-chunav/story/yogi-adityanath-amit-shah-delhi-meeting-assembly-election-discussion-ntc-pvp-dskc-2699205-2026-11-17",
+                "source": "AajTak",
+                "date": "2026-11-17T17:03:39Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "CM योगी ने गृहमंत्री अमित शाह से की मुलाकात, यूपी चुनाव को लेकर हुई बात?",
+                "desc": "यूपी चुनाव को लेकर सियासी हलचल तेज है. इस बीच मुख्यमंत्री योगी आदित्यनाथ ने गृहमंत्री अमित शाह से की मुलाकात की है. इससे पहले योगी बीजेपी अध्यक्ष नितिन नवीन के घर पर भी पहुंचे थे.",
+                "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/17/6a4f41e780da0ca2dd49561b6ffd768e1794933771627487_original.jpg?impolicy=abp_cdn&imwidth=1200",
+                "url": "https://www.abplive.com/states/up-uk/cm-yogi-adityanath-meets-amit-shah-in-delhi-ahead-up-election-2027-3216195",
+                "source": "ABP News",
+                "date": "2026-11-17T16:45:48Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "पुतिन का 'प्राइड', 30000 करोड़ में बना, जेलेंस्की की सेना ने उड़ा दिया, कहानी क्रीमिया ब्रिज की",
                 "desc": "क्रीमिया ब्रिज पर यह पहला हमला नहीं है. अक्टूबर 2022 में ट्रक बम विस्फोट से पुल को नुकसान पहुंचा था, जिसमें चार लोगों की मौत हुई थी. जुलाई 2023 में भी यूक्रेन ने समुद्री ड्रोन से इस पुल को निशाना बनाया था. जून 2025 में भी पुल के सहायक ढांचे को नुकसान पहुंचाने का दावा किया गया था. लेकिन इस बार यूक्रेन ने इस ब्रिज पर सबसे बड़ा हमला किया है.",
                 "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6afc78a76a9f7-crimea-bridge-attacked-17541435-16x9.jpg",
@@ -450,99 +540,36 @@
                 "source": "AajTak",
                 "date": "2026-11-16T08:40:40Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "उगते सूरज को अर्घ्य देने के साथ छठ पूजा संपन्न, दिल्ली-मुंबई से पटना तक घाटों पर दिखा श्रद्धा का संगम",
-                "desc": "चार दिवसीय छठ महापर्व उगते सूर्य को अर्घ्य देने के साथ संपन्न हो गया है. दिल्ली-मुंबई से लेकर बिहार, उत्तर प्रदेश और झारखंड तक श्रद्धालुओं की भारी भीड़ उमड़ी और घाट छठी मैया के जयकारों से गूंज उठे.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6afa53b8d2d66-chhath-puja-2026-165208132-16x9.jpg",
-                "url": "https://www.aajtak.in/india/news/story/chhath-puja-2026-concludes-offerings-to-rising-sun-thekua-36-hour-fasting-ends-ntc-rlch-dskc-2697308-2026-11-16",
-                "source": "AajTak",
-                "date": "2026-11-15T23:42:24Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "जेनसन हुआंग फिर बनेंगे Nvidia के CEO? एलन मस्क समेत टेक जगत के दिग्गजों ने शुरू की मुहिम",
-                "desc": "Nvidia के पूर्व CEO जेनसन हुआंग एक बार फिर कंपनी की कमान संभालने पर विचार कर रहे हैं. रिपोर्ट के मुताबिक, उन्होंने अपने करीबी लोगों से वापसी की संभावना पर चर्चा की है. वहीं एलन मस्क और एपिक गेम्स के CEO टिम स्वीनी समेत सिलिकॉन वैली के कई दिग्गज भी उन्हें वापस लाने के लिए अभियान चला रहे हैं.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6afa2bce2c920-jensen-huang-150148923-16x9.jpg",
-                "url": "https://www.aajtak.in/world/story/jensen-huang-nvidia-ceo-comeback-elon-musk-tech-silicon-valley-chinese-gf-ntc-rlch-dskc-2697304-2026-11-16",
-                "source": "AajTak",
-                "date": "2026-11-15T22:10:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "दिसंबर के पहले सप्ताह में शुरू हो सकता है संसद का शीतकालीन सत्र, परिसीमन बिल पास कराने की तैयारी!",
-                "desc": "Delimitation Bill: संसद का शीतकालीन सत्र दिसंबर के पहले सप्ताह में शुरू हो सकता है। सरकार महिला आरक्षण को परिसीमन से जोड़ने वाला संविधान संशोधन विधेयक ला सकती है।",
-                "image": "https://media.assettype.com/navbharatlive%2F2026-08-29%2Fq0lfipqb%2Findian-parliament-session.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-                "url": "https://navbharatlive.com/india/parliament-winter-session-december-2026-women-reservation-delimitation-bill-ars24",
-                "source": "Navbharat Live",
-                "date": "2026-11-15T17:33:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "300 KM प्रति घंटे की रफ्तार, 400 KM तक की रेंज... चीन के इलेक्ट्रिक विमान ने पायलट के साथ भरी पहली उड़ान",
-                "desc": "इस विमान की अधिकतम क्रूज स्पीड 300 किलोमीटर प्रति घंटा है। यह एक बार में करीब 400 किलोमीटर की दूरी तय कर सकता है। खास बात यह है कि पायलट के साथ पहली सफल उड़ान भरने से पहले इस विमान ने 19 मानवरहित परीक्षण उड़ानें पूरी की थीं।",
-                "image": "https://resize.indiatv.in/resize/newbucket/1200_-/2026/11/china-1794763654.jpg",
-                "url": "https://www.indiatv.in/world/asia/speed-of-300-km-h-range-up-to-400-km-china-electric-aircraft-completes-first-flight-with-pilot-on-board-2026-11-15-1254605",
-                "source": "India TV Hindi",
-                "date": "2026-11-15T17:32:41Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "SEBI AI Guidelines: शेयर बाजार में AI के इस्तेमाल पर नए नियम लाएगा SEBI, निवेशकों की सुरक्षा पर रहेगा जोर",
-                "desc": "SEBI AI Guidelines: शेयर बाजार में AI के इस्तेमाल को लेकर SEBI जल्द नई गाइडलाइंस जारी करेगा। इनमें कंपनियों की जवाबदेही, AI के इस्तेमाल का खुलासा और अहम फैसलों में इंसानी निगरानी जरूरी होगी। रेगुलेटर साइबर सुरक्षा, क्वांटम कंप्यूटिंग के खतरे और स्टार्टअप लिस्टिंग के नियमों पर भी काम कर रहा है। जानिए डिटेल। - sebi ai guidelines capital market artificial intelligence rules investor protection cybersecurity quantum computing startups listing",
-                "image": "https://images.moneycontrol.com/static-hindinews/2026/11/SEBI-AI-Rules.jpg",
-                "url": "https://hindi.moneycontrol.com/news/markets/sebi-ai-guidelines-capital-market-artificial-intelligence-rules-investor-protection-cybersecurity-quantum-computing-startups-listing-2467619.html",
-                "source": "Moneycontrol Hindi",
-                "date": "2026-11-15T17:30:40Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "छठ पर्व पर बयान को लेकर राज ठाकरे पर भड़के प्रशांत किशोर, 'ये आदमी...'",
-                "desc": "जन सुराज के संस्थापक प्रशांत किशोर ने कहा कि जनता ने राज ठाकरे की राजनीति समाप्त कर दी है. सुर्खियों में रहने के लिए वो अनर्गल बयानबाजी कर रहे हैं. आस्था पर सियासत नहीं होनी चाहिए.",
-                "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/15/6f9ae43fb7c574d30001ddb643b659381794742399065957_original.jpg?impolicy=abp_cdn&imwidth=1200",
-                "url": "https://www.abplive.com/states/bihar/prashant-kishor-jan-suraaj-party-attack-on-mns-raj-thackeray-statement-over-chhath-puja-ann-3215228",
-                "source": "ABP News",
-                "date": "2026-11-15T17:19:48Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'हमारी डोर अल्लाह के हाथों में लेकिन...', अखिलेश यादव पर फायर हुए असदुद्दीन ओवैसी",
-                "desc": "उत्तर प्रदेश में 2027 में होने वाले विधानसभा चुनाव को लेकर सियासी सरगर्मियां तेज हो गई हैं. असदुद्दीन ओवैसी ने अखिलेश यादव पर जमकर निशाना साधा.",
-                "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/15/8f9caae583f9a54cbeeadc6cf90e893f17947623635551200_original.jpg?impolicy=abp_cdn&imwidth=1200",
-                "url": "https://www.abplive.com/news/india/aimim-asaduddin-owaisi-target-akhilesh-yadav-over-up-assembly-elections-2027-3215316",
-                "source": "ABP News",
-                "date": "2026-11-15T17:12:20Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "अर्शदीप की शॉर्ट गेंदों ने कैसे न्यूज़ीलैंड के बल्लेबाज़ों को चकमा दिया",
-                "desc": "इस सीरीज़ में अर्शदीप ने शॉर्ट गेंदों का भरपूर उपयोग किया, हालांकि उन्होंने वोबल सीम से भी बल्लेबाज़ों को काफ़ी परेशान किया",
-                "image": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/425300/425301.6.jpg",
-                "url": "https://www.cricinfo.com/hindi/story/arshdeep-singh-becomes-most-rounded-version-of-himself-with-short-ball-and-wobble-seam-1562774",
-                "source": "Cricinfo",
-                "date": "2026-11-15T17:01:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "दुनिया के 500 ताकतवर मुस्लिमों की लिस्ट- शहबाज, मुनीर, क्राउन प्रिंस सलमान, एर्दोगन एक साथ नंबर वन",
-                "desc": "दुनिया के 500 सबसे प्रभावशाली मुस्लिमों की 2027 की सूची जारी हो गई है. पहली बार इस सूची में पांच लोगों को संयुक्त रूप से नंबर-1 स्थान दिया गया है. इनमें पाकिस्तान के प्रधानमंत्री शहबाज शरीफ और सेना प्रमुख फील्ड मार्शल आसिम मुनीर के अलावा सऊदी अरब के किंग सलमान, क्राउन प्रिंस मोहम्मद बिन सलमान और तुर्की के राष्ट्रपति रेचेप तैयप एर्दोगन शामिल हैं.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6af9d99fa3718-turkish-president-tayyip-erdogan--saudi-crown-prince-mohammed-bin-salman-and-pakistans-prime-minist-060447521-16x9.jpg",
-                "url": "https://www.aajtak.in/world/story/the-muslim-500-top-influential-muslims-of-the-world-list-asim-munir-shehbaz-sharif-prince-salman-ntcppl-dskc-2697229-2026-11-15",
-                "source": "AajTak",
-                "date": "2026-11-15T16:13:16Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "हलाल मीट न बेचने पर लंदन के सिख रेस्टोरेंट मालिक को मिलीं धमकियां, उग्र प्रदर्शन",
-                "desc": "पश्चिमी लंदन में एक भारतीय रेस्टोरेंट के बाहर सैकड़ों लोगों ने हलाल खाना नहीं बेचने के फैसले के खिलाफ प्रदर्शन किया. रेस्टोरेंट मालिक हरमन सिंह कपूर ने परिवार को धमकियां मिलने का दावा किया. प्रदर्शन से कुछ घंटे पहले कपूर को चरमपंथी तस्वीर रखने और बांटने के संदेह में गिरफ्तार किया गया.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6af9d921d55d4-london-sikh-restaurant--singhs-dining-london-150904773-16x9.png",
-                "url": "https://www.aajtak.in/world/story/london-indian-sikh-restaurant-singhs-dining-protest-over-non-halal-food-ntc-apdy-dskc-2697241-2026-11-15",
-                "source": "AajTak",
-                "date": "2026-11-15T16:11:31Z",
-                "priority": "STANDARD"
             }
         ],
         "business": [
+            {
+                "title": "Nvidia में जेनसन हुआंग की वापसी के रास्ते बंद! कंपनी बोर्ड चेयरमैन की दो टूक- दोबारा CEO नहीं बनाएंगे",
+                "desc": "Nvidia के बोर्ड चेयरमैन हार्वे जोन्स ने साफ कर दिया है कि कंपनी के सह-संस्थापक जेनसन हुआंग की CEO पद पर वापसी नहीं होगी. बोर्ड ने नए CEO की तलाश के लिए एग्जीक्यूटिव सर्च फर्म Heidrick & Struggles को जिम्मेदारी सौंपी है.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6afce4a5de124-jensen-huang-173500781-16x9.jpg",
+                "url": "https://www.aajtak.in/world/story/nvidia-board-rejects-jensen-huang-return-search-for-new-ceo-ntc-rlch-dskc-2699242-2026-11-18",
+                "source": "AajTak",
+                "date": "2026-11-18T00:13:48Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Stocks to Watch: 18 नवंबर को फोकस में रहेंगे ये 9 स्टॉक्स, टाटा ग्रुप के शेयरों पर भी रहेगी नजर",
+                "desc": "Stocks to Watch: 18 नवंबर को 9 कंपनियों के शेयर अहम खबरों के चलते फोकस में रहेंगे। साथ ही, टाटा संस की लिस्टिंग पर विवाद के चलते टाटा ग्रुप के शेयरों पर भी निवेशकों की नजर रहेगी। जानिए डिटेल। - stocks to watch on 18 november hcltech prime focus spicejet and other companies in focus along with tata group shares",
+                "image": "https://images.moneycontrol.com/static-hindinews/2026/11/Stocks-to-watch-red.jpg",
+                "url": "https://hindi.moneycontrol.com/news/markets/stocks-to-watch-on-18-november-hcltech-prime-focus-spicejet-and-other-companies-in-focus-along-with-tata-group-shares-2469454.html",
+                "source": "Moneycontrol Hindi",
+                "date": "2026-11-17T17:29:21Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "‘बोर्ड चाहे तो फिर से Nvidia सीओ बनने को तैयार’, पद छोड़ने के बाद जेनसन हुआंग का पहला बयान",
+                "desc": "जेनसन हुआंग ने कहा है कि अगर एनवीडिया का बोर्ड उनके दोबारा CEO बनने को कंपनी, कर्मचारियों, शेयरधारकों और अमेरिका के हित में मानता है, तो वह जिम्मेदारी संभालने के लिए तैयार हैं. उन्होंने बोर्ड की स्वतंत्र जांच में सहयोग करने की बात भी कही है.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6afc81a248383-former-nvidia-ceo-jensen-huang-173232840-16x9.jpg",
+                "url": "https://www.aajtak.in/world/story/jensen-huang-first-reaction-post-exit-open-to-returning-as-nvidia-ceo-ntc-apdy-dskc-2699193-2026-11-17",
+                "source": "AajTak",
+                "date": "2026-11-17T16:37:11Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "27 साल के IT प्रोफेशनल ने 6 साल में ₹1.5 करोड़ की नेटवर्थ बनाई, ₹45 हजार की सैलरी से की थी शुरुआत",
                 "desc": "Wealth Creation: एक IT प्रोफेशनल ने साल 2020 में 45 हजार रुपये के स्टाइपेंड से करियर शुरू किया। लेकिन, सिर्फ 6 साल में 1.5 करोड़ रुपये की बड़ी नेटवर्थ बना ली। जानिए कम रिटर्न के बावजूद उन्होंने इतना बड़ा फंड कैसे तैयार किया। - 27 year old it professional builds 1 point 5 crore net worth in six years starting with 45000 monthly stipend",
@@ -550,6 +577,24 @@
                 "url": "https://hindi.moneycontrol.com/news/your-money/27-year-old-it-professional-builds-1-point-5-crore-net-worth-in-six-years-starting-with-45000-monthly-stipend-2469416.html",
                 "source": "Moneycontrol Hindi",
                 "date": "2026-11-17T15:43:11Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "IPO में 90 रुपये शेयर का दाम, अब 235 रुपये के पार, एक्सपर्ट ने दिया-280 रुपये का टारगेट",
+                "desc": "बेलराइज इंडस्ट्रीज के शेयर सोमवार को 235.50 रुपये पर बंद हुए हैं। IPO में कंपनी के शेयर का इश्यू प्राइस 90 रुपये था। ब्रोकरेज हाउस जेफरीज ने कंपनी के शेयरों को खरीदने की सलाह दी है और 280 रुपये का टारगेट दिया है।, Business Hindi News - Hindustan",
+                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/11/17/1600x900/logo/Belrise_Industries_1748407938456_1794929326435_SzcI_cb36d6ec-eff5-4099-938b-34b385cdafcb_GpNj.jpg",
+                "url": "https://www.livehindustan.com/business/belrise-industries-share-crossed-235-rupee-ipo-price-90-rupee-jefferies-given-280-rupee-target-201794929154702.html",
+                "source": "Hindustan",
+                "date": "2026-11-17T15:35:13Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "ये हैं देश की सबसे ज्यादा बिकने वाली बाइक्स और स्कूटर, देखें लिस्ट",
+                "desc": "अक्टूबर का महीना भारतीय टू-व्हीलर मार्केट के लिए शानदार रहा है. इस महीने कंपनियों ने 31.21 लाख से ज्यादा गाड़ियां बेची हैं.",
+                "image": "https://cf-img-a-in.tosshub.com/sites/visualstory/wp/2026/08/Hero-Splendor-2ITG-1787027942144.jpg?size=*:675",
+                "url": "https://www.aajtak.in/visualstories/auto/top-10-bestselling-bikes-scooters-october-2026-splendor-activa-shine-jupiter-pulsar-auam-287567-17-11-2026",
+                "source": "AajTak",
+                "date": "2026-11-17T15:12:42Z",
                 "priority": "STANDARD"
             },
             {
@@ -1037,54 +1082,18 @@
                 "source": "AajTak",
                 "date": "2026-11-15T09:32:18Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Nvidia की नई CEO Colette Kress की कितनी है सैलरी? CFO रहते कमाती थीं 129 करोड़, Jensen Huang को मिलते थे 327 करोड़",
-                "desc": "Nvidia कंपनी में बड़ा फेरबदल हुआ है. 33 साल बाद कंपनी जेनसन हुआंग ने कंपनी से इस्तीफा दे दिया और सीईओ की पोस्ट छोड़ी. वहीं, मौजूदा CFO Colette Kress को अंतरिम सीईओ का पोस्ट दिया है.अब सवाल आता है कि दोनों की सैलरी कितनी है. आइए इसके बारे में डिटेल्स में जानते हैं.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6af8951197031-nvidia-interim-ceo-colette-kress-and-jensen-huang-140624635-16x9.png",
-                "url": "https://www.aajtak.in/technology/tech-news/story/nvidia-interim-ceo-colette-kress-salary-in-rupees-jensen-huang-pay-ttecr-dskc-2696521-2026-11-15",
-                "source": "AajTak",
-                "date": "2026-11-15T08:57:28Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ratan Tata के बाद मुंबई वाले उनके बंगले में अब कौन रहता है? ₹150 करोड़ है कीमत",
-                "desc": "परोपकारी और दानवीर के तौर पर मशहूर रतन टाटा के निधन के बाद भी उनकी चर्चाएं होती रहती है. वे मुंबई के एक आलीशान घर में रहते थे, जिसकी कीमत 150 करोड़ रुपये बताई जाती है. आइए जानते हैं अब उनके बंगले में कौन रहता है...",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/photo_gallery/202611/6af8774a2bccc-ratan-tata-house-mumbai-145920943-16x9.jpg",
-                "url": "https://www.aajtak.in/business/utility/photo/who-lives-in-ratan-tata-mumbai-house-now-worth-150-crore-tutd-2696474-2026-11-15",
-                "source": "AajTak",
-                "date": "2026-11-15T08:18:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "नष्ट करो फाइलें... वर्ना हर घंटे 52 लाख का जुर्माना! Defender डिजाइन मामले में JLR को झटका",
-                "desc": "Defender Design Copy Case: बिल्ड योर ड्रीम (BYD) और जगुआर लैंडरोवर (JLR) के बीच डिफेंडर एसयूवी के डिजाइन को कॉपी करने वाला मामला में एक दिलचस्प मोड आया है. इस केस में एक डच कोर्ट ने उल्टा जगुआर को ही फटकार लगाई है और हर घंटे 52 लाख रुपये जुर्माना लगाने का आदेश दिया है.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6af95774c45f6-byd-ti-7-155547684-16x9.jpg",
-                "url": "https://www.aajtak.in/auto/news/story/byd-jlr-court-order-ti-7-files-destroy-defender-desing-copy-auaw-dskc-2696893-2026-11-15",
-                "source": "AajTak",
-                "date": "2026-11-15T06:53:56Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "चीन की हो जाएंगी आदित्य बिड़ला ग्रुप की ये दो कंपनियां, ₹24975057500 में हो गई डील",
-                "desc": "आदित्य बिड़ला ग्रुप की हिंडाल्को इंडस्ट्रीज की सब्सिडियरी नोवेलिस ने चीन में अपनी दो कंपनियों को 265 मिलियन डॉलर में बेचने का फैसला किया है। यह कदम वैश्विक कारोबार को व्यवस्थित करने और भविष्य की रणनीति पर ध्यान केंद्रित करने के लिए उठाया गया है।",
-                "image": "https://www.jagranimages.com/images/2026/11/15/template/image/Hindalco-Aditya-Birla-Group-1794723502852_v.webp",
-                "url": "https://www.jagran.com/business/biz-aditya-birla-group-hindalco-novelis-sells-two-china-subsidiaries-for-265m-dollar-40437273.html",
-                "source": "Jagran",
-                "date": "2026-11-15T06:27:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "बन गया महा-रिकॉर्ड! पहली बार बिकीं 3 लाख इलेक्ट्रिक कारें, इन गाड़ियों की डिमांड",
-                "desc": "Electric Car Sales India 2026: साल 2026 में पहली बार इलेक्ट्रिक पैसेंजर व्हीकल (Electric Passenger Vehicle) की बिक्री 3 लाख यूनिट के पार पहुंच गई है. खास बात यह है कि साल खत्म होने में अभी करीब डेढ़ महीना बाकी है और बिक्री का यह आंकड़ा पिछले पूरे साल के मुकाबले काफी आगे निकल चुका है.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/photo_gallery/202611/6af93ebf758ff-electric-car-sales-india-2026-151022479-16x9.jpg",
-                "url": "https://www.aajtak.in/auto/news/photo/electric-car-sales-india-cross-3-lakh-2026-these-cars-in-demand-auaw-2696753-2026-11-15",
-                "source": "AajTak",
-                "date": "2026-11-15T06:05:07Z",
-                "priority": "STANDARD"
             }
         ],
         "entertainment": [
+            {
+                "title": "'राम किसी एक धर्म के नहीं...' बोले जावेद अख्तर, भगवान राम को बताया आदर्श, कब देखेंगे रामायण?",
+                "desc": "जावेद अख्तर ने रामायण फिल्म पर अपनी प्रतिक्रिया दी है. उन्होंने फिल्म अभी तक नहीं देखी है. जावेद ने भगवान राम को केवल एक व्यक्ति नहीं बल्कि आदर्श, नैतिकता और जीवन जीने का तरीका बताया.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6afc8974e0985-javed-akhtar-161952994-16x9.jpg",
+                "url": "https://www.aajtak.in/entertainment/bollywood-news/story/javed-akhtar-on-ranbir-kapoor-film-ramayana-said-lord-ram-ram-is-morality-religion-sonia-gandhi-bool-tmovh-dskc-2699202-2026-11-17",
+                "source": "AajTak",
+                "date": "2026-11-17T17:10:53Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "बॉलीवुड के आगे पस्त हुआ हॉलीवुड! धुरंधर 2-दृश्यम 3 के बाद रामायण ने दी विदेशी फिल्मों को पटखनी",
                 "desc": "इस साल 2026 में बॉलीवुड की तीन फिल्मों ने हॉलीवुड को सीधी टक्कर देते हुए पीछे छोड़ा. सबसे पहले शुरुआत धुरंधर द रिवेंज से हुई. फिर अक्टूबर में दृश्यम 2 और अब रामायण ने गॉडजिला माइनस जीरो को पटखनी दी...",
@@ -1092,6 +1101,24 @@
                 "url": "https://www.aajtak.in/entertainment/bollywood-news/story/bollywood-movies-beat-hollywood-films-box-office-2026-ramayana-godzilla-dhurandhar-2-drishyam-3-tmovj-dskc-2698871-2026-11-17",
                 "source": "AajTak",
                 "date": "2026-11-17T15:46:23Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Google पर Robert Pattinson सर्च करते ही हिलेगी स्क्रीन, James Bond का छिपा सरप्राइज देखकर रह जाएंगे हैरान!",
+                "desc": "मशहूर एक्टर रॉबर्ट पैटिंसन को अगला जेम्स बॉन्ड कैरेक्टर बनाया गया है. इसी के साथ गूगल ने अपने सर्च इंजन में एक खास ईस्टर एग ऐड किया है. गूगल सर्च में रॉबर्ट पैटिंसन टाइप करते ही स्क्रीन हिलने लगेगी.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6afc716ba96b9-when-will-robert-pattinson-debut-as-james-bond-in-cinemas-heres-what-we-know-175507828-16x9.jpg",
+                "url": "https://www.aajtak.in/technology/tech-news/story/google-robert-pattinson-james-bond-easter-egg-search-ttecm-dskc-2699172-2026-11-17",
+                "source": "AajTak",
+                "date": "2026-11-17T15:43:38Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "रामायण देख ली? अब बॉक्स ऑफिस पर गर्दे उड़ाने आ रही हैं ये 5 माइथोलॉजिकल फिल्में",
+                "desc": "माइथोलॉजिकल फिल्मों को लेकर फैंस में काफी क्रेज देखने को मिल रहा है. 'हनुमान अंश' से लेकर 'रामायण' तक ने बॉक्स ऑफिस पर धूम मचाई.",
+                "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/17/544fe38fbd2237e3f2e43b2a97c95a4b1794924214484587_original.jpg?impolicy=abp_cdn&imwidth=1200",
+                "url": "https://www.abplive.com/entertainment/bollywood/upcoming-mythological-movies-ramayana-part-2-jai-hanuman-krishnavataram-2-3216148",
+                "source": "ABP News",
+                "date": "2026-11-17T14:59:00Z",
                 "priority": "STANDARD"
             },
             {
@@ -1128,6 +1155,15 @@
                 "url": "https://www.aajtak.in/entertainment/bollywood-news/story/malgudi-days-fame-swami-master-aka-master-manjunath-where-is-he-now-left-acting-working-as-policy-advisor-tmova-dskc-2699018-2026-11-17",
                 "source": "AajTak",
                 "date": "2026-11-17T13:22:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "पापा सिद्धार्थ की गोद में दिखीं नन्ही सरायाह, मम्मी कियारा भी थीं साथ, पहली बार कैमरे में कैद हुई क्यूट बेबी की झलक",
+                "desc": "सिद्धार्थ मल्होत्रा और कियारा आडवाणी जयपुर एयरपोर्ट पर बेटी सरायाह के साथ नजर आए। सोशल मीडिया पर वायरल वीडियो में बच्ची की हल्की झलक मिली। कपल जल्द दूसरी बार माता-पिता बनने वाला है।",
+                "image": "https://resize.indiatv.in/resize/newbucket/1200_-/2026/11/baby-1794986345.jpg",
+                "url": "https://www.indiatv.in/entertainment/bollywood/saraayah-in-arms-of-father-sidharth-malhotra-along-with-mother-kiara-advani-cute-baby-spotted-for-first-time-2026-11-17-1254885",
+                "source": "India TV Hindi",
+                "date": "2026-11-17T13:13:05Z",
                 "priority": "STANDARD"
             },
             {
@@ -1588,45 +1624,63 @@
                 "source": "ABP News",
                 "date": "2026-11-15T12:29:34Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Ramayana के बाद भी नहीं खत्म होगा 'रावण राज', इन अपकमिंग फिल्मों से बॉक्स ऑफिस पर Yash मचाएंगे धमाल?",
-                "desc": "रामायणम् फिल्म से फैंस का दिल जीतने वाले अभिनेता यश की अपकमिंग फिल्मों की जानकारी सामने आ रही है।",
-                "image": "https://www.jagranimages.com/images/2026/11/15/template/image/yashupcomingmovies-(2)-1794744332517_v.webp",
-                "url": "https://www.jagran.com/entertainment/box-office-yash-these-two-upcoming-movies-ruled-box-office-after-ramayana-kgf-3-and-ramayana-part-2-40437584.html",
-                "source": "Jagran",
-                "date": "2026-11-15T12:21:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "गुस्से में लिखा गया था Kishore Kumar का आइकॉनिक गीत, 60 के दशक का पुराना गाना आज भी है अमर",
-                "desc": "महान गायक रहे किशोर कुमार का एक गाना गीतकार द्वारा गुस्से में लिखा गया था।",
-                "image": "https://www.jagranimages.com/images/2026/11/15/template/image/Chhoti-Si-Ye-Duniya-song-1794741347092_v.webp",
-                "url": "https://www.jagran.com/entertainment/bollywood-kishore-kumar-chhoti-si-ye-duniya-song-for-rangoli-60s-movie-written-in-anger-by-lyricist-shailendra-40437555.html",
-                "source": "Jagran",
-                "date": "2026-11-15T11:35:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Amitabh Bachchan Jalsa: कभी अमिताभ बच्चन को गिफ्ट के तौर पर मिला था 'जलसा', अब इसी बंगले पर छिड़ी जंग! भाभी ने दी चुनौती",
-                "desc": "अमिताभ बच्चन के घर जलसा को लेकर इस समय विवाद छिड़ा हुआ है. उनकी भाभी ने इस संपत्ति पर सवाल उठाए हैं, जो एक समय पर बिग बी को गिफ्ट के रूप में मिली थी. आइए, जानते हैं कि अमिताभ बच्चन को जलसा कैसे मिला.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6af98d4ab8ca2-amitabh-bachchans-bunglow-jalsa-154529569-16x9.jpg",
-                "url": "https://www.aajtak.in/entertainment/bollywood-news/story/amitabh-bachchan-jalsa-bungalow-history-amid-legal-dispute-sister-in-law-ramola-bachchan-tmovj-dskc-2697041-2026-11-15",
-                "source": "AajTak",
-                "date": "2026-11-15T11:25:25Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'प्राइवेसी दें', पति जयंत मुखर्जी के निधन के बाद मौसमी चटर्जी ने जारी किया फर्स्ट स्टेटमेंट, 'मुश्किल वक्त' में फैंस से की गुजारिश",
-                "desc": "दिग्गज अभिनेत्री मौसमी चटर्जी ने पति जयंत मुखर्जी के निधन के बाद अपना पहला बयान जारी किया है। पति के निधन के बाद मौसमी चटर्जी ने इस मुश्किल समय में अपने और अपनी बेटी मेघा के लिए प्राइवेसी की अपील की है।",
-                "image": "https://resize.indiatv.in/resize/newbucket/1200_-/2026/11/new-project-2026-11-15t163908-1794740921.jpg",
-                "url": "https://www.indiatv.in/entertainment/bollywood/moushumi-chatterjee-issues-first-statement-after-death-of-husband-jayanta-mukherjee-makes-request-to-fans-during-difficult-time-2026-11-15-1254547",
-                "source": "India TV Hindi",
-                "date": "2026-11-15T11:09:19Z",
-                "priority": "STANDARD"
             }
         ],
         "sports": [
+            {
+                "title": "कप्तान ही बन गया टीम पर बोझ, बाबर आजम फिर उड़वा बैठे अपनी गिल्लियां, अब तो करियर खत्म होने का खतरा",
+                "desc": "श्रीलंका के खिलाफ दूसरे टेस्ट में पाकिस्तानी कप्तान बाबर आजम लाहिरू कुमारा की अंदर आती गेंद को छोड़ने के चक्कर में महज 8 रन बनाकर क्लीन बोल्ड हो गए।",
+                "image": "https://static.langimg.com/nbt/thumb/135943958/babar-azam-15.jpg?imgsize=474152&width=1600&height=900&resizemode=75",
+                "url": "https://navbharattimes.indiatimes.com/sports/cricket/cricket-news/babar-azam-bowled-by-lahiru-kumara-on-an-inswinger-in-pak-vs-sl-test/articleshow/135943805.cms",
+                "source": "Navbharat Times",
+                "date": "2026-11-18T00:07:12Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "पाकिस्तान ने माना भारत का लोहा, फाइनल के बाद चैंपियन भारतीय खिलाड़ियों को दिया गार्ड ऑफ ऑनर",
+                "desc": "भारत ने SAFF चैंपियनशिप 2026 के फाइनल में पाकिस्तान को 2-1 से हराकर रिकॉर्ड 10वीं बार खिताब जीता। मैच के बाद पाकिस्तानी खिलाड़ियों ने चैंपियन भारतीय टीम को गार्ड ऑफ ऑनर दिया।",
+                "image": "https://resize.indiatv.in/resize/newbucket/1200_-/2026/11/ind-vs-pak-4-1794939505.jpg",
+                "url": "https://www.indiatv.in/sports/other-sports/pakistan-gives-a-guard-of-honour-to-champions-india-after-wins-the-saff-championship-2026-2026-11-17-1254914",
+                "source": "India TV Hindi",
+                "date": "2026-11-17T18:22:59Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "RR Retained IPL 2027: मोहम्‍मद शमी नुकसान के साथ बने 'रॉयल', राजस्‍थान ने रिटेन किए 17 खिलाड़ी; 27.05 करोड़ रुपये बचे",
+                "desc": "राजस्‍थान रॉयल्‍स ने आईपीएल 2027 के लिए 17 खिलाड़‍ियों को रिटेन किया। फ्रेंचाइजी ने अपने स्‍क्‍वाड में कई बदलाव किए, जिसमें शिमरोन हेटमायर को बाहर करना चौंकाने वाला फैसला रहा।",
+                "image": "https://www.jagranimages.com/images/2026/11/17/template/image/rrsquadipl-1794937307184_v.webp",
+                "url": "https://www.jagran.com/cricket/headlines-rr-retained-players-ipl-2027-rajasthan-royals-retain-17-players-ahead-of-auction-40439977.html",
+                "source": "Jagran",
+                "date": "2026-11-17T17:45:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "मुंबई और CSK ने कई बड़े खिलाड़ियों को किया रिलीज, देखें पूरी लिस्ट",
+                "desc": "आईपीएल 2027 के मिनी ऑक्शन से पहले मुंबई इंडियंस और चेन्नई सुपर किंग्स ने बड़े बदलाव किए। मुंबई ने 13 और चेन्नई ने 11 खिलाड़ियों को रिलीज किया, जिसमें कई दिग्गज शामिल हैं। जानें पूरी लिस्ट और टीमों के फैसले।",
+                "image": "https://media.assettype.com/navbharatlive%2F2026-11-17%2Fycpmhfin%2Fipl-2027-released-list.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+                "url": "https://navbharatlive.com/sports/cricket/ipl-2027-released-retained-players-list-mi-csk-rcb-kkr-srh-dc-aks03",
+                "source": "Navbharat Live",
+                "date": "2026-11-17T14:51:35Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "IPL 2027 Retention: गुजरात टाइटंस की रिटेंशन लिस्ट जारी, GT ने 6 खिलाड़ियों का छोड़ा साथ",
+                "desc": "Gujarat Titans IPL 2027 Retention List: आगामी सीजन से पहले गुजरात टाइटंस ने 6 खिलाड़ियों को रिलीज कर दिया है, जिसमें ईशांत शर्मा का नाम भी शामिल रहा.",
+                "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/17/c3a85543e185a336afd642ffb0e3f3e817949247685651364_original.jpg?impolicy=abp_cdn&imwidth=1200",
+                "url": "https://www.abplive.com/sports/ipl/gujarat-titans-ipl-2027-players-retention-list-ishant-sharma-and-others-released-3216150",
+                "source": "ABP News",
+                "date": "2026-11-17T14:12:58Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "IPL 2027 Retention: पंजाब किंग्स की रिटेंशन लिस्ट जारी, देखें PBKS ने किन खिलाड़ियों का छोड़ा साथ",
+                "desc": "Punjab Kings IPL 2027 Retention List: पंजाब किंग्स ने आगामी सीजन से पहले BCCI को रिटेन खिलाड़ियों की लिस्ट सौंप दी है. तो आइए जानते हैं कि PBKS ने किसे-किसे रिटेन किया और किसे रिलीज किया.",
+                "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/17/d4a868d6b8e7d4bc9b05df8ea2cf4ffd17949181317171364_original.jpg?impolicy=abp_cdn&imwidth=1200",
+                "url": "https://www.abplive.com/sports/ipl/punjab-kings-ipl-2027-retention-players-list-lockie-ferguson-and-others-released-3216109",
+                "source": "ABP News",
+                "date": "2026-11-17T13:50:06Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "हर्षल समेत कई खिलाड़ियों की टीमें बदली",
                 "desc": "तेज़ गेंदबाज़ मोहम्मद शमी और एम सिद्धार्थ को राजस्थान रॉयल्स ने ट्रेड किया है.",
@@ -1634,6 +1688,15 @@
                 "url": "https://www.bbc.com/hindi/live/cry869y1j9d9t",
                 "source": "BBC",
                 "date": "2026-11-17T13:20:38Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "हार्दिक की एंट्री के साथ पंजाब ने 19 खिलाड़ियों को किया रिटेन, 6 को दिखाया बाहर का रास्ता, देखें पूरी लिस्ट",
+                "desc": "इंडियन प्रीमियर लीग 2027 के लिए पंजाब किंग्स की टीम ने अपनी रिटेंशन लिस्ट को जारी कर दिया है. फ्रेंचाइजी ने आगामी सीजन के लिए टीम ने कुल 19 खिलाड़ी बरकरार रखे हैं, जबकि 6 को बाहर का रास्ता दिखाया गया है. इस रिटेंशन के बाद टीम का पर्स अब 18.6 करोड़ रुपए हो गया है, जिसके साथ अब वह ऑक्शन टेबल पर बैठेगी.",
+                "image": "https://images.news18.com/ibnkhabar/uploads/2026/11/PBKS-4-2026-11-1bdbc51566d2f15c62e5db52c379eb0e-1200x675.jpg",
+                "url": "https://hindi.news18.com/cricket/punjab-kings-retained-and-release-lockie-ferguson-nehal-wadhera-player-list-ipl-2027-10993456.html",
+                "source": "News18 Hindi",
+                "date": "2026-11-17T13:00:43Z",
                 "priority": "STANDARD"
             },
             {
@@ -2103,74 +2166,101 @@
                 "source": "BBC",
                 "date": "2026-11-15T13:11:47Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "IND vs NZ: मोहम्मद सिराज को आया ईशान किशन पर गुस्सा, सरेआम दिखाई आंख, हो गया बड़ा ड्रामा!",
-                "desc": "न्यूजीलैंड के खिलाफ भारतीय टीम ने पांचवें वनडे मैच को दमदार अंदाज में अपने नाम किया. छोटे लक्ष्य का बचाव करने में भारतीय गेंदबाज कामयाब रहे. भारत की तरफ से मोहम्मद सिराज को इस मुकाबले में खेलने का मौका मिला था.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6af9a1787995f-mohammed-siraj-loses-his-cool-151135231-16x9.png",
-                "url": "https://www.aajtak.in/sports/cricket/story/mohammed-siraj-loses-his-cool-at-ishan-kishan-after-missed-catch-gives-new-zealand-crucial-runs-aksp-dskc-2697088-2026-11-15",
-                "source": "AajTak",
-                "date": "2026-11-15T12:16:33Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "विराट कोहली से सानिया मिर्जा तक पहनते हैं WHOOP बैंड, अब लॉन्च किया Humans फीचर",
-                "desc": "विराट कोहली से सानिया मिर्जा तक जैसे एथलीट की कलाई पर नजर आने वाले WHOOP बैंड ने नए फीचर को लॉन्च कर दिया है. न्यू फीचर का नाम WHOOP Humans है. इस फीचर के तहत यूजर्स अपने हेल्थ डेटा को साथ शेयर कर सकेंगे.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6af97f4b81411-whoop-new-band-154546288-16x9.jpg",
-                "url": "https://www.aajtak.in/technology/tech-news/story/whoop-humans-social-feature-launch-health-data-sharing-ttecr-dskc-2697009-2026-11-15",
-                "source": "AajTak",
-                "date": "2026-11-15T12:13:14Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "ICC की ताजा ODI रैंकिंग में भारत की बादशाहत कायम, पाकिस्तान से भी नीचे इंग्लैंड और ऑस्ट्रेलिया",
-                "desc": "भारत और न्यूजीलैंड के बीच 5 मैचों की ODI सीरीज का समापन हो गया है। इसके साथ ही ICC ने ताजा ODI रैंकिंग जारी कर दी है, जिसमें भारत का जलवा बरकरार है।",
-                "image": "https://resize.indiatv.in/resize/newbucket/1200_-/2026/11/team-india-1-1794742807.jpg",
-                "url": "https://www.indiatv.in/sports/cricket/icc-rankings-india-strengthen-no-1-spot-in-icc-odi-rankings-after-series-win-over-new-zealand-2026-11-15-1254554",
-                "source": "India TV Hindi",
-                "date": "2026-11-15T11:45:21Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "IND vs NZ: विराट कोहली ने टपकाया लप्पू सा कैच, ड्रेसिंग रूम में गौतम गंभीर का रिएक्शन VIRAL",
-                "desc": "विराट कोहली मेैदान पर बतौर फील्डर भी कमाल करते रहे हैं. हालांकि न्यूजीलैंड के खिलाफ आखिरी वनडे मुकाबले में कोहली से फील्डिंग में बड़ी चूक हो गई. कोहली ने डीन फॉक्सक्रॉफ्ट का कैच टपका दिया, जो 31 रन बनाने में कामयाब रहे.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6af979913213a-virat-kohli--gautam-gambhir-152119982-16x9.png",
-                "url": "https://www.aajtak.in/sports/cricket/story/ind-vs-nz-5th-odi-virat-kohli-drops-easy-catch-dean-foxcroft-arshdeep-singh-gautam-gambhir-reaction-tspoa-dskc-2697000-2026-11-15",
-                "source": "AajTak",
-                "date": "2026-11-15T09:35:07Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "मटन देख फिसल गए सूर्यकुमार यादव, जमीन पर बैठकर चूल्हे के सामने खाने लगे खाना; वायरल हो गया Video",
-                "desc": "भारतीय क्रिकेटर सूर्यकुमार यादव का जमीन पर बैठकर मटन और चूल्हे की रोटी खाते हुए एक वीडियो वायरल हो रहा है। यह वीडियो सैयद मुश्ताक अली ट्रॉफी में हैदराबाद के खिलाफ तूफानी पारी खेलने के बाद का है, जिसमें सरफराज खान भी उनके साथ दिख रहे हैं।",
-                "image": "https://www.jagranimages.com/images/2026/11/15/template/image/Suryakumar-Yadav-(2)-1794732313617_v.webp",
-                "url": "https://www.jagran.com/cricket/headlines-suryakumar-yadav-mutton-feast-eat-food-while-sitting-on-floor-syed-mushtaq-ali-trophy-40437391.html",
-                "source": "Jagran",
-                "date": "2026-11-15T08:50:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "पहले बैट की बात है, 49 साल बाद भी मेरे साथ है! बचपन की तस्वीर शेयर कर इमोशनल हुए सचिन तेंदुलकर",
-                "desc": "24 साल के लंबे करियर में 51 टेस्ट और 49 वनडे शतक जड़ने वाले सचिन तेंदुलकर ने अपने करियर के दौरान कई बड़ी उपलब्धियां हासिल की है. सचिन तेंदुलकर के लिए 15 नवंबर का दिन बेहद खास है, उन्होंने इस मौके पर एक प्यारा सा पोस्ट शेयर किया है.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6af96f4e4845e-sachin-tendulkar-153732906-16x9.jpg",
-                "url": "https://www.aajtak.in/sports/cricket/story/sachin-tendulkar-first-cricket-bat-is-still-with-him-after-49-years-recreates-iconic-childhood-photo-aksp-dskc-2696968-2026-11-15",
-                "source": "AajTak",
-                "date": "2026-11-15T08:41:12Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "बॉलीवुड एक्ट्रेस पर फिदा था ये PAK क्रिकेटर, शादी करने का था प्लान?",
-                "desc": "बॉलीवुड एक्ट्रेस सोनाली बेंद्रे की दुनिया दीवानी है. एक समय ऐसा भी था जब ये दावा किया गया था कि सोनाली पर पूर्व पाकिस्तानी क्रिकेटर शोएब अख्तर फिदा थे और उनसे शादी करना चाहते थे. इन दावों पर सोनाली ने भी रिएक्ट किया था.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202610/6ae1870fd9350-shoaib-akhtar-rejected-bollywood-films-282430704-16x9.jpg",
-                "url": "https://www.aajtak.in/entertainment/news/story/sonali-bendre-once-reacted-to-pakistani-cricketer-shoaib-akhtar-marriage-kidnap-proposal-tmovf-dskc-2682139-2026-11-15",
-                "source": "AajTak",
-                "date": "2026-11-15T07:50:11Z",
-                "priority": "STANDARD"
             }
         ]
     },
     "en": {
         "general": [
+            {
+                "title": "Army Lt. Col. Brandon Tyner handed to US military over Russia spying claims",
+                "desc": "Lt. Col. Brandon Tyner, a U.S. Army officer suspected of spying for Russia, was handed over to U.S. military authorities after his arrest in England.",
+                "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/army-uniform.jpg",
+                "url": "https://www.foxnews.com/us/pentagon-detains-senior-us-army-officer-accused-spying-russians-after-uk-arrest",
+                "source": "Fox News",
+                "date": "2026-11-18T00:26:16Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Jeff Bezos On How Amazon Decided On Robert Pattinson As The Next James Bond",
+                "desc": "\"I was definitely involved,\" said the world's second-richest man, whose company includes Amazon MGM Studios, before detailing the process.",
+                "image": "https://deadline.com/wp-content/uploads/2026/11/2026-Vanity-Fair-Oscar-Party-Hosted-By-Mark-Guiducci-Arrivals-1000.jpg?w=1000",
+                "url": "https://deadline.com/2026/11/jeff-bezos-chose-robert-pattinson-james-bond-1237227282/",
+                "source": "Deadline",
+                "date": "2026-11-18T00:08:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Rod Wave Indicted on Drug Possession, Gun Charges",
+                "desc": "Rod Wave has been indicted on drug and gun charges ... after he was arrested last year for allegedly blowing through a stop sign.",
+                "image": "https://imagez.tmz.com/image/90/16by9/2026/11/17/9069d504da714638bf0bbc7bc3a4a69a_xl.jpg",
+                "url": "https://www.tmz.com/2026/11/17/rod-wave-indicted/",
+                "source": "TMZ",
+                "date": "2026-11-18T00:00:20Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Satya Nadella says he’s AGI-pilled now",
+                "desc": "Microsoft’s CEO explained how he’s thinking about AI at the Microsoft Ignite conference and where his thinking differs from Anthropic.",
+                "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-17-at-3.00.15-PM.png?quality=90&strip=all&crop=0%2C5.5575251492495%2C100%2C88.884949701501&w=1200",
+                "url": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
+                "source": "The Verge",
+                "date": "2026-11-17T23:41:18Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Nvidia is abandoning China after Jensen Huang's ouster",
+                "desc": "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?",
+                "image": "https://techcrunch.com/wp-content/uploads/2026/03/jensen-huang-gtc-getty.jpg?resize=1200,781",
+                "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+                "source": "TechCrunch",
+                "date": "2026-11-17T23:37:48Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "iFixit tears down Apple HomeView, finds lots of glue and endless frustration",
+                "desc": "iFixit’s teardown of the new Apple HomeView is now up, revealing a device that seems nearly impossible to take apart and repair. Watch it below.",
+                "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/homeview-teardown.jpg?quality=82&strip=all&resize=1200,628",
+                "url": "https://9to5mac.com/2026/11/17/ifixit-tears-down-apple-homeview-finds-lots-of-glue-and-endless-frustration/",
+                "source": "9to5Mac",
+                "date": "2026-11-17T23:36:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Nvidia Earnings Puts Ian Buck in Spotlight As Jensen Huang Exit Looms",
+                "desc": "Ian Buck, a potential successor to Jensen Huang, made a notable appearance on Nvidia's first earnings call since its longtime CEO resigned.",
+                "image": "https://i.insider.com/6afc929cbcc92b799fa7ebaf?width=1200&format=jpeg",
+                "url": "https://www.businessinsider.com/nvidia-q3-2027-earnings-ian-buck-jensen-huang-exit-2026-11",
+                "source": "Business Insider",
+                "date": "2026-11-17T23:35:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Anne Hathaway Gives Birth to Baby No. 3 With Husband Adam Shulman",
+                "desc": "Anne Hathaway gave birth to her and husband Adam Shulman's third baby together, according to multiple outlets. The couple—who married in 2012—are already parents to sons Jonathan, 10, and Jack, 6.",
+                "image": "https://akns-images.eonline.com/eol_images/Entire_Site/20260716/a6b055e8-29c4-40af-aa25-55f1ebf87c9b_1784222506.jpg?fit=around%7C1200:1200&output-quality=90&crop=1200:1200;center,top",
+                "url": "https://www.eonline.com/news/1434081/anne-hathaway-gives-birth-to-baby-no-3-with-husband-adam-shulman",
+                "source": "E! News",
+                "date": "2026-11-17T23:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Sean Duffy’s $50 billion demand for air travel fixes is met with yelling and skepticism in Congress",
+                "desc": "The Trump administration’s request for $50.1 billion in new FAA funding after a nationwide ground stop is running into skepticism from both parties in Congress.",
+                "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261117-sean-duffy-mn-1235-5667fd.jpg",
+                "url": "https://www.nbcnews.com/politics/congress/sean-duffys-50-billion-demand-groundstop-fixes-congress-skepitcal-rcna609844",
+                "source": "NBC News",
+                "date": "2026-11-17T23:06:19Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang's exit",
+                "desc": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.",
+                "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2290097570.jpg?w=1024",
+                "url": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
+                "source": "TechCrunch",
+                "date": "2026-11-17T23:04:35Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Fact-check: Did Trump warn of '90-day' nationwide blackout? Social media videos manipulated",
                 "desc": "Multiple TikTok posts appear to show President Donald Trump warning Americans about a 90-day nationwide blackout that would start Nov. 17.",
@@ -2620,99 +2710,99 @@
                 "source": "The Hollywood Reporter",
                 "date": "2026-11-16T06:22:34Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "60 Minutes Transcript: Families of U.S. military members killed in Iran war want answers from the Pentagon",
-                "desc": "The families of U.S. soldiers killed in an Iranian drone strike in Kuwait want answers from the Pentagon. A 60 Minutes investigation examines U.S. military failures surrounding the March attack.",
-                "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/15/c60c5436-f3fe-4aba-b7db-8ae460cfa108/thumbnail/1200x630/84e8b6a86ad16bddbcb3c1a4c2e650a0/cost-of-war-transcript.jpg",
-                "url": "https://www.cbsnews.com/news/cost-of-war-iran-60-minutes-transcript/",
-                "source": "CBS News",
-                "date": "2026-11-16T00:00:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Japan's economy contracts, third quarter GDP misses expectations",
-                "desc": "Energy subsidies for households had reportedly expired in September, exposing the economy to the higher energy prices brought about by the Iran war.",
-                "image": "https://image.cnbcfm.com/api/v1/image/108551661-1794785886757-gettyimages-2288262163-Stanislav-Kogiku-1440900.jpeg?v=1794787901&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/11/16/japan-q3-gdp-energy-oil-prices.html",
-                "source": "CNBC",
-                "date": "2026-11-15T23:57:19Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Dana White reveals how he scored UFC 334 main event",
-                "desc": "Dana White weighs in on the UFC 334 main event scoring.",
-                "image": "https://mmajunkie.usatoday.com/gcdn/authoring/authoring-images/2026/11/15/SMMA/92793277007-20261115-t-055233-z-1269163859-mt-1-usatoday-30357286-rtrmadp-3-mmaufc-334.JPG?crop=4799,2701,x0,y314&width=3200&height=1802&format=pjpg&auto=webp",
-                "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/15/ufc-334-dana-white-ciryl-gane-vs-josh-hokit/92796262007/",
-                "source": "MMA Junkie",
-                "date": "2026-11-15T23:50:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Kansas City Chiefs vs. Atlanta Falcons Live Score and Stats",
-                "desc": "Live NFL scores at CBSSports.com. Check out the NFL scoreboard, box scores, expert picks and game recaps.",
-                "image": "https://sportsfly.cbsistatic.com/fly-894/bundles/sportsmediacss/images/fantasy/default-article-image-large.png",
-                "url": "https://www.cbssports.com/nfl/gametracker/recap/NFL_20261115_KC@ATL/",
-                "source": "CBS Sports",
-                "date": "2026-11-15T23:14:26Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors",
-                "desc": "This was the first total mission failure in United Launch Alliance's 20-year history.",
-                "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304790934-1152x648.jpg",
-                "url": "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/",
-                "source": "Ars Technica",
-                "date": "2026-11-15T23:11:54Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Intel sued by shareholders following 29% stock plunge",
-                "desc": "In a proposed class action filed in the San Jose, California, federal court, shareholders said Intel was too slow to disclose information ​about how slowing PC sales and an inventory glut would weigh on ​revenue.",
-                "image": "https://www.reuters.com/resizer/v2/J2BNCRAOFVNVFM7ZSI36G44JI4.jpg?auth=30591fb1e0740b9ebfb1e156ffc5b95db17b0c0f9c8c36f2837e255e1c908a2e&height=1005&width=1920&quality=80&smart=true",
-                "url": "https://www.reuters.com/business/intel-sued-by-shareholders-following-29-stock-plunge-2026-11-15/",
-                "source": "Reuters",
-                "date": "2026-11-15T23:05:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Officials say a tanker's steering failed before it crashed into a cruise ship in New Orleans",
-                "desc": "The preliminary finding from National Transportation Safety Board officials provided the first official word on what caused Friday's crash of the Atlantic Asphalt tanker into the American Heritage cruise ship, which sent passengers, crew and two police officers plunging into the Mississippi River.",
-                "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-11-14T001142Z_1275602907_RC2CNOALPZCM_RTRMADP_3_USA-LOUISIANA-SHIP-COLLISION-1024x684.jpg",
-                "url": "https://www.pbs.org/newshour/nation/officials-say-a-tankers-steering-failed-before-it-crashed-into-a-cruise-ship-in-new-orleans",
-                "source": "PBS",
-                "date": "2026-11-15T23:02:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Steering failure preceded New Orleans cruise ship collision, says NTSB",
-                "desc": "Preliminary findings by National Transportation Safety Board investigators suggest the tanker suffered a \"steering casualty\" before colliding with the cruise ship on Friday.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/f55e/live/4bc0f750-e140-11f1-859a-418a418deb7d.jpg",
-                "url": "https://www.bbc.com/news/articles/c65y131w1534o",
-                "source": "BBC",
-                "date": "2026-11-15T22:57:27Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Jensen Huang allies push Nvidia board to reinstate former CEO: report",
-                "desc": "Jensen Huang is reportedly weighing a return as Nvidia CEO as allies lobby the board and a petition draws more than 150,000 signatures.",
-                "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/0/0/jensen-huang-2.jpg?ve=1&tl=1",
-                "url": "https://www.foxbusiness.com/technology/jensen-huang-weighs-nvidia-ceo-comeback-ally-plans-war-room-report",
-                "source": "Fox Business",
-                "date": "2026-11-15T22:57:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Chiefs' Emmett Johnson scores twice, totals 171 yards vs. Falcons",
-                "desc": "With Kenneth Walker III sidelined, Chiefs rookie Emmett Johnson stepped up with 171 total yards and two touchdowns against the Falcons.",
-                "image": "https://kubrick.htvapps.com/htv-prod/images/ef331580-a486-43e5-80cd-92b53b6e0dde.jpg?crop=0.979xw%3A0.827xh%3B0%2C0&resize=1200%3A*",
-                "url": "https://www.kmbc.com/article/chiefs-emmett-johnson-101-rushing-yards-two-touchdowns-falcons/74433748",
-                "source": "KMBC",
-                "date": "2026-11-15T22:46:00Z",
-                "priority": "STANDARD"
             }
         ],
         "business": [
+            {
+                "title": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
+                "desc": "Word, Excel, and PowerPoint now live inside Copilot; always-on agents are next.",
+                "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/MS_Ignite_Perception.png",
+                "url": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/",
+                "source": "Ars Technica",
+                "date": "2026-11-18T00:27:29Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Apple outages appear to be resolved after update impacted apps",
+                "desc": "Outages affecting several popular Apple services appeared to be resolved Tuesday night, after an internal update had taken them offline during the afternoon.",
+                "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-03/230328-apple-store-logo-ew-100p-9c4302.jpg",
+                "url": "https://www.nbcnews.com/business/corporations/apple-outages-working-get-systems-back-online-rcna609861",
+                "source": "NBC News",
+                "date": "2026-11-17T23:42:43Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Nvidia is abandoning China after Jensen Huang's ouster",
+                "desc": "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?",
+                "image": "https://techcrunch.com/wp-content/uploads/2026/03/jensen-huang-gtc-getty.jpg?resize=1200,781",
+                "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+                "source": "TechCrunch",
+                "date": "2026-11-17T23:37:48Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Waymo robotaxis banned from California freeways",
+                "desc": "California banned Waymo robotaxis from state freeways after officials determined that the driverless vehicles pose an “imminent hazard to public safety,” the state’s Department of Motor Vehicles said Tuesday.",
+                "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261117-waymo-robotaxis-vsb-1755-79b348.jpg",
+                "url": "https://www.nbcnews.com/news/us-news/waymo-robotaxis-banned-california-freeways-rcna609917",
+                "source": "NBC News",
+                "date": "2026-11-17T23:24:30Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Americans' Thanksgiving Travel Will Slow Down a Bit",
+                "desc": "Pricey plane tickets and expensive gas are expected to keep some Americans from traveling this Thanksgiving, but not enough to make much difference in airport security lines and...",
+                "image": "https://cdn.newser.com/image/1724830-12-20261117175003.jpeg",
+                "url": "https://www.newser.com/story/400113/americans-thanksgiving-travel-busy-but-not-quite-as-busy.html",
+                "source": "Newser",
+                "date": "2026-11-17T23:20:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang's exit",
+                "desc": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.",
+                "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2290097570.jpg?w=1024",
+                "url": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
+                "source": "TechCrunch",
+                "date": "2026-11-17T23:04:35Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Sean Duffy’s $50 billion demand for air travel fixes is met with yelling and skepticism in Congress",
+                "desc": "The Trump administration’s request for $50.1 billion in new FAA funding after a nationwide ground stop is running into skepticism from both parties in Congress.",
+                "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261117-sean-duffy-mn-1235-5667fd.jpg",
+                "url": "https://www.nbcnews.com/politics/congress/sean-duffys-50-billion-demand-groundstop-fixes-congress-skepitcal-rcna609844",
+                "source": "NBC News",
+                "date": "2026-11-17T22:51:33Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Microsoft says its new AI coding model rivals Claude Opus 5.5 at 5% of the cost",
+                "desc": "Microsoft announced two new AI models at Ignite 2026 that promise impressive performance for much lower cost. They could reshape its relationship with OpenAI and Anthropic for good.",
+                "image": "https://www.zdnet.com/wp-content/uploads/sites/3/ignite.jpg",
+                "url": "https://www.zdnet.com/innovation/microsoft-ai-coding-model-rivals-claude-opus-5-5-ignite/",
+                "source": "ZDNET",
+                "date": "2026-11-17T22:42:44Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Nvidia earnings live: Nvidia posts Q3 beat as revenue rose 103% YOY to $115.8B, board says it will not reinstate Jensen Huang as CEO",
+                "desc": "Nvidia reported its Q3 earnings after the bell Tuesday.",
+                "image": "https://s.yimg.com/lo/mysterio/api/cc9ad1a3ec34ad4475f4f702b47a628bf29c64151d2763df1224ef89ec534f94/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F78cde9e3-767f-4ed2-a2b3-7a122d0d2792",
+                "url": "https://finance.yahoo.com/technology/live/nvidia-earnings-live-nvidia-posts-q3-beat-board-says-it-will-not-reinstate-jensen-huang-as-ceo-221428433.html",
+                "source": "Yahoo Finance",
+                "date": "2026-11-17T22:42:19Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Amazon and Google Could Own $400 Billion of AI Lab Anthropic’s Stock Post-IPO",
+                "desc": "The Big Tech companies could own as much as 37.5% of the AI lab’s outstanding capital stock following this week’s imminent IPO.",
+                "image": "https://images.barrons.com/im-24102908/social",
+                "url": "https://www.barrons.com/articles/amazon-google-anthropic-stock-ipo-6713e425",
+                "source": "Barron's",
+                "date": "2026-11-17T22:27:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Severe turbulence injures 5 on JetBlue flight to Florida",
                 "desc": "Five people were injured in severe turbulence on a JetBlue flight from Puerto Rico to Florida, authorities say. The plane landed safely at Fort Lauderdale.",
@@ -3162,99 +3252,99 @@
                 "source": "Newser",
                 "date": "2026-11-15T23:00:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Nvidia Fallout Looms Over Trump-Xi Meeting",
-                "desc": "So far, President Trump has indicated that he does not plan to press the Chinese leader about U.S. intelligence findings that a Chinese spy targeted Jensen Huang.",
-                "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15dc-trump-xi-01-bjgh/15dc-trump-xi-01-bjgh-facebookJumbo.jpg",
-                "url": "https://www.nytimes.com/2026/11/15/us/politics/nvidia-trump-huang-china-xi.html",
-                "source": "The New York Times",
-                "date": "2026-11-15T22:54:41Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Orlando International Airport Issues Ground Stop Two Days After Nationwide Incident",
-                "desc": "Orlando International Airport (MCO) has issued a ground stop due to an aircraft emergency, reports WESH 2 News.",
-                "image": "https://r2-media.wdwnt.com/2026/11/image-105.png",
-                "url": "https://wdwnt.com/2026/11/orlando-international-airport-issues-another-ground-stop-two-days-after-nationwide-incident/",
-                "source": "WDW News Today",
-                "date": "2026-11-15T21:28:50Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "F.D.A. Rejects Closely Watched Lung Cancer Drug From China",
-                "desc": "The treatment, called ivonescimab, has become a symbol of China’s rise in drug development.",
-                "image": "https://static01.nyt.com/images/2026/11/11/business/11BIZ-CANCER-DRUG/11BIZ-CANCER-DRUG-facebookJumbo.jpg",
-                "url": "https://www.nytimes.com/2026/11/15/business/fda-lung-cancer-drug-china.html",
-                "source": "The New York Times",
-                "date": "2026-11-15T20:33:07Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Costco recalls whipped cream over potential contamination",
-                "desc": "A batch of a Kirkland whipped cream product sold in 12 states has been withdrawn after customers reported “a chemical smell and taste.\"",
-                "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fwapo%2FMCZHOKJ2OVUWJU32JVD5HWQMR4.jpg&w=1200",
-                "url": "https://www.washingtonpost.com/nation/2026/11/15/costco-recalls-whipped-cream-over-potential-contamination/",
-                "source": "The Washington Post",
-                "date": "2026-11-15T20:02:28Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "FBI warns ARTEX AI hacking tool is powering global cyberattacks",
-                "desc": "The FBI is warning that hackers are using an AI-powered penetration testing framework called ARTEX to automate cyberattacks against organizations worldwide, including a recent ConnectWise supply-chain breach that compromised Microsoft 365 customer environments.",
-                "image": "https://www.bleepstatic.com/content/hl-images/2025/10/23/AI-2.jpg",
-                "url": "https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/",
-                "source": "BleepingComputer",
-                "date": "2026-11-15T18:29:53Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Samsung, SK hynix, and Micron Fail to Get DRAM Antitrust Suit Dismissed",
-                "desc": "The class-action lawsuit accusing Samsung, SK hynix, and Micron of restricting DRAM supply is moving forward. On November 14, U.S. District Judge Noël Wise of the Northern District of California denied the three companies' joint motion to dismiss, finding the complaint plausibly alleges an...",
-                "image": "https://www.techpowerup.com/img/RzS0hiQmE57LVcjJ.jpg",
-                "url": "https://www.techpowerup.com/354863/samsung-sk-hynix-and-micron-fail-to-get-dram-antitrust-suit-dismissed",
-                "source": "TechPowerUp",
-                "date": "2026-11-15T18:13:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "A new thumb implant promises improved function for people with arthritis",
-                "desc": "Here’s why it’s such a big deal, according to the surgeons performing the novel procedure.",
-                "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/C55QVKFK3ZEZFJFIFVPVNO7ULM.jpg&w=1440",
-                "url": "https://www.washingtonpost.com/wellness/2026/11/15/new-thumb-implant-promises-improved-function-people-with-arthritis/",
-                "source": "The Washington Post",
-                "date": "2026-11-15T18:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Megaspeed Says Alice Huang Left Company in August 2025",
-                "desc": "The Singaporean company’s disclosure added to the timeline involving Ms. Huang, a former executive who had a relationship with Jensen Huang of Nvidia. U.S. officials say she was spying for China.",
-                "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15xp-megaspeed1-zcvq/15xp-megaspeed1-zcvq-facebookJumbo.jpg",
-                "url": "https://www.nytimes.com/2026/11/15/business/megaspeed-alice-huang-nvidia-china.html",
-                "source": "The New York Times",
-                "date": "2026-11-15T17:57:44Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Transportation secretary says he doesn’t apologize for FAA’s nationwide ground stop",
-                "desc": "Transportation Secretary Sean Duffy declined to apologize for the nationwide ground stop that stranded hundreds of thousands of travelers across the country",
-                "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261115-sean-duffy-mtp-mn-1015-8d7af7.jpg",
-                "url": "https://www.nbcnews.com/politics/trump-administration/transportation-secretary-apologize-nationwide-ground-stop-airports-rcna609397",
-                "source": "NBC News",
-                "date": "2026-11-15T14:56:29Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "China's electric airliner era starts with a 19-seat plane and 400 km of range",
-                "desc": "COMAC's 19-seat CE-25A electric plane made its first crewed flight in China after 19 autonomous tests, as certification review gets underway.",
-                "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/CE-25A-Comac-electric-plane-flying.jpeg?quality=82&strip=all&resize=1200,628",
-                "url": "https://electrek.co/2026/11/15/china-comac-ce-25a-electric-plane-crewed-flight/",
-                "source": "Electrek",
-                "date": "2026-11-15T14:43:00Z",
-                "priority": "STANDARD"
             }
         ],
         "entertainment": [
+            {
+                "title": "Jeff Bezos On How Amazon Decided On Robert Pattinson As The Next James Bond",
+                "desc": "\"I was definitely involved,\" said the world's second-richest man, whose company includes Amazon MGM Studios, before detailing the process.",
+                "image": "https://deadline.com/wp-content/uploads/2026/11/2026-Vanity-Fair-Oscar-Party-Hosted-By-Mark-Guiducci-Arrivals-1000.jpg?w=1000",
+                "url": "https://deadline.com/2026/11/jeff-bezos-chose-robert-pattinson-james-bond-1237227282/",
+                "source": "Deadline",
+                "date": "2026-11-18T00:08:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Rod Wave Indicted on Drug Possession, Gun Charges",
+                "desc": "Rod Wave has been indicted on drug and gun charges ... after he was arrested last year for allegedly blowing through a stop sign.",
+                "image": "https://imagez.tmz.com/image/90/16by9/2026/11/17/9069d504da714638bf0bbc7bc3a4a69a_xl.jpg",
+                "url": "https://www.tmz.com/2026/11/17/rod-wave-indicted/",
+                "source": "TMZ",
+                "date": "2026-11-18T00:00:20Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Anne Hathaway Gives Birth to Baby No. 3 With Husband Adam Shulman",
+                "desc": "Anne Hathaway gave birth to her and husband Adam Shulman's third baby together, according to multiple outlets. The couple—who married in 2012—are already parents to sons Jonathan, 10, and Jack, 6.",
+                "image": "https://akns-images.eonline.com/eol_images/Entire_Site/20260716/a6b055e8-29c4-40af-aa25-55f1ebf87c9b_1784222506.jpg?fit=around%7C1200:1200&output-quality=90&crop=1200:1200;center,top",
+                "url": "https://www.eonline.com/news/1434081/anne-hathaway-gives-birth-to-baby-no-3-with-husband-adam-shulman",
+                "source": "E! News",
+                "date": "2026-11-17T23:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Skydance Shake Ups Cable Programming Team",
+                "desc": "Betsy Sanner Ayala, Jason Sarlanis, Tina Perry and Michael Ouweleen will oversee Skydance cable programming, with Howard Lee set to exit.",
+                "image": "https://deadline.com/wp-content/uploads/2026/11/split-image-1500-1-2.jpg?w=1024",
+                "url": "https://deadline.com/2026/11/skydance-global-cable-media-restructure-1237227161/",
+                "source": "Deadline",
+                "date": "2026-11-17T23:25:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Netflix Eyeing Return to Cannes With Joel Coen's Jack of Spades",
+                "desc": "After almost a decade away from Cannes, Netflix is hoping to return to the festival with Joel Coen's Jack of Spades starring Josh O'Connor.",
+                "image": "https://variety.com/wp-content/uploads/2024/11/Josh-Oconnor.jpg?crop=0px%2C3px%2C1000px%2C562px&resize=1000%2C563",
+                "url": "https://variety.com/2026/film/global/netflix-return-to-cannes-joel-coen-jack-of-spades-1236948245/",
+                "source": "Variety",
+                "date": "2026-11-17T23:15:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Jeff Bezos Was 'Heavily Involved' in Casting Robert Pattinson as Bond",
+                "desc": "Jeff Bezos was 'heavily involved' in casting Robert Pattinson as James Bond.",
+                "image": "https://variety.com/wp-content/uploads/2026/11/jeff-bezos-robert-pattinson-1.jpg?crop=0px%2C0px%2C1000px%2C562px&resize=1000%2C563",
+                "url": "https://variety.com/2026/film/news/jeff-bezos-involved-casting-robert-pattinson-james-bond-1236950970/",
+                "source": "Variety",
+                "date": "2026-11-17T23:03:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Anne Hathaway Welcomes Baby No. 3 with Husband Adam Shulman",
+                "desc": "The married couple is already parents to sons Jack and Jonathan",
+                "image": "https://s.yimg.com/lo/mysterio/api/65d2229a1d68f4f301556c6092ccc884abc4d334abda95620fc5da56caa5887c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fd0316d16ed604ae05b270f25ec5ddca1.jpg",
+                "url": "https://ca.news.yahoo.com/anne-hathaway-welcomes-baby-no-225525483.html",
+                "source": "Yahoo News Canada",
+                "date": "2026-11-17T22:55:25Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Jenny McCarthy’s Son Posts Tearful Message About Having to Leave Childhood Home After Sale, Vows to Buy It Back Someday",
+                "desc": "“I have officially moved away from my home and life just won’t be the same anymore,” Evan Asher said on Instagram, where his mom and stepdad Donnie Wahlberg shared messages of support",
+                "image": "https://s.yimg.com/lo/mysterio/api/6547b2863922708d12fce7242ced4e2daa467777d8388aeeb14cd55d88b3709b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F0fbcfcce2ffd092772881d6db66a9ead.jpg",
+                "url": "https://ca.news.yahoo.com/jenny-mccarthy-son-posts-tearful-225208298.html",
+                "source": "Yahoo News Canada",
+                "date": "2026-11-17T22:52:08Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Jeff Bezos says he was ‘heavily involved’ in picking the new James Bond",
+                "desc": "Bezos said that he and director Denis Villeneuve were immediately drawn to Robert Pattinson’s performance during screen tests.",
+                "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/bond.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
+                "url": "https://www.theverge.com/entertainment/1036110/jeff-bezos-james-bond-casting-amazon",
+                "source": "The Verge",
+                "date": "2026-11-17T22:38:41Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Dorit Kemsley reveals new living situation amidst contentious divorce",
+                "desc": "'RHOBH' star Dorit Kemsley revealed she found a new home for her kids after a judge ordered her to vacate her $7 million Encino, California, house by Nov. 13.",
+                "image": "https://pagesix.com/wp-content/uploads/sites/3/2026/11/148998680.jpg?quality=75&strip=all&w=1200",
+                "url": "https://pagesix.com/2026/11/17/celebrity-news/dorit-kemsley-reveals-new-living-situation-amidst-contentious-divorce/",
+                "source": "Page Six",
+                "date": "2026-11-17T22:35:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Fraud lawsuit against Selena Gomez’s mental health company voluntarily dropped",
                 "desc": "A lawsuit filed against Selena Gomez’s mental health startup, Wondermind, has been voluntarily dismissed, according to court documents.",
@@ -3704,99 +3794,99 @@
                 "source": "Deadline",
                 "date": "2026-11-16T03:00:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "5 Once-Beloved '90s Sitcoms That Nobody Talks About Anymore",
-                "desc": "There was a lot more to network sitcoms in the '90s than Seinfeld and Friends. Here are some of the half-hour comedies that go underdiscussed.",
-                "image": "https://www.tvline.com/img/gallery/5-once-beloved-90s-sitcoms-that-nobody-talks-about-anymore/l-intro-1794344787.jpg",
-                "url": "https://www.tvline.com/2312784/once-beloved-90s-sitcoms-nobody-talks-about-anymore/",
-                "source": "TVLine",
-                "date": "2026-11-16T00:12:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "60 Minutes Transcript: John Malkovich on the difference between acting on stage and in movies",
-                "desc": "John Malkovich says he couldn't teach the John Malkovich method—because there's no such thing—\"and I certainly wouldn't recommend studying it.\"",
-                "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/15/b754f1ec-1299-4686-bee0-5b0a42d6dbad/thumbnail/1200x630/322d318b68216ce659b8dcd37af926ae/john-malkovich-transcript.jpg",
-                "url": "https://www.cbsnews.com/news/john-malkovich-60-minutes-transcript/",
-                "source": "CBS News",
-                "date": "2026-11-16T00:00:22Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Netflix's New 8-Part Horror Mystery Is the Biggest Show on Streaming",
-                "desc": "Netflix's latest psychological thriller and teen horror mystery, The Body, is the most-watched show in the world.",
-                "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/11/kristina-bogic-as-anya-butler-in-netflix-the-body.jpg?w=1600&h=900&fit=crop",
-                "url": "https://www.cbr.com/the-body-horror-mystery-netflix-success-november-2026/",
-                "source": "Comic Book Resources",
-                "date": "2026-11-16T00:00:12Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Country music world outraged after CMA Awards snub legends from attending red carpet",
-                "desc": "Sammy Kershaw accepted an apology and red carpet invite from the CMA after he and Rodney Atkins were initially denied access to the ceremony.",
-                "image": "https://nypost.com/wp-content/uploads/sites/2/2026/11/148904545.jpg?quality=75&strip=all&w=1200",
-                "url": "https://nypost.com/2026/11/15/entertainment/country-music-world-outraged-after-cma-awards-snub-legends-from-attending-red-carpet/",
-                "source": "New York Post",
-                "date": "2026-11-15T23:59:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Russell Brand Says He 'Not Guilty' in Message From Prison Read By Wife",
-                "desc": "Russell Brand has shared a message from prison, delivered by his wife, Laura Brand, on his YouTube channel Sunday, saying he's 'not guilty.'",
-                "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/FotoJet-2026-10-19T143451.836.jpg?w=1440&h=810&crop=1",
-                "url": "https://www.hollywoodreporter.com/news/general-news/russell-brand-claims-not-guilty-prison-message-wife-1236755764/",
-                "source": "The Hollywood Reporter",
-                "date": "2026-11-15T23:42:50Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "At Sotheby’s, Risk-Taking Left a $180 Million van Gogh in the Lurch",
-                "desc": "Claims on the painting by heirs of a Jewish owner were well known in the art world. The auction house will meet lawyers for the heirs on Monday.",
-                "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15int-cul-van-gogh-chestnut-print01-pjwl/15int-cul-van-gogh-chestnut-print01-pjwl-facebookJumbo-v2.jpg",
-                "url": "https://www.nytimes.com/2026/11/15/arts/design/sothebys-van-gogh-auction-art-nazi.html",
-                "source": "The New York Times",
-                "date": "2026-11-15T23:00:40Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ashley Judd says Naomi threatened her tuition over lesbian professor",
-                "desc": "Ashley Judd says her late mother Naomi Judd threatened to stop paying her college tuition over a lesbian theologian professor who challenged her views on scripture.",
-                "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/judds.jpg",
-                "url": "https://www.foxnews.com/entertainment/ashley-judd-claims-mom-naomi-threatened-pull-tuition-over-what-she-learning-her-lesbian-professor",
-                "source": "Fox News",
-                "date": "2026-11-15T23:00:13Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Nathan Fielder Didn't Have Romantic Feelings for Elizabeth Holmes",
-                "desc": "Billy Evans is setting the record straight on the relationship between Nathan Fielder and Elizabeth Holmes.",
-                "image": "https://variety.com/wp-content/uploads/2026/11/MixCollage-15-Oct-2026-12-24-PM-2078.webp?w=1000&h=563&crop=1",
-                "url": "https://variety.com/2026/tv/news/nathan-fielder-elizabeth-holmes-billy-evans-1236948256/",
-                "source": "Variety",
-                "date": "2026-11-15T22:38:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Russell Brand says ‘I am not guilty’ in statement from prison read by his wife",
-                "desc": "Russell Brand declared “I am not guilty” in a new statement read by his wife on his YouTube channel Sunday, days after a London court sentenced him to prison on rape and sexual assault charges.",
-                "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261105-russell-brand-mb-1417-7d9f9b.jpg",
-                "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/russell-brand-says-not-guilty-statement-prison-read-wife-rcna609472",
-                "source": "NBC News",
-                "date": "2026-11-15T22:21:24Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Robert Pattinson Could Be Announced as James Bond Monday",
-                "desc": "A new rumor says the next James Bond gets announced the morning of November 16, with Robert Pattinson surging to a 68 percent favorite in the betting odds.",
-                "image": "https://cosmicbook.news/wp-content/uploads/2026/11/robert-pattinson-james-bond-rumor-monday.webp",
-                "url": "https://cosmicbook.news/pattinson-bond-announcement",
-                "source": "Cosmic Book News",
-                "date": "2026-11-15T22:08:34Z",
-                "priority": "STANDARD"
             }
         ],
         "sports": [
+            {
+                "title": "Paige Spiranac leaves it all on the field, and little to the imagination, while asking NFL fans tough question",
+                "desc": "Paige Spiranac asks NFL fans a tough question while showcasing a new Swag Golf collection. She says being born a Steelers fan runs in the family, with love for the Bills too.",
+                "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/paige-spiranac-nfl-fans-favorite-team.jpg",
+                "url": "https://www.foxnews.com/outkick-sports/paige-spiranac-leaves-field-little-imagination-asking-nfl-fans-tough-question",
+                "source": "Fox News",
+                "date": "2026-11-18T00:15:49Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "As lockout looms, union head Bruce Meyer says MLB 'talking out of both sides of their mouth.’",
+                "desc": "Meyer, the interim executive director of the MLBPA, touched on the league's insistence on implementing a salary cap, revenue sharing, and more. A lockout would begin Dec. 2.",
+                "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/EK5TYNBY4FTIZ4IMFG73IZE3WA.jpg?auth=fc02ffc10866f27d1ff29c703fe9119a3a94c5f4493a3f43b8cc8b19b5dbc22a&width=1440",
+                "url": "https://www.bostonglobe.com/2026/11/17/sports/mlb-owners-mlbpa-bruce-meyer-cba/",
+                "source": "The Boston Globe",
+                "date": "2026-11-18T00:06:53Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Giants Designate Christian Koss, Rowan Wick For Assignment",
+                "desc": "The Giants continue to shuffle players on and off the 40-man roster. MLB Trade Rumors has the latest on the team's moves on Rule 5 day.",
+                "image": "https://cdn.mlbtraderumors.com/files/2026/06/USATSI_28922340-1024x683.jpg",
+                "url": "https://www.mlbtraderumors.com/2026/11/giants-designate-christian-koss-rowan-wick-for-assignment.html",
+                "source": "MLB Trade Rumors",
+                "date": "2026-11-18T00:06:08Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Uros Medic says Kevin Holland ‘milked the foul’ at UFC 334; Holland responds",
+                "desc": "Uros Medic and Kevin Holland disagree over their fight at UFC 334 and the low blows that changed the outcome",
+                "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2305166572.jpg?quality=90&strip=all&crop=0%2C10.566142532378%2C100%2C78.867714935244&w=1200",
+                "url": "https://www.mmafighting.com/ufc/522136/uros-medic-says-kevin-holland-milked-the-foul-at-ufc-334-holland-responds",
+                "source": "MMA Fighting",
+                "date": "2026-11-18T00:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Tigers Designate Four Players For Assignment",
+                "desc": "The Tigers add three prospects to their 40-man roster and finalize the Emilio Pagán deal, pushing four players off the roster.",
+                "image": "https://cdn.mlbtraderumors.com/files/2026/11/2026-07-29T183803Z_1680851122_MT1USATODAY29473208_RTRMADP_3_MLB-BALTIMORE-ORIOLES-AT-DETROIT-TIGERS-1024x683.jpg",
+                "url": "https://www.mlbtraderumors.com/2026/11/tigers-designate-four-players-for-assignment.html",
+                "source": "MLB Trade Rumors",
+                "date": "2026-11-18T00:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Conor McGregor calls rising star ‘biggest draw in the UFC’-besides himself",
+                "desc": "Conor McGregor touts Josh Hokit as the next big thing in the UFC.",
+                "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2285438844.jpg?quality=90&strip=all&crop=0%2C1.567606709169%2C100%2C78.534031413613&w=1200",
+                "url": "https://www.mmafighting.com/ufc/522043/conor-mcgregor-calls-rising-star-biggest-draw-in-the-ufc-besides-himself",
+                "source": "MMA Fighting",
+                "date": "2026-11-17T23:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Former world boxing champion Jorge Linares faces deportation after ICE arrest",
+                "desc": "Former three-division world champion faces removal proceedings after ICE alleges he overstayed his authorized US visit, a claim disputed by his lawyers",
+                "image": "https://i.guim.co.uk/img/media/9e4e58b7c084584eadb3fe2799ab9e7086488a16/0_146_2673_2136/master/2673.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5f3b983e0f7ddd923522d21d4bcf6098",
+                "url": "https://www.theguardian.com/sport/2026/nov/17/jorge-linares-boxing-champion-ice-detention-texas",
+                "source": "The Guardian",
+                "date": "2026-11-17T22:43:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Pirates Select Mitch Jebb, Axiel Plaz",
+                "desc": "The Bucs set their roster ahead of the Rule 5 draft, even though it might not happen. MLB Trade Rumors has the latest on the two prospects.",
+                "image": "https://cdn.mlbtraderumors.com/files/2026/11/Mitch_Jebb_Pirates-scaled-e1794955011482-1024x645.jpg",
+                "url": "https://www.mlbtraderumors.com/2026/11/pirates-select-mitch-jebb-axiel-paz.html",
+                "source": "MLB Trade Rumors",
+                "date": "2026-11-17T22:37:41Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Your 2026 Week 12 college football announcing schedule",
+                "desc": "We take a look at the television schedule and announcer assignments for Week 12 of the 2026 college football season.",
+                "image": "https://cdn1.thecomeback.com/wp-content/uploads/sites/94/2026/09/Sean-McDonough-and-Greg-McElroy.jpg",
+                "url": "https://awfulannouncing.com/college-football/2026-week-12-announcing-schedule.html",
+                "source": "Awful Announcing",
+                "date": "2026-11-17T22:35:19Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Dave Richard's Fantasy football trade value chart for Week 11",
+                "desc": "Use Dave Richard's Week 11 trade chart with assigned values to help you navigate your trade market",
+                "image": "https://sportshub.cbsistatic.com/i/r/2026/11/17/37298f23-64ff-45df-b11d-98dc0a6741e0/thumbnail/1200x675/1c015cf21583e296737a9b1230583ab8/jonah-coleman-denver-broncos-imagn-images-ii.jpg",
+                "url": "https://www.cbssports.com/fantasy/football/news/dave-richards-2026-week-11-trade-chart/",
+                "source": "CBS Sports",
+                "date": "2026-11-17T22:34:34Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "UPDATE: Detroit Lions reveal workload for Kerby Joseph this week vs. Buccaneers",
                 "desc": "Detroit Lions safety Kerby Joseph is expected to return this week vs. the Buccaneers, per Dan Campbell.",
@@ -4246,98 +4336,8 @@
                 "source": "NBC Sports Bay Area & California",
                 "date": "2026-11-16T04:28:11Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "How the Dark Side Seahawks defense shut down Fernando Mendoza, Raiders",
-                "desc": "Mendoza looked every bit like the No. 1 pick in the first half. The Seahawks made him look like just another rookie in the second.",
-                "image": "https://static01.nyt.com/athletic/uploads/wp/2026/11/15181055/AP26319778467517-scaled.jpg?width=1200&height=630&fit=crop",
-                "url": "https://www.nytimes.com/athletic/7784244/2026/11/15/seahawks-raiders-nfl-week-10-score-result-takeaways/",
-                "source": "The New York Times",
-                "date": "2026-11-16T00:16:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Tuchel hails England’s statement win over Spain as ‘complete performance’",
-                "desc": "Thomas Tuchel hailed England’s 3-2 Nations League win over Spain as a statement result and the best performance of his tenure",
-                "image": "https://i.guim.co.uk/img/media/d381c9cc90a86b708f507e55eaf40a626726f6ac/803_0_4488_3591/master/4488.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0bd5055c2a92299343c004326e5c1ceb",
-                "url": "https://www.theguardian.com/football/2026/nov/15/thomas-tuchel-england-spain-nations-league",
-                "source": "The Guardian",
-                "date": "2026-11-16T00:15:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Back from Madrid, Bengals face Steelers team that is back from a bye",
-                "desc": "The Bengals host the Steelers on Sunday night in Week 10.",
-                "image": "https://nbcsports.brightspotcdn.com/dims4/default/0e2f929/2147483647/strip/true/crop/6383x3590+0+343/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fee%2F85%2F4286d0c544d19045075563673a9d%2F2299401551.jpg",
-                "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/back-from-madrid-bengals-face-steelers-team-that-is-back-from-a-bye",
-                "source": "NBC Sports",
-                "date": "2026-11-15T23:50:29Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Miami Dolphins vs. Indianapolis Colts Live Score and Stats",
-                "desc": "Live NFL scores at CBSSports.com. Check out the NFL scoreboard, box scores, expert picks and game recaps.",
-                "image": "https://sportsfly.cbsistatic.com/fly-894/bundles/sportsmediacss/images/fantasy/default-article-image-large.png",
-                "url": "https://www.cbssports.com/nfl/gametracker/recap/NFL_20261115_MIA@IND/",
-                "source": "CBS Sports",
-                "date": "2026-11-15T23:45:16Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Buffalo uses afterburners to pull away from Jets",
-                "desc": "Here's how Sal Maiorana graded the Bills in their 31-12 victory over the woeful Jets Sunday at MetLife Stadium.",
-                "image": "https://www.democratandchronicle.com/gcdn/authoring/authoring-images/2026/11/15/PROC/92801391007-20261115-t-205155-z-1788543607-mt-1-usatoday-30359952-rtrmadp-3-nflbuffalobillsatnewyorkjets.JPG?crop=2576,1449,x0,y0&width=2576&height=1449&format=pjpg&auto=webp",
-                "url": "https://www.democratandchronicle.com/story/sports/football/nfl/bills/2026/11/15/bills-report-card-buffalo-uses-afterburners-to-pull-away-from-jets/92800979007/",
-                "source": "Democrat and Chronicle",
-                "date": "2026-11-15T23:32:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "NFL Mock Draft 2027: Updated draft order and projected Top 10 picks after Week 10",
-                "desc": "The Dolphins, Jets and Cardinals dip into Arch Manning and the QB class, the Chargers get Jeremiah Smith and more as we look at the updated 2027 NFL Draft order and a mock projection.",
-                "image": "https://images2.minutemediacdn.com/image/upload/c_crop,x_301,y_149,w_4429,h_2491/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/GettyImages/mmsport/229/01m7gq51gj1t556a8jn4.jpg",
-                "url": "https://fansided.com/nfl/nfl-mock-draft-2027-updated-draft-order-and-projected-top-10-picks-after-week-10",
-                "source": "FanSided",
-                "date": "2026-11-15T23:26:31Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "South Carolina's Chloe Kitts mocks USC Trojans after loss",
-                "desc": "South Carolina star Chloe Kitts threw shade at the USC Trojans after the Gamecocks' big win on Sunday.",
-                "image": "https://nypost.com/wp-content/uploads/sites/2/2026/11/newspress-collage-kf471w3zd-1794784623174.jpg?quality=75&strip=all&1794766649&w=1200",
-                "url": "https://nypost.com/2026/11/15/sports/south-carolinas-chloe-kitts-mocks-usc-trojans-after-loss/",
-                "source": "New York Post",
-                "date": "2026-11-15T23:26:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "NFL Week 10 overreactions: Patriots to miss playoffs? Texans' DeMeco Ryans on the hot seat?",
-                "desc": "Drake Maye got hurt, and New England got blown out in Germany as the Pats playoff hopes slip away",
-                "image": "https://sportshub.cbsistatic.com/i/r/2026/11/15/118263e0-3e15-4e0e-9c92-0d35eb80cf2d/thumbnail/1200x675/f3cd6f3e544bb9a3fe946773a24d72ff/tommy-devito-patriots.jpg",
-                "url": "https://www.cbssports.com/nfl/news/nfl-week-10-overreactions-patriots-lions-demeco-ryans-texans/",
-                "source": "CBS Sports",
-                "date": "2026-11-15T23:24:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "WTA Finals: Mirra Andreeva beats Elina Svitolina to win season-ending title at Indian Wells",
-                "desc": "French Open champion Mirra Andreeva caps her stellar season with a hard-fought victory over Elina Svitolina to win the WTA Finals.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3b23/live/cf9c9fd0-e144-11f1-b441-2b33b063138f.jpg",
-                "url": "https://www.bbc.com/sport/tennis/articles/c61740145y7wo",
-                "source": "BBC",
-                "date": "2026-11-15T23:18:38Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Kansas City Chiefs vs. Atlanta Falcons Live Score and Stats",
-                "desc": "Live NFL scores at CBSSports.com. Check out the NFL scoreboard, box scores, expert picks and game recaps.",
-                "image": "https://sportsfly.cbsistatic.com/fly-894/bundles/sportsmediacss/images/fantasy/default-article-image-large.png",
-                "url": "https://www.cbssports.com/nfl/gametracker/recap/NFL_20261115_KC@ATL/",
-                "source": "CBS Sports",
-                "date": "2026-11-15T23:14:26Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-11-18T03:57:55.067465Z"
+    "lastGlobalSync": "2026-11-18T12:38:42.315335Z"
 }
